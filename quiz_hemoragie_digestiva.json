@@ -1,0 +1,145 @@
+{
+  "chapter": "SUBIECTE HEMORAGIA DIGESTIVĂ",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Care din următoarele cauze ne poate conduce spre o hemoragie digestivă:",
+      "options": [
+        "boala ulceroasă",
+        "varicele esofagiene și gastrice",
+        "diverticuloza",
+        "angiodisplazia colonică",
+        "toate acestea de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Momentul inițierii transfuziei de sânge este:",
+      "options": [
+        "imediat dacă pacientul este foarte palid",
+        "imediat dacă pacientul afirmă că are varice esofagiene",
+        "după infuzia a 2L de soluții cristaloide dacă sângerarea este activă și nu s-au restabilit perfuzia și semnele vitale",
+        "imediat după efectuarea endoscopiei digestive",
+        "după 6 ore de la endoscopia digestivă superioară"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Montarea sondei nazo-gastrice este obligatorie în cazul:",
+      "options": [
+        "pacienților cu hemoragie gastrointestinală",
+        "pacienților cu varice esofagiene",
+        "pacienților cu gastrită erozivă",
+        "pacienților cu sindrom Mallory-Weiss",
+        "tuturor pacienților de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Următoarele situații clinice pot cauza hemoragie digestivă mai puțin una:",
+      "options": [
+        "abuzul de alcool",
+        "tratamente cu salicilați, glucocorticoizi, anticoagulante și antiinflamatoare nesteroidiene",
+        "acalazia",
+        "grefă aortică în antecedente cu posibilitatea unei fistule aorto-enterice",
+        "sindrom Mallory-Weiss"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Dintre complicațiile montării sondei cu balonaș Sengstaken–Blakemore face parte și:",
+      "options": [
+        "ulcerația mucoasei",
+        "ruptura esofagiană sau gastrică",
+        "asfixierea de la balonașele deplasate",
+        "compresie traheală secundară umflării balonașului",
+        "toate acestea de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Tratamentul preferat pentru hemoragia digestivă superioară este:",
+      "options": [
+        "tratament cu inhibitor de pompă de protoni",
+        "endoscopia digestivă superioară",
+        "hemostază cu sondă cu balonaș Sengstaken–Blakemore",
+        "tratament chirurgical",
+        "nici unul din cele de mai sus"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Administrarea de oxigen la pacienții cu hemoragie digestivă superioară este:",
+      "options": [
+        "puțin importantă deoarece oricum hemoglobina este scăzută",
+        "importantă pentru că toți pacienții palizi și transpirați trebuie să primească oxigen",
+        "foarte importantă deoarece din cauza lipsei de oxigen poate apărea ischemie silențioasă la pacienții coronarieni",
+        "de mică importanță pentru că pacientul trebuie să meargă repede la endoscopie",
+        "puțin importantă dacă hemoragia nu este de mare amploare"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Infuziile de somatostatină și derivatul cu acțiune lungă octreotidul sunt:",
+      "options": [
+        "eficiente în reducerea hemoragiei din varice și boala ulceroasă peptică",
+        "acești agenți au avantajele vasopresinei dar cu mai puține efecte adverse",
+        "folosiți ca adjuvanți la scleroterapie sunt mai eficienți decât scleroterapia ca metodă unică",
+        "pot fi considerați ca substanțe adjuvante înainte de endoscopie sau dacă endoscopia nu este disponibilă sau nu a avut succes",
+        "toate acestea de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Tratamentul chirurgical în cazul hemoragiilor digestive superioare este indicat:",
+      "options": [
+        "la pacienții cu sindrom Mallory–Weiss",
+        "la pacienții cu ciroză de etiologie toxic-nutrițională",
+        "la pacienții care nu răspund la terapia medicamentoasă și la care hemostaza endoscopică, dacă este disponibilă, nu dă rezultate",
+        "la pacienții cu ulcer peptic",
+        "la pacienții cu hemoglobină mai mică de 6 g/dl"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Examenul clinic al pacientului cu hemoragie digestivă superioară trebuie să conțină următoarele:",
+      "options": [
+        "examinarea atentă a tegumentelor",
+        "examen fizic al abdomenului",
+        "tuseu rectal",
+        "examen ORL",
+        "toate acestea de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    }
+  ]
+}

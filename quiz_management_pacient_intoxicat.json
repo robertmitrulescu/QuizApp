@@ -1,0 +1,159 @@
+{
+  "chapter": "managementul_general_al_pacientului_intoxicat",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Decontaminarea oculara presupune:",
+      "options": [
+        "lavajul cu solutii alkaline pentru neutralizarea acizilor",
+        "irigarea abundenta cu ser fiziologic(2l)",
+        "lavaj cu solutii slab acide pentru neutralizarea bazelor",
+        "evitarea lavajului cu SF deoarece substantele alkaline penetreaza in tesuturi",
+        "aplicarea doar de unguent oftalmic anestezic"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Decontaminarea gastro-intestinala prin emezase face:",
+      "options": [
+        "cu sirop de ipeca",
+        "pentru ingestii mai vechi de 10 ore",
+        "dupa ingestia de substante ce pot altera statusul mental",
+        "dupa ingestia de subst. caustice",
+        "dupa ingestia de hidrocarburi"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Lavajul oro-gastric este contraindicat la :",
+      "options": [
+        "ingestii mai vechi de 2 ore",
+        "ingestie de alimente concomitent cu toxicul",
+        "ingestie de substante caustice sau volatile",
+        "o tentativa esuata de lavaj in antecedente",
+        "nici una din cele de mai sus"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "N-acetilcisteina este antidotul folosit in intoxicatiile cu :",
+      "options": [
+        "acidacetilsalicilic",
+        "barbiturice",
+        "antidepresive triciclice",
+        "acetaminofen",
+        "opiacee"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Doza de N-acetilcisteina folosita ca antidot in intoxicatia cu acetaminofen este de :",
+      "options": [
+        "140mg/kgc P.O. doza de incarcare, apoi 70 mg/kgc P.O. la 4 ore, in total 18 doze",
+        "70mg/kgc P.O. doza de incarcare, apoi 70 mg/kgc P.O. la 4 ore, in total 18 doze",
+        "140mg/kgc P.O. doza de incarcare, apoi 140mg/kgc P.O. la 4 ore, in total 18 doze",
+        "70mg/kgc P.O. doza de incarcare, apoi 70 mg/kgc P.O. la 4 ore, in total 10 doze",
+        "100mg/kgc P.O. doza de incarcare, apoi 70 mg/kgc P.O. la 4 ore, in total 8 doze"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Toxidromul colinergic nu are ca simptomatologie :",
+      "options": [
+        "salivatie, lacrimare, diaforeza, greata, varsaturi",
+        "mioza, uscaciunea mucoaselor, fasciculatii musculare",
+        "bronhoree, salivatie, diaforeza",
+        "bradicardie, crize convulsive, paralizie musculara",
+        "toate cele mentionate mai sus"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Toxidromul serotoninic nu include :",
+      "options": [
+        "status mental alterat",
+        "hiperreflexie",
+        "hipotermie",
+        "hipertermie",
+        "tonus muscular crescut"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Urmatoarele afirmatii nu sunt adevarate referitor la pacientul intoxicat cu opiacee:",
+      "options": [
+        "simptomatologia este reprezentata de: depresie SNC si respiratorie, mioza",
+        "pacientul poate prezenta hipotermie si bradicardie",
+        "antidotul este naloxona",
+        "managementul consta in ventilatie mecanica pe masca faciala si balon la pacientul cu depresie respiratorie",
+        "IOT este obligatorie la pacientul cu depresie respiratorie"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Administrarea de naloxona in intoxicatia cu opiacee :",
+      "options": [
+        "este indicata in doze de 0,1-2 mg i.v.",
+        "este indicata in doza mare pentru a preveni recaderile",
+        "nu poate precipita sindrom de sevraj",
+        "are dezavantajul ca nu se poate repeta daca simptomatologia reapare",
+        "nici una din cele mentionate"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Carbunele activ se administreaza:",
+      "options": [
+        "in doza de 1 mg/kgc",
+        "in ingestia de litiu",
+        "in ingestia de plumb",
+        "in ingestia de fier",
+        "ingestia unei substante necunoscute dupa protejarea cailor aeriene"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "prompt": "Alcalinizarea urinii nu se face :",
+      "options": [
+        "prin administrarea de 1-2 mEq/kgc bicarbonat de Na in PEV",
+        "pentru cresterea eliminarii toxicului prin urina",
+        "daca pacientul are HK",
+        "daca pacientul nu tolereaza incarcarea volemica",
+        "daca pH seric este mai mic de 7,35-7,45"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    }
+  ]
+}

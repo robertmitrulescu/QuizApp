@@ -1,0 +1,135 @@
+{
+  "chapter": "Grile cap 23",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "prompt": "In dislocatia de sold, datorita intreruperii circulatiei sangvine catre capul femural, se  produce :",
+      "options": [
+        "lezarea pachetului nervos",
+        "lezarea pachetului vasculo-nervos",
+        "nici unul dintre raspunsuri nu este corect",
+        "necroza aseptica de cap femural"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "prompt": "Imobilizarea coloanei vertebrale presupune :",
+      "options": [
+        "guler cervical semirigid",
+        "guler cervical semirigid, targa rigida, ,,saculeti de nisip” sau alte dispozitive care sa impiedice miscarea laterala a capului si gatului",
+        "targa rigida",
+        "guler cervical semirigid si targa rigida"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "prompt": "Regiunea toraco-lombara a coloanei vertebrale :",
+      "options": [
+        "este o regiune imobila",
+        "nu este predispusa la leziuni",
+        "fracturile vertebrelor toracice nu se insotesc  de deficite motorii",
+        "este a doua ca frecventa a leziunilor traumatice, dupa coloana cervicala"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "prompt": "Pacientul care prezinta semne clinice de fractura sau dislocatie de sold,  sau pelvis se presupune ca are, pana la proba contrarie, si :",
+      "options": [
+        "leziuni intraabdominale, retroperitoneale si urologice",
+        "leziuni ale articulatiei subiacente",
+        "leziuni ale coloanei vertebrale cervicale",
+        "leziuni ale coastelor IX – XII"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "prompt": "Tratamentul dislocatiei posterioare de sold, fara fractura, este reprezentat de reducerea inchisa, si trebuie facut  in maxim  :",
+      "options": [
+        "1h de la prezentarea in urgenta",
+        "3h de la prezentarea in urgenta",
+        "6h de la prezentarea in urgenta",
+        "12h de la prezentarea in urgenta"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "prompt": "In sindromul de compartiment, cauzele cresterii volumului compartimentului sunt :",
+      "options": [
+        "un hematom care s-a format in interiorul compartimentului",
+        "edemul post reperfuzie a unui muschi ischemiat",
+        "ambele raspunsuri sunt corecte",
+        "nici un raspuns nu este corect"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "prompt": "Muschii si nervii sunt supusi riscului ischemiei si necrozei, in sindromul de compartiment, daca presiunea tisulara depaseste :",
+      "options": [
+        "10 mmHg",
+        "30-40 mmHg",
+        "20 mmHg",
+        "100 mmHg"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "prompt": "Fasciotomia de urgenta se practica, in sindromul de compartiment, daca presiune tisulara depaseste :",
+      "options": [
+        "10 mmHg",
+        "30-40 mmHg",
+        "20 mmHg",
+        "100 mmHg"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "prompt": "Alcoolul si drogurie, se considera a avea un rol in :",
+      "options": [
+        "80% din cazurile de rabdomioliza la adult",
+        "50% din cazurile de rabdomioliza la adult",
+        "30% din cazurile de rabdomioliza la adult",
+        "10% din cazurile de rabdomioliza la adult"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "prompt": "Nu este complicatie a rabdomiolizei :",
+      "options": [
+        "hiperkaliemia",
+        "hipocalcemia",
+        "sindromul de compartiment",
+        "infarctul miocardic acut"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    }
+  ]
+}

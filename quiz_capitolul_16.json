@@ -1,0 +1,265 @@
+{
+  "chapter": "capitolul_16",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "In cazul hipotermiei aritmiile apar la temperaturi ale corpului sub:",
+      "options": [
+        "31ºC",
+        "30ºC",
+        "29ºC",
+        "28ºC"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Definitia clinica a hipertermiei extreme nu cuprinde:",
+      "options": [
+        "temperatura interna mai mare de 40ºC",
+        "alterarea SNC",
+        "absenta transpiratiei",
+        "temperatura interna mai mare de 39,5ºC"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Primul ajutor in cazul muscaturilor de sarpe nu consta in:",
+      "options": [
+        "imobilizarea extremitatii mai jos decat cordul",
+        "limitarea miscarii",
+        "suctiunea si incizia",
+        "transportul de urgenta la spital"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Barotraumatismul de coborate nu afecteaza:",
+      "options": [
+        "urechea medie",
+        "sinusurile si dintii",
+        "plamanul",
+        "urechea interna"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Leziunile cauzate de scufundare nu se explica prin legea lui:",
+      "options": [
+        "Pascal",
+        "Boyle",
+        "Dalton",
+        "Henry"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Indicatiile pentru intubatia orotraheala in cazul leziunilor de inhalare produse prin ardere nu sunt:",
+      "options": [
+        "arsurile gr. III ale fetei si gatului",
+        "arsurile gr. II ale fetei si gatului",
+        "detresa respiratorie acuta si statusul mental alterat",
+        "arsurile circumferentiale ale gatului"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Formula Parkland de reechilibrare hidroelectrolitica in cazul arsurilor la adulti de gradul I este:",
+      "options": [
+        "4 ml Ringer x greutatea x suprafata corporala arsa",
+        "4 ml NaCl 9‰ x greutatea x suprafata corporala arsa",
+        "3 ml Ringer x greutatea x suprafata corporala arsa",
+        "niciuna din variante"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "In arsurile chimice cu acid fluorhidric gluconatul de calciu nu se administreaza:",
+      "options": [
+        "local",
+        "perfuzie venoasa",
+        "perfuzie arteriala",
+        "injectie intradermica/subcutana"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Nu se interneaza obligatoriu pacientii care au suferit soc electric:",
+      "options": [
+        "pacientii care au intrat in contact cu peste 600 V chiar fara leziuni aparente",
+        "pacientii care prezinta palpitatii, pierderea cunostiitei",
+        "adultii asimtomatici cu soc electric acasa (110-220V) cu EKG si analize normale",
+        "pacientii cu EKG anormal si CK crescut"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "In cazul manifestarilor dermatologice cauzate de fulger patognomonice sunt:",
+      "options": [
+        "arsurile de contact",
+        "arsurile liniare",
+        "figurele lui Lichtenberg",
+        "arsurile alternante"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "prompt": "In cazul deceselor produse de fulgere cauza imediata a mortii este:",
+      "options": [
+        "stopul cardiac",
+        "apneea prelungita",
+        "leziunile cerebrale",
+        "fracturile coloanei cervicale"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "prompt": "Care este concentratia de COHb (carboxihemoglobina) la fumatori:",
+      "options": [
+        "3-4",
+        "1-2",
+        "5-10",
+        "peste 10"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "prompt": "Indicatiile absolute ale terapiei hiperbare in intoxicatia cu CO nu sunt:",
+      "options": [
+        "coma",
+        "gravida cu HbCO > 15%",
+        "ischemia miocardica",
+        "acidoza persistenta"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "prompt": "Care este singura contraindicatie absoluta a terapiei hiperbare:",
+      "options": [
+        "sarcina",
+        "pneumotoraxul netratat",
+        "persistenta semnelor neurologice dupa 4 h de terapie normobara",
+        "arsurile termice sau chimice concomitente"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "prompt": "In intoxicatia cu COHb cea mai utila analiza este:",
+      "options": [
+        "determinarea COHb",
+        "monitorizarea pulsoximetrica",
+        "determinarea CK-MB",
+        "concentratia de O2 arterial"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "prompt": "In cazul fulgerelor curentul are caracter:",
+      "options": [
+        "alternativ",
+        "de inductie",
+        "continuu",
+        "descarcare disruptiva"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "prompt": "In cazul intoxicatiei cu ciuperci otravitoare care simptome apar in mai putin de 30 de minute:",
+      "options": [
+        "sindromul muscarinic",
+        "excitarea SNC",
+        "halucinatii",
+        "toate cele de mai sus"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "prompt": "In cazul ingestiei de Amanita phalloides insuficienta hepatica devine simptomatica in:",
+      "options": [
+        "ziua I",
+        "ziua a II-a",
+        "peste 7 zile",
+        "ziua a III-a, a IV-a"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "prompt": "In cazul tratamentului intoxicatiei cu Amanita phalloides se administreaza:",
+      "options": [
+        "Penicilina G 300.000 - 1.000.000 U/kg/zi",
+        "carbune activat",
+        "Silimarina",
+        "toate cele de mai sus"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "prompt": "Mecanismul prin care Silimarina este utila in intoxicatia cu amatoxina este:",
+      "options": [
+        "blocheaza absorbtia enterala",
+        "favorizeaza eliminarea renala",
+        "intrerupe circulatia enterohepatica a amatoxinei",
+        "blocheaza preluarea amatoxinei de catre ficat"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    }
+  ]
+}

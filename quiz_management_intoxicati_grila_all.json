@@ -1,0 +1,719 @@
+{
+  "chapter": "managementul_general_al_pacientilor_intoxicati_grila",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Expunerile accidentale la substante chimice sunt considerate non-toxice daca indeplinesc urmatoarele criterii, cu exceptia:",
+      "options": [
+        "in expunere este implicata o singura substanta",
+        "expunerea este neintentionata",
+        "substanta este identificata",
+        "expunerea este la 3 substante",
+        "calea de expunere este identificata"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Antidotul in intoxicatia acuta cu acetaminofen este:",
+      "options": [
+        "gluconatul de calciu",
+        "aspirina",
+        "N-acetilcisteina",
+        "etanolul",
+        "bicarbonatul de sodiu"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Antidotul in intoxicatia acuta cu opiacee este:",
+      "options": [
+        "fentanylul",
+        "fizostigmina",
+        "atropina",
+        "naloxona",
+        "vitamina K"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "In toxidromul colinergic cele mai frecvente semne si simptome sunt urmatoarele cu exceptia:",
+      "options": [
+        "salivatia",
+        "tegumente si mucoase uscate",
+        "varsaturi",
+        "fasciculatii musculare",
+        "bronhoree"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Cele mai frecvente semne si simptome in toxidromul opiaceu sunt urmatoarele:",
+      "options": [
+        "depresia SNC",
+        "mioza",
+        "depresia respiratorie",
+        "toate sunt valabile",
+        "niciuna nu este valabila"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Agentul reprezentativ al toxidromului anticolinergic este:",
+      "options": [
+        "atropina",
+        "insecticidele",
+        "amfetaminele",
+        "heroina",
+        "insulina"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Contraindicatiile lavajului orogastric sunt urmatoarele, cu exceptia:",
+      "options": [
+        "tabletele care depasesc in dimesiuni orificiile sondei de lavaj",
+        "ingestiile non-toxice",
+        "ingestia recenta a unei toxine cu potential letal",
+        "ingestiile caustice",
+        "orice pacient ale carui cai aeriene nu sunt asigurate"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Cel mai adecvat agent pentru decontaminarea tractului gastrointestinal este:",
+      "options": [
+        "siropul de ipeca",
+        "metoclopramidul",
+        "bicarbonatul de sodiu",
+        "clorura de potasiu",
+        "carbunele activ"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Printre agentii toxici pentru care se ia in considerare hemodializa se numara urmatorii, cu exceptia:",
+      "options": [
+        "glicozidele digitalice",
+        "etilenglicolul",
+        "teofilina",
+        "litiul",
+        "metanolul"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Printre agentii toxici pentru care se ia in considerare alcalinizarea urinara se numara:",
+      "options": [
+        "fenobarbitalul",
+        "salicilatii",
+        "metanolul",
+        "clorpropamida",
+        "toate de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "prompt": "Nu se numără printre complicaţiile rare ale administrării siropului de ipeca:",
+      "options": [
+        "aspiraţia",
+        "sindromul Boerhaave",
+        "dezechilibrele hidroelectrolitice",
+        "sindromul Mallory-Weiss",
+        "vărsăturile refractare"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "prompt": "Sindromul serotoninic nu se caracterizeaza prin:",
+      "options": [
+        "status mental alterat",
+        "hipertermie",
+        "hiperreflexie",
+        "midriază",
+        "decesul poate fi cauzat de hipertermie"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "prompt": "În sindromul anticolinergic poate apare:",
+      "options": [
+        "hipotermie",
+        "creşterea peristaltismuluiu",
+        "diaforeză",
+        "criza convulsivă",
+        "vărsături"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "prompt": "NU se însoţeşte de status mental alterat:",
+      "options": [
+        "intoxicaţia cu amfetamine",
+        "intoxicaţia cu carbamat",
+        "intoxicaţia cu salicilaţi",
+        "hipoglicemia",
+        "intoxicaţia cu atropină"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "prompt": "În intoxicaţia cu salicilaţi poate apare:",
+      "options": [
+        "decesul provocat de hipertermie",
+        "acidoză respiratorie",
+        "bradicardie",
+        "acufene",
+        "cetonurie"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "prompt": "Dozele multiple de cărbune nu sunt recomandate în ingestiile de substanţe toxice:",
+      "options": [
+        "fără potenţial letal",
+        "care formează bezoari",
+        "care încetinesc funcţia intestinală",
+        "care se eliberează lent în lumenul intestinal",
+        "cu circulaţie enterohepatică şi enteroenterică"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "prompt": "NU fac parte din contraindicaţiile relative ale hemodializei:",
+      "options": [
+        "diateza sangvină acută",
+        "instabilitatea hemodinamică",
+        "acces vascular redus",
+        "copiii foarte scunzi",
+        "copiii foarte graşi"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "prompt": "Hemoperfuzia:",
+      "options": [
+        "se adresează unui spectru mai îngust de substanţe decât hemodializa",
+        "este recomandată pentru supradozele de teofilină",
+        "este mai restrictivă din punctul de vedere al legării de proteine",
+        "foloseşte un circuit diferit de cel pentru hemodializă",
+        "poate îndepărta toxine care au un volum mare de distribuţie"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "prompt": "Situaţii în care irigarea intestinală completă NU este utilă:",
+      "options": [
+        "fier",
+        "litiu",
+        "acetaminofen",
+        "predispoziţie pentru formarea de bezoari",
+        "substanţe stupefiante"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "prompt": "Eritemul facial NU însoţeşte ingestia de:",
+      "options": [
+        "disulfiram",
+        "etanol la pacienţii cu deficienţă de aldehid- dehidrogenază",
+        "atropină",
+        "material radioactiv",
+        "nitraţi"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 21,
+      "type": "single",
+      "prompt": "Decontaminarea oculara presupune:",
+      "options": [
+        "lavajul cu solutii alkaline pentru neutralizarea acizilor",
+        "irigarea abundenta cu ser fiziologic(2l)",
+        "lavaj cu solutii slab acide pentru neutralizarea bazelor",
+        "evitarea lavajului cu SF deoarece substantele alkaline penetreaza in tesuturi",
+        "aplicarea doar de unguent oftalmic anestezic"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 22,
+      "type": "single",
+      "prompt": "Decontaminarea gastro-intestinala prin emezase face:",
+      "options": [
+        "cu sirop de ipeca",
+        "pentru ingestii mai vechi de 10 ore",
+        "dupa ingestia de substante ce pot altera statusul mental",
+        "dupa ingestia de subst. caustice",
+        "dupa ingestia de hidrocarburi"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 23,
+      "type": "single",
+      "prompt": "Lavajul oro-gastric este contraindicat la:",
+      "options": [
+        "ingestii mai vechi de 2 ore",
+        "ingestie de alimente concomitent cu toxicul",
+        "ingestie de substante caustice sau volatile",
+        "o tentativa esuata de lavaj in antecedente",
+        "nici una din cele de mai sus"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 24,
+      "type": "single",
+      "prompt": "N-acetilcisteina este antidotul folosit in intoxicatiile cu:",
+      "options": [
+        "acidacetilsalicilic",
+        "barbiturice",
+        "antidepresive triciclice",
+        "acetaminofen",
+        "opiacee"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 25,
+      "type": "single",
+      "prompt": "Doza de N-acetilcisteina folosita ca antidot in intoxicatia cu acetaminofen este de:",
+      "options": [
+        "140mg/kgc P.O. doza de incarcare, apoi 70 mg/kgc P.O. la 4 ore, in total 18 doze",
+        "70mg/kgc P.O. doza de incarcare, apoi 70 mg/kgc P.O. la 4 ore, in total 18 doze",
+        "140mg/kgc P.O. doza de incarcare, apoi 140mg/kgc P.O. la 4 ore, in total 18 doze",
+        "70mg/kgc P.O. doza de incarcare, apoi 70 mg/kgc P.O. la 4 ore, in total 10 doze",
+        "100mg/kgc P.O. doza de incarcare, apoi 70 mg/kgc P.O. la 4 ore, in total 8 doze"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 26,
+      "type": "single",
+      "prompt": "Toxidromul colinergic nu are ca simptomatologie:",
+      "options": [
+        "salivatie,lacrimare,diaforeza,greata, varsaturi",
+        "mioza,uscaciunea mucoaselor,fasciculatii musculare",
+        "bronhoree,salivatie,diaforeza",
+        "bradicardie,crize convulsive,paralizie musculara",
+        "toate cele mentionate mai sus"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 27,
+      "type": "single",
+      "prompt": "Toxidromul serotoninic nu include:",
+      "options": [
+        "status mental alterat",
+        "hiperreflexie",
+        "hipotermie",
+        "hipertermie",
+        "tonus muscular crescut"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 28,
+      "type": "single",
+      "prompt": "Urmatoarele afirmatii nu sunt adevarate referitor la pacientul intoxicat cu opiacee:",
+      "options": [
+        "simptomatologia este reprezentata de: depresie SNC si respiratorie, mioza",
+        "pacientul poate prezenta hipotermie si bradicardie",
+        "antidotul este naloxona",
+        "managementul consta in ventilatie mecanica pe masca faciala si balon la pacientul cu depresie respiratorie",
+        "IOT este obligatorie la pacientul cu depresie respiratorie"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 29,
+      "type": "single",
+      "prompt": "Administrarea de naloxona in intoxicatia cu opiacee:",
+      "options": [
+        "este indicata in doze de 0,1-2 mg i.v.",
+        "este indicata in doza mare pentru a preveni recaderile",
+        "nu poate precipita sindrom de sevraj",
+        "are dezavantajul ca nu se poate repeta daca simptomatologia reapare",
+        "nici una din cele mentionate"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 30,
+      "type": "single",
+      "prompt": "Carbunele activ se administreaza:",
+      "options": [
+        "in doza de 1 mg/kgc",
+        "in ingestia de litiu",
+        "in ingestia de plumb",
+        "in ingestia de fier",
+        "ingestia unei substante necunoscute dupa protejarea cailor aeriene"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 31,
+      "type": "single",
+      "prompt": "Alcalinizarea urinii nu se face:",
+      "options": [
+        "prin administrarea de 1-2 mEq/kgc bicarbonat de Na in PEV",
+        "pentru cresterea eliminarii toxicului prin urina",
+        "daca pacientul are HK",
+        "daca pacientul nu tolereaza incarcarea volemica",
+        "daca pH seric este mai mic de 7,35-7,45"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 32,
+      "type": "single",
+      "prompt": "Contraindicatiile provocarii emezei in intoxicatiile acute sunt:",
+      "options": [
+        "ingestie de substanta caustica",
+        "intoxicatii acute cu alterarea statusului mental",
+        "ingestie de substanta cu toxicitate pulmonara superioara toxicitatii gastrointestinale (hidrocarburi)",
+        "ingestie de substante ce pot provoca crize convulsive",
+        "toate cele enumerate"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 33,
+      "type": "single",
+      "prompt": "Complicatiile montarii sondei nazo/orogastrice sunt urmatoarele mai putin una:",
+      "options": [
+        "provocarea de varsatura",
+        "malpozitia tubului in trahee",
+        "perforatia esofagiana sau gastrica",
+        "scaderea saturatiei in oxigen in timpul procedurii",
+        "imposibilitatea extragerii sondei odata introduse (formarea nodurilor)"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 34,
+      "type": "single",
+      "prompt": "Toxidromul opiaceu se caracterizeaza prin urmatoarele mai putin una:",
+      "options": [
+        "depresie SNC",
+        "midriaza",
+        "hipotermie",
+        "bradicardie",
+        "depresie respiratorie chiar si stop respirator"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 35,
+      "type": "single",
+      "prompt": "Toxidromul colinergic se caracterizeaza prin:",
+      "options": [
+        "salivatie, lacrimare, diaforeza, bronhoree",
+        "urinare spontana, defecatie",
+        "fasciculatii musculare",
+        "greata,varsaturi",
+        "toate enumerate mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 36,
+      "type": "single",
+      "prompt": "Prima doza de carbune activat este de:",
+      "options": [
+        "1mg/kgc",
+        "1 gr/kgc",
+        "10mg/kgc",
+        "100mg/kgc",
+        "10gr/kgc"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 37,
+      "type": "single",
+      "prompt": "Metodele de crestere a eliminarii toxicului sunt urmatoarele mai putin una:",
+      "options": [
+        "alcalinizarea urinii",
+        "acidifierea urinii",
+        "diureza fortata",
+        "irigarea intestinala completa",
+        "hemodializa, hemoperfuzia"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 38,
+      "type": "single",
+      "prompt": "Doza initiala de bicarbonat de sodiu folosit la alcalinizarea urinara este de:",
+      "options": [
+        "0,5-1 mEq/kgc",
+        "2-3 mEq/kgc",
+        "1-2 mEq/kgc",
+        "0,1-1 mEq/kgc",
+        "10 mEq/kgc"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 39,
+      "type": "single",
+      "prompt": "Contraindicatiile alcalinizarii urinii sunt, mai putin una:",
+      "options": [
+        "administrarea la pacienti care nu tolereaza incarcarea volemica sau de sodiu",
+        "pacientii hipokaliemici",
+        "pacientii cu insuficienta renala",
+        "coma profunda",
+        "pacientii cu intoxicatii ce nu reactioneaza la alcalinizare"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 40,
+      "type": "single",
+      "prompt": "Toxidromul anticolinergic se caracterizeaza prin:",
+      "options": [
+        "status mental alterat",
+        "midriaza",
+        "tegumente si mucoase uscate",
+        "retentie urinara",
+        "toate semnele mentionate mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 41,
+      "type": "single",
+      "prompt": "In cazul pacientului intoxicat prioritatea numarul 1 este:",
+      "options": [
+        "administrarea antidotului",
+        "spalatura gastrica",
+        "administrarea de carbune activat",
+        "evaluarea si stabilizarea functiilor vitale (ABC)",
+        "intubatia pacientului"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 42,
+      "type": "single",
+      "prompt": "Contraindicatiile lavajului gastric sunt urmatoarele, mai putin:",
+      "options": [
+        "ingestii caustice",
+        "GCS=12",
+        "ingestii hidrocarburi",
+        "GCS=9, cu caile aeriene neasigurate",
+        "ingestie veche de 12 ore"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 43,
+      "type": "single",
+      "prompt": "In ingestia de etilenglicol antidotul de electie este:",
+      "options": [
+        "Ca gluconic",
+        "tiamina",
+        "etanol 10%",
+        "fomepizol",
+        "dextroza"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 44,
+      "type": "single",
+      "prompt": "Salivatie, diaforeza, bronhoree caracterizeaza sindromul:",
+      "options": [
+        "opiaceu",
+        "simpatomimetic",
+        "anticolinergic",
+        "cholinergic",
+        "hipoglicemic"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 45,
+      "type": "single",
+      "prompt": "Hiperreflexia este caracteristica sindromului:",
+      "options": [
+        "opiaceu",
+        "serotoninic",
+        "cholinergic",
+        "hipoglicemic",
+        "simpatomimetic"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 46,
+      "type": "single",
+      "prompt": "Sindromul anticolinergic este reprezentat de:",
+      "options": [
+        "salivatie, lacrimare, defecatie",
+        "agitatie, diaforeza, hipertermie",
+        "hiperpnee, diaforeza, tahicardie",
+        "tonus muscular crescut, hipertermie",
+        "midriaza, tegumente si mucoase uscate, retentie de urina"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 47,
+      "type": "single",
+      "prompt": "Indicatiile administrarii carbunelui activ in doze multiple sunt urmatoarele, mai putin:",
+      "options": [
+        "toxice cu eliberare lenta in lumenul intestinal",
+        "toxice cu circulatie entero-hepatica",
+        "ingestie metale",
+        "ingerarea unor cantitati foarte mari de toxice",
+        "ingestie de substanta necunoscuta"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 48,
+      "type": "single",
+      "prompt": "Alcalinizarea urinei pentru imbunatatirea eliminarii toxicului, este folosita in ingestia de:",
+      "options": [
+        "etilenglicol",
+        "opiacee",
+        "teofilina",
+        "fenobarbital",
+        "mercur"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 49,
+      "type": "single",
+      "prompt": "Crize epileptice nu apar in:",
+      "options": [
+        "intoxicatia etanolica",
+        "sevrajul etanolic",
+        "sindromul serotoninic",
+        "hipoglicemie",
+        "intoxicatia cu amfetamine"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 50,
+      "type": "single",
+      "prompt": "Complicatii ale montarii sondei nazogastrice in vederea lavajului sunt urmatoarele, mai putin:",
+      "options": [
+        "frisonul postadministrare de lichid rece",
+        "malpozitia sondei in trahee",
+        "aspiratia",
+        "perforatia esofagiana, gastrica",
+        "imposibilitatea retragerii sondei odata introdusa"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 51,
+      "type": "single",
+      "prompt": "Irigarea intestinala poate fi utila in intoxicatia cu:",
+      "options": [
+        "barbiturice",
+        "fier",
+        "salicilati",
+        "izoniazida",
+        "antidepresive triciclice"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    }
+  ]
+}

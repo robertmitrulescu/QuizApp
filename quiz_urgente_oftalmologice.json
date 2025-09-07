@@ -1,0 +1,135 @@
+{
+  "chapter": "URGENTE OFTALMOLOGICE",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Cele mai frecvente cauze de hipoacuzie subita sunt:",
+      "options": [
+        "Idiopatice",
+        "Infectioase",
+        "Toxice",
+        "Traumatice"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Care din caracteristicile clinice de mai jos corespund otitei externe maligne:",
+      "options": [
+        "Specifica in general sugarilor si copiilor, otalgie, otoree, hipoacuzie, membrana timpanica rosie sau galbena",
+        "Otalgie, febra, eritem retroauricular, inflamatie si sensibilitate retroauriculara, opacifierea mastoidei la examenul radiologic",
+        "Pacient varstnic, diabetic, otalgie, edem al CAE, cu sau fara otoree, cu posibila prezenta a parotiditei, trismusului, pareza de nerv VII, potential fatal",
+        "Prurit, durere si sensibilitate a urechii externe, eritem si edem al CAE, otoree."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Complicatiile intracraniene ale otitei medii sunt cele de mai jos cu exceptia:",
+      "options": [
+        "Meningita",
+        "Abcesul cerebral",
+        "Abcesul extradural",
+        "Encefalita"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Formatiunile tumorale prezente la nivelul gatului, in cazul adultului tanar, sunt cele de mai jos cu exceptia:",
+      "options": [
+        "Mononucleoza",
+        "Boala Hodgkin",
+        "Chist brahial stang",
+        "Carcinom metastatic"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Ce este de facut initial in prezenta semnelor clinice de traumatism laringian:",
+      "options": [
+        "Laringoscopie",
+        "Nazofaringoscopia cu fibroscopul flexibil",
+        "Radiografii cervicale",
+        "CT-ul de gat"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Tamponamentul nazal anterior are urmatoarele indicatii cu exceptia:",
+      "options": [
+        "Ineficienta aplicarii directe a presiunii",
+        "Ineficienta agentilor vasoconstrictori",
+        "Ineficienta cauterizarii electrice si termice",
+        "Ineficienta aplicarii nitratului de argint"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Care din afirmatiile de mai jos legate de tamponamentul posterior nu sunt adevarate:",
+      "options": [
+        "Poate necesita analgezie si sedare",
+        "Nu necesita profilaxie antibiotica",
+        "Pacientul poate prezenta aritmii cardiac",
+        "Poate duce la hipoxie in caz de status mental alterat"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Care din afirmatiile de mai jos legate de reducerea/pierderea acuta a vederii este adevarata:",
+      "options": [
+        "In atacul de glaucom (glaucomul acut) ochiul este rosu, moale, dureros la miscare si la atigere",
+        "In nevrita optica, ochiul este alb, frecvent dureros cu defect pupilar aferent",
+        "In ocluzia de artera central a retinei ochiul este nedureros, vederea colorata este afectata inaintea vederii contururilor, pacientul este frecvent cardiac",
+        "In ocluzia venei central a retinei pierderea vederii este lenta, dureroasa, monoculara"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "In paralizia de nerv III putem intalni:",
+      "options": [
+        "Ptoza palpebrala, midriaza, ochiul este deviat lateral",
+        "Pupila normala, diplopie la privirea in jos, ochiul deviat in jos",
+        "Ptoza palpebrala, mioza, ochi deviat lateral",
+        "Ptoza palpebrala, ochi deviat nazal, diplopie la privirea lateral"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "In contuziile globului ocular, semnul patognomonic al unei leziuni grave a globului ocular este:",
+      "options": [
+        "Ptoza palpebrala",
+        "Hemoragia subconjunctivala",
+        "Durerea la miscarea globului ocular",
+        "Camera anterioara plata"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    }
+  ]
+}

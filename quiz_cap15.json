@@ -1,0 +1,145 @@
+{
+  "chapter": "REECHILIBRAREA VOLEMICĂ ÎN STĂRILE DE ŞOC",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Profilul hemodinamic din hipovolemia acută hemoragică include următoarele, cu excepţia:",
+      "options": [
+        "tahicardie",
+        "hipertensiune arterială",
+        "semne ale perfuziei periferice scăzute",
+        "hipoperfuzie cerebrală cu alterări ale statusului mental",
+        "prăbuşirea presiunii pulsului"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Următoarea afirmaţie cu privire la clasificarea pierderilor sanguine şi aprecierea necesarului de reechilibrare volemică este falsă:",
+      "options": [
+        "pierderea de 15 până la 30% (aprox. 750-1500 ml) din volumul total de sânge (hemoragie clasa II) duce în general la tahicardie şi scăderea presiunii pulsului",
+        "la o pierdere sanguină >40% (peste 2L) (hemoragie clasa IV) capacitatea organismului de compensare este minimă şi nu se produce decompensare hemodinamică",
+        "pierderea sanguină de până la 15% (aprox. 750 ml) din volumul de sânge circulant (hemoragie clasa I) este bine tolerată de pacient",
+        "pe măsură ce pierderea de sânge depăşeşte 30% (peste 1500ml) (hemoragie clasa III) se agravează hipotensiunea arterială, tahicardia, hipoperfuzia periferică",
+        "pierderea de 15 până la 30 % (aprox. 750-1500 ml) din volumul total de sânge (hemoragie clasa II) poate duce la modificări uşoare ale statusului mental"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Terapia iniţială în contextul hemoragiei acute trebuie să includă următoarele, cu excepţia:",
+      "options": [
+        "protejarea măduvei spinării (dacă este vulnerabilă)",
+        "controlul sângerării externe (dacă există)",
+        "asigurarea ventilaţiei şi oxigenării adecvate",
+        "securizarea căilor respiratorii",
+        "controlul sângerării interne"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Una din următoarele afirmaţii în ce priveşte abordul vascular în cazurile de şoc este falsă:",
+      "options": [
+        "rata de perfuzie a soluţiilor cristaloide este dependentă de diametrul cateterului şi presiunea de perfuzie",
+        "în toate cazurile de şoc este suficientă o singură linie venoasă periferică",
+        "stabilirea abordului intravenos adecvat şi efectuată simultan ca managementul căilor respiratorii",
+        "dacă liniile periferice nu sunt uşor abordabile este potrivită inserţia cateterului venos central",
+        "abordul vascular deasupra diafragmului este de preferat dacă există posibilitatea unei leziuni vasculare majore în zona abdomenului sau pelvisului"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Monitorizarea unui pacient aflat în stare de şoc include următoarele cu excepţia:",
+      "options": [
+        "monitorizare continuă ECG",
+        "pulsoximetrie",
+        "analize seriate ale gazelor sanguine arteriale",
+        "ecografie abdominală",
+        "debitul urinar"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Una din următoarele afirmaţii referitoare la transfuzia de sânge este adevărată:",
+      "options": [
+        "transfuzia sanguină nu este necesară la un pacient aflat în şoc hemoragic care prezintă o îmbunătăţire hemodinamică minimă sau doar modestă după perfuzarea rapidă de 2-3 L de soluţii cristaloide",
+        "se poate temporiza începerea transfuziei, chiar dacă este clar faptul că pacientul a suferit o pierdere marcată de sânge",
+        "o valoare a Hb > 10 g/dl necesită aproape întotdeauna transfuzie de sânge",
+        "atunci când timpul nu permite stabilirea compatibilităţii totale, sângele izogrup este prima opţiune, urmat de sânge O negativ",
+        "transfuzia de masă eritrocitară restabileşte nivelul factorilor de coagulare"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Dintre soluţiile coloide fac parte, cu excepţia:",
+      "options": [
+        "albumina",
+        "soluţie Ringer lactat",
+        "PPC",
+        "Glucoză 10%",
+        "HEAS"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Despre soluţiile cristaloide izotone nu este adevărat faptul că:",
+      "options": [
+        "sunt hipo-oncotice deoarece le lipsesc moleculele proteice mari prezente în plasmă",
+        "pentru fiecare cantiate de sânge pierdută este necesară o cantitate de trei ori mai mare de soluţie cristaloidă izotonă pentru restabilirea volumului intravascular",
+        "în caz de hemoragie acută, pentru reechilibrarea volemică se recomandă administrarea de 2-3 L de soluţie cristaloidă",
+        "sunt mai ieftine decât soluţiile coloide",
+        "PPC este o soluţie cristaloidă izotonă"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Despre soluţiile coloide sunt adevărate:",
+      "options": [
+        "au particule cu greutate moleculară mare cu presiuni oncotice plasmatice similare proteinelor plasmatice normale",
+        "rămân în spaţiul intravascular, înlocuind proteinelor plasmatice pierdute ca urmare a hemoragiei",
+        "restabilirea volumului sanguin circulant mai eficient decât soluţiile cristaloide",
+        "au costul mai mare decât soluţiile cristaloide",
+        "toate afirmaţiile de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Cauzele de hipovolemie non-hemoragică includ, cu excepţia:",
+      "options": [
+        "hemoptizie masivă",
+        "tulburări gastro-intestinale: vărsături, diaree, ascită",
+        "arsuri",
+        "expunere la căldură",
+        "pierdere renală de sare"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    }
+  ]
+}

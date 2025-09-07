@@ -1,0 +1,425 @@
+{
+  "chapter": "EPAC, SCA și TEP – set mixt",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Diagnosticul pozitiv al EPAC este:",
+      "options": [
+        "Pacient dispneic, cu raluri în ambele câmpuri pulmonare, cu TA întotdeauna crescută",
+        "Pacient dispneic, cu raluri în ambele câmpuri pulmonare, cu TA fie crescută, fie sub valori normale",
+        "Pacient dispneic cu febră peste 39°C",
+        "Pacient cu mialgii, febră, tuse",
+        "Pacient cu respirație normală și dureri abdominale intense"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "FE normală a ventriculului stâng este:",
+      "options": [
+        "20%",
+        "10%",
+        "60%",
+        "17%",
+        "0,5%"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Cauză frecventă de EPAC:",
+      "options": [
+        "Boala cardiacă ischemică",
+        "Pneumonia",
+        "Pancreatita",
+        "Tumoră mediastinală",
+        "Infecția de căi aeriene"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Măsurile standard de evaluare și tratament în UPU la pacient cu EPAC sunt, cu excepția:",
+      "options": [
+        "Monitorizare ECG, TA",
+        "Monitorizare pulsoximetrie",
+        "ECG 12 derivații",
+        "CT torace",
+        "Linie i.v."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Pacientul cu EPAC este poziționat:",
+      "options": [
+        "În poziție laterală de siguranță",
+        "Semişezut, pentru a scădea întoarcerea venoasă",
+        "În ortostatism",
+        "În clinostatism",
+        "Ridicat la 10°"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "ICC clasa II NYHA se caracterizează prin:",
+      "options": [
+        "Lipsa dispneei la efort",
+        "Dispnee la efort mic",
+        "Dispnee la efort mare",
+        "Dispnee în repaus",
+        "Durere precordială în repaus"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Tratamentul standard în EPAC este, cu excepția:",
+      "options": [
+        "Diuretic",
+        "Nitrați",
+        "Ketorol",
+        "Morfina",
+        "Oxigenoterapie"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Următoarele afirmații sunt adevărate:",
+      "options": [
+        "La pacient cu EPAC se folosește de rutină tratament profilactic antiaritmic",
+        "La pacienții cu EPAC și hipotensiune, vasodilatatoarele (nitrați) se folosesc de rutină",
+        "La pacienții instabili hemodinamic se folosesc betablocante",
+        "Nitrații se folosesc la pacienții cu EPAC și HTA pentru efect artero‑venodilatator",
+        "Blocanții de calciu se folosesc de rutină în EPAC"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Cauze comune de insuficiență cardiacă sunt, cu excepția:",
+      "options": [
+        "Ischemia miocardică acută sau cronică",
+        "Cardiomiopatiile",
+        "Valvulopatiile",
+        "Pneumonia",
+        "Tamponada cardiacă"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Diagnosticul diferențial al EPAC se face cu următoarele, cu excepția:",
+      "options": [
+        "Astm bronșic în criză",
+        "BPOC acutizat",
+        "Pneumotorax",
+        "TEP",
+        "Meningită"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "prompt": "Care dintre afirmațiile următoare e falsă (SCA)?",
+      "options": [
+        "Principalul simptom al SCA este durerea retrosternală sau precordială",
+        "Durerea în SCA poate fi determinată de efort, stres, frig",
+        "Durerea tipică din angina pectorală durează <10 minute și cedează la nitroglicerină s.l. în 2–5 minute",
+        "Durerea din infarctul miocardic acut durează <20 minute și cedează la nitroglicerină s.l.",
+        "Durerea din infarctul miocardic acut e severă, durează >30 minute și nu cedează sau cedează puțin la nitroglicerină"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "prompt": "Factorii de risc cardiac sunt următorii, cu excepția:",
+      "options": [
+        "HTA esențială",
+        "Diabet zaharat",
+        "Diabet insipid",
+        "Hipercolesterolemie",
+        "Consum de tutun"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "prompt": "Triajul pacienților cu toracalgie pentru decelarea IMA se face cel mai bine prin:",
+      "options": [
+        "EAB",
+        "ECG 12 derivații",
+        "Radiografie pulmonară",
+        "Pulsoximetrie",
+        "Coronarografie"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "prompt": "Cel mai comun marker seric de necroză cardiacă este:",
+      "options": [
+        "CK",
+        "CK‑MB",
+        "AST",
+        "ALT",
+        "K"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "prompt": "În IMA lateral, supradenivelarea ST apare în derivațiile:",
+      "options": [
+        "DII, DIII",
+        "V1–V3",
+        "DI, aVL",
+        "aVF, DIII",
+        "V3–V4"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "prompt": "IMA Killip 3 se caracterizează prin:",
+      "options": [
+        "Nu există manifestări de insuficiență cardiacă",
+        "EPAC",
+        "Șoc cardiogen",
+        "Ruptură sept interventricular",
+        "Dispnee și febră"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "prompt": "Pacienții cu angină instabilă și IMA fără supradenivelare ST sunt tratați cu:",
+      "options": [
+        "Trombolitic",
+        "Reteplază",
+        "Antiagregant plachetar și anticoagulant",
+        "Heparină și alteplază",
+        "Aspirină și streptokinază"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "prompt": "Contraindicațiile absolute ale trombolizei în IMA sunt, cu excepția:",
+      "options": [
+        "AVC hemoragic",
+        "Neoplasm intracranian cunoscut",
+        "Hemoragie internă",
+        "HTA < 180/100 mmHg",
+        "Disecție de aortă"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "prompt": "Alegeți afirmația adevărată:",
+      "options": [
+        "Aspirina trebuie administrată tuturor pacienților cu IMA, cu excepția celor alergici",
+        "Heparina e agent antiagregant plachetar administrat în IMA",
+        "Nitrații sunt folosiți de rutină la IMA de ventricul drept",
+        "Aspirina se administrează în doză de 360–540 mg în IMA",
+        "Coronarografia e contraindicată în IMA"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "prompt": "Indicațiile tratamentului trombolitic sunt:",
+      "options": [
+        "Pacienți cu IMA cu subdenivelare ST",
+        "Pacienți cu angor agravat de 2 luni",
+        "Pacienți cu IMA cu supradenivelare ST, durere debutată de maxim 6–12 ore",
+        "Pacienți cu supradenivelare ST și durere de 24 ore",
+        "Pacienți cu angor instabil"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 21,
+      "type": "single",
+      "prompt": "Factorii de risc pentru TEP sunt următorii, cu excepția:",
+      "options": [
+        "Status postpartum în primele 4 săptămâni",
+        "Afectiuni maligne",
+        "Sarcina",
+        "Deficit de proteină C și S",
+        "Efort fizic intens"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 22,
+      "type": "single",
+      "prompt": "Cel mai comun simptom al TEP este:",
+      "options": [
+        "Febra",
+        "Dispneea",
+        "Tuse cu spută rozată",
+        "Precordialgie iradiată pe MS stâng",
+        "Fatigabilitatea"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 23,
+      "type": "single",
+      "prompt": "Manifestări ce caracterizează TEP:",
+      "options": [
+        "Factori de risc + tuse purulentă și febră",
+        "Factori de risc + dispnee (tahipnee), durere toracică, hipoxemie",
+        "Vertij, febră >39°C",
+        "Dispnee și raluri până la vârful câmpurilor pulmonare",
+        "Convulsii, febră, status mental alterat"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 24,
+      "type": "single",
+      "prompt": "Ne pot îndruma către diagnosticul de TEP următoarele:",
+      "options": [
+        "Lipaza",
+        "Anemia",
+        "D‑dimerii",
+        "CK",
+        "ALT"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 25,
+      "type": "single",
+      "prompt": "Diagnosticul de certitudine al TEP este pus de:",
+      "options": [
+        "Doppler venos membre inferioare",
+        "CT torace",
+        "Radiografie torace",
+        "ECG",
+        "EAB arterial"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 26,
+      "type": "single",
+      "prompt": "Metode de orientare diagnostică pentru TEP sunt:",
+      "options": [
+        "Leucocite, EAB venos, ecocardiografie",
+        "EAB arterial, D‑dimeri, ecocardiografie",
+        "Radiografie torace, hemoglobină, EAB venos",
+        "Doppler venos MI și hemoglobină",
+        "Ecocardiografie, trombocite și EAB venos"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 27,
+      "type": "single",
+      "prompt": "Doza de heparină nefracționată în tratamentul TEP este:",
+      "options": [
+        "250 UI în 30 minute",
+        "80 U/kg bolus i.v., apoi 18 U/kg/oră",
+        "60 U/kg bolus i.v.",
+        "15 mg/kg bolus i.v., apoi 2 mg/kg",
+        "1 mg/kg s.c."
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 28,
+      "type": "single",
+      "prompt": "EAB arterial în TEP indică de obicei:",
+      "options": [
+        "Hiperpotasemie",
+        "Hipoxemie",
+        "Acidoză metabolică",
+        "Acidoză respiratorie",
+        "Gap anionic crescut"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 29,
+      "type": "single",
+      "prompt": "Sunt adevărate următoarele afirmații:",
+      "options": [
+        "ECG normal exclude întotdeauna TEP",
+        "Majoritatea pacienților cu TEP au hipoxemie pe EAB arterial",
+        "D‑dimerii crescuți apar exclusiv în TEP",
+        "Rx cord‑pulmon nu e necesară când suspectăm TEP",
+        "CK seric este test diagnostic pentru TEP"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 30,
+      "type": "single",
+      "prompt": "Următoarea afirmație este falsă:",
+      "options": [
+        "Pacienții cu TEP pot fi asimptomatici",
+        "Hipercoagulabilitatea este factor de risc pentru TEP",
+        "D‑dimerii crescuți pot apărea în sepsis sau AVC",
+        "CT toracic este indicat când suspectăm TEP",
+        "Diagnosticul de TEP se pune doar pe modificările ECG"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    }
+  ]
+}

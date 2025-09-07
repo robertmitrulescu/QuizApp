@@ -1,0 +1,135 @@
+{
+  "chapter": "TULBURARI PSIHISOCIALE",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "prompt": "Urmatoarele simptome vegetative sunt caracteristice depresiei majore, cu exceptia:",
+      "options": [
+        "Pierderea apetitului si scaderea in greutate",
+        "Incapacitatea de a se concentra",
+        "Cresterea activitatii",
+        "Oboseala"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "prompt": "Prima doza de Haloperidol administrat intramuscular la o persoana adulta de dimensiune normal, cu agitatie acuta este:",
+      "options": [
+        "10 mg.",
+        "20 mg.",
+        "5 mg.",
+        "0.5 mg."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "prompt": "Ce este AKATISIA?",
+      "options": [
+        "Spasme muscular ale gitului, fetei si spatelui, dupa administrarea de antipsihotic",
+        "Senzatie de neliniste motorize cu dorinta subiectiva de miscare, dupa administrare de antipsihotic",
+        "Laringospasm, dupa administrare de antipsihotic",
+        "Mers tarait si tremor de repaus, dupa administrare de antipsihotic"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "prompt": "Dintre efectele secundare ale antipsihoticelor “atipice”, agranulocitoza este produsa de:",
+      "options": [
+        "Olanzepin",
+        "clonazepin",
+        "Risperidona",
+        "Ziprasidona"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "prompt": "Urmatoarele modificari endocrine sunt asociate cu tulburarile de nutritie (anorexie, bulimie), cu exceptia:",
+      "options": [
+        "Scaderea nivelului de estrogeni urinari",
+        "Scaderea secretiei de ADH (hormon antidiuretic)",
+        "cresterea nivelului hormonului de crestere",
+        "Nivel seric crescut de LH (hormon luteinizant), FSH (hormon foliculo-stimulant) si estradiol."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "prompt": "Care din afirmatiile urmatoare, referitor la tratamentul anorexiei este falsa?",
+      "options": [
+        "Internarea este indicata la pacient cu pierdere in greutate mai mare de 30% in decurs de 3 luni",
+        "Administrarea de fluide si substante nutritive trebuie sa se faca agresiv.",
+        "Se utilizeaza antagonisti H1",
+        "Este necesara monitorizarea atenta a electrocardiogramei."
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "prompt": "Antidepresivele de electie in tratamentul tulburarii de panica sunt:",
+      "options": [
+        "Antidepresivele triciclice.",
+        "Benzodiazepinele.",
+        "Inhibitorii selectivi ai recaptarii serotoninei.",
+        "Inhibitorii de monoaminooxidaza."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "prompt": "Urmatoarele afirmatii privind tratamentul cu benzodiazepine al tulburarilor de panica sunt adevarate, cu exceptia:",
+      "options": [
+        "Alprazolamul, reduce frecventa atacurilor de panica.",
+        "Benzodiazepinele pot fi o optiune la pacientii la care este necesar controlul mult mai rapid al tulburarii de panica.",
+        "Pot fi administrate imediat fara a se tine cont de etiologia starii de panica.",
+        "Reprezinta tratamentul de electie al tulburarii de panica."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "prompt": "Terapia de electie a sevrajului etanolic consta in administrarea de:",
+      "options": [
+        "Fenobarbital.",
+        "Carbamazepina.",
+        "Benzodiazepine",
+        "Beta-blocanti"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "prompt": "Care din urmatoarele afirmatii privind tulburarea de conversie este adevarata?",
+      "options": [
+        "Tulburarile de conversie se prezinta de obicei cu mai multe simptome cu debut brusc legat de un stres sever.",
+        "Cel mai sigur criteriu de diagnostic al tulburarii de conversie este un istoric al afectiunii sau o tulburare de somatizare.",
+        "Schizofrenia si depresia nu pot avea tulburari de conversie associate.",
+        "Este diagnostica lipsa de ingrijorare cu care pacientii descriu situatia (La belle indifference)."
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    }
+  ]
+}

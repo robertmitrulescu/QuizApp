@@ -1,0 +1,262 @@
+{
+  "chapter": "Urgențe pulmonare",
+  "questions": [
+    {
+      "id": 1,
+      "prompt": "În hipoxemia acută, intervin imediat următoarele mecanisme compensatorii, cu excepția:",
+      "options": [
+        "crește tonusul simpatic și ameliorezeza eliberarea de O2 prin creșterea debitului cardiac",
+        "crește minut ventilația",
+        "creșterea numărului de eritrocite",
+        "vasoconstricția arterială pulmonară care reduce perfuzia alveolelor hipoxice"
+      ],
+      "type": "single",
+      "correctLetter": "c",
+      "correctIndex": 2
+    },
+    {
+      "id": 2,
+      "prompt": "La care din condițiile fiziopatologice de mai jos, administrarea suplimentară de O2 nu crește conținutul în oxigen al sângelui arterial:",
+      "options": [
+        "afectarea difuziunii la nivelul membranei alveolo-capilare",
+        "dezechilibru ventilație-perfuzie",
+        "scăderea presiunii oxigenului ambiant",
+        "șunt dreapta-stânga"
+      ],
+      "type": "single",
+      "correctLetter": "d",
+      "correctIndex": 3
+    },
+    {
+      "id": 3,
+      "prompt": "În urgență, se prezintă un pacient cu cianoză centrală, afirmativ fără antecedente cunoscute de boli pulmonare. Începeți administrarea de O2, dar cianoza nu se ameliorează. Ce diagnostic este corect:",
+      "options": [
+        "intoxicație cu CO",
+        "astm bronșic în criză",
+        "methemoglobinemie dobândită",
+        "crisodermia"
+      ],
+      "type": "single",
+      "correctLetter": "c",
+      "correctIndex": 2
+    },
+    {
+      "id": 4,
+      "prompt": "La un pacient adult, anterior sănătos, cu bronșită acută, recomandați corect efectuarea radiografiei pulmonare în următorul caz:",
+      "options": [
+        "tuse acută de 1 săptămână",
+        "tusea este prezentă de peste 3 săptămâni",
+        "indiferent de durata tusei, se recomandă radiografia pulmonară la toți pacienții",
+        "nu se recomandă radiografia pulmonară"
+      ],
+      "type": "single",
+      "correctLetter": "b",
+      "correctIndex": 1
+    },
+    {
+      "id": 5,
+      "prompt": "Tabloul clinic tipic pentru pneumonia comunitară pneumococică este reprezentat prin:",
+      "options": [
+        "debut insidios cu febră, dispnee, erupții cutanate",
+        "debut brusc cu febră, frison, junghi toracic, spută sânchinolentă, tahicardie, tahipnee",
+        "subfebrilități, dureri articulare, hematurie",
+        "tuse seacă, frison"
+      ],
+      "type": "single",
+      "correctLetter": "b",
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "prompt": "La un pacient adult diagnosticat în urgență cu pneumonie comunitară, și la care nu este necesară internarea, tratamentul va fi inițiat de medicul de urgență astfel:",
+      "options": [
+        "tratament empiric cu doxiciclină sau cu un macrolid generație nouă p.o. sau cu o fluoroquinolonă p.o.",
+        "tratamentul de mai sus dar este necesară asocierea obligatorie a acestora",
+        "nu se începe tratament empiric, se așteaptă rezultatul hemoculturilor",
+        "tratament empiric cu carbapenem p.o. 1 g la 8 ore"
+      ],
+      "type": "single",
+      "correctLetter": "a",
+      "correctIndex": 0
+    },
+    {
+      "id": 7,
+      "prompt": "În departamentul de urgență, aveți un pacient cu pneumonie comunitară, cu status mental alterat, FR > 30 r/min, TA = 90 mmHg, la care ați decis internarea. Cum procedați cu privire la tratamentul antibiotic în urgență?",
+      "options": [
+        "cefalosporină generația a 2-a sau a 3-a i.v.",
+        "azitromicină p.o. 500 mg la 6 ore",
+        "nu se începe tratamentul antibiotic în urgență, așteptându-se pe secție rezultatele hemoculturilor și ale frotiurilor Gram din spută",
+        "vancomicină 1 g la 6 ore"
+      ],
+      "type": "single",
+      "correctLetter": "a",
+      "correctIndex": 0
+    },
+    {
+      "id": 8,
+      "prompt": "La un pacient cu pneumonie din clasa III-a de risc, aflat în urgență decideți necesitatea internării și începeți tratamentul antibiotic cu Cefoperazonă (cefalosporină de generația a 3-a). Care este doza corectă?",
+      "options": [
+        "1–2 g i.v. la 12 ore",
+        "500 mg i.v. la 6 ore",
+        "cefoperazona nu este o cefalosporină generația a 3-a",
+        "1200 mg p.o. la 6 ore"
+      ],
+      "type": "single",
+      "correctLetter": "a",
+      "correctIndex": 0
+    },
+    {
+      "id": 9,
+      "prompt": "Empiemul pleural în stadiul exudativ are ca și conduită corectă de tratament:",
+      "options": [
+        "drenaj toracic cu tub de toracostomie și antibiotice",
+        "antibiotice și fibrinoliză intrapleurală cu urokinază",
+        "decorticarea și rezecția coastei pentru a facilita drenajul cronic",
+        "antibiotice și intervenția chirurgicală toracoscopică video-asistată"
+      ],
+      "type": "single",
+      "correctLetter": "a",
+      "correctIndex": 0
+    },
+    {
+      "id": 10,
+      "prompt": "Un adult tânăr, în tratament cu Omeprazol, aflat în departamentul de urgență pentru un abces dentar, în timpul examinării orofaringelui, prezintă un episod de vărsătură, urmat de o perioadă scurtă de tuse și tahipnee. Cum procedați în continuare?",
+      "options": [
+        "administrare de O2, monitorizare SaO2 și ECG timp de cel puțin 1 oră și, dacă pacientul este stabil, eliberare la domiciliu cu tratament cu Ciprofloxacin 400 mg la 12 ore",
+        "O2, monitorizare SaO2 și ECG și decideți internarea chiar dacă pacientul este stabil și cooperant",
+        "O2, monitorizare SaO2 și ECG cel puțin 24 ore în urgență și abia apoi, dacă este stabil, eliberare la domiciliu dar fără tratament antibiotic",
+        "Eliberați pacientul la domiciliu doar cu recomandări pentru tratamentul abcesului dentar"
+      ],
+      "type": "single",
+      "correctLetter": "a",
+      "correctIndex": 0
+    },
+    {
+      "id": 11,
+      "prompt": "Localizarea caracteristică radiologică a pneumoniei de aspirație la un pacient imobilizat la pat, în decubit dorsal, este următoarea:",
+      "options": [
+        "lobul pulmonar drept inferior",
+        "segmentele bazale ale lobilor pulmonari inferiori",
+        "segmentele posterioare ale lobilor pulmonari superiori și segmentele superioare ale lobilor pulmonari inferiori",
+        "doar lobii pulmonari superiori"
+      ],
+      "type": "single",
+      "correctLetter": "c",
+      "correctIndex": 2
+    },
+    {
+      "id": 12,
+      "prompt": "CT spiral cu substanță de contrast, folosit ca investigație imagistică în diagnosticarea pacienților cu semne și simptome de disecție de aortă, este necesar a fi completat cu aortografia în următorul caz:",
+      "options": [
+        "disecția de aortă de tip B",
+        "disecția de aortă de tip A",
+        "CT spiral cu substanță de contrast este suficient preoperator indiferent de tipul disecției de aortă toracică",
+        "CT spiral este o investigație costisitoare și nu se folosește în urgență"
+      ],
+      "type": "single",
+      "correctLetter": "b",
+      "correctIndex": 1
+    },
+    {
+      "id": 13,
+      "prompt": "Complicațiile imediate la un pacient cu transplant pulmonar sunt:",
+      "options": [
+        "boală limfoproliferativă, infecția, dehiscența căilor aeriene și stenoza",
+        "bronșiolită obliterantă, infecția și efectele medicației peri și postoperatorii",
+        "infecția, rejetul, dehiscența căilor aeriene, stenoza și efectele medicației peri și postoperatorii"
+      ],
+      "type": "single",
+      "correctLetter": "c",
+      "correctIndex": 2
+    },
+    {
+      "id": 14,
+      "prompt": "În tratamentul tuberculozei pulmonare, doza zilnică de Izoniazidă este:",
+      "options": [
+        "5 mg/kgc p.o.",
+        "15 mg/kgc p.o.",
+        "15–30 mg/kgc p.o.",
+        "Izoniazida nu se folosește în terapia zilnică a tuberculozei pulmonare"
+      ],
+      "type": "single",
+      "correctLetter": "a",
+      "correctIndex": 0
+    },
+    {
+      "id": 15,
+      "prompt": "Albuterolul folosit în tratamentul episoadelor de exacerbare a astmului bronșic este:",
+      "options": [
+        "agonist adrenergic cu mare specificitate pe receptorii beta-2 și are efect bronhodilatator",
+        "corticoid și se administrează cu ajutorul nebulizatorului sau în aerosoli",
+        "agonist adrenergic dar acționează doar pe receptorii beta-1",
+        "agonist al receptorilor beta-2 cu administrare de două ori pe zi, dar nu în perioadele de acutizare"
+      ],
+      "type": "single",
+      "correctLetter": "a",
+      "correctIndex": 0
+    },
+    {
+      "id": 16,
+      "prompt": "La o pacientă gravidă cu criză de astm bronșic, ce medicație este considerată sigură și este recomandată în managementul astmului?",
+      "options": [
+        "beta-2 agoniștii și corticoizii inhalatori + O2",
+        "agenți stabilizatori ai mastocitelor (Nedocromil) + O2",
+        "teofilină, beta-2 agoniști inhalatori + O2",
+        "doar O2, medicamentele de mai sus nu se încadrează în clasa A de risc a FDA"
+      ],
+      "type": "single",
+      "correctLetter": "a",
+      "correctIndex": 0
+    },
+    {
+      "id": 17,
+      "prompt": "În departamentul de urgență aveți un pacient cu criză de astm bronșic care nu a răspuns favorabil la medicația corect folosită, pacientul manifestând insuficiență ventilatorie și devenind letargic. Cum procedați în continuare?",
+      "options": [
+        "intubația nazotraheală și ventilația mecanică cu frecvență foarte înaltă",
+        "ventilație cu presiune pozitivă non-invazivă",
+        "intubația orotraheală și ventilația mecanică de tipul hipoventilației mecanice controlate"
+      ],
+      "type": "single",
+      "correctLetter": "c",
+      "correctIndex": 2
+    },
+    {
+      "id": 18,
+      "prompt": "La un pacient adult, aflat pe ventilator cu ventilație mecanică controlată, în timpul cateterizării venei subclavie se produce un pneumotorax iatrogen. Care este conduita de tratament a pneumotoraxului?",
+      "options": [
+        "aspirație simplă pe cateter",
+        "tub de toracostomie de calibru mare (24–28 Fr)",
+        "obligatoriu toracotomie",
+        "pacientul se ține doar sub observație, deoarece în cazul pneumotoraxului iatrogen nu apare recurența pe termen lung"
+      ],
+      "type": "single",
+      "correctLetter": "b",
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "prompt": "În UPU se prezintă un bărbat de 42 de ani, fumător, cu hemoptizie moderată, afirmativ fără patologie pulmonară cunoscută. Conduita corectă în acest caz este:",
+      "options": [
+        "O2 suplimentar, acces intravenos, teste de laborator, determinarea grup sanguin-Rh, CT pulmonar și internare",
+        "stabilizare în urgență, apoi eliberarea la domiciliu pentru a efectua radiografia pulmonară în ambulator și la nevoie CT pulmonar",
+        "O2, radiografie toracică, stabilizare în urgență apoi eliberare la domiciliu cu tratament antitusiv cu codeină și recomandarea de consult pneumoftiziologic în ambulator"
+      ],
+      "type": "single",
+      "correctLetter": "a",
+      "correctIndex": 0
+    },
+    {
+      "id": 20,
+      "prompt": "În tratamentul medicamentos al sughițului rebel la adult, doza de Clorpromazină este:",
+      "options": [
+        "10 mg i.m. sau i.v.",
+        "15 mg/kgc i.v. cu repetarea dozei la nevoie",
+        "25–50 mg i.v. cu repetarea dozei dacă este necesar după 2–4 ore",
+        "nu se folosește în sughițul rebel, deoarece efectul apare abia după 12 ore de tratament"
+      ],
+      "type": "single",
+      "correctLetter": "c",
+      "correctIndex": 2
+    }
+  ]
+}

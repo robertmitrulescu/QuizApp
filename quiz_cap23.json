@@ -1,0 +1,265 @@
+{
+  "chapter": "MANAGEMENTUL DE URGENȚĂ AL PLĂGILOR",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Oprirea sângerării din plagă se face corect prin:",
+      "options": [
+        "garou aplicat sub plagă .",
+        "compresiune  directă.",
+        "pansament simplu.",
+        "gheață aplicată local."
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Plăgile tratate în departamentele de urgență se vindecă cu un rezultat bun în proporție de:",
+      "options": [
+        "50-60%.",
+        "30%.",
+        "80-90%.",
+        "100%."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Cel mai important pas în prevenirea infecțiilor plăgilor este:",
+      "options": [
+        "spălarea și debridarea corespunzătoare.",
+        "spălarea abundentă  cu peroxid de hidrogen.",
+        "spălarea abundentă cu soluție de povidonă.",
+        "tratamentul cu antibiotice parenteral."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Prezintă un risc mai mare de contaminare/infectare:",
+      "options": [
+        "plăgile operatorii.",
+        "plăgile tăiate.",
+        "plăgile mușcate.",
+        "plăgile înțepate."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Predispoziția la formarea de cicatrici cheloide o au:",
+      "options": [
+        "pacienții de rasă albă și asiaticii.",
+        "pacienții de orice rasă.",
+        "pacienții de orice vârstă.",
+        "pacienții de culoare și asiaticii."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "În prevenirea infecțiilor de la nivelul plăgilor se folosește și antibioterapia profilactică. Cel mai utilizat agent este:",
+      "options": [
+        "amoxicilina clavulanat.",
+        "gentamicina.",
+        "meronem-ul.",
+        "acidul nalidixic."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Metodele de închidere a plăgilor sunt reprezentate de:",
+      "options": [
+        "pansament compresiv.",
+        "sutură, agrafe chirugicale, benzi adezive, adezivi tisulari.",
+        "aplicarea pe plagă a unui burete de gelatină (Gelaspon).",
+        "aplicarea pe plagă a unui burete de colagen (Oxycel, Actifoam)."
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Benzile adezive și adezivii tisulari sunt folosite, în special, la închiderea plăgilor :",
+      "options": [
+        "delabrante.",
+        "mușcate.",
+        "înțepate.",
+        "liniare."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Înaintea închiderii definitive a plăgilor scalpului și feței se face:",
+      "options": [
+        "evaluarea funcțiilor vitale (căi aeriene, respirație, circulație, controlul hemoragiilor).",
+        "explorarea cu degetul înmănușat pentru determinarea profunzimii plăgii, fără a fi necesară evaluarea funcțiilor vitale.",
+        "explorarea plăgii cu pensa chirurgicală, înaintea evaluării funcțiilor vitale.",
+        "spălarea, dezinfectarea și debridarea corespunzătoare a plăgilor înaintea examinării primare a traumatizatului."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Detectarea corpilor străini nevizualizați clinic, în urgență, la pacienții traumatizați, se realizează prin metode imagistice. Selectați, din afirmațiile de mai jos, pe cea adevărată:",
+      "options": [
+        "se face în proporție de 90% prin radiografie simplă pentru corpii străini radioopaci.",
+        "ultrasonografie pentru corpii străini mai mici de 1mm.",
+        "tomografie computerizată, ca metodă de elecție.",
+        "rezonanța magnetică nucleară pentru corpii metalici."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "prompt": "Este recomandat ca plăgile pleoapei, nasului și urechii, ce interesează toate structurile tisulare, să fie suturate de către:",
+      "options": [
+        "medicul de urgență.",
+        "chirurgul plastician, oftalmolog, ORL-ist.",
+        "chirurgul generalist.",
+        "neurochirurg."
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "prompt": "Leziunile de țesut moale de la nivelul membrelor superioare sunt frecvente în departamentele de urgență. Reprezintă:",
+      "options": [
+        "50% din plăgi.",
+        "35% din lacerații sau răni.",
+        "10% din leziuni.",
+        "60-70% din accidentele casnice."
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "prompt": "În cazul leziunilor mâinii, se testează senzitivitatea nervilor periferic ai membrului superior:",
+      "options": [
+        "pentru nervul radial- primul spațiu dorsal, n. median-vârful volar al indexului, n. ulnar- vârful volar al degetului V.",
+        "pentru n. radial- marginea internă a antebrațului, n. median- fața anterioară a antebrațului, n, ulnar- marginea internă a antebrațului.",
+        "pentru n. radial- fața palmară a mâinii, n. median- fața dorsală a mâinii, n. ulnar- police.",
+        "pentru n. radial- degetul V și ultimul spațiu dorsal, n. median- fața dorsală a mâinii, n. cubital- fața dorsală și palmară degete III și IV."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "prompt": "Valoarea normală a timpului de reumplere capilară este:",
+      "options": [
+        "4 secunde.",
+        "2-4 milisecunde.",
+        "<2 secunde.",
+        "<2 milisecunde."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "prompt": "Îndepărtarea unghiei este recomandată în cazul:",
+      "options": [
+        "avulsiei acesteia sau ruperea pliului unghial adiacent.",
+        "contuziilor unghiale.",
+        "hematoamelor subunghiale ce ocupă mai puțin de 50% din patul unghial.",
+        "leziunilor de cuticulă."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "prompt": "Cele mai importante contraindicații pentru reimplantare în cazul traumatismelor de degete sunt:",
+      "options": [
+        "amputația completă a vârfului degetului fără interesarea osului.",
+        "conservarea segmentului amputate în pansament steril cufundat într-o pungă cu gheață.",
+        "amputația la copii.",
+        "leziuni de strivire și de avulsie, datorate distrugerii neurovasculare semnificative."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "prompt": "Tehnica șnurului este folosită:",
+      "options": [
+        "în sutura plăgilor palmare.",
+        "în sutura plăgilor plantare.",
+        "în extragerea corpilor străini (ex. cârlig de undiță).",
+        "la îndepărtarea unui inel de pe un deget edemațiat."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "prompt": "În departamentele de urgență, din totalul leziunilor, traumatismele gambei și piciorului reprezintă:",
+      "options": [
+        "2-4%.",
+        "25%.",
+        "13%.",
+        "17-28%."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "prompt": "Traumatismele gambei și piciorului sunt associate, mai frecvent, cu:",
+      "options": [
+        "agresiunea animală.",
+        "accidentele sportive și de muncă.",
+        "leziunile prin autoagresiune.",
+        "leziunile prin expunerea prelungită la factori de mediu."
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "prompt": "6-11% din plăgile înțepate de țesut moale se infectează. Organismele cel mai frecvent implicate sunt:",
+      "options": [
+        "germenii gram pozitivi.",
+        "germenii gram negativi.",
+        "bacterii anaerobe.",
+        "taenia ecchinococus."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    }
+  ]
+}

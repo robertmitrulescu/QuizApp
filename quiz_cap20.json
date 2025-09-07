@@ -1,0 +1,845 @@
+{
+  "chapter": "Sindroamele coronariene acute",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Dintre simptomele asociate durerii toracice din cadrul sindroamelor coronariene acute fac parte următoarele, cu excepția:",
+      "options": [
+        "tusea productivă",
+        "greața și vărsăturile",
+        "dispneea",
+        "sincopa",
+        "palpitațiile"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Criteriile EKG pentru diagnosticul infarctului miocardic inferior sunt:",
+      "options": [
+        "unda Q în D1 și aVL",
+        "unda Q în V4–V6, D1 și aVL",
+        "unda Q în D2, D3 și aVF",
+        "unde QS în V1–V4",
+        "unda Q în V7–V9"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Simptomul principal al bolii cardiace ischemice este:",
+      "options": [
+        "sincopa",
+        "vărsăturile",
+        "dispneea",
+        "durerea toracică",
+        "greața"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Următoarele afirmații despre CK‑MB în IMA sunt adevărate, cu excepția:",
+      "options": [
+        "crește până la peste 5 ori nivelul de bază",
+        "are o valoare maximă în primele 12–24 de ore",
+        "valoarea revine la nivelul de bază în 2–3 zile",
+        "este cel mai folosit marker seric în cazul sindroamelor coronariene acute",
+        "valoarea revine la nivelul de bază în 7–10 zile"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Contraindicațiile absolute ale terapiei fibrinolitice în IMA sunt următoarele, cu excepția:",
+      "options": [
+        "AVC hemoragic în antecedente",
+        "neoplazie intracraniană cunoscută",
+        "traumatism recent (ultimele 2 săptămâni)",
+        "hemoragie internă activă",
+        "suspiciune de disecție de aortă"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Terapia fibrinolitică este indicată la pacienții cu simptome compatibile de IMA dacă intervalul de timp de la debutul simptomelor până la administrarea tratamentului este:",
+      "options": [
+        "sub 6–12 ore",
+        "între 12–24 de ore",
+        "între 24–36 de ore",
+        "între 36–48 de ore",
+        "între 48–72 de ore"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "La pacienții cu sindrom coronarian acut se vor lua următoarele măsuri generale, cu excepția:",
+      "options": [
+        "administrare de oxigen pe canule nazale 2–4 L/min",
+        "administrare de nitroglicerină intravenos, titrat în funcție de TA",
+        "administrarea de aspirină",
+        "monitorizare EKG continuă",
+        "efectuarea unei radiografii pulmonare"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Dintre contraindicațiile relative ale terapiei fibrinolitice în IMA sunt următoarele, cu excepția:",
+      "options": [
+        "valori necontrolate ale TA (peste 180 mmHg)",
+        "hemoragia internă activă",
+        "traumatism recent (sub 2 săptămâni)",
+        "intervenție chirurgicală importantă în ultimele 2 săptămâni",
+        "sarcina"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Localizarea clasică a durerii în SCA este:",
+      "options": [
+        "în maxilar",
+        "la nivelul brațelor",
+        "interscapulovertebrală",
+        "retrosternală",
+        "abdominală"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Troponina I în cadrul SCA dispare în:",
+      "options": [
+        "primele 12 ore de la debut",
+        "24–48 de ore",
+        "48–72 de ore",
+        "3–7 zile",
+        "7–10 zile"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "prompt": "Dintre simptomele asociate durerii toracice din cadrul sindroamelor coronariene acute fac parte următoarele, cu excepția:",
+      "options": [
+        "tusea productivă",
+        "greața și vărsăturile",
+        "dispneea",
+        "sincopa",
+        "palpitațiile"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "prompt": "Criteriile EKG pentru diagnosticul infarctului miocardic inferior sunt:",
+      "options": [
+        "unda Q în D1 și aVL",
+        "unda Q în V4–V6, D1 și aVL",
+        "unda Q în D2, D3 și aVF",
+        "unde QS în V1–V4",
+        "unda Q în V7–V9"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "prompt": "Simptomul principal al bolii cardiace ischemice este:",
+      "options": [
+        "sincopa",
+        "vărsăturile",
+        "dispneea",
+        "durerea toracică",
+        "greața"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "prompt": "Următoarele afirmații despre CK‑MB în IMA sunt adevărate, cu excepția:",
+      "options": [
+        "crește până la peste 5 ori nivelul de bază",
+        "are o valoare maximă în primele 12–24 de ore",
+        "valoarea revine la nivelul de bază în 2–3 zile",
+        "este cel mai folosit marker seric în cazul sindroamelor coronariene acute",
+        "valoarea revine la nivelul de bază în 7–10 zile"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "prompt": "Contraindicațiile absolute ale terapiei fibrinolitice în IMA sunt următoarele, cu excepția:",
+      "options": [
+        "AVC hemoragic în antecedente",
+        "neoplazie intracraniană cunoscută",
+        "traumatism recent (ultimele 2 săptămâni)",
+        "hemoragie internă activă",
+        "suspiciune de disecție de aortă"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "prompt": "Terapia fibrinolitică este indicată la pacienții cu simptome compatibile de IMA dacă intervalul de timp de la debutul simptomelor până la administrarea tratamentului este:",
+      "options": [
+        "sub 6–12 ore",
+        "între 12–24 de ore",
+        "între 24–36 de ore",
+        "între 36–48 de ore",
+        "între 48–72 de ore"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "prompt": "La pacienții cu sindrom coronarian acut se vor lua următoarele măsuri generale, cu excepția:",
+      "options": [
+        "administrare de oxigen pe canule nazale 2–4 L/min",
+        "administrare de nitroglicerină intravenos, titrat în funcție de TA",
+        "administrarea de aspirină",
+        "monitorizare EKG continuă",
+        "efectuarea unei radiografii pulmonare"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "prompt": "Dintre contraindicațiile relative ale terapiei fibrinolitice în IMA sunt următoarele, cu excepția:",
+      "options": [
+        "valori necontrolate ale TA (peste 180 mmHg)",
+        "hemoragia internă activă",
+        "traumatism recent (sub 2 săptămâni)",
+        "intervenție chirurgicală importantă în ultimele 2 săptămâni",
+        "sarcina"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "prompt": "Localizarea clasică a durerii în SCA este:",
+      "options": [
+        "în maxilar",
+        "la nivelul brațelor",
+        "interscapulovertebrală",
+        "retrosternală",
+        "abdominală"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "prompt": "Troponina I în cadrul SCA dispare în:",
+      "options": [
+        "primele 12 ore de la debut",
+        "24–48 de ore",
+        "48–72 de ore",
+        "3–7 zile",
+        "7–10 zile"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 21,
+      "type": "single",
+      "prompt": "Următoarele afirmații sunt corecte privind sindromul coronarian acut:",
+      "options": [
+        "sindromul coronarian acut este un termen pentru a descrie pacienții care se prezintă cu dureri toracice acute și alte simptome de ischemie miocardică, deseori cu diagnostic sau modificări EKG sugerând ischemie miocardică;",
+        "în timpul evaluării inițiale este adeseori imposibil de stabilit dacă pacientul are sau va suferi leziuni permanente ale miocardului (necroză sau IMA) sau are ischemie reversibilă (angină instabilă);",
+        "diferențierea între IMA și angina instabilă poate fi făcută doar retrospectiv după înregistrări seriate ale EKG și/sau determinări ale markerilor serici ai leziunii miocardice.",
+        "sindromul coronarian acut este un concept folositor deoarece triajul, evaluarea și managementul inițial al anginei instabile și IMA sunt asemănătoare;",
+        "toate afirmațiile sunt corecte."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 22,
+      "type": "single",
+      "prompt": "Caracteristicile anginei instabile sunt următoarele:",
+      "options": [
+        "durata simptomelor este, în general, sub 10 minute, uneori durând între 10 și 20 minute;",
+        "de obicei, se ameliorează în 2–5 minute după repaus sau nitroglicerină;",
+        "sunt episoade scurte, chiar și de 2 minute;",
+        "toate afirmațiile sunt corecte;",
+        "nici o afirmație nu este corectă."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 23,
+      "type": "single",
+      "prompt": "Caracteristicile IMA sunt următoarele:",
+      "options": [
+        "IMA este însoțit de disconfort toracic mai sever și mai prelungit;",
+        "simptomele asociate (greață, diaforeză, dispnee) sunt mai proeminente;",
+        "reacție slabă sau inexistentă la nitroglicerină administrată sublingual;",
+        "toate afirmațiile sunt corecte;",
+        "nici o afirmație nu este corectă."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 24,
+      "type": "single",
+      "prompt": "Sunt corecte următoarele afirmații privind sindroamele coronariene acute:",
+      "options": [
+        "prezentările atipice sau ischemia miocardică asimptomatică sunt frecvente;",
+        "până la 30% dintre pacienții cu IMA identificați în studii longitudinale de mari dimensiuni nu pot fi diagnosticați clinic;",
+        "unii dintre pacienții cu IMA nediagnosticați clinic au avut simptome atipice pentru care nu au solicitat asistență medicală;",
+        "femeile și persoanele în vârstă sunt predispuși să aibă prezentări atipice de sindrom coronarian acut;",
+        "toate afirmațiile sunt corecte."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 25,
+      "type": "single",
+      "prompt": "Examenul fizic în sindroamele coronariene acute:",
+      "options": [
+        "examenul fizic nu ajută la diferențierea pacienților cu sindroame coronariene acute de cei cu etiologii necardiace atunci când nu este clar un diagnostic alternativ;",
+        "pacienții cu sindrom coronarian acut pot fi aparent sănătoși, fără nici un semn de suferință;",
+        "pacienții cu sindrom coronarian acut se pot simți rău, să fie palizi, cianotici și cu probleme respiratorii;",
+        "frecvența pulsului poate fi normală, scăzută, crescută sau neregulată;",
+        "toate afirmațiile sunt adevărate."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 26,
+      "type": "single",
+      "prompt": "Următoarea afirmație este corectă:",
+      "options": [
+        "EKG‑ul este cel mai bun test aflat imediat la îndemână în urgență dar are o sensibilitate de detectare a IMA relativ scăzută;",
+        "segmentul ST este supradenivelat pe EKG‑ul inițial la aproximativ 50% dintre pacienți;",
+        "majoritatea pacienților fără supradenivelare ST cu valoare diagnostică vor avea subdenivelări ale segmentului ST și/sau inversiuni ale undelor T;",
+        "1–5% dintre pacienții cu IMA au EKG inițial complet normal;",
+        "toate afirmațiile sunt corecte."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 27,
+      "type": "single",
+      "prompt": "Următoarea afirmație este corectă privind markerii serici ai leziunii miocardice:",
+      "options": [
+        "markerii serici au o utilitate mai mică pentru diagnosticarea anginei instabile;",
+        "izoenzima creatinkinază (CK‑MB) este cel mai des folosit marker seric în sindromul coronarian acut;",
+        "o creștere în ser a CK‑MB până la peste 5 ori nivelul de bază urmată de o revenire la acest nivel este considerată diagnostică pentru IMA;",
+        "o creștere în ser a troponinelor I sau T pune diagnosticul de IMA;",
+        "toate afirmațiile sunt corecte."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 28,
+      "type": "single",
+      "prompt": "În ceea ce privește strategiile terapeutice în sindroamele coronariene acute, este adevărată următoarea afirmație:",
+      "options": [
+        "tratamentul este individualizat în funcție de durată/persitența simptomelor, istoricul cardiac, examenul clinic și EKG‑ul inițial;",
+        "la pacienții cu simptome persistente de STEMI se va utiliza terapia fibrinolitică sau reperfuzia mecanică (angioplastia);",
+        "în funcție de status, la STEMI se vor considera antiagregante, anticoagulante, β‑blocante, nitrați și IECA;",
+        "pacienții cu angină instabilă/NSTEMI vor fi tratați cu antiagregante și anticoagulante și eventual cu β‑blocante și nitrați;",
+        "toate afirmațiile sunt corecte."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 29,
+      "type": "single",
+      "prompt": "Măsuri generale în terapia sindroamelor coronariene acute:",
+      "options": [
+        "la toți pacienții se va stabili abord intravenos și monitorizare EKG continuă;",
+        "administrarea de oxigen suplimentar poate reduce supradenivelarea ST la pacienții cu IMA, de aceea este indicată administrarea de rutină a 2–4 L/min pe canulă nazală chiar și cu saturație normală;",
+        "în UA/NSTEMI se va administra oxigen la cei cu semne de hipoxie;",
+        "toate afirmațiile sunt corecte;",
+        "nici o afirmație nu este corectă."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 30,
+      "type": "single",
+      "prompt": "Contraindicațiile absolute ale terapiei fibrinolitice în IMA sunt:",
+      "options": [
+        "accident vascular cerebral hemoragic în antecedente sau AVC ischemic în ultimul an;",
+        "neoplazie intracraniană cunoscută;",
+        "hemoragie internă activă, excluzând menstruația;",
+        "suspiciune de disecție de aortă sau pericardită;",
+        "toate afirmațiile sunt corecte."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 31,
+      "type": "single",
+      "prompt": "Care din următoarele afirmații e falsă:",
+      "options": [
+        "principalul simptom al sindroamelor coronariene acute este durerea retrosternală sau precordială",
+        "durerea în SCA poate fi determinată de efort, stres, frig",
+        "durerea tipică din angina pectorală durează mai puțin de 10 minute și cedează după 2–5 minute de nitroglicerină sublingual",
+        "durerea din infarctul miocardic acut durează sub 20 minute și cedează la nitroglicerină sublingual",
+        "durerea din infarctul miocardic acut e severă, durează peste 30 minute și nu cedează sau cedează puțin la nitroglicerină"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 32,
+      "type": "single",
+      "prompt": "Factorii de risc cardiac sunt următorii, cu excepția:",
+      "options": [
+        "HTA esențială",
+        "diabet zaharat",
+        "diabet insipid",
+        "hipercolesterolemia",
+        "consumul de tutun"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 33,
+      "type": "single",
+      "prompt": "Triajul pacienților cu toracalgie pentru a decela IMA se face cel mai bine prin:",
+      "options": [
+        "EAB",
+        "ECG 12 derivații",
+        "radiografie pulmonară",
+        "pulsoximetrie",
+        "coronarografie"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 34,
+      "type": "single",
+      "prompt": "Cel mai comun marker seric de necroză cardiacă este:",
+      "options": [
+        "CK",
+        "CK‑MB",
+        "AST",
+        "ALT",
+        "K"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 35,
+      "type": "single",
+      "prompt": "În IMA lateral, modificările ECG (supradenivelare ST) apar în următoarele derivații:",
+      "options": [
+        "DII, DIII",
+        "V1–V3",
+        "DI, aVL",
+        "aVF, DIII",
+        "V3–V4"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 36,
+      "type": "single",
+      "prompt": "IMA Killip 3 se caracterizează prin:",
+      "options": [
+        "nu există manifestări de insuficiență cardiacă",
+        "edem pulmonar acut",
+        "șoc cardiogen",
+        "ruptură sept interventricular",
+        "dispnee și febră"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 37,
+      "type": "single",
+      "prompt": "Pacienții cu angină instabilă și IMA fără supradenivelare ST sunt tratați cu:",
+      "options": [
+        "trombolitic",
+        "reteplază",
+        "antiagregant plachetar și anticoagulant",
+        "heparină și alteplază",
+        "aspirină și streptokinază"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 38,
+      "type": "single",
+      "prompt": "Contraindicațiile absolute ale trombolizării pacienților cu IMA sunt, cu excepția:",
+      "options": [
+        "AVC hemoragic",
+        "neoplasm intracranian cunoscut",
+        "hemoragie internă",
+        "HTAe sub 180/100",
+        "disecția de aortă"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 39,
+      "type": "single",
+      "prompt": "Următoarele afirmații sunt adevărate:",
+      "options": [
+        "aspirina trebuie administrată tuturor pacienților cu IMA, cu excepția celor alergici la aspirină",
+        "heparina e un agent antiagregant plachetar administrat în IMA",
+        "nitrații sunt folosiți de rutină la pacienții cu IMA de ventricul drept",
+        "aspirina se administrează în doză de 360–540 mg în IMA",
+        "coronarografia e contraindicată la pacienții cu IMA"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 40,
+      "type": "single",
+      "prompt": "Indicațiile tratamentului trombolitic sunt:",
+      "options": [
+        "pacienții cu IMA cu subdenivelare ST",
+        "pacienții cu angor agravat de 2 luni",
+        "pacienții cu IMA cu supradenivelare ST cu durere retrosternală de maximum 6–12 ore",
+        "pacienții cu supradenivelare ST și durere retrosternală de 24 ore",
+        "pacienții cu angor instabil"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 41,
+      "type": "single",
+      "prompt": "Principalele forme de angină instabilă:",
+      "options": [
+        "de repaus",
+        "de novo",
+        "agravată",
+        "toate variantele",
+        "nicio variantă"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 42,
+      "type": "single",
+      "prompt": "Infarctul ventriculului drept:",
+      "options": [
+        "este foarte frecvent",
+        "apare ca o complicație a unui IM anterior",
+        "poate fi diagnosticat prin supradenivelarea ST în V4R",
+        "nu se complică niciodată cu șoc cardiogen",
+        "tratamentul de elecție este nitroglicerină în doze mari"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 43,
+      "type": "single",
+      "prompt": "Complicații ale IMA:",
+      "options": [
+        "embolia pulmonară",
+        "angina precoce postinfarct",
+        "extinderea infarctului",
+        "embolizarea arterială",
+        "toate cele de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 44,
+      "type": "single",
+      "prompt": "Clasificarea clinică Killip II reprezintă:",
+      "options": [
+        "șoc cardiogen",
+        "edem pulmonar acut",
+        "insuficiență cardiacă ușoară",
+        "fără insuficiență cardiacă congestivă",
+        "pericardită acută"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 45,
+      "type": "single",
+      "prompt": "Markerii cardiaci utilizați pentru diagnosticul infarctului miocardic sunt:",
+      "options": [
+        "mioglobina",
+        "lipaza",
+        "alfa‑fetoproteina",
+        "antigenul carcinoembrionar",
+        "hemoglobina"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 46,
+      "type": "single",
+      "prompt": "Subdenivelarea segmentului ST în absența ischemiei poate apare în:",
+      "options": [
+        "hipopotasemie",
+        "efect al digoxinului",
+        "repolarizare precoce",
+        "niciuna dintre variante",
+        "toate variantele"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 47,
+      "type": "single",
+      "prompt": "Inversarea undei T în absența ischemiei NU apare în:",
+      "options": [
+        "pneumotorax spontan",
+        "embolie pulmonară",
+        "contuzie miocardică",
+        "hipertrofie ventriculară stângă",
+        "hiperpotasemie"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 48,
+      "type": "single",
+      "prompt": "În ischemia miocardică poate apărea:",
+      "options": [
+        "hipokinezia regiunii ischemice",
+        "akinezia regiunii ischemice",
+        "diskinezia regiunii ischemice",
+        "toate variantele de mai sus",
+        "nicio variantă"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 49,
+      "type": "single",
+      "prompt": "Factorii de risc pentru boala cardiacă ischemică sunt:",
+      "options": [
+        "diabetul insipid",
+        "hipotensiunea",
+        "dislipidemia",
+        "distonia",
+        "lagoftalmia"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 50,
+      "type": "single",
+      "prompt": "Complicații ale infarctului miocardic:",
+      "options": [
+        "aritmii",
+        "tulburări de conducere",
+        "ruptura miocardului",
+        "ruptura mușchilor papilari",
+        "toate cele de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 51,
+      "type": "single",
+      "prompt": "Când o zonă a miocardului nu primește O₂ în cantități adecvate, deteriorarea funcțională este progresivă, prima dată apărând:",
+      "options": [
+        "akinezia",
+        "hipokinezia",
+        "asincronismul",
+        "diskinezia",
+        "nu se poate preciza"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 52,
+      "type": "single",
+      "prompt": "În condițiile unui infarct miocardic al peretelui anterior, cel mai grav prognostic apare în:",
+      "options": [
+        "ritmurile bradicardice",
+        "blocurile cardiace",
+        "afectarea ventriculului drept",
+        "extremele de presiune sanguină",
+        "modificarea zgomotelor cardiace"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 53,
+      "type": "single",
+      "prompt": "Modificările de segment ST „în oglindă” sunt factori de predicție pentru:",
+      "options": [
+        "mortalitate crescută",
+        "prognosticul la distanță",
+        "insuficiență de pompă mai severă",
+        "probabilitate mai mare de complicații cardiovasculare",
+        "întinderea mai mare a infarctului"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 54,
+      "type": "single",
+      "prompt": "Inversarea undei T în absența ischemiei NU apare în:",
+      "options": [
+        "model juvenil persistent",
+        "pericardită",
+        "pneumotorax spontan",
+        "anevrism de ventricul stâng",
+        "patologie intracraniană"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 55,
+      "type": "single",
+      "prompt": "La prezentarea în urgență, cel mai specific marker cardiac pentru diagnosticul infarctului miocardic este:",
+      "options": [
+        "CK",
+        "CK‑MB",
+        "mioglobina",
+        "troponina I",
+        "troponina T"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 56,
+      "type": "single",
+      "prompt": "În legătură cu bradicardia sinusală pe durata fazelor timpurii ale IMA, NU este adevărat:",
+      "options": [
+        "predispune la hipotensiune",
+        "predispune la aritmii ventriculare repetate",
+        "nu pare să crească mortalitatea",
+        "reduce necesarul miocardic de oxigen",
+        "este o consecință a „insuficienței de pompă”"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 57,
+      "type": "single",
+      "prompt": "Cea mai frecvent întâlnită aritmie în timpul infarctului miocardic acut este:",
+      "options": [
+        "tahicardia ventriculară",
+        "fibrilația atrială",
+        "extrasistolele atriale",
+        "bradicardia sinusală",
+        "ritmul idioventricular accelerat"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 58,
+      "type": "single",
+      "prompt": "Factorii protectori împotriva rupturii cardiace postinfarct sunt:",
+      "options": [
+        "medicamentele antiinflamatoare",
+        "steroizii",
+        "hipertrofia ventriculară stângă",
+        "vârsta înaintată",
+        "administrarea tardivă a agenților trombotici"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 59,
+      "type": "single",
+      "prompt": "În legătură cu pericardita post‑IMA NU este adevărat:",
+      "options": [
+        "este mai des întâlnită la pacienții cu IMA subendocardic",
+        "poate fi prezentă în absența efuziunii pericardice",
+        "apare la 2–4 zile după IMA",
+        "simptomele se accentuează la inspir și pot fi ameliorate de poziția în șezut, aplecat înainte",
+        "frecătura apare mai frecvent în infarctul peretelui inferior și de ventricul drept"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 60,
+      "type": "single",
+      "prompt": "Probabilitatea unei boli semnificative de artere coronariene la pacienții cu simptome care sugerează angină instabilă NU este ridicată în cazul în care există:",
+      "options": [
+        "supradenivelare sau subdenivelare segment ST ≥ 1 mm",
+        "IMA, moarte subită în antecedente sau alte antecedente cunoscute de boală coronariană",
+        "modificări tranzitorii hemodinamice sau de ECG pe perioada durerilor",
+        "inversiuni simetrice pronunțate de unde T în mai multe derivații precordiale",
+        "boli vasculare extracardiace"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    }
+  ]
+}

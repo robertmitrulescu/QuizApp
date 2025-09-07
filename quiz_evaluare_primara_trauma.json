@@ -1,0 +1,145 @@
+{
+  "chapter": "INTREBARI EVALUARE PRIMARA TRAUMA",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "prompt": "In cadrul evaluarii primare a unui traumatism trebuie identificate urmatoarele afectiuni amenintatoare de viata, cu exceptia:",
+      "options": [
+        "hemoragia masiva",
+        "tamponada cardiaca",
+        "pneumotoraxul deschis",
+        "obstructia de cai aeriene",
+        "fractura de stern"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "prompt": "Deschiderea cailor aeriene in trauma se face prin una din urmatoarele metode, cu exceptia:",
+      "options": [
+        "ridicarea barbiei",
+        "subluxatia mandibulei",
+        "aspirarea de secretii din orofaringe",
+        "hiperextensia capului",
+        "IOT"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "prompt": "Examinati un pacient traumatizat la care se evidentiaza plaga toracica prin care iese aer. Tratamentul initial consta in:",
+      "options": [
+        "pleurostomie",
+        "bandaj ocluziv pe 3 laturi",
+        "IOT",
+        "bandaj ocluziv pe 4 laturi",
+        "toracocenteza pe ac"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "prompt": "In cadrul evaluarii primare a unui traumatism ne intereseaza, cu exceptia:",
+      "options": [
+        "pulsul periferic",
+        "tensiunea arteriala",
+        "alura ventriculara",
+        "hemioragia externa evidenta",
+        "caracterul pulsului periferic"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "prompt": "Sunteti trimisi la un accident. Care ester primul gest pe care-l faceti?:",
+      "options": [
+        "sunati la 112",
+        "eliberati caile aeriene superioare",
+        "compresii toracice",
+        "oprati accidentul si puneti in siguranta victima si pe dumneavoastra",
+        "obtineti accesul la victima"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "prompt": "Oprirea sangerarii se face prin urmatoarele metode, cu exceptia :",
+      "options": [
+        "presiune directa la locul sangararii",
+        "pansament compresiv",
+        "spalare cu apa si sapun",
+        "garou",
+        "ridicarea extremitatii afectate"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "prompt": "Miniexamenul neurologic din evaluarea primara a unei traume cuprinde urmatoarele, cu exceptia :",
+      "options": [
+        "dimensiunea pupilei",
+        "scorul Glasgow",
+        "miscarea membrelor",
+        "evaluare nervi cranieni",
+        "reflexul fotomotor al pupilei"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "prompt": "Resuscitarea volemica primara a unui pacient traumatizat se face prin urmatoarele, cu exceptia :",
+      "options": [
+        "ser fiziologic",
+        "solutii coloidale",
+        "sange grup O Rh-",
+        "presiune directa pentru controlul hemoragiei externe evidente",
+        "glucoza 5%"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "prompt": "Din criteriile pentru transportul unui pacient traumatizat la un centru de trauma fac parte urmatoarele, cu exceptia :",
+      "options": [
+        "GCS<14 sau TAS<90mmHg",
+        "trecerea cu vehiculul peste victima",
+        "pacient constient stabil",
+        "deces in acelasi compartiment cu victima",
+        "plaga penetranta"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "prompt": "Daca un pacient traumatizat are presiunea pulsului scazuta, frecventa cardiaca 120-140/min si tensiunea arteriala scazuta pierderea estimata de sange si lichide este de :",
+      "options": [
+        ">2000ml",
+        "1500-2000ml",
+        "750-1500ml",
+        "nu pierde sange si lichide",
+        "<750ml"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "chapter": "ABUZUL SI AGRESIUNEA",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "prompt": "Probabilitatea de a obtine probele de sperma la victimele unui viol este extrema de scazuta dupa:",
+      "options": [
+        "24 ore",
+        "12 ore",
+        "72 ore",
+        "7 zile"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "prompt": "Urmatoarele afirmatii legate de profilaxia sarcinii la victimele unui viol sunt adevarate, cu exceptia:",
+      "options": [
+        "Este eficienta daca se initiaza in interval de 72 ore",
+        "Se va efectua testul de sarcina pentru identificarea unei sarcini preexistente",
+        "Reactiile secundare includ frecvent greata si voma",
+        "Contraceptia de urgenta are efect chiar daca implantarea ovulului s-a produs deja"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "prompt": "Profilaxia gonoreei la pacienta insarcinata, victima unui viol, se realizeaza prin administrarea de:",
+      "options": [
+        "Eritromicina",
+        "Ofloxacina",
+        "Ceftriaxona",
+        "Amoxicilina"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "prompt": "Profilaxia postexpunere pentru HIV la victimele unui viol este recomandata in cazul:",
+      "options": [
+        "Contactului anal neprotejat cu agresor cu status HIV necunoscut",
+        "Contactului vaginal neprotejat cu agresor cunoscut cu HIV +",
+        "Contactului anal neprotejat cu agresor cunoscut cu HIV+",
+        "Sexului oral fara ejaculare"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "prompt": "Factorii de risc pentru abuzul si violenta din partea partenerului intim includ, cu exceptia:",
+      "options": [
+        "Sexul feminin",
+        "Varsta peste 24 ani",
+        "Venitul familial scazut",
+        "Prezenta copiilor mai mici de 3 ani"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "prompt": "Copil in varsta de 3 ani, este adus in urgenta cu multiple echimoze la nivelul membrelor inferioare, escoriatii si tumefiere la nivelul incheieturilor mainii, cu contuzie scalp frontal stanga si echimoza periorbital stanga. Parintii afirma ca a cazut din pat. Care din urmatoarele este atitudinea corecta si cea mai importanta pentru pacient?",
+      "options": [
+        "Raportarea cazului organelor de politie si Autoritatii pentru Protectia Copilului",
+        "Fermi, dar fara a judeca, le spunem parintilor ca exista discrepanta intre istoric si leziunile copilului",
+        "Evaluare ABC si tratamentul leziunilor grave",
+        "Chemarea oamenilor de ordine pentru a preveni plecarea parintilor"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "prompt": "In departamentul de urgenta este adus un batran de 72 ani, care prezinta multiple echimoze si escoriatii la nivelul membrelor si fetei. Locuieste impreuna cu fiul sau, care il ingrijeste. Urmatoarele constatari privind relatia dintre cei doi sugereaza abuzul, cu exceptia:",
+      "options": [
+        "Pacientul pare sa se teama de fiul sau",
+        "Relatarile pacientului si ale fiului cu privire la leziuni sunt contradictorii",
+        "Fiul nu este deloc preocupat de costurile tratamentului",
+        "Ingrijitorul (fiul) afiseaza o atitudine de indiferenta fata de pacient"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "prompt": "Urmatoarele afirmatii privind pacientul violent sunt adevarate, cu exceptia:",
+      "options": [
+        "Orice pacient cu antecedente de comportament violent trebuie tratat cu precautie",
+        "In majoritatea cazurilor comportamentul violent apare subit",
+        "La pacientul violent, cu varsta peste 40 ani se impune investigarea etiologiei organice",
+        "Cea mai frecventa tulburare functionala legata de comportamentul violent este schizophrenia"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "prompt": "La examenul clinic al copilului prescolar, urmatoarele leziuni nu sugereaza neaparat abuzul fizic:",
+      "options": [
+        "Contuzii multiple in zona inferioara a spatelui",
+        "Echimoze multiple in regiunea anterioara a gleznei",
+        "Contuzii la nivelul incheieturilor mainii",
+        "Laceratii de frenum sau de mucoasa orala"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "prompt": "Agentul antipsihotic de electie utilizat pentru controlul comportamentului violent este:",
+      "options": [
+        "Droperidolul",
+        "Clorpromazina",
+        "Haloperidolul",
+        "Tioridazina"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "chapter": "ANAFILAXIA ŞI REACŢIILE ALERGICE ACUTE (set suplimentar)",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Despre reacţia anafilactică este adevărat faptul că:",
+      "options": [
+        "este cea mai severă formă de reacţie alergică sistemică",
+        "este potenţial letală",
+        "este adeseori asociată cu manifestări respiratorii",
+        "se poate asocia cu manifestări respiratorii",
+        "toate afirmaţiile de mai sus sunt adevărate"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Semnele clinice ale reacţiilor alergice pot include următoarele, cu excepţia:",
+      "options": [
+        "durere abdominală sau crampe",
+        "urticarie difuză",
+        "anurie",
+        "angioedem",
+        "greaţă, vărsături"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Diagnosticul reacţiei anafilactice este stabilit prin următoarele, cu excepţia:",
+      "options": [
+        "pe baza unui istoric evident de expunere, exemplu înţepătura de albină",
+        "prin examen fizic",
+        "trebuie suspicionat în cazul afectării unuia sau două dintre sistemele organismului",
+        "investigaţiile de laborator sunt întotdeauna relevante",
+        "diagnosticul nu este întotdeauna clar sau uşor de stabilit, deoarece debutul simptomelor este întârziat mai mult de o oră într-un mic număr de cazuri"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "În diagnosticul diferenţial al reacţiilor alergice se includ următoarele cu excepţia:",
+      "options": [
+        "crize convulsive",
+        "obstrucţia căilor aeriene cu corpi străini",
+        "reacţii vasovagale",
+        "ischemia miocardică",
+        "EPAC"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Prioritatea numărul unu în managementul de urgenţă al anafilaxiei este:",
+      "options": [
+        "administrarea de corticosteroizi",
+        "administrarea de epinefrină",
+        "acces intravenos",
+        "eliberarea căilor respiratorii",
+        "administrarea de antihistaminice"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Tratamentul de primă linie în anafilaxie include, cu excepţia:",
+      "options": [
+        "administrare de corticosteroizi",
+        "asigurarea permeabilităţii căilor respiratorii şi oxigenarea",
+        "administrarea de adrenalină",
+        "soluţii cristaloide",
+        "întreruperea expunerii la agentul incriminat"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Doza de adrenalină administrată intravenos în cazul reacţiilor anafilactice este:",
+      "options": [
+        "200 μg",
+        "100 μg",
+        "400 μg",
+        "500 μg",
+        "600 μg"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Hipotensiunea arterială asociată reacţiilor anafilactice poate fi combătută prin administrarea unui bolus de ser fiziologic de:",
+      "options": [
+        "1-2 L",
+        "3-4 L",
+        "5-6 L",
+        "250 ml",
+        "500 ml"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Terapia secundară în anafilaxie include, cu excepţia:",
+      "options": [
+        "antihistaminice",
+        "glucagon",
+        "bronhodilatatoare",
+        "adrenalina",
+        "corticosteroizi"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Definiţia anafilaxiei este următoarea:",
+      "options": [
+        "reacţie de hipersensibilitate caracterizată prin implicare multisistemică, care poate include hipotensiune arterială  sau insuficienţă respiratorie acută prin obstrucţia de căi aeriene",
+        "reacţie de hipersensibilitate caracterizată prin implicare multisistemică, care poate include hipertensiune arterială  sau insuficienţă respiratorie acută prin obstrucţia de căi aeriene",
+        "reacţie de hipersensibilitate caracterizată prin implicare multisistemică, care poate include hipotensiune arterială  sau insuficienţă cardiacă",
+        "reacţie de hipersensibilitate caracterizată prin implicare multisistemică, care poate include doar hipotensiune arterială",
+        "reacţie de hipersensibilitate caracterizată prin implicare multisistemică, care poate include doar insuficienţă respiratorie acută prin obstrucţia de căi aeriene"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    }
+  ]
+}

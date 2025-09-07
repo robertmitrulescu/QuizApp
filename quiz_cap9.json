@@ -1,0 +1,143 @@
+{
+  "chapter": "RESUSCITAREA CARDIO-PULMONARA A ADULTULUI SI A COPILULUI",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Dupa primul soc electric extern administrat unui pacient in stop cardio-respirator cu ritm socabil pe monitor, primele gesturi sunt:",
+      "options": [
+        "evaluarea ritmului pe monitor",
+        "evaluarea pulsului central",
+        "resuscitare cardio-pulmonara (30CTE:2V) 2 minute",
+        "administrarea imediata a celui de-al doilea soc electric extern",
+        "5 ventilatii artificiale"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "In fibrilatia ventriculara la adult, primul mg de adrenalina intravenos se administreaza:",
+      "options": [
+        "inainte de a da primul soc electric extern",
+        "inaintea celui de-al treilea soc electric extern",
+        "nu se administreaza in fibrilatia ventriculara deoarece are potential aritmogen",
+        "se administreaza impreuna cu 3 mg de atropina dupa prima defibrilare",
+        "se administreaza la fiecare minut cate 1 mg de adrenalina intravenos"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Doza de adrenalina administrata intratraheal in stopul cardio-respirator este:",
+      "options": [
+        "1 mg diluat in 10 ml glucoza 5%",
+        "10 mg diluat in 10 ml ser fiziologic",
+        "3 mg diluat in 10 ml apa sterila sau ser fiziologic",
+        "5 mg nediluat"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Doza de amiodarona administrata in bolus in fibrilatia ventriculara refractara la 3 socuri electrice externe este:",
+      "options": [
+        "150 mg i.v. bolus urmate de 900 mg in urmatoarele 24 de ore",
+        "10 mg/kgc i.v. bolus",
+        "300 mg i.v. bolus urmate de 900 mg/24 ore",
+        "75 mg i.v."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Urmatoarele afirmatii despre aminofilina sunt adevarate:",
+      "options": [
+        "este inhibitor de fosfodiesteraza cu efect inotrop si cronotrop pozitiv",
+        "se administreaza doza de 5 mg/kgc in bolus lent",
+        "indicata in asistola refractara la atropina",
+        "toate afirmatiile de mai sus sunt adevarate",
+        "nici una dintre afirmatiile a,b,c nu este adevarata"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "In cazul unui copil in stop cardio-respirator secventa de manevre executate de un singur resuscitator este urmatoarea:",
+      "options": [
+        "apel la 112 apoi resuscitare cardio-pulmonara (30 compresii/2 ventilatii)",
+        "5 ventilatii initiale urmate de 1 minut de resuscitare cardio-pulmonara apoi apel la 112",
+        "se efectueaza doar ventilatii artificiale",
+        "se efectueaza doar compresii toracice externe"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Tehnica executarii corecte a compresiilor toracice la nou-nascut este urmatoarea:",
+      "options": [
+        "cu podul unei palme pe stern cu frecventa de 100/min",
+        "cu policele celor doua maini pe stern, „incercuind toracele” cu cele doua maini daca sunt 2 resuscitatori",
+        "cu 2 degete ale aceleiasi maini pe stern, daca este un singur resuscitator",
+        "ca la adult",
+        "variantele b si c sunt corecte",
+        "variantele a si d sunt corecte"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Sondele endotraheale utilizate la copii au urmatoarele dimensiuni",
+      "options": [
+        "2,5-3,5 mm la nou-nascut",
+        "4-4,5 mm la sugari",
+        "Varsta/4+4 la copiii peste 1 an",
+        "nici una dintre afirmatiile de mai sus nu este corecta",
+        "toate afirmatiile de la a,b,c sunt corecte"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Doza de adrenalina administrata la copii intravenos sau intraosos in timpul resuscitarii cardio-pulmonare este",
+      "options": [
+        "1 mcg/kgc",
+        "10 mcg/kgc",
+        "100 mcg/kgc",
+        "1 mg i.v.",
+        "nici una dintre variantele de mai sus nu este corecta"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Energia socurilor electrice externe administrate unui copil in stop cardio-respirator cu ritm socabil pe monitor este:",
+      "options": [
+        "2 J/kgc",
+        "4 J/kgc",
+        "8 J/kgc",
+        "1 J/kgc",
+        "nici una dintre variantele de mai sus nu este corecta"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    }
+  ]
+}

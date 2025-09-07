@@ -1,0 +1,859 @@
+{
+  "chapter": "delir_coma_set",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Cauzele generale de delir sunt urmatoarele, cu exceptia:",
+      "options": [
+        "Afectiune primara intracraniana",
+        "Boli sistemice ce afecteaza in mod secundar sistemul nervos central",
+        "Toxinele exogene",
+        "Insuficienta cardiaca congestiva clasa I NYHA",
+        "Sevrajul medicamentos"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Delirul sau statusul de confuzie acuta se dezvolta:",
+      "options": [
+        "Rapid, in cateva zile",
+        "Cronic, in cateva luni",
+        "Cronic, in cativa ani",
+        "Progresiv de-a lungul vietii",
+        "Toate sunt valabile"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Agitatia nocturna crescuta este cunoscuta frecvent ca :",
+      "options": [
+        "Sindromul de insomnie cronica",
+        "Sindromul de neliniste nocturna",
+        "Sindromul apusului de soare",
+        "Sindromul gambelor nelinistite",
+        "Sindrom de apnee in somn"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "In sindromul de angajare cerebrala pupila dilatata si areaciva este :",
+      "options": [
+        "Contralaterala",
+        "Bilaterala",
+        "Ipsilaterala",
+        "Toate de mai sus",
+        "Nici una nu este valabila"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Urmatoarea afirmatie despre sindromul de herniere centrala este falsa :",
+      "options": [
+        "Apare pierderea progresiva a starii de constienta",
+        "Starea de constienta nu este afectata",
+        "Apare pierderea reflexelor trunchiului cerebral",
+        "Apare postura de decorticare",
+        "Respiratia este neregulata"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Urmatoarele sunt cauze de coma, cu exceptia :",
+      "options": [
+        "Hipoglicemia",
+        "Hipoxia",
+        "Sepsisul",
+        "Ingestia medicamentoasa",
+        "Psihoza"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Urmatoarele sunt elemente ale evaluarii statusului mental, cu exceptia :",
+      "options": [
+        "Comportament si atitudine",
+        "Tulburari de gandire",
+        "Tulburari de perceptie",
+        "Electroencefalograma",
+        "Aprecierea discernamantului"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Urmatoarea afirmatie despre examenul clinic in coma este falsa :",
+      "options": [
+        "In coma toxico-metabolica pacientul poate sa prezinte miscari spontane, care sunt simetrice",
+        "In coma toxico-metabolica reflexul pupilar este in general abolit",
+        "Hipertensiunea si bradicardia la un pacient comatos pot fi determinate de reflexul Cushing determinat de hipertensiune intracraniana",
+        "Coma determinata de leziuni ale emisferelor se poate prezenta cu hemipareza progresiva sau tonus muscular si reflexe asimetrice",
+        "In coma datorata hemoragiei pontine pupilele punctiforme sunt semnul caracteristic"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Urmatoarea afirmatie despre tratamentul hipertensiunii intracraniene este falsa :",
+      "options": [
+        "Orice stimul nociv poate conduce la cresterea presiunii intracraniene",
+        "Se recomanda mentinerea capului la 30 grade, pe linia mediana pentru a ajuta drenajul venos",
+        "In edemul cerebral asociat cu tumora dexametazona este contraindicata",
+        "Diureticele osmotice de tipul manitolului (0,5 pana la 1g/kgcorp) pot reduce temporar presiunea intracraniana",
+        "Hiperventilatia cu reducerea presiunii partiale a CO2 va micsora temporar presiunea intracraniana"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Urmatoarele cauze dau dementa degenerativa :",
+      "options": [
+        "Boala Parkinson",
+        "Hematomul subdural",
+        "Encefalita virala",
+        "Lupusul eritematos sistemic",
+        "Uremia"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "prompt": "Urmatoarele cauze generale pot declansa delir, cu EXCEPTIA:",
+      "options": [
+        "Afectiune primara intracraniana",
+        "Boli sistemice ce afecteaza in mod secundar SNC",
+        "Hipertensiune arteriala esentiala controlata terapeutic",
+        "Toxine endogene",
+        "Sevrajul medicamentos"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "prompt": "Indicati care este afirmatia corecta:",
+      "options": [
+        "In timpul delirului starea de constienta nu este alterata",
+        "Delirul are intotdeauna o cauza organica",
+        "Delirul debuteaza insidios",
+        "In timpul delirului nu pot sa apara halucinatii",
+        "Nici una din cele de mai sus"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "prompt": "In cazul unui pacient ce prezinta delir pot aparea:",
+      "options": [
+        "Asterix",
+        "Tremor",
+        "Hipertensiune arteriala",
+        "Nici una din cele de mai sus",
+        "Toate cele de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "prompt": "Pentru a diagnostica delirul:",
+      "options": [
+        "Este obligatoriu un consult psihiatric",
+        "Nu sunt necesare investigatii paraclinice",
+        "Anamneza minutioasa a pacientului si a familiei acestuia poate pune diagnosticul",
+        "Diagnosticarea unei infectii exclude diagnosticul de delir",
+        "Tratamentul administrat in ambulator pacientului nu este important"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "prompt": "Un pacient cu delir:",
+      "options": [
+        "Poate fi trimis acasa",
+        "Nu are nevoie de tratament",
+        "Nu reprezinta o urgenta medicala",
+        "Trebuie administrat tratament specific cauzei",
+        "Nici una din cele de mai sus"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "prompt": "Alterarea statusului mental:",
+      "options": [
+        "Este ireversibila",
+        "Presupune numai afectarea memoriei",
+        "Nu apare niciodata secundar unei cauze generale",
+        "Trebuie cautata numai o afectiune organica",
+        "Poate fi urmarea unor dezechilibre metabolice"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "prompt": "In cazul dementei din Boala Alzheimer:",
+      "options": [
+        "Scade numarul de neuroni din cortexul cerebral",
+        "Debutul este acut",
+        "Este afectata in special memoria de lunga durata",
+        "Trebuie internat obligatoriu",
+        "Toate cele de mai sus"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "prompt": "In cazul comei:",
+      "options": [
+        "Debutul comei este intotdeauna brusc",
+        "Afectarea circulatiei intracerebrale este nu influenteaza starea de constienta",
+        "Pentru instalaea comei este obligatorie afectarea ambelor emisfere cerebrale sau a trunchiului cerebral",
+        "Nu apare niciodata in accidentele vasculare unilaterale",
+        "Presiunea arteriala medie nu influenteaza niciodata starea de constienta"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "prompt": "Pierderea starii de constienta, pierderea reflexelor trunchiului cerebral, postura de decorticare si respiratia neregulata caracterizeaza:",
+      "options": [
+        "coma hipoxica",
+        "coma etanolica",
+        "sindromul de herniere centrala",
+        "sindromul de angajare uncala",
+        "nici una din cele de mai sus"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "prompt": "Afectarea cerebrala supratentoriala determina:",
+      "options": [
+        "hemipareza",
+        "tonus muscular crescut la nivelul hemicorpului afectat",
+        "reflexe asimetrice",
+        "toate cele de mai sus",
+        "nici una din cele de mai sus"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 21,
+      "type": "single",
+      "prompt": "Leziunile infratentoriale:",
+      "options": [
+        "pot fi reprezentate de accidente vasculare cerebrale de fosa posterioara",
+        "pot duce la instalarea rapida a comei",
+        "pot determina absenta reflexelor pupilare si ale miscarilor extraoculare",
+        "toate cele de mai sus",
+        "nici una din cele de mai sus"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 22,
+      "type": "single",
+      "prompt": "Cauze generale de delir:",
+      "options": [
+        "afectiune primara intracraniana",
+        "toxine exogene",
+        "sevrajul medicamentos",
+        "b sistemice ce afecteaza in mod secundar SNC",
+        "toate"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 23,
+      "type": "single",
+      "prompt": "Cauze de delir indus medicamentos la pacientii varstnici:",
+      "options": [
+        "antihistaminice",
+        "agenti antiparkinsonieni",
+        "digoxin",
+        "relaxanti musculari",
+        "toate"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 24,
+      "type": "single",
+      "prompt": "Cauze metabolice ale delirului la pacientii in varsta:",
+      "options": [
+        "hipoglicemia",
+        "ingestia de alcool",
+        "afectiuni tiroidiene",
+        "anomalii electrolitice",
+        "toate"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 25,
+      "type": "single",
+      "prompt": "Cauze cardiopulmonare ale delirului la pacientii in varsta:",
+      "options": [
+        "insuficienta cardiaca congestiva",
+        "infarctul miocardic",
+        "embolia pulmonara",
+        "hipoxia sau narcoza CO2",
+        "toate"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 26,
+      "type": "single",
+      "prompt": "Sindromul de herniere centrala este caracterizat prin:",
+      "options": [
+        "pierderea progresiva starii de constienta",
+        "pierderea reflexelor de trunchi cerebral",
+        "postura de decorticare",
+        "respiratia neregulata",
+        "toate"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 27,
+      "type": "single",
+      "prompt": "Cauze de dementa pot fi:",
+      "options": [
+        "vasculare",
+        "degenerative",
+        "infectioase",
+        "inflamatorii",
+        "toate"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 28,
+      "type": "single",
+      "prompt": "Fluxul sangvin cerebral se mentine constant la TAM intre:",
+      "options": [
+        "50 - 75 mm Hg",
+        "50 - 100 mm Hg",
+        "50 – 150 mm Hg",
+        "100 - 150 mm Hg",
+        "100 – 200 mm Hg"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 29,
+      "type": "single",
+      "prompt": "Reflexul Cushing determinat de cresterea PIC este reprezentat de:",
+      "options": [
+        "hipotensiune si bradicardie",
+        "hipertensiune si bradicardie",
+        "hipertensiune si tahicardie",
+        "hipotensiune si tahicardie",
+        "bradicardie si varsatura"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 30,
+      "type": "single",
+      "prompt": "Semnul caracteristic pt hemoragia pontina este:",
+      "options": [
+        "pupile dilatate",
+        "tonus muscular flasc",
+        "pupile punctiforme",
+        "tetrapareza",
+        "nici unul"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 31,
+      "type": "single",
+      "prompt": "Metode de scadere a PIC crescute sunt cu exceptia:",
+      "options": [
+        "capul ridicat la 30 de grade",
+        "curarizarea si sedarea",
+        "diureticele osmotice",
+        "corticosteroizii",
+        "hipoventilatia"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 32,
+      "type": "single",
+      "prompt": "Delirul NU are ca şi cauze:",
+      "options": [
+        "toxinele endogene",
+        "afecţiune primară intracraniană",
+        "întotdeauna are cauze organice",
+        "sevrajul medicamentos",
+        "boli sistemice care afectează în mod secundar SNC"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 33,
+      "type": "single",
+      "prompt": "Delirul NU prezintă:",
+      "options": [
+        "tremor",
+        "debut brusc",
+        "halucinaţii vizuale şi/sau auditive",
+        "asterixis",
+        "reducerea stării de conştienţ"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 34,
+      "type": "single",
+      "prompt": "Demenţa prezintă:",
+      "options": [
+        "stare de conştienţă afectată",
+        "afectarea atenţiei",
+        "prezenţa constantă de mişcări patologice",
+        "debut în decursul mai multor zile",
+        "frecvent prezintă iluzii"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 35,
+      "type": "single",
+      "prompt": "Demenţa:",
+      "options": [
+        "“păstrează” amintirile apropiate",
+        "debutul se caracterizează prin afectarea abilităţilor motorii",
+        "se pierd abilităţile verbale",
+        "afectarea memoriei este graduală şi progresivă",
+        "pacientul are comportament social adecvat"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 36,
+      "type": "single",
+      "prompt": "Demenţa vasculară  NU prezintă:",
+      "options": [
+        "relaţie temporală cu accidentul vascular",
+        "evoluţie fluctuantă, treptată",
+        "apare la scurt  timp după deteriorarea abruptă a memoriei",
+        "necesită prezenţa unor semne de afecţiune  cerebrovasculară",
+        "nu este însoţită de afectarea abilităţilor cognitive"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 37,
+      "type": "single",
+      "prompt": "Hidrocefalia cu presiune normală NU se caracterizează prin:",
+      "options": [
+        "la TC ventriculii cerebrali au dimensiuni normale",
+        "poate impune o încercare de şuntare ventriculară",
+        "poate apare incontinenţa urinară",
+        "pot apare îmbunătăţiri în evoluţia clinică a pacienţilor",
+        "pot apare tulburări de mers"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 38,
+      "type": "single",
+      "prompt": "În sindromul de angajare cerebrală poate apare:",
+      "options": [
+        "postura de decerebrare",
+        "somnolenţa progresivă",
+        "respiraţie regulată",
+        "agitaţie extremă",
+        "pupila contralaterală areactivă"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 39,
+      "type": "single",
+      "prompt": "În coma toxico-metabolică pacientul prezintă:",
+      "options": [
+        "pupile miotice, areactive",
+        "hemiplegie",
+        "mişcări spontane",
+        "mişcări extraoculare asimetrice",
+        "convulsii tonico-clonice"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 40,
+      "type": "single",
+      "prompt": "În leziunile fosei posterioare:",
+      "options": [
+        "simptomele se instalează insidios",
+        "reflexele pupilare sunt păstrate",
+        "reflexele se păstrează pănă în stadiile preterminale",
+        "coma apare brusc",
+        "poate apare o poziţie de flexie anormală"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 41,
+      "type": "single",
+      "prompt": "Coma determinată de leziuni ale emisferelor sau de formaţiuni supratentoriale:",
+      "options": [
+        "poate apare cu hemiplegie progresivă",
+        "reflexele sunt simetrice",
+        "posturile de flexie/extensie sunt asimetrice",
+        "tonus muscular simetric",
+        "răspuns simetric la stimuli"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 42,
+      "type": "single",
+      "prompt": "Pacientii care par ca dorm sunt cei :",
+      "options": [
+        "Cu stare confuzionala",
+        "Cu sindromul “locked-in”",
+        "In stare catatonica",
+        "Cu mutism akinetic",
+        "Comatosi"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 43,
+      "type": "single",
+      "prompt": "Cauze ale alterarii statusului mental sunt urmatoarele, cu o exceptie:",
+      "options": [
+        "toxinele (alcoolul si drogurile ilicite)",
+        "intreruperea aportului de oxigen la creier pentru cel putin 10 secunde",
+        "scaderea marcata a glicemiei",
+        "leziuni focale la nivelul unui hemicortex",
+        "leziuni cu efect de masa supratentoriale"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 44,
+      "type": "single",
+      "prompt": "In cazul unei come de etiologie necunoscuta, se considera standard administrarea intravenoasa de:",
+      "options": [
+        "Glucoza, tiamina, naloxona",
+        "Manitol 20%",
+        "Furosemid",
+        "Repletie volemica 2000ml",
+        "Flumazenil"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 45,
+      "type": "single",
+      "prompt": "Scala Glasgow este utila in come pentru:",
+      "options": [
+        "a stabili cu precizie nivelul leziunii",
+        "a evalua severitatea leziunii si a necesitatii unei interventii rapide",
+        "a evalua prognosticul postoperator",
+        "a diferentia afectiunile vasculare de cele metabolice",
+        "a stabili o relatie intre leziunea cerebrala si pattern-ul respirator"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 46,
+      "type": "single",
+      "prompt": "Examinarea pupilelor in statusul mental alterat va arata",
+      "options": [
+        "midriaza unilaterala fixa areactiva ca semn sigur de leziune cu efect de masa intracraniana",
+        "modificari ale pupilelor in afectiunile metabolice",
+        "examinarea pupilelor va fi interpretata in contextul examenului general neurologic",
+        " modificari ale dimensiunilor si reactivitatii indiferent de tipul de leziune cerebrala",
+        "Nu este necesara examinarea pupilelor"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 47,
+      "type": "single",
+      "prompt": "Dintre examenele paraclinice si de laborator in come:",
+      "options": [
+        "Electroencefalograma este utila in cazul pacientilor instabili",
+        "Este important de determinat glicemia",
+        "Hipo sau hipernatremia nu au efect asupra statusului mental",
+        "Screening-ul toxicologic este mai util de efectuat in leziunile focale",
+        "Determinarea gazelor sanguine se va face doar la pacientii cunoscuti cu bronsita cronica obstructiva"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 48,
+      "type": "single",
+      "prompt": "In examinarea generala a pacientului comatos sunt adevarate urmatoarele, cu  o exceptie",
+      "options": [
+        "monitorizarea cardiaca este utila pentru depistarea unor tulburari de ritm (bradicardii sau aritmii ventriculare)",
+        "trebuie cautate cu atentie eventualele urme de trauma",
+        "prezenta halenei etanolice poate fi utila in determinarea etiologiei comei",
+        "tahipneea este intotdeauna un semn de leziune de sistem nervos central",
+        "urmele de punctie intravenoasa recente pot sugera etiologie toxica a comei"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 49,
+      "type": "single",
+      "prompt": "Dintre examenele paraclinice si de laborator in come:",
+      "options": [
+        "Punctia lombara este indicata in caz de leziune infectioasa non-focala a SNC",
+        "Punctia lombara nu are contraindicatii",
+        "Examenul CT cerebral detecteaza leziuni intracraniene dar nu si fracturi ale craniului",
+        "Nu sunt necesare radiografii de coloana cervicala",
+        "Examenul cel mai util  este RMN-ul"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 50,
+      "type": "single",
+      "prompt": "Leziuni supratentoriale focale care pot fi cauza coma sunt urmatoarele cu  o exceptie",
+      "options": [
+        "hematoame subdurale",
+        "hematoame epidurale acute",
+        "hemoragia intraventriculara",
+        "accidentele vasculare cerebrale hemoragice",
+        "ocluzia de artera bazilara"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 51,
+      "type": "single",
+      "prompt": "Un nivel scazut al glucozei la un pacient comatos poate semnifica una din urmatoarele afectiuni, cu o exceptie:",
+      "options": [
+        "diabet zaharat",
+        "tumora pancreatica",
+        "alcoolism cronic si boala hepatica",
+        "intoxicatie cu antidiabetice orale",
+        "hipertiroidie"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 52,
+      "type": "single",
+      "prompt": "Cauzele generale ale delirului sunt urmatoarele, cu o exceptie",
+      "options": [
+        "afectiune primara intracraniana",
+        "boli sistemice ce afecteaza secundar sistemul nervos central",
+        "toxine exogene",
+        "sevrajul medicamentos",
+        "criza tireotoxica"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 53,
+      "type": "single",
+      "prompt": "In statusul de confuzie acuta este mai putin probabil:",
+      "options": [
+        "sa apara o distorsionare de diferite grade a atentiei, perceptiei, gandirii, memoriei",
+        "pacientul sa prezinte dificultatea mantinerii atentiei si concentrarii",
+        "sa apara somnolenta crescuta in timpul noptii cu perioade de agitatie in timpul zilei",
+        "sa apare tahicardie, tremor, transpiratii, izbucniri emotionale",
+        "halucinatiile sunt mai ales vizuale"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 54,
+      "type": "single",
+      "prompt": "Pentru confirmarea diagnosticului de delir:",
+      "options": [
+        "este de mica importanta istoricul pacientului",
+        "nu este de mentionat istoricul medicamentos al pacientului",
+        "nu sunt necesare teste auxiliare si de laborator",
+        "examenul CT cerebral nu ofera informatii utile",
+        "debutul deficitelor de atentie este acut, ca si al anomaliilor cognitive, cu severitate fluctuanta pe parcursul zilei si cu agravare in timpul noptii"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 55,
+      "type": "single",
+      "prompt": "In delir:",
+      "options": [
+        "debutul este brutal",
+        "simptomele sunt stabile pe parcursul zilei",
+        "starea de constienta este redusa",
+        "nu apar halucinatii",
+        "nu apar asterixul sau tremorul"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 56,
+      "type": "single",
+      "prompt": "Mini-testul statusului mental nu evalueaza",
+      "options": [
+        "starea generala a pacientului, boli asociate",
+        "orientarea",
+        "atentia si calculul",
+        "limbajul",
+        "reamintirea"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 57,
+      "type": "single",
+      "prompt": "In cazul pacientilor cu dementa, acestia",
+      "options": [
+        "nu gresesc identitatea membrilor familiei",
+        "au un debut brusc al afectiunii",
+        " au simptome comportamentale care pot tulbura atmosfera casnica",
+        " nu prezinta tulburari de comportament",
+        " au pastrat abilitatile cognitive"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 58,
+      "type": "single",
+      "prompt": "Cauze ale dementei pot fi urmatoarele, cu 1 exceptie:",
+      "options": [
+        "degenerative",
+        "vasculare",
+        "metabolice",
+        "reactii postanestezice",
+        "toxice"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 59,
+      "type": "single",
+      "prompt": "Un debut brutal al comei poate aparea in urmatoarele cazuri, cu  o exceptie",
+      "options": [
+        "supradozajul de popiacee",
+        "hiperglicemia",
+        "accidentul vascular cerebral hemoragic",
+        "crizele convulsive",
+        "hipoglicemia"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 60,
+      "type": "single",
+      "prompt": "Dintre cauzele posibile ale comei, nu se poate enumera",
+      "options": [
+        "hipertensiunea arteriala necomplicata",
+        "toxinele",
+        "diselectrolitemiile",
+        "infectiile SNC",
+        "hipo/hipertermia"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 61,
+      "type": "single",
+      "prompt": "In evaluarea unui pacient comatos in urgenta sunt importante urmatoarele investigatii, mai putin una:",
+      "options": [
+        "nivelul glicemiei",
+        "EEG",
+        "ionograma serica",
+        "examenul CT cerebral",
+        "evaluarea nervilor cranieni"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    }
+  ]
+}

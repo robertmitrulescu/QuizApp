@@ -1,0 +1,265 @@
+{
+  "chapter": "SEDAREA ȘI ANALGEZIA",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "În clasificarea statusului fizic ASA, clasa III presupune:",
+      "options": [
+        "pacient normal, sănătos",
+        "boli sistemice ușoare: astm bronșic, diabet zaharat echilibrat",
+        "boală sistemică moderată: angină stabilă, diabet zaharat cu hiperglicemie, BPCO moderat",
+        "boală sistemică severă: angină instabilă, cetoacidoză diabetică"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Nu este efect advers al opioidelor:",
+      "options": [
+        "constipația",
+        "pruritul",
+        "depresia respiratorie",
+        "efectul antitusiv"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Doza de Fentanyl folosită în PSA este:",
+      "options": [
+        "1-2 mg/kgc",
+        "0,1 mg/kgc",
+        "0,2 mg/kgc",
+        "10-20 mg/kgc"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Efectul Morfinei poate dura până la:",
+      "options": [
+        "1 h",
+        "4-6 h",
+        "2 h",
+        "30 minute"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Efectul maxim al etomidatului se instalează în:",
+      "options": [
+        "20-30 secunde",
+        "1-2 minute",
+        "5-6 minute",
+        "30-60 secunde"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Este afirmație corectă:",
+      "options": [
+        "Midazolamul se leagă strâns de proteine",
+        "efectul Midazolamului durează 4-6 h",
+        "consumatorii cronici de alcool, fără ciroză hepatică, pot necesita doze relativ mari de Midazolam pentru efectul dorit",
+        "efectul Midazolamului se instalează după 5-10 minute"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Nu este afirmație corectă despre Etomidat:",
+      "options": [
+        "Etomidatul nu produce alterare hemodinamică",
+        "Etomidatul nu produce alterarea fluxului sangvin cerebral",
+        "Etomidatul nu produce alterarea oxigenării coronariene",
+        "Etomidatul produce depresie respiratorie"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Despre ketamină:",
+      "options": [
+        "are efect direct vasodilatator și deprimant cardiac",
+        "stimulează fluxul simpatic la nivelul SNC, producând tahicardie și vasoconstricție",
+        "la nivel pulmonar, produce bronhodilatație și bronhoree",
+        "toate răspunsurile sunt corecte"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Riscurile administrării AINS în trauma majoră sunt reprezentate de:",
+      "options": [
+        "sângerare excesivă datorită disfuncției plachetare și ulcerului de stres gastric",
+        "insuficiență renală acută la pacienții hipovolemici",
+        "ambele răspunsuri sunt corecte",
+        "nici un răspuns nu este corect"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Doza equipotentă de Fentanyl, raportată la morfină, administrată intravenos este:",
+      "options": [
+        "0,1",
+        "0,01",
+        "1",
+        "10"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "prompt": "Absorbția anestezicelor locale depinde de vascularizația regiunii și este, de la cea mai rapidă la cea mai lentă:",
+      "options": [
+        "intercostal/intratraheal > epidural/caudal > plexul brahial > mucoasă > nervii periferici > subcutanat",
+        "intercostal/intratraheal > plexul brahial > mucoasă > epidural/caudal > nervii periferici > subcutanat",
+        "intercostal/intratraheal > mucoasă > subcutanat > plexul brahial > epidural/caudal > nervii periferici",
+        "subcutanat > nervii periferici > mucoasă > plexul brahial > epidural/caudal > intercostal/intratraheal"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "prompt": "Doza de anestezic local recomandată pentru blocul intercostal este:",
+      "options": [
+        "jumătate din doza pentru blocurile periferice",
+        "1/3 din doza pentru blocurile periferice",
+        "1/10 din doza pentru blocurile periferice",
+        "1/5 din doza pentru blocurile periferice"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "prompt": "Toxicitatea sistemică a anestezicelor locale este augmentată de:",
+      "options": [
+        "hipercarbie",
+        "hipoxemie",
+        "acidoză",
+        "toate răspunsurile sunt corecte"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "prompt": "Convulsiile, ca efect al anestezicelor locale, ar trebui privite ca un semn de avertizare pentru iminența producerii:",
+      "options": [
+        "stopului respirator",
+        "colapsului vascular și a aritmiilor ventriculare",
+        "șocului",
+        "statusului convulsiv"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "prompt": "Bupivacaina este contraindicată pentru:",
+      "options": [
+        "blocul periferic",
+        "aplicații directe",
+        "anestezia intravenoasă regională",
+        "nici un răspuns nu este corect"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "prompt": "Toxicitatea anestezicelor locale asupra cordului se realizează prin:",
+      "options": [
+        "blocarea canalelor de Ca",
+        "blocarea canalelor de Na",
+        "consumarea rezervelor energetice celulare",
+        "apoptoză"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "prompt": "Corticosteroizii sunt analgezice excelente pentru durerea viscerală din:",
+      "options": [
+        "patologia ortopedică și neuropatii",
+        "infarctul miocardic acut",
+        "pericardita acută",
+        "pneumotorax"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "prompt": "Pacientul agitat cu TCC închis are contraindicație pentru administrarea:",
+      "options": [
+        "dormicumului",
+        "thiopentalului",
+        "propofolului",
+        "ketaminei"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "prompt": "Pacientului politraumatizat, cu șoc hipovolemic, ce necesită sedare în vederea efectuării CT de abdomen, i se va administra:",
+      "options": [
+        "propofol",
+        "thiopental",
+        "etomidat",
+        "fentanyl"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "prompt": "Pacientul cu BPCO, cu insuficiență respiratorie ușoară, ce necesită sedare, va beneficia, dacă nu există alte contraindicații, de:",
+      "options": [
+        "fentanyl",
+        "ketamină",
+        "diazepam",
+        "morfina"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    }
+  ]
+}

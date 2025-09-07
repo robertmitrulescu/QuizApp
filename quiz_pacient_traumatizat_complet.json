@@ -1,0 +1,845 @@
+{
+  "chapter": "Abordarea inițială a pacientului traumatizat (din tabel)",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "prompt": "In evaluarea primara sunt rapid evaluate urmatoarele cu exceptia:",
+      "options": [
+        "Mentinerea permeabilitatii cailor aeriene concomitent cu controlul coloanei cervicale",
+        "Respiratie/ventilatie",
+        "Circulatie cu controlul hemoragiei",
+        "Disabilitate neurologica",
+        "Are ca scop identificarea nu si tratarea leziunilor amenintatoare de viata"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "prompt": "Urmatoarea afirmatie despre evaluarea primara este falsa:",
+      "options": [
+        "Este rapid efectuata",
+        "Are scopul de a identifica si trata cauzele amenintatoare de viata",
+        "Precede evaluarea secundara",
+        "Este efectuata concomitent cu evaluarea secundara pentru a confirma diagnosticul",
+        "Atunci cand este disponibil un istoric obtinut de la pacient, martori poate oferi informatii importante in legatura cu circumstantele producerii leziunii, probleme medicale sau medicamente"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "prompt": "Evaluarea cailor respiratorii cuprinde urmatoarele elemente, cu exceptia :",
+      "options": [
+        "Inspectia cu privire la corpi straini sau fracturi maxilo-faciale care pot duce la obstructia cailor aeriene",
+        "Ridicarea mandibulei sau propulsia mandibulei sau inserarea unui tub nazo- sau orofaringian in cazul unui pacient cu efort respirator crescut",
+        "Pacientii in coma trebuie intubati traheal pentru a proteja caile respiartorii",
+        "Identificarea pneumotoraxului, hemotoraxului, volet costal sau plaga penetranta toracica ce au risc letal imediat",
+        "Mentinerea permeabilitatii cailor aeriene se efctueaza concomitent cu controlul coloanei cervicale"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "prompt": "Urmatoarea afirmatie despre pneumotoraxul sufocant este adevarata :",
+      "options": [
+        "Nu este o leziune amenintatoare de viata",
+        "Diagnosticul se pune pe baza examenului clinic si impune decompresia pe ac",
+        "Tratamentul este medical",
+        "Diagnosticul se pune numai dupa efectuarea rediografiei de torace",
+        "Tratamentul este chirurgical si presupune efectuarea toracomiei de urgenta"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "prompt": "Problemele letale specifice care trebuiesc identificate si tratate in timpul evaluarii primare sunt :",
+      "options": [
+        "Obstructia de cai aeriene",
+        "Pneumotoraxul sufocant",
+        "Tamponada cardiaca",
+        "Voletul costal",
+        "Toate de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "prompt": "Evaluarea statusului hemodinamic in cursul evaluarii primare, la pacientul traumatizat include :",
+      "options": [
+        "Aprecierea nivelului de constienta",
+        "Determinarea hemoglobinei",
+        "Determinarea hematocritului",
+        "Aprecierea dimensiunii pupilare si reactivitatea lor",
+        "Determinarea in dinamica a hemoglo binei"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "prompt": "Urmatoarea afirmatie despre evaluarea circulatiei in cadrul evaluarii primare a pacientului traumatizat este falsa:",
+      "options": [
+        "Montarea a 2 linii venoase de calibru mare",
+        "Aplicare de presiune la nivelul plagilor cu hemoragie semnificativa",
+        "Se incepe cu perfuzarea de solutii coloide",
+        "Se incepe cu perfuzarea de solutii cristaloide",
+        "Dupa administrarea a 2l de solutii cristaloide se incepe transfuzia sanguina daca pacientul este inca hipovolemic"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "prompt": "Urmatoarea afirmatie despre tamponada cardiaca este falsa :",
+      "options": [
+        "Este o leziune amenintatoare de viata",
+        "Tratamentul de urgenta presupune pericardiocenteza",
+        "Clinic apare turgescenta jugularelor, hipertensiune arteriala si agitatie psihomotorie",
+        "Este o cauza de hipotensiune la pacientul traumatizat",
+        "Ecocardiografia evidentiaza lichidul in cavitatea pericardica"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "prompt": "Evaluarea secundara a pacientului traumatizat presupune:",
+      "options": [
+        "O invetariere completa a leziunilor realizata pentru a stabili prioritatile ulterioare",
+        "Imobilizarea fracturilor",
+        "Administrarea terapiei antitetanice",
+        "Montarea sondei nazogastrice si a sodei Foley",
+        "Toate de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "prompt": "Urmatoarea afiramatie despre evaluarea statusului neurologic la pacientul politraumatizat este falsa :",
+      "options": [
+        "Se face in cadrul evaluarii secundare",
+        "Se evalueza nivelul de constienta, dimensiunea si reactivitatea pupilara si functia motorie",
+        "Pacientii comatosi se intubeaza cu imobilizarea gatului si aliniament neutru",
+        "Se face in cadrul evaluarii primare",
+        "Scala de coma Glasgow poate fi folosita pentru a determina severitatea leziunii si astfel urgenta cu care trebuie obtinuta o scanare CT"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "prompt": "In cadrul evaluarii primare a unui traumatism trebuie identificate urmatoarele afectiuni amenintatoare de viata, cu exceptia:",
+      "options": [
+        "hemoragia masiva",
+        "tamponada cardiaca",
+        "pneumotoraxul deschis",
+        "obstructia de cai aeriene",
+        "fractura de stern"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "prompt": "Deschiderea cailor aeriene in trauma se face prin una din urmatoarele metode, cu exceptia:",
+      "options": [
+        "ridicarea barbiei",
+        "subluxatia mandibulei",
+        "aspirarea de secretii din orofaringe",
+        "hiperextensia capului",
+        "IOT"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "prompt": "Examinati un pacient traumatizat la care se evidentiaza plaga toracica prin care iese aer. Tratamentul initial consta in:",
+      "options": [
+        "pleurostomie",
+        "bandaj ocluziv pe 3 laturi",
+        "IOT",
+        "bandaj ocluziv pe 4 laturi",
+        "toracocenteza pe ac"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "prompt": "In cadrul evaluarii primare a unui traumatism ne intereseaza, cu exceptia:",
+      "options": [
+        "pulsul periferic",
+        "tensiunea arteriala",
+        "alura ventriculara",
+        "hemoragia externa evidenta",
+        "caracterul pulsului periferic"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "prompt": "Sunteti trimisi la un accident. Care ester primul gest pe care-l faceti?:",
+      "options": [
+        "sunati la 112",
+        "eliberati caile aeriene superioare",
+        "compresii toracice",
+        "opriti accidentul si puneti in siguranta victima si pe dumneavoastra",
+        "obtineti accesul la victima"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "prompt": "Oprirea sangerarii se face prin urmatoarele metode, cu exceptia :",
+      "options": [
+        "presiune directa la locul sangararii",
+        "pansament compresiv",
+        "spalare cu apa si sapun",
+        "garou",
+        "ridicarea extremitatii afectate"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "prompt": "Miniexamenul neurologic din evaluarea primara a unei traume cuprinde urmatoarele, cu exceptia :",
+      "options": [
+        "dimensiunea pupilei",
+        "scorul Glasgow",
+        "miscarea membrelor",
+        "evaluare nervi cranieni",
+        "reflexul fotomotor al pupilei"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "prompt": "Resuscitarea volemica primara a unui pacient traumatizat se face prin urmatoarele, cu exceptia :",
+      "options": [
+        "ser fiziologic",
+        "solutii coloidale",
+        "sange grup O Rh-",
+        "presiune directa pentru controlul hemoragiei externe evidente",
+        "glucoza 5%"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "prompt": "Din criteriile pentru transportul unui pacient traumatizat la un centru de trauma fac parte urmatoarele, cu exceptia :",
+      "options": [
+        "GCS<14 sau TAS<90mmHg",
+        "trecerea cu vehiculul peste victima",
+        "pacient constient stabil",
+        "deces in acelasi compartiment cu victima",
+        "plaga penetranta"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "prompt": "Daca un pacient traumatizat are presiunea pulsului scazuta, frecventa cardiaca 120-140/min si tensiunea arteriala scazuta pierderea estimata de sange si lichide este de :",
+      "options": [
+        ">2000ml",
+        "1500-2000ml",
+        "750-1500ml",
+        "nu pierde sange si lichide",
+        "<750ml"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "prompt": "Primul vârf de mortalitate (în prespital) apare din cauza leziunilor:",
+      "options": [
+        "Vasculare.",
+        "Cerebrale.",
+        "Pulmonare.",
+        "Craniene şi vasculare.",
+        "Toracice."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "prompt": "Nu este leziune potenţial letală identificabilă la examinarea primară:",
+      "options": [
+        "Hemopericardul.",
+        "Pneumotoraxul sufocant.",
+        "Obstrucţia de căi aeriene.",
+        "Hemoragia masivă.",
+        "Pneumotoraxul deschis."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "prompt": "Nu este criteriu necesar clasificării pentru centru de traumă nivel I:",
+      "options": [
+        "Toate specialităţile chirurgicale.",
+        "Hemodializă.",
+        "Neuroradiologie.",
+        "Cercetare în traumatologie.",
+        "Posibilităţi de transfer rapid."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "prompt": "Nu face parte din criteriile Maryland de transfer  obligatoriu la centru de traumă:",
+      "options": [
+        "Încarcerarea.",
+        "Extremitate compromisă neurovascular.",
+        "Etilismul acut.",
+        "Expunere la suflu de explozie.",
+        "Suspiciune fractură pelvină."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "prompt": "Nu face parte din criteriile de excludere a efectuării de radiografii de coloană cervicală:",
+      "options": [
+        "Absenţa leziunilor neurologice.",
+        "Status mental alterat.",
+        "Absenţa sensibilităţii pe linia mediană a coloanei cervicale.",
+        "Absenţa altor leziuni dureroase care să distragă atenţia.",
+        "Absenţa intoxicaţiei."
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 26,
+      "type": "multiple_choice",
+      "prompt": "Dacă un pacient politraumatizat nu se ameliorează hemodinamic semnificativ după resuscitare volemică cu 2 l de cristaloizi este indicat:",
+      "options": [
+        "Montarea unei linii venoase centrale.",
+        "Determinarea lactatului seric.",
+        "Transfuzie sânge 0 Rh negativ.",
+        "Puncţie-lavaj peritoneală.",
+        "Sedare şi analgezie."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "prompt": "Nu face parte din semnele tamponadei cardiace:",
+      "options": [
+        "Distensia venelor jugulare.",
+        "Hipotensiune.",
+        "Bradicardia.",
+        "Zgomote cardiace asurzite.",
+        "Agitaţie."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 28,
+      "type": "multiple_choice",
+      "prompt": "Nu face parte din simptomatologia pneumotoraxului în tensiune:",
+      "options": [
+        "Timpanism toracic.",
+        "Jugulare turgescente.",
+        "Crepitaţii costale.",
+        "Trahee deviată.",
+        "Hipotensiune."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "prompt": "Nu este caracteristic unei hemoragii clasa II în stadiul iniţial:",
+      "options": [
+        "O pierdere de sânge de 1 litru.",
+        "Frecvenţa cardiacă de 120/min.",
+        "Conştienţă nealterată.",
+        "Tensiune scăzută.",
+        "Presiunea pulsului scăzută."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 30,
+      "type": "multiple_choice",
+      "prompt": "În examinarea echografică FAST se examinează următoarele zone pentru a pune în evidenţă lichid, cu excepţia:",
+      "options": [
+        "Pericard.",
+        "Recesul hepato-renal (Morrison).",
+        "Hipogastrul.",
+        "Perisplenic.",
+        "În interiorul anselor intestinale."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 31,
+      "type": "multiple_choice",
+      "prompt": "Pierderile estimate de lichide si sange din clasa II (750-1500 ml) se caracterizeaza prin:",
+      "options": [
+        "pierdere de sange (% volum sanguin) = 15-30",
+        "frecventa cardiaca : 100-120",
+        "tensiune arteriala: normala",
+        "presiunea pulsului: scazuta",
+        "toate variantele de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 32,
+      "type": "multiple_choice",
+      "prompt": "Pierderile estimate de lichide si sange din clasa IV (>2000 ml) se caracterizeaza prin:",
+      "options": [
+        "pierdere de sange (% volum sanguin) = 40",
+        "frecventa cardiaca : >140",
+        "tensiune arteriala: scazuta",
+        "presiunea pulsului: scazuta",
+        "toate variantele de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 33,
+      "type": "multiple_choice",
+      "prompt": "In cazul unui presupus traumatism abdominal se practicade prima intentie:",
+      "options": [
+        "punctie abdominala",
+        "lavaj peritoneal",
+        "CT abdominal",
+        "examinare ecografica abdominala FAST",
+        "toate metodele de mai sus"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 34,
+      "type": "multiple_choice",
+      "prompt": "Pierderile estimate de lichide si sange din clasa I (<7500 ml) se caracterizeaza prin:",
+      "options": [
+        "pierdere de sange (% volum sanguin) = 15",
+        "frecventa cardiaca : <100",
+        "tensiune arteriala: normala",
+        "presiunea pulsului: normala sau crescuta",
+        "toate variantele de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 35,
+      "type": "multiple_choice",
+      "prompt": "Pierderile estimate de lichide si sange din clasa III (1500-2000 ml) se caracterizeaza prin:",
+      "options": [
+        "pierdere de sange (% volum sanguin) = 30-40",
+        "frecventa cardiaca : 120-140",
+        "tensiune arteriala: scazuta",
+        "presiunea pulsului: scazuta",
+        "toate variantele de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 36,
+      "type": "multiple_choice",
+      "prompt": "Corectarea hipovolemiei la un politraumatizat se face:",
+      "options": [
+        "aplicarea de presiune la nivelul plagilor cu hemoragie semnificativa",
+        "se practica toracotomia si pericardiotomia",
+        "se ridica trenul inferior al pacientului la 45 o",
+        "se administreaza 2 L de solutii cristaloide si ulterior transfuzie de sange daca pacientul este inca hipovolemic",
+        "se face pansament compresiv la nivelul plagilor"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 37,
+      "type": "multiple_choice",
+      "prompt": "La evaluarea secundara a pacientului politraumatizat se au in vedere urmatoarele mai putin una:",
+      "options": [
+        "examinarea meatului uretral, tuseul rectal si tuseul vaginal",
+        "examinarea stabilitatii centurii pelvine",
+        "examinarea membrelor si decelarea eventualelor fracturi deschise",
+        "examinarea abdomenului: decelarea sensibilitatii dureroase sau distensiei abdominale",
+        "intubatia oro sau nazotraheala"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 38,
+      "type": "multiple_choice",
+      "prompt": "In cadrul stabilizarii respiratorii din evaluarea primara se pot efectua urmatoarele manevre mai putin una:",
+      "options": [
+        "decompresie pe ac in caz de pneumotorax sufocant",
+        "drenaj toracic in caz de pneumotorax",
+        "bandaj ocluziv in caz de plaga toracica aspirativa",
+        "aspiratie si tamponament in caz de epistaxis important",
+        "ventilatie cu oxigen 100%"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 39,
+      "type": "multiple_choice",
+      "prompt": "Intubatia politraumatizatului se face :",
+      "options": [
+        "imediat ce ajunge echipa la fata locului deoarece starea pacientului se poate agrava rapid",
+        "se face daca sangerarea din zona capului este foarte mare",
+        "se face numai dupa imobilizarea gatului (pentru a preveni miscarea acestuia) si fara sa se practice hiperextensia",
+        "se face de obicei cu o sonda mai mica deoarece structurile gatului pot fi dezorganizate",
+        "se face intotdeauna dupa pozitionarea pacientului in ambulanta"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 40,
+      "type": "multiple_choice",
+      "prompt": "Daca politraumatizatul instabil are componenta toracica si fracturi la nivelul membrelor superioare locul de electie pentru montarea liniei venoase este:",
+      "options": [
+        "vena subclavie pentru ca este de calibru mare",
+        "pe bratul cel mai putin afectat 2 linii periferice",
+        "jugulara externa",
+        "la nivel pelvin (femurala) o linie percutana",
+        "orice zona unde se poate monta fara sa luam in considerare leziunile existente"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 41,
+      "type": "multiple_choice",
+      "prompt": "In cazul deceselor survenite postraumatic:",
+      "options": [
+        "Scaderea primului varf de mortalitatea se poate face prin construirea unor sosele sigure",
+        "Scaderea incidentei deceselor in al doilea varf de mortalitate in trauma se poate face prin transportarea rapida la un spital competent si stabilizare prompta a functiilor vitale",
+        "Al treilea varf al deceselor posttraumatice apare in serviciile ATI",
+        "Toate cele de mai sus",
+        "Nici una dintre cele de mai sus"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 42,
+      "type": "multiple_choice",
+      "prompt": "Evaluarea primara:",
+      "options": [
+        "Se efectueaza cu minutiozitate",
+        "Identifica si trateaza leziunile amenintatoare de viata",
+        "Este optionala",
+        "Toate cele de mai sus",
+        "Nici una dintre cele de mai sus"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 43,
+      "type": "multiple_choice",
+      "prompt": "Punctul „A” din evaluarea primara se refera la:",
+      "options": [
+        "Mentinerea permeabilitatii cailor aeriene si imobilizarea coloanei cervicale",
+        "Respiratie/Ventilatie",
+        "Circulatie/Hemostaza",
+        "Dizabilitati neurologice",
+        "Expunerea completa a pacientului"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 44,
+      "type": "multiple_choice",
+      "prompt": "Efectuarea unei radiografii de coloana cervicala posttraumatic este obligatorie, cu EXCEPTIA urmatoarei situatii:",
+      "options": [
+        "Durere la nivel cervical posttraumatic",
+        "Trauma aparuta la un pacient aflat sub influenta alcoolului/drogurilor ilicite",
+        "Absenta altor leziuni care distrag atentia pacientului",
+        "Status mental alterat",
+        "Prezenta deficitelor neurologice"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 45,
+      "type": "multiple_choice",
+      "prompt": "Evaluarea respiratiei in cadrul abordarii initiale a pacientului traumatizat urmareste:",
+      "options": [
+        "Prezenta/absenta respiratiilor",
+        "Miscarea paradoxala a unui segment al peretelui toracic",
+        "Absenta zgomotelor respiratorii",
+        "Prezenta unei plagi penetrante la nivelul toracelui",
+        "Toate cele de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 46,
+      "type": "multiple_choice",
+      "prompt": "Socul hemoragic postraumatic:",
+      "options": [
+        "Apare obligatoriu in primele momente postraumatic",
+        "Apare indiferent de tipul hemoragiei",
+        "Depinde de cantitatea de sange pierdut si de intervalul de timp in care s-a produs hemoragia",
+        "Nu influenteaza nivelul de constienta al pacientului",
+        "Nu influenteaza timpul de reumplere capilara"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 47,
+      "type": "multiple_choice",
+      "prompt": "Evaluarea circulatiei postraumatic trebuie sa cuprinda:",
+      "options": [
+        "Auscultarea ariilor pulmonare",
+        "Auscultarea zgomotelor cardiace",
+        "Inspectia venelor jugulare",
+        "Toate cele de mai sus",
+        "Nici una dintre bcele de mai sus"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 48,
+      "type": "multiple_choice",
+      "prompt": "Prezenta hipotensiunii arteriale, agitatiei psihomotorii, jugulare turgescente si asurzirea zgomotelor cardiace sugereaza:",
+      "options": [
+        "Pneumotorax in tensiune",
+        "Traumatopnee",
+        "Volet costal",
+        "Soc hemoragic",
+        "Tamponada cardiaca"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 49,
+      "type": "multiple_choice",
+      "prompt": "Prezenta hipotensiunii arteriale, agitatiei psihomotorii, jugularelor turgescente, devierea traheei, timpanism la percutia toracelui sugereaza:",
+      "options": [
+        "Pneumotorax in tensiune",
+        "Traumatopnee",
+        "Volet costal",
+        "Soc hemoragic",
+        "Tamponada cardiaca"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 50,
+      "type": "multiple_choice",
+      "prompt": "Pentru aprecierea starii de constienta postraumatic:",
+      "options": [
+        "Se foloseste predominant scorul REED",
+        "Se foloseste cel mai frecvent scorul Glasgow",
+        "Nu se foloseste nici un scor",
+        "Starea de constienta postraumatic nu are importanta majora",
+        "Nici una dintre cele de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 51,
+      "type": "multiple_choice",
+      "prompt": "Criteriile de screening care exclud in mod clar necesitatea investigatiilor imagistice pentru coloana cervicala, in context de trauma, sunt urmatoarele cu exceptia:",
+      "options": [
+        "absenta deficitelor neurologice focale",
+        "absenta altor leziuni dureroase care distrag atentia",
+        "statusul mental alterat",
+        "absenta intoxicatiei",
+        "absenta sensibilitatii la nivel cervical posterior, pe linia mediana"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 52,
+      "type": "multiple_choice",
+      "prompt": "Obiectele care determina plagi intepate profunde in torace sau abdomen:",
+      "options": [
+        "trebuie eliminate cat mai rapid la locul interventiei, in prespital",
+        "pot fi retezate pentru a facilita transportul",
+        "interventia chirurgicala poate fi temporizata daca tensiunea arteriala este in limite normale",
+        "indepartarea chirurgicala cu vizualizarea directa in vederea asigurarii hemostazei nu este o recomandare de rutina",
+        "temporizarea interventiei chirurgicale se poate face in vederea examenelor imagistice amanuntite"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 53,
+      "type": "multiple_choice",
+      "prompt": "Una din afirmatiile referitoare la examinarea ecografica abdominala axata pe trumatism (FAST) este falsa:",
+      "options": [
+        "evalueaza prezenta lichidului in pericard",
+        "evalueaza prezenta lichidului in regiunea perisplenica",
+        "evalueaza prezenta lichidului in recesul hepatorenal Morrison",
+        "evalueaza prezenta lichidului in pelvis in jurul vezicii",
+        "nu inlocuieste lavajul peritoneal diagnostic"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 54,
+      "type": "multiple_choice",
+      "prompt": "Un pacient de 70 de kg (cu un volum sangvin de 5 litri) aflat in soc hemoragic (clasa IV) dupa un politrumatism prin accident rutier prezinta urmatoarele, cu exceptia:",
+      "options": [
+        "tensiune arteriala scazuta",
+        "presiunea pulsului scazuta",
+        "o frecventa cardiaca de 120 bpm",
+        "o pierdere de sange de >2000 mL",
+        "o pierdere de sange de ~ 40% din volumul sangvin initial."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 55,
+      "type": "multiple_choice",
+      "prompt": "Din evaluarea primara a unui pacient cu politraumatism nu face parte:",
+      "options": [
+        "evaluarea circulatiei cu controlul hemoragiei",
+        "sondajul nazogastric si vezical",
+        "evaluarea neurologica rapida",
+        "mentinerea permeabilitatii cailor aeriene si controlul coloanei cervicale",
+        "evaluarea respiratiei si ventilatiei"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 56,
+      "type": "multiple_choice",
+      "prompt": "Evaluarea secundara a unui pacient cu traumatisme include urmatoarele cu exceptia:",
+      "options": [
+        "daca la examinarea rectala prostata este deplasata, trebuie instituit cat mai precoce sondajul vezical",
+        "examinarea este coordonata ed la cap spre picioare, incepand cu scalpul",
+        "pacientul trebuie rotit pe ambele particu gatul mentinut imobilizat pentru a fi examinata si palpata toata suprafata corpului",
+        "la femei aflate la varsta procreatiei trebuie efectuat un test de sarcina",
+        "extremitatile trebuie evaluate pentru fracturi si leziuni ale tesutului moale"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 57,
+      "type": "multiple_choice",
+      "prompt": "Semnele si simptomele clinice ale tamponadei cardiace NU includ:",
+      "options": [
+        "agitatie",
+        "venele gatului destinse",
+        "zgomote cardiace asurzite",
+        "trahee deviata",
+        "hipotensiune arteriala"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 58,
+      "type": "multiple_choice",
+      "prompt": "La pacientii cu trauma craniana, aflati in coma (GCS<8) sunt adevarate urmatoarele, cu exceptia:",
+      "options": [
+        "necesita o evaluare rapida a leziunilor intracraniene",
+        "pacientul este intubat in vederea protectiei cailor aeriene",
+        "pacientul este intubat pentru a evita leziunile cerebrale secundare asociate hipoxemiei",
+        "computer tomograf de craniu poate arata de la o examinare normala pana la leziuni cerebrale majore",
+        "pacientul trebuie intubat obligatoriu, chiar cu riscul agravarii leziunilor de coloana cervicala."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 59,
+      "type": "multiple_choice",
+      "prompt": "Cel de-al treilea varf al distributiei trimodale a deceselor ca rezultat al leziunilor traumatice:",
+      "options": [
+        "sunt, in principal, rezultatul leziunilor craniene si vasculare majore",
+        "pot fi reduse prin identificarea leziunilor care necesita interventie chirurgicala",
+        "sunt rezultatul sindromului de raspuns inflamator sistemic si insuficientei multiple de organ",
+        "apar in primele minute de la sosirea pacientului la spital",
+        "se refera la decesele in mediul prespitalicesc la pacientii cu context traumatic"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 60,
+      "type": "multiple_choice",
+      "prompt": "Evaluarea statusului hemodinamic in cadrul evaluarii primare la un pacient cu politraumatism include urmatoarele, cu exceptia:",
+      "options": [
+        "aprecierea coloratiei tegumentare",
+        "prezenta pulsurilor periferice",
+        "aprecierea nivelului de constienta nu are relevanta in aceasta etapa",
+        "se face concomitent cu controlul hemoragiei",
+        "pentru controlul hemoragiei externe trebuie folosita presiunea directa."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    }
+  ]
+}

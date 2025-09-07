@@ -1,0 +1,285 @@
+{
+  "chapter": "Reechilibrare volemică – întrebări (răspuns pe ultima coloană)",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Principalele cauze ale hemoragiei severe din traumatisme o reprezintă urmatoarele:",
+      "options": [
+        "Leziuni ale structurilor vasculare majore",
+        "Leziuni ale organelor parenchimatoase",
+        "Leziunile oaselor lungi",
+        "Toate de mai sus",
+        "Nici una nu este valabila"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Una din cauzele non-traumatice obişnuite ale hemoragiei este:",
+      "options": [
+        "Arsurile",
+        "Expunerea la căldură",
+        "Sarcina ectopică ruptă",
+        "Sângerare uterină anormală",
+        "Toate de mai sus"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Prezentarea clinică a unui pacient cu hemoragie acută depinde de :",
+      "options": [
+        "Cauza sângerării",
+        "Frecvenţa sângerării",
+        "Volumul sângerării",
+        "Durata sângerării",
+        "Toate de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Răspunsul în caz de hemoragie poate fi afectat de următoarele situaţii, cu excepţia:",
+      "options": [
+        "Compromiterea căilor aeriene",
+        "Leziunile abdominale",
+        "Consumul de alcool",
+        "Consumul de droguri",
+        "Traumatismele craniene"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Volumul total circulant normal al unui adult este de aproximativ:",
+      "options": [
+        "10%",
+        "15%",
+        "7%",
+        "20%",
+        "1% din greutatea corporală"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "ATLS: pierdere de sânge între 750–1500 ml (hemoragie Clasa II) implică:",
+      "options": [
+        "Reprezintă peste 40% din volumul circulant de sânge",
+        "Duce în general la tahicardie şi scăderea presiunii pulsului",
+        "Răspunsul tensional variază de la hipotensiune moderată la severă",
+        "Pacientul este extrem de agitat sau letargic",
+        "Volumul circulant se reface prin administrarea de sânge izogrup, izoRh"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Despre soluţiile cristaloide utilizate în resuscitarea volemică, afirmaţia falsă este:",
+      "options": [
+        "Soluţiile cristaloide izotone sunt hipo-oncotice",
+        "Raportul pentru înlocuirea de volum pierdut cu soluţii izotone este de 3:1",
+        "Recomandările iniţiale: 2–3 L soluţie cristaloidă şi apoi evaluarea răspunsului",
+        "Soluţiile cristaloide izotone sunt: ser fiziologic, Ringer, Ringer lactat",
+        "Recomandările iniţiale sunt administrarea concomitentă de cristaloide şi coloide în cantitate egală"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Despre transfuzia de sânge în şocul hemoragic, este adevărat că:",
+      "options": [
+        "Nu este indicată în reechilibrarea volemică având riscuri foarte mari",
+        "O Hb < 6 g/dl necesită aproape întotdeauna transfuzie de sânge",
+        "Dacă după 2 L cristaloide răspunsul este minim, se administrează 2 L coloide şi ulterior sânge",
+        "O Hb > 10 g/dl dar < 12 g/dl necesită transfuzie imediată",
+        "Când e posibil, preferăm sânge 0 pozitiv; izogrup pe locul 2"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "În şoc, despre soluţiile coloidale sunt adevărate, cu excepţia:",
+      "options": [
+        "Au particule cu greutate moleculară mare",
+        "Niciun produs coloidal nu este superior celorlalte",
+        "Rămân predominant în spaţiul intravascular",
+        "Moleculele pot trece în spaţiul extravascular în anumite tipuri de şoc",
+        "Folosirea coloidelor îmbunătăţeşte semnificativ prognosticul faţă de cristaloide"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Despre reechilibrarea volemică a pacientului în şoc hemoragic, afirmaţia falsă este:",
+      "options": [
+        "Un obiectiv este restabilirea volumului intravascular pentru a anula hipoperfuzia sistemică",
+        "Trebuie menţinută o capacitate adecvată de transport a oxigenului",
+        "Trebuie limitată pierderea suplimentară de hematii circulante",
+        "Pacientul cu răspuns minim după 2–3 L cristaloide necesită transfuzie sangvină",
+        "Menţinerea TA peste 140 mmHg este parametrul urmărit în resuscitare"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "prompt": "Reechilibrarea volemică în şoc reprezintă:",
+      "options": [
+        "Terapia iniţială pentru tulburările ce cauzează depleţia de volum intravascular ducând la hipoperfuzie tisulară şi disfuncţie de organ",
+        "Terapia iniţială pentru depleţia de volum extravascular ducând la hiperperfuzie tisulară",
+        "Terapie aplicabilă în orice moment la pacientul în şoc",
+        "Terapie aplicabilă oricărui pacient, în orice boală",
+        "Nu are niciun rol la pacientul în şoc"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "prompt": "Cauze de depleţie a volumului intravascular sunt, cu excepţia:",
+      "options": [
+        "Hipovolemia hemoragică din traumatism parenchim pulmonar",
+        "Hipovolemia hemoragică din ruptură de aortă",
+        "Hipovolemia hemoragică din leziuni de ficat, splină, rinichi",
+        "Hipovolemia non-hemoragică din vărsături, diaree, ascită",
+        "Nici una dintre cele de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "prompt": "Următoarele afirmaţii sunt corecte, mai puţin una:",
+      "options": [
+        "Leziunile vasculare majore, ale organelor parenchimatoase şi oaselor lungi sunt cauze majore ale hemoragiei din traumatisme",
+        "Cauze non-traumatice obişnuite: sângerarea GI, ruptura de anevrism, sarcina ectopică ruptă",
+        "Pierderea acută de volum intravascular activează mecanisme compensatorii pentru menţinerea perfuziei esenţiale",
+        "Hipoperfuzia moderată tranzitorie poate fi tolerată; cea severă/prelungită duce la şoc cu disfuncţie progresivă",
+        "Nicio afirmaţie nu este corectă"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "prompt": "În hemoragia acută se întâmplă următoarele, mai puţin una:",
+      "options": [
+        "Scade presiunea arterială",
+        "Scade întoarcerea venoasă",
+        "Scade volumul bătaie",
+        "Se activează reflexe + SNS ⇒ creşte FC, VC arterială/venoasă, creşte inotropismul şi extravazare lichidiană în intravascular",
+        "Niciunul din mecanismele de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "prompt": "În hemoragia acută, stimularea receptorilor + SNS determină:",
+      "options": [
+        "Creşterea frecvenţei cardiace",
+        "Vasoconstricţie arterială şi venoasă",
+        "Creşterea contractilităţii ventriculare",
+        "Transfer lichidian din interstiţiu în intravascular",
+        "Toate de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "prompt": "Profilul hemodinamic în hipovolemia acută hemoragică include:",
+      "options": [
+        "Tahicardie",
+        "Hipotensiune",
+        "Extremităţi reci, palide, umede",
+        "Pulsuri periferice slabe, TRC prelungit",
+        "Toate cele de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "prompt": "Reechilibrarea volemică trebuie să ţină cont de:",
+      "options": [
+        "Restabilirea volumului intravascular pentru a anula hipoperfuzia sistemică şi a limita hipoperfuzia regională",
+        "Menţinerea capacităţii de transport a oxigenului",
+        "Limitarea pierderii suplimentare de hematii",
+        "Toate de mai sus",
+        "Nici una de mai sus"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "prompt": "Fluide pentru reechilibrare volemică:",
+      "options": [
+        "Cristaloide izotone: ser fiziologic, Ringer lactat, Ringer acetat",
+        "Coloide: albumină, PPC, HEAS, dextran 40/70, gelatină",
+        "Soluţii hipertone: NaCl 7–7.5%; NaCl 7.5% + 6% dextran 70",
+        "Fluide transportoare de oxigen şi sânge (MER)",
+        "Toate de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "prompt": "Afirmatii corecte despre cristaloide:",
+      "options": [
+        "Cristaloidele izotone sunt lichidele preferate în resuscitare",
+        "Sunt hipo-oncotice; necesită cantităţi substanţiale pentru refacerea volumului",
+        "Raport de înlocuire ~3:1 deoarece ~30% rămâne intravascular",
+        "Dacă 3× volumul pierdut nu stabilizează hemodinamica ⇒ pierdere >15–20% sau hemoragie activă",
+        "Toate afirmaţiile sunt corecte"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "prompt": "Despre soluţiile coloide:",
+      "options": [
+        "Au particule cu greutate moleculară mare şi P oncotică similară proteinelor plasmatice",
+        "Rămân intravascular şi restabilesc volumul mai eficient decât cristaloidele",
+        "Cristaloidele pot produce edeme interstiţiale (pulmonar/abdominal)",
+        "În şoc/sepsis, permeabilitatea crescută permite scurgeri extravasculare ale coloidelor",
+        "Toate afirmaţiile sunt adevărate"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    }
+  ]
+}

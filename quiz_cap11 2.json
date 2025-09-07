@@ -1,0 +1,565 @@
+{
+  "chapter": "ANAFILAXIE (revizuit)",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Următoarele afirmații despre anafilaxie sunt adevărate, cu excepția:",
+      "options": [
+        "Este o reacție de hipersensibilitate caracterizată prin implicare multisistemică",
+        "Este o reacție care poate include hipotensiune arterială sau insuficiență respiratorie acută prin obstrucția căilor aeriene",
+        "Este o cascadă de reacții cu potențial letal, produsă prin eliberarea de IgA a mediatorilor din mastocite și bazofile",
+        "Reprezintă cea mai dramatică și mai severă formă de hipersensibilitate imediată",
+        "Prezintă o cale finală comună, identică cu reacția anafilactoidă"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Riscul de anafilaxie este influențat de:",
+      "options": [
+        "Vârstă",
+        "Factori geografici",
+        "Rasă",
+        "Sex",
+        "Episoade anafilactice precedente"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Următoarele afirmații sunt adevărate, cu excepția:",
+      "options": [
+        "Reacția anafilactică este adeseori asociată cu manifestări respiratorii și cardiovasculare",
+        "Debutul anafilaxiei se manifestă prin prurit, eritem cutanat și urticarie",
+        "Apariția senzației de nod în gât și a disfoniei semnifică dezvoltarea unui edem laringian",
+        "Nivelul de conștiență nu poate fi afectat în reacțiile anafilactice",
+        "Semnele și simptomele apar de obicei la 60 min după expunere"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Următoarele afirmații sunt false, cu excepția:",
+      "options": [
+        "Formele cele mai severe de reacție anafilactică pot evolua cu stop cardiorespirator",
+        "În general cu cât debutul simptomelor este mai tardiv cu atât reacția alergică este mai severă",
+        "După ce semnele și simptomele s-au diminuat nu există riscul recurenței simptomelor",
+        "Formele ușoare de urticarie localizată nu pot să evolueze spre reacție anafilactică",
+        "Reacția anafilactică este în general benignă, fiind o reacție alergică localizată cu vindecare rapidă și fără administrarea tratamentului specific"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Următoarea afirmație este adevărată:",
+      "options": [
+        "Diagnosticul de anafilaxie se pune pe baza examenelor de laborator",
+        "Cea mai frecventă situație de mimare a reacției anafilactice este reacția vasovagală caracterizată prin hipotensiune, paloare, bradicardie, diaforeză",
+        "Anafilaxia trebuie să fie suspicionată clinic în cazul afectării a două sau trei dintre sistemele organismului incluzând bronhospasmul",
+        "Concentrațiile histaminei rămân crescute peste 5 zile fiind utilă în confirmarea tardivă a unui episod anafilactic",
+        "Concentrațiile serice de triptază sunt crescute în următoarele 30 minute în urma reacției"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Următoarea afirmație despre tratamentul reacției anafilactice este falsă:",
+      "options": [
+        "Adrenalina trebuie administrată rapid fiind elementul de bază al tratamentului",
+        "Dacă angioedemul produce detresă respiratorie intubația trebuie efectuată din timp evitând obstruarea completă a căilor aeriene",
+        "Pacienții trebuie să primească un bolus de ser fiziologic (1-2 litri) concomitent cu perfuzia cu adrenalină",
+        "La pacienții cu tratament betablocant anterior și hipotensiune arterială refractară la lichide și adrenalină, glucagonul este de elecție",
+        "Corticosteroizii sunt medicamente din prima linie și trebuie administrați înaintea adrenalinei"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Doza de adrenalină administrată intravenos la pacienții cu suferință cardiovasculară sau colaps este:",
+      "options": [
+        "100 mg în timp de 5-10 minute urmată de perfuzie continuă cu 1-4 μg/min, dacă pacientul este refractar la administrarea inițială",
+        "100 μg (0,1 mg) i.v. în timp de 5-10 minute urmată de perfuzie continuă cu 1-4 μg/min dacă pacientul este refractar la administrarea inițială",
+        "1 mg i.v. la 3-5 minute în funcție de răspuns până la o doză maximă de 10 mg",
+        "100 μg (0,1 mg) i.v. bolus, în câteva secunde urmată de perfuzie continuă cu 1-4 μg/min indiferent de răspunsul inițial pentru a preveni recurența simptomelor",
+        "Se începe cu perfuzie continuă cu adrenalină în doză de 1-4 μg/min titrând până la obținerea efectului dorit"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "În cazul anafilaxiei, pentru simptome mai puțin severe, adrenalina poate fi administrată intramuscular astfel:",
+      "options": [
+        "Doza e de 0,1 până 0,5 mg (0,1 până la 0,5 ml din soluția diluată 1:1000) repetată la fiecare 3 sau 5 minute",
+        "Doza e de 0,5 până 1 mg (0,5 până la 1 ml din soluția diluată 1:1000) repetată la fiecare 5 sau 10 minute",
+        "Doza e de 0,1 până 0,3 mg (0,1 până la 0,3 ml din soluția diluată 1:1000) repetată la fiecare 3 sau 5 minute",
+        "Doza e de 0,3 până 0,5 mg (0,3 până la 0,5 ml din soluția diluată 1:1000) repetată la fiecare 5 sau 10 minute",
+        "Doza e de 1 până 5 mg (1 până la 5 ml din soluția diluată 1:1000) repetată la fiecare 5 sau 10 minute"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Administrarea corticosteroizilor în reacția anafilactică se face astfel:",
+      "options": [
+        "Metilprednisolon 125 mg i.v. sau hidrocortizon 200 până la 400 mg i.v.",
+        "Metilprednisolon 125 mg i.v. sau hidrocortizon 100 până la 500 mg i.v.",
+        "Metilprednisolon 250 mg i.v. sau hidrocortizon 250 până la 500 mg i.v.",
+        "Metilprednisolon 250 mg i.v. sau hidrocortizon 125 până la 500 mg i.v.",
+        "Metilprednisolon 125 mg i.v. sau hidrocortizon 250 până la 500 mg i.v."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Următoarea afirmație despre urticarie este falsă:",
+      "options": [
+        "Reprezintă o reacție cutanată caracterizată de apariția unui eritem pruriginos",
+        "Tratamentul acestor reacții este în general suportiv și simptomatic",
+        "Antihistaminicele, asociate sau nu cu steroizi, nu sunt de obicei suficiente fiind necesară întotdeauna asocierea adrenalinei",
+        "Asocierea unui blocant de receptori H2, cum ar fi ranitidina, poate fi utilă",
+        "Compresele reci calmează zonele iritate"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "prompt": "Dintre sistemele afectate în anafilaxie nu face parte:",
+      "options": [
+        "Sistemul respirator.",
+        "Sistemul vascular.",
+        "Sistemul digestiv.",
+        "Pielea.",
+        "Sistemul excretor."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "prompt": "Riscul de anafilaxie este influențat de:",
+      "options": [
+        "Vârstă.",
+        "Sex.",
+        "Rasă.",
+        "Episoade anafilactice precedente.",
+        "Nici unul de mai sus."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "prompt": "Nu este o cauză frecventă de anafilaxie:",
+      "options": [
+        "Penicilina.",
+        "Xilina.",
+        "Vancomicina.",
+        "Aspirina.",
+        "Antiinflamatoarele nesteroidiene."
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "prompt": "Dau mai frecvent reacții alergice înțepăturile de:",
+      "options": [
+        "Trilobiți.",
+        "Lepidoptere.",
+        "Himenoptere.",
+        "Acarieni.",
+        "Batracieni."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "prompt": "Nu participă la mecanismele reacțiilor alergice următorul element imun:",
+      "options": [
+        "Mastocitele.",
+        "Limfocitele T.",
+        "Trombocitele.",
+        "Bazofilele.",
+        "Imunoglobulinele."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "prompt": "Nu produce reacții anafilactoide:",
+      "options": [
+        "Substanțe radiologice de contrast.",
+        "Curare depolarizante.",
+        "Beta-lactami.",
+        "Opioide.",
+        "Dextrani."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "prompt": "Diagnosticul în reacțiile alergice se stabilește prin:",
+      "options": [
+        "Determinarea IgE serice.",
+        "Testul IDR.",
+        "Testul VDRL.",
+        "Anamneză și examen clinic.",
+        "Determinarea eozinofiliei."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "prompt": "Diagnosticul diferențial al reacțiilor alergice nu se face cu:",
+      "options": [
+        "Reacțiile vaso-vagale.",
+        "Status astmaticus.",
+        "Boala serului.",
+        "Epiglotită.",
+        "Disfuncție de corzi vocale."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "prompt": "Medicamentul cel mai important în tratarea anafilaxiilor este:",
+      "options": [
+        "Metilprednisolonul.",
+        "Antihistaminicele.",
+        "Noradrenalina.",
+        "Adrenalina.",
+        "Succinilcolina."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "prompt": "Nu face parte din medicația de linia a doua a reacțiilor anafilactice:",
+      "options": [
+        "Adrenalina.",
+        "Glucagonul.",
+        "Corticosteroizii.",
+        "Antihistaminicele.",
+        "Sulfatul de magneziu."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 21,
+      "type": "single",
+      "prompt": "Următoarele afirmații privind reacțiile anafilactoide sunt adevărate, cu excepția:",
+      "options": [
+        "Tabloul clinic este similar celui din reacțiile anafilactice.",
+        "Nu necesită o expunere sensibilizată.",
+        "Sunt mediate de IgE.",
+        "Se pot manifesta prin hipotensiune arterială.",
+        "Pot evolua spre răspuns sistemic sever."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 22,
+      "type": "single",
+      "prompt": "Anafilaxia se caracterizează prin următoarele, cu excepția:",
+      "options": [
+        "Riscul de anafilaxie nu este influențat de factorii geografici.",
+        "Episoadele anafilactice în antecedente sunt factori de risc pentru șocul anafilactic letal.",
+        "Riscul de recurență nu este 100% la reexpunerea la antigen.",
+        "Persoanele atopice au un risc mai mare de a face reacții anafilactice la alergen medicamentos sau la înțepături de insecte.",
+        "Singurul factor care crește riscul de anafilaxie este expunerea anterioară la antigenul sensibilizant."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 23,
+      "type": "single",
+      "prompt": "Mecanismele fiziopatologice clasice ale hipersensibilității sunt:",
+      "options": [
+        "Cross-linkarea a două molecule adiacente de IgE pe un mastocit sau bazofil cu un antigen multivalent.",
+        "Reacțiile IgG și IgM cu antigenele de suprafață ale celulelor.",
+        "Formare de complexe Ag-Ac solubile ce activează complementul și activarea limfocitelor T.",
+        "a+b+c.",
+        "a+b."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 24,
+      "type": "single",
+      "prompt": "Semnele clinice ale reacțiilor alergice includ:",
+      "options": [
+        "Urticaria difuză.",
+        "Angioedemul.",
+        "Durere abdominală, greață, vărsături.",
+        "a+b.",
+        "a+b+c."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 25,
+      "type": "single",
+      "prompt": "În anafilaxie, cel mai frecvent se pune problema diagnosticului diferențial cu:",
+      "options": [
+        "Reacția vaso-vagală.",
+        "Criza comițială.",
+        "Status astmaticus.",
+        "Criza comițială.",
+        "Aritmiile cardiace."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 26,
+      "type": "single",
+      "prompt": "Principala intervenție terapeutică în angioedemul cu detresă respiratorie este:",
+      "options": [
+        "Decontaminarea.",
+        "Administrarea de adrenalină.",
+        "Intubația precoce.",
+        "Administrarea de soluții cristaloide.",
+        "Administrarea de antihistaminice."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 27,
+      "type": "single",
+      "prompt": "Calea de administrare a adrenalinei în anafilaxie este:",
+      "options": [
+        "Intravenos.",
+        "Intramuscular.",
+        "Subcutanat.",
+        "a+b.",
+        "a+b+c."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 28,
+      "type": "single",
+      "prompt": "Următoarele afirmații privind alergia la medicamente nu sunt adevărate:",
+      "options": [
+        "Medicamentul cel mai frecvent implicat este penicilina.",
+        "Administrarea parenterală a penicilinei produce reacții alergice fatale de două ori mai frecvent decât administrarea orală.",
+        "Capacitatea unui medicament de a se lega de proteinele tisulare nu afectează riscul de a determina o reacție alergică.",
+        "Cefalosporinele provoacă reacții alergice de tip încrucișat la cei cu hipersensibilitate la penicilină.",
+        "Unele medicamente determină reacții de tip citotoxic."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 29,
+      "type": "single",
+      "prompt": "Efectele adverse ale administrării glucagonului sunt:",
+      "options": [
+        "Instabilitate posturală.",
+        "Hipopotasemie.",
+        "Tinitus.",
+        "Transpirații profuze.",
+        "Hipoglicemia."
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 30,
+      "type": "single",
+      "prompt": "Tratamentul hipotensiunii în șocul anafilactic se face în principal cu:",
+      "options": [
+        "Medicație vasopresoare.",
+        "Soluții cristaloide.",
+        "Soluții coloide.",
+        "Toate cele de mai sus.",
+        "Niciun răspuns corect."
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 31,
+      "type": "single",
+      "prompt": "Pentru marea majoritate a pacienților, semnele și simptomele șocului anafilactic apar la:",
+      "options": [
+        "24 ore de la expunere",
+        "7 zile de la expunere",
+        "72 de ore de la expunere",
+        "2 ore de la expunere",
+        "60 de minute de la expunere"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 32,
+      "type": "single",
+      "prompt": "Diagnosticul diferențial al reacțiilor anafilactice se face cu:",
+      "options": [
+        "Faringită",
+        "Sinuzită",
+        "Otită",
+        "Epiglotită",
+        "Bronșită"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 33,
+      "type": "single",
+      "prompt": "Mecanismul de bază al reacțiilor anafilactice este reprezentat de degranularea:",
+      "options": [
+        "Eritrocitelor",
+        "Trombocitelor",
+        "Mastocitelor",
+        "Neutrofilelor",
+        "Limfocitelor"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 34,
+      "type": "single",
+      "prompt": "În șocul anafilactic se poate administra unul din următoarele medicamente:",
+      "options": [
+        "Propranolol",
+        "Metilprednisolonul",
+        "Sotalol",
+        "Atropina",
+        "Ketorol"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 35,
+      "type": "single",
+      "prompt": "În șocul anafilactic hidrocortizonul se administrează în doze de:",
+      "options": [
+        "250-500 mg i.v.",
+        "250-500 mg i.m.",
+        "20-50 mg i.v.",
+        "80-60 mg i.v.",
+        "30-40 mg i.v."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 36,
+      "type": "single",
+      "prompt": "Medicamentele care produc reacții anafilactice printr-un proces non-mastocitar sunt:",
+      "options": [
+        "Aspirina",
+        "Antibiotice beta-lactamine",
+        "Trimethoprim-sulfametoxazol",
+        "Vancomicina",
+        "Inhibitori selectivi de COX-2"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 37,
+      "type": "single",
+      "prompt": "Care din următoarele medicamente sunt antihistaminice H1 și sunt folosite în șocul anafilactic:",
+      "options": [
+        "Cimetidina",
+        "Ranitidina",
+        "Difenhidramina",
+        "Nifedipina",
+        "Epinefrina"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 38,
+      "type": "single",
+      "prompt": "Medicamentele care produc reacții anafilactice și nu se asociază cu creșterea IgE sunt:",
+      "options": [
+        "Inhibitorii de enzimă de conversie a angiotensinei",
+        "Penicilina",
+        "Vancomicina",
+        "Cefalosporinele",
+        "Ampicilina"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 39,
+      "type": "single",
+      "prompt": "În suspiciunea de anafilaxie cel mai important moment al tratamentului este administrarea rapidă de:",
+      "options": [
+        "Epinefrină",
+        "Glucagon",
+        "Bromură de ipratropiu",
+        "Ranitidină",
+        "Difenhidramină"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 40,
+      "type": "single",
+      "prompt": "Diagnosticul reacțiilor anafilactice este:",
+      "options": [
+        "Stabilit rapid pe baza concentrațiilor serice de triptază",
+        "Un diagnostic clinic",
+        "Un diagnostic imagistic",
+        "Stabilit pe baza concentrațiilor crescute ale histaminelor",
+        "Stabilit prin anamneză și investigații de laborator"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    }
+  ]
+}

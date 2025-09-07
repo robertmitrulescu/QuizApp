@@ -1,0 +1,145 @@
+{
+  "chapter": "ASTMUL ACUT LA ADULT",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Urmatoarea afirmatie este corecta privind astmul acut la adult:",
+      "options": [
+        "astmul este o boala cronica inflamatorie caracterizata prin reactivitate crescuta a cailor respiratorii la stimuli multipli;",
+        "la indivizii susceptibili, inflamatia produce episoade recurente de wheezing, lipsa de aer, constrictie toracica si tuse, in special nocturna sau la primele ore ale diminetii;",
+        "majoritatea atacurilor acute sunt reversibile si se amelioreaza spontan sau de la cateva minute pana la ore sub tratament;",
+        "caracteristica fiziopatologica a astmului este reducerea in diametru a cailor respiratorii determinata de contractia muschilor netezi, congestie vasculara, edemul peretelui bronsic si secretii vascoase;",
+        "toate afirmatiile sunt corecte."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Consecintele fiziologice ale obstructiei fluxului aerian in astmul acut la adulti sunt:",
+      "options": [
+        "rezistenta crescuta in caile aeriene;",
+        "diminuarea fluxului expirator maxim si incarcerarea aerului;",
+        "cresterea presiunii in caile respiratorii urmata de barotrauma si efecte hemodinamice adverse;",
+        "dezechilibru intre ventilatie si perfuzie (hipoxemie si hipercapnia) si cresterea efortului respirator cu puls paradoxal si oboseala muschilor respiratori cu insuficienta ventilatorie;",
+        "toate afirmatiile sunt adevarate."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Stimuli care determina reactivitate crescuta a cailor respiratorii in cadrul astmului acut la adult, sunt:",
+      "options": [
+        "infectiile virale respiratorii;",
+        "efortul fizic;",
+        "conditii de mediu (poluare, antigeni din zonele puternic industrializate ca si cei din spatiile interioare ca mucegaiuri, acarieni, gandaci);",
+        "expunerea ocupationala la saruri ale metalelor, lemn, pudre vegetale, produse farmaceutice, substante chimice industriale;",
+        "toate raspunsurile sunt corecte."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Aspectele clinice ale astmului bronsic la adult sunt urmatoarele:",
+      "options": [
+        "simptomele astmului bronsic constau in triada dispnee, wheezing si tuse;",
+        "multi pacienti vor mentiona istoricul de astm la prezentare;",
+        "la debutul atacului, pacientii acuza cel mai frecvent constrictie toracica si tuse;",
+        "pe masura ce criza de astm se exacerbeaza, wheezing-ul devine tot mai accentuat, expirul tot mai prelungit si devine evidenta utilizarea muschilor accesori;",
+        "toate afirmatiile sunt corecte."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Factorii de risc cei mai importanti pentru deces datorat astmului bronsic sunt urmatorii:",
+      "options": [
+        "antecedente de exacerbari bruste severe;",
+        "internari anterioare pentru astm intr-o unitate de terapie intensiva necesitand sau nu intubatie;",
+        "2 sau mai multe internari pentru astm in ultimul an, 3 sau mai multe prezentari la camera de garda pentru astm in ultimul an sau spitalizare sau vizite la camera de garda pentru astm in cursul ultimei luni;",
+        "utilizarea a mai mult de 2 flacoane de β2-agonisti inhalatori cu durata scurta de actiune pe luna sau utilizare curenta de corticosteroizi sistemici sau sevraj recent la corticosteroizi sistemici;",
+        "toate afirmatiile sunt corecte."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Diagnosticul diferential al astmului bronsic la adult se poate face cu urmatoarele entitati:",
+      "options": [
+        "insuficienta cardiaca congestiva (“astm cardiac”);",
+        "obstructia cailor respiratorii superioare, aspiratie de corpi straini sau acid gastric;",
+        "carcinom bronsic cu obstructie endobronsica;",
+        "embolii pulmonare multiple (rar);",
+        "toate raspunsurile sunt corecte."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "In ceea ce priveste tratamentul astmului acut, urmatoarea afirmatie este corecta:",
+      "options": [
+        "scopul tratamentului astmului acut in serviciile de urgenta este de a reduce rapid obstructia cailor respiratorii;",
+        "reducerea rapida a obstructiei cailor respiratorii se face prin administrari repetate de β2-agonisti inhalatori, prin asigurarea unei oxigenari adecvate si prin ameliorarea inflamatiei;",
+        "categoriile de medicamente folosite in tratamentul astmului acut sunt: agonisti β2-adrenergici, anticolinergice si glucocorticoizi;",
+        "agentii stabilizatori ai mastocitelor, metilxantinele si inhibitorii leucotrienelor sunt rezervati doar pentru tratamentul de mentinere;",
+        "toate afirmatiile sunt corecte."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Urmatoarea afirmatie privind agentii adrenergici in tratamentul astmului acut este adevarata:",
+      "options": [
+        "β-agonistii adrenergici sunt medicatia preferata initial in bronhospasmul acut;",
+        "cel mai frecvent efect advers al agentilor β-adrenergici este tremorul muschilor scheletici;",
+        "la administrarea agentilor β-adrenergici, pacientii pot prezenta nervozitate, anxietate, insomnie, cefalee, hiperglicemie, palpitatii, tahicardie si hipertensiune;",
+        "toate afirmatiile sunt corecte;",
+        "toate afirmatiile sunt false."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Urmatoarea afirmatie privind tratamentul astmului acut este adevarata:",
+      "options": [
+        "terapia cu aerosoli cu medicamente β2-adrenergice produce o excelenta bronhodilatatie si este preferata cailor de administrare orala si parenterala;",
+        "calea de administrare a aerosolilor are aceeasi eficacitate ca si cea prin administrare locala dar la o doza relativ scazuta, producand astfel efectele locale cu minima absorbtie sistemica si mai putine efecte adverse;",
+        "aerosolii pot fi administrati la fiecare 15-20 minute sau in mod continuu;",
+        "PEV cu β-agonisti nu ofera nici un avantaj fata de administrarea agentilor prin aerosoli sau metered dose inhaler (MDI) si au un potential risc;",
+        "toate afirmatiile sunt corecte."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Urmatoarea afirmatie privind tratamentul in astmul acut este adevarata:",
+      "options": [
+        "corticosteroizii sunt medicamente cu eficienta inalta in exacerbarile astmului;",
+        "corticosteroizii sunt baza tratamentului in astmul acut la adult;",
+        "debutul efectului antiinflamator dupa administrarea de corticosteroizi este intarziata cu cel putin 4-8 ore dupa administrarea i.v. sau orala;",
+        "administrarea de corticosteroizi in interval de 1 ora de la sosirea la camera de garda ar reduce nevoia de spitalizare;",
+        "toate afirmatiile sunt corecte."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    }
+  ]
+}

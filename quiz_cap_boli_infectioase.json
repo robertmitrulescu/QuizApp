@@ -1,0 +1,131 @@
+{
+  "chapter": "cap_boli_infectioase",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "La un pacient febril (T > 38°C) cu hipotensiune (TAS = 90 mmHg), în care din situațiile de mai jos luați în considerare posibilitatea sindromului de șoc toxic?",
+      "options": [
+        "pacient cu tamponament nazal, eritrodermie generalizată, cefalee, vărsături",
+        "pacient cu cefalee, fotofobie, semne de iritație meningeală, vărsături",
+        "pacient cu vărsături, loje renale sensibile, disurie, faringită și examen ce pledează pentru pielonefrită acută"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Managementul corect în tratamentul inițial al sindromului de șoc septic este:",
+      "options": [
+        "tratament antibiotic cu spectru larg până la efectuarea culturilor și hemoculturilor",
+        "vasopresoare (Dopamină 5–20 μg/kg/min) și antibiotice antistafilococice",
+        "soluții cristaloide și plasmă proaspăt congelată în cantități mari (4–20 L) în primele 24 h, apoi în funcție de TA vasopresoare, eradicarea focarului de infecție și ATB antistafilococice după efectuarea culturilor și hemoculturilor"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Profilaxia infecțiilor gripale (virus gripal A și B) este contraindicată:",
+      "options": [
+        "femeilor însărcinate",
+        "femeilor care alăptează",
+        "persoanelor alergice la proteinele din ou sau la alte componente ale vaccinului",
+        "toate de mai sus"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Abordarea corectă a unui pacient cu suspiciunea de encefalită cu virus Herpes simplex (HSV‑1) este:",
+      "options": [
+        "puncție lombară și inițierea tratamentului specific ulterior deoarece determinările din LCR sunt specifice",
+        "CT cerebral apoi efectuarea de culturi din LCR și se așteaptă confirmarea suspiciunii",
+        "tratament inițiat în urgență când există această suspiciune cu Aciclovir i.v. 10 mg/kg la 8 ore"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Diagnosticul tetanosului generalizat se face pe baza aspectului clinic. Care dintre următoarele diagnostice diferențiale imită cel mai bine acest aspect clinic?",
+      "options": [
+        "tetania hipocalcemică",
+        "intoxicația cu stricnină",
+        "iritația meningeală",
+        "reacțiile distonice (metoclopramid, fenotiazide)"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "În tratamentul tetanosului la adult, imunoterapia efectuată corect constă în:",
+      "options": [
+        "administrarea unei singure doze de 0,5 ml i.m. de toxoid tetanic după debridarea plăgii tetanigene",
+        "0,5 ml i.m. toxoid tetanic la prezentare, apoi la 6 săpt. și la 6 luni",
+        "imunoglobulină umană antitetanică (TIG) > 500 U i.m. înaintea debridării plăgii și repetată la 6 săpt. și 6 luni",
+        "TIG > 500 U i.m., înaintea debridării plăgii (o singură doză) și toxoid tetanic adsorbit 0,5 ml i.m., urmat de rapeluri la 6 săpt. și 6 luni"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "La un pacient diabetic cu erizipel la gamba stângă, fără alergii cunoscute la antibiotice, tratamentul antibiotic adecvat este:",
+      "options": [
+        "Oxacilină 500 mg p.o.",
+        "Ceftriaxonă 1–2 g/zi i.v.",
+        "Penicilină G 2 mil. U i.v. la 6 ore",
+        "Penicilină G 24 mil. U/zi i.v."
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "În condițiile în care în departamentul de urgență se produce o expunere accidentală a personalului medical dintr-o sursă infectată cu HIV, cum procedați corect pentru PPE (profilaxie post-expunere)?",
+      "options": [
+        "se inițiază cât mai repede posibil profilaxia, de preferință în 1–2 ore de la expunere",
+        "nu se începe până la aflarea rezultatelor probelor recoltate de la sursa infectată și de la personalul medical",
+        "se inițiază doar după 24–36 ore de la expunere împreună cu un specialist în boli infecțioase"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "În boala Lyme, profilaxia pentru zonele înalt endemice se face cu:",
+      "options": [
+        "o singură doză de Doxiciclină administrată în primele 72 ore",
+        "Ceftriaxonă sau Eritromicină timp de 14–21 de zile",
+        "vaccin anti–Borrelia burgdorferi",
+        "nu se face profilaxie"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "La un pacient consumator de droguri injectabile, cu endocardită infecțioasă, care este schema de terapie empirică pe care o începeți în departamentul de urgență?",
+      "options": [
+        "Nafcilină + Gentamicină + Vancomicină",
+        "Ceftriaxonă + Gentamicină",
+        "Vancomicină + Rifampicină",
+        "Vancomicină + Gentamicină + Rifampicină"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    }
+  ]
+}

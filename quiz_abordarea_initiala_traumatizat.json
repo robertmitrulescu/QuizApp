@@ -1,0 +1,145 @@
+{
+    "chapter": "Abordarea initiala a pacientului traumatizat",
+    "questions": [
+        {
+            "id": 1,
+            "type": "multiple_choice",
+            "prompt": "Criteriile de screening care exclud in mod clar necesitatea investigatiilor imagistice pentru coloana cervicala, in context de trauma, sunt urmatoarele cu exceptia:",
+            "options": [
+                "A) absenta deficitelor neurologice focale",
+                "B) absenta altor leziuni dureroase care distrag atentia",
+                "C) statusul mental alterat",
+                "D) absenta intoxicatiei",
+                "E) absenta sensibilitatii la nivel cervical posterior, pe linia mediana"
+            ],
+            "correctIndex": 2,
+            "correctLetter": "C"
+        },
+        {
+            "id": 2,
+            "type": "multiple_choice",
+            "prompt": "Obiectele care determina plagi intepate profunde in torace sau abdomen:",
+            "options": [
+                "A) trebuie eliminate cat mai rapid la locul interventiei, in prespital",
+                "B) pot fi retezate pentru a facilita transportul",
+                "C) interventia chirurgicala poate fi temporizata daca tensiunea arteriala este in limite normale",
+                "D) indepartarea chirurgicala cu vizualizarea directa in vederea asigurarii hemostazei nu este o recomandare de rutina",
+                "E) temporizarea interventiei chirurgicale se poate face in vederea examenelor imagistice amanuntite"
+            ],
+            "correctIndex": 1,
+            "correctLetter": "B"
+        },
+        {
+            "id": 3,
+            "type": "multiple_choice",
+            "prompt": "Una din afirmatiile referitoare la examinarea ecografica abdominala axata pe trumatism (FAST) este falsa:",
+            "options": [
+                "A) evalueaza prezenta lichidului in pericard",
+                "B) evalueaza prezenta lichidului in regiunea perisplenica",
+                "C) evalueaza prezenta lichidului in recesul hepatorenal Morrison",
+                "D) evalueaza prezenta lichidului in pelvis in jurul vezicii",
+                "E) nu inlocuieste lavajul peritoneal diagnostic"
+            ],
+            "correctIndex": 4,
+            "correctLetter": "E"
+        },
+        {
+            "id": 4,
+            "type": "multiple_choice",
+            "prompt": "Un pacient de 70 de kg (cu un volum sangvin de 5 litri) aflat in soc hemoragic (clasa IV) dupa un politrumatism prin accident rutier prezinta urmatoarele, cu exceptia:",
+            "options": [
+                "A) tensiune arteriala scazuta",
+                "B) presiunea pulsului scazuta",
+                "C) o frecventa cardiaca de 120 bpm",
+                "D) o pierdere de sange de >2000 mL",
+                "E) o pierdere de sange de ~ 40% din volumul sangvin initial."
+            ],
+            "correctIndex": 2,
+            "correctLetter": "C"
+        },
+        {
+            "id": 5,
+            "type": "multiple_choice",
+            "prompt": "Din evaluarea primara a unui pacient cu politraumatism nu face parte:",
+            "options": [
+                "A) evaluarea circulatiei cu controlul hemoragiei",
+                "B) sondajul nazogastric si vezical",
+                "C) evaluarea neurologica rapida",
+                "D) mentinerea permeabilitatii cailor aeriene si controlul coloanei cervicale",
+                "E) evaluarea respiratiei si ventilatiei"
+            ],
+            "correctIndex": 1,
+            "correctLetter": "B"
+        },
+        {
+            "id": 6,
+            "type": "multiple_choice",
+            "prompt": "Evaluarea secundara a unui pacient cu traumatisme include urmatoarele cu exceptia:",
+            "options": [
+                "A) daca la examinarea rectala prostata este deplasata, trebuie instituit cat mai precoce sondajul vezical",
+                "B) examinarea este coordonata ed la cap spre picioare, incepand cu scalpul",
+                "C) pacientul trebuie rotit pe ambele parti cu gatul mentinut imobilizat pentru a fi examinata si palpata toata suprafata corpului",
+                "D) la femei aflate la varsta procreatiei trebuie efectuat un test de sarcina",
+                "E) extremitatile trebuie evaluate pentru fracturi si leziuni ale tesutului moale"
+            ],
+            "correctIndex": 0,
+            "correctLetter": "A"
+        },
+        {
+            "id": 7,
+            "type": "multiple_choice",
+            "prompt": "Semnele si simptomele clinice ale tamponadei cardiace NU includ:",
+            "options": [
+                "A) agitatie",
+                "B) venele gatului destinse",
+                "C) zgomote cardiace asurzite",
+                "D) trahee deviata",
+                "E) hipotensiune arteriala"
+            ],
+            "correctIndex": 3,
+            "correctLetter": "D"
+        },
+        {
+            "id": 8,
+            "type": "multiple_choice",
+            "prompt": "La pacientii cu trauma craniana, aflati in coma (GCS<8) sunt adevarate urmatoarele, cu exceptia:",
+            "options": [
+                "A) necesita o evaluare rapida a leziunilor intracraniene",
+                "B) pacientul este intubat in vederea protectiei cailor aeriene",
+                "C) pacientul este intubat pentru a evita leziunile cerebrale secundare asociate hipoxemiei",
+                "D) computer tomograf de craniu poate arata de la o examinare normala pana la leziuni cerebrale majore",
+                "E) pacientul trebuie intubat obligatoriu, chiar cu riscul agravarii leziunilor de coloana cervicala."
+            ],
+            "correctIndex": 4,
+            "correctLetter": "E"
+        },
+        {
+            "id": 9,
+            "type": "multiple_choice",
+            "prompt": "Cel de-al treilea varf al distributiei trimodale a deceselor ca rezultat al leziunilor traumatice:",
+            "options": [
+                "A) sunt, in principal, rezultatul leziunilor craniene si vasculare majore",
+                "B) pot fi reduse prin identificarea leziunilor care necesita interventie chirurgicala",
+                "C) sunt rezultatul sindromului de raspuns inflamator sistemic si insuficientei multiple de organ",
+                "D) apar in primele minute de la sosirea pacientului la spital",
+                "E) se refera la decesele in mediul prespitalicesc la pacientii cu context traumatic"
+            ],
+            "correctIndex": 2,
+            "correctLetter": "C"
+        },
+        {
+            "id": 10,
+            "type": "multiple_choice",
+            "prompt": "Evaluarea statusului hemodinamic in cadrul evaluarii primare la un pacient cu politraumatism include urmatoarele, cu exceptia:",
+            "options": [
+                "A) aprecierea coloratiei tegumentare",
+                "B) prezenta pulsurilor periferice",
+                "C) aprecierea nivelului de constienta nu are relevanta in aceasta etapa",
+                "D) se face concomitent cu controlul hemoragiei",
+                "E) pentru controlul hemoragiei externe trebuie folosita presiunea directa."
+            ],
+            "correctIndex": 2,
+            "correctLetter": "C"
+        }
+    ]
+}

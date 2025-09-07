@@ -1,0 +1,145 @@
+{
+  "chapter": "SUBIECTE ABORDAREA INITIALA A PACIENTULUI TRAUMATIZAT",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "prompt": "Pierderile estimate de lichide si sange din clasa II (750-1500 ml) se caracterizeaza prin:",
+      "options": [
+        "pierdere de sange (% volum sanguin) = 15-30",
+        "frecventa cardiaca : 100-120",
+        "tensiune arteriala: normala",
+        "presiunea pulsului: scazuta",
+        "toate variantele de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "prompt": "Pierderile estimate de lichide si sange din clasa IV (>2000 ml) se caracterizeaza prin:",
+      "options": [
+        "pierdere de sange (% volum sanguin) = 40",
+        "frecventa cardiaca : >140",
+        "tensiune arteriala: scazuta",
+        "presiunea pulsului: scazuta",
+        "toate variantele de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "prompt": "In cazul unui presupus traumatism abdominal se practica de prima intentie:",
+      "options": [
+        "punctie abdominala",
+        "lavaj peritoneal",
+        "CT abdominal",
+        "examinare ecografica abdominala FAST",
+        "toate metodele de mai sus"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "prompt": "Pierderile estimate de lichide si sange din clasa I (<7500 ml) se caracterizeaza prin:",
+      "options": [
+        "pierdere de sange (% volum sanguin) = 15",
+        "frecventa cardiaca : <100",
+        "tensiune arteriala: normala",
+        "presiunea pulsului: normala sau crescuta",
+        "toate variantele de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "prompt": "Pierderile estimate de lichide si sange din clasa III (1500-2000 ml) se caracterizeaza prin:",
+      "options": [
+        "pierdere de sange (% volum sanguin) = 30-40",
+        "frecventa cardiaca : 120-140",
+        "tensiune arteriala: scazuta",
+        "presiunea pulsului: scazuta",
+        "toate variantele de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "prompt": "Corectarea hipovolemiei la un politraumatizat se face:",
+      "options": [
+        "aplicarea de presiune la nivelul plagilor cu hemoragie semnificativa",
+        "se practica toracotomia si pericardiotomia",
+        "se ridica trenul inferior al pacientului la 45 o",
+        "se administreaza 2 L de solutii cristaloide si ulterior transfuzie de sange daca pacientul este inca hipovolemic",
+        "se face pansament compresiv la nivelul plagilor"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "prompt": "La evaluarea secundara a pacientului politraumatizat se au in vedere urmatoarele mai putin una:",
+      "options": [
+        "examinarea meatului uretral, tuseul rectal si tuseul vaginal",
+        "examinarea stabilitatii centurii pelvine",
+        "examinarea membrelor si decelarea eventualelor fracturi deschise",
+        "examinarea abdomenului: decelarea sensibilitatii dureroase sau distensiei abdominale",
+        "intubatia oro sau nazotraheala"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "prompt": "In cadrul stabilizarii respiratorii din evaluarea primara se pot efectua urmatoarele manevre mai putin una:",
+      "options": [
+        "decompresie pe ac in caz de pneumotorax sufocant",
+        "drenaj toracic in caz de pneumotorax",
+        "bandaj ocluziv in caz de plaga toracica aspirativa",
+        "aspiratie si tamponament in caz de epistaxis important",
+        "ventilatie cu oxigen 100%"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "prompt": "Intubatia politraumatizatului se face :",
+      "options": [
+        "imediat ce ajunge echipa la fata locului deoarece starea pacientului se poate agrava rapid",
+        "se face daca sangerarea din zona capului este foarte mare",
+        "se face numai dupa imobilizarea gatului (pentru a preveni miscarea acestuia) si fara sa se practice hiperextensia",
+        "se face de obicei cu o sonda mai mica deoarece structurile gatului pot fi dezorganizate",
+        "se face intotdeauna dupa pozitionarea pacientului in ambulanta"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "prompt": "Daca politraumatizatul instabil are componenta toracica si fracturi la nivelul membrelor superioare locul de electie pentru montarea liniei venoase este:",
+      "options": [
+        "vena subclavie pentru ca este de calibru mare",
+        "pe bratul cel mai putin afectat 2 linii periferice",
+        "jugulara externa",
+        "la nivel pelvin (femurala) o linie percutana",
+        "orice zona unde se poate monta fara sa luam in considerare leziunile existente"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    }
+  ]
+}

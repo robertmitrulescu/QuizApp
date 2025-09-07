@@ -1,0 +1,397 @@
+{
+  "chapter": "ASTM – Astm bronșic",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Consecintele fiziopatologice ale obstructiei fluxului aerian sunt urmatoarele:",
+      "options": [
+        "Rezistenta crescuta in caile aeriene",
+        "Cresterea presiunii in caile respiratorii",
+        "Dezechilibrul de ventilatie-perfuzie",
+        "Cresterea efortului respirator",
+        "Toate de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Urmatoarele sunt simptome caracteristice astmului, cu exceptia:",
+      "options": [
+        "Tuse",
+        "Wheezing",
+        "Lipsa de aer",
+        "Durere retrosternala iradiata in membrul superior stang si mandibula",
+        "Constrictie toracica"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Examinarea fizica in astmul bronsic poate sa releve, cu exceptia:",
+      "options": [
+        "Diminuarea intensitatii zgomotelor respiratorii",
+        "Matitate unilaterala la percutie",
+        "Prelungirea expirului",
+        "Wheezing",
+        "Tahipnee"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Urmatorii reprezinta factori de risc pentru deces datorat astmului, cu exceptia:",
+      "options": [
+        "Utilizarea a 2 flacoane de beta2 agonisti inhalatori pe an",
+        "Antecedente de exacerbari bruste severe",
+        "Intubatii anterioare pentru astm",
+        "Comorbiditati (boli cardiovasculare sau BPOC)",
+        "Utilizarea curenta de corticosteroizi sistemici sau sevraj recent la acestia"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Printre patologiile care imita astmul se numara urmatoarele, cu exceptia:",
+      "options": [
+        "Pneumonia acuta cu pneumococ",
+        "Obstructia cailor aeriene superioare",
+        "Carcinom bronsic cu obstructie endobronsica",
+        "Aspiratie de corpi straini sau acid gastric",
+        "Disfunctia corzilor vocale"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Despre clasificarea severitatii exacerbarilor astmului, care afirmatie este falsa?",
+      "options": [
+        "In forma usoara wheezingul este moderat, adesea doar la sfarsitul expirului",
+        "In forma moderata wheezingul este intens, pe parcursul intregului expir",
+        "In forma severa wheezingul este intens, pe parcursul inspirului si expirului",
+        "In iminenta de stop respirator wheezingul este absent",
+        "Atat in forma severa cat si in iminenta de stop respirator wheezingul este absent"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Despre agentii adrenergici administrati in astmul bronsic acut, care afirmatie este falsa?",
+      "options": [
+        "Beta-agonistii adrenergici sunt medicatia preferata initial pentru bronhospasmul acut",
+        "Epinefrina sau terbutalina pot fi administrate subcutanat daca pacientul nu poate utiliza MDI/aerosoli",
+        "Administrarea parenterala a beta2-adrenergicelor este preferata terapiei cu aerosoli",
+        "Albuterol MDI (90 mcg/puff): 4–8 puffuri la fiecare 20 min (max. 4 ore), apoi la 1–4 ore dupa nevoie",
+        "Salmeterolul xinafoat se administreaza de 2 ori/zi in terapia de intretinere"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Despre corticosteroizi in tratamentul astmului bronsic, care afirmatie este adevarata?",
+      "options": [
+        "Se pot administra numai sub forma inhalatorie",
+        "O doza initiala de 60–125 mg metilprednisolon i.v. bolus este suficienta la pacientii care nu pot tolera medicatia orala",
+        "Terapia cu doze mari de corticosteroizi este preferata avand un efect rapid",
+        "Terapia cu corticosteroizi se face numai pe timpul spitalizarii din cauza efectelor adverse",
+        "Toti pacientii cu astm persistent usor sau mai sever trebuie mentinuti pe corticosteroizi inhalatori"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Despre investigatiile paraclinice in astmul bronsic, care afirmatie este falsa?",
+      "options": [
+        "Spirometria la patul bolnavului ofera evaluare rapida, obiectiva si ghideaza eficienta terapiei",
+        "FEV1 si debitul expirator de varf masoara direct gradul obstructiei cailor aeriene mari",
+        "PaCO2 normala sau usor crescuta indica obstructie severa a cailor aeriene",
+        "PaCO2 crescuta poate anunta insuficienta ventilatorie acuta",
+        "Radiografia toracica se efectueaza de rutina la toti pacientii cu exacerbare a astmului, avand valoare diagnostica"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Despre severitatea exacerbarilor astmului, care afirmatie este adevarata?",
+      "options": [
+        "In forma usoara pacientul este confuz",
+        "In iminenta de stop respirator pacientul este tahicardic (>120/min)",
+        "Pulsul paradoxal apare in formele moderate si severe",
+        "In formele usoare frecventa respiratorie este scazuta",
+        "In formele usoare apare utilizarea muschilor accesorii si retractii suprasternale"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "prompt": "In astmul bronsic la adulti, reactia inflamatorie acuta este caracterizata prin urmatoarele, cu exceptia:",
+      "options": [
+        "Bronhoconstrictie",
+        "Transport muco-ciliar normal",
+        "Congestie vasculara",
+        "Formare de edem",
+        "Productie crescuta de mucus"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "prompt": "Consecintele fiziologice ale obstructiei fluxului aerian in astmul bronsic sunt urmatoarele:",
+      "options": [
+        "Rezistenta scazuta in caile respiratorii",
+        "Hipoxemie si hipercapnie",
+        "Cresterea fluxului expirator maxim",
+        "Scaderea efortului respirator",
+        "Scaderea presiunii in caile respiratorii"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "prompt": "Categorii de medicamente folosite in tratamentul astmului:",
+      "options": [
+        "Beta-blocante",
+        "Glucocorticoizi",
+        "Gluconolactatul de calciu",
+        "IECA",
+        "Toate variantele de mai sus"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "prompt": "Care dintre urmatoarele afirmatii este adevarata:",
+      "options": [
+        "Albuterolul este beta-agonist",
+        "Bromura de ipratropiu nu se foloseste in astm",
+        "Corticosteroizii se utilizeaza in tratamentul bronhospasmului acut",
+        "Metilprednisolonul nu este un corticosteroid",
+        "Utilizarea de beta-adrenergice produce bradicardie"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "prompt": "Leucotrienele:",
+      "options": [
+        "Sunt mediatori proinflamatorii",
+        "Stimuleaza secretia de mucus",
+        "Atrag eozinofilele in caile aeriene",
+        "Cresc permeabilitatea microvasculara",
+        "Toate variantele sunt corecte"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "prompt": "Agentii stabilizatori ai mastocitelor:",
+      "options": [
+        "Sunt reprezentati de Cromolin si Salbutamol",
+        "Stimuleaza raspunsul precoce la alergeni",
+        "Stimuleaza raspunsul tardiv la alergeni",
+        "Sunt indicati in tratamentul crizei acute de bronhospasm",
+        "Moduleaza eliberarea mediatorilor din mastocite"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "prompt": "Teofilina:",
+      "options": [
+        "Are efect bronhodilatator sustinut",
+        "Dilata caile aeriene mici",
+        "Amelioreaza rezistenta muschilor respiratori",
+        "Nivel plasmatic >30 mcg/ml poate produce aritmii cardiace",
+        "Toate cele de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "prompt": "Efecte adverse ale agentilor beta-adrenergici:",
+      "options": [
+        "Palpitatii",
+        "Bradicardie",
+        "Hipersomnie",
+        "Hipotensiune",
+        "Nici o varianta"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "prompt": "Diagnosticul diferential al astmului se face cu:",
+      "options": [
+        "Colecistita acuta",
+        "Ulcerul gastric perforat",
+        "Insuficienta cardiaca congestiva",
+        "Litiaza renala",
+        "Accidentul vascular cerebral hemoragic"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "prompt": "Care dintre urmatoarele celule nu participa la raspunsul inflamator din astm?",
+      "options": [
+        "Limfocite",
+        "Eozinofile",
+        "Macrofage",
+        "IgE",
+        "Mastocite"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 21,
+      "type": "single",
+      "prompt": "Ce stimuli determina reactivitate crescuta a cailor aeriene?",
+      "options": [
+        "Infectiile virale respiratorii",
+        "Efortul fizic",
+        "Poluarea atmosferica",
+        "Diverși agenti farmacologici (ex. aspirina, beta-blocante)",
+        "Toate variantele de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 22,
+      "type": "single",
+      "prompt": "Care medicament NU este un β2-agonist adrenergic?",
+      "options": [
+        "Albuterol",
+        "Bitolterol",
+        "Salmeterol",
+        "Epinefrina",
+        "Bromura de ipratropiu"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 23,
+      "type": "single",
+      "prompt": "Care dintre urmatoarele variante NU caracterizeaza exacerbarea medie a astmului?",
+      "options": [
+        "Flux expirator maxim ~50–80%",
+        "PaO2 > 60 mmHg",
+        "PaO2 normal",
+        "PaCO2 < 42 mmHg",
+        "SaO2 = 91–95%"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 24,
+      "type": "single",
+      "prompt": "Care dintre urmatoarele NU reprezinta o consecinta a obstructiei fluxului aerian?",
+      "options": [
+        "Cresterea presiunii in caile respiratorii",
+        "Hipoxemie",
+        "Hipercapnie",
+        "Puls paradoxal",
+        "Cresterea fluxului expirator maxim"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 25,
+      "type": "single",
+      "prompt": "Ce simptom NU se intalneste in criza de astm?",
+      "options": [
+        "Dispnee",
+        "Tuse",
+        "Wheezing",
+        "Senzatie de constrictie toracica",
+        "Junghi toracic"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 26,
+      "type": "single",
+      "prompt": "Aspectele clinice ale astmului bronsic la adult includ:",
+      "options": [
+        "Triada dispnee, wheezing si tuse",
+        "Multi pacienti mentioneaza istoricul de astm la prezentare",
+        "La debut este frecventa constrictia toracica si tusea",
+        "In criza severa expirul se prelungeste si se folosesc muschii accesorii",
+        "Toate afirmatiile sunt corecte"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 27,
+      "type": "single",
+      "prompt": "Despre tratamentul astmului acut, care afirmatie este corecta?",
+      "options": [
+        "Scopul tratamentului este reducerea rapida a obstructiei cailor respiratorii",
+        "Se administreaza repetat β2-agonisti inhalatori; se asigura oxigenare adecvata si se amelioreaza inflamatia",
+        "Se folosesc β2-adrenergici, anticolinergice si glucocorticoizi",
+        "Stabilizatorii mastocitelor, metilxantinele si inhibitorii de leucotriene sunt rezervati tratamentului de mentinere",
+        "Toate afirmatiile sunt corecte"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 28,
+      "type": "single",
+      "prompt": "Despre agentii adrenergici in tratamentul astmului acut, care afirmatie este adevarata?",
+      "options": [
+        "β-agonistii adrenergici sunt medicatia preferata initial in bronhospasmul acut",
+        "Cel mai frecvent efect advers este tremorul",
+        "Pot aparea: nervozitate, anxietate, insomnie, cefalee, hiperglicemie, palpitatii, tahicardie, hipertensiune",
+        "Toate afirmatiile sunt corecte",
+        "Toate afirmatiile sunt false"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "chapter": "Strategii terapeutice in SCA",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Dozele recomandate pentru medicamentele utilizate în tratamentul de urgență al SCA, sunt:",
+      "options": [
+        "clopidogrel, doza de încărcare de 200 mg p.o. urmată de 250 mg/zi",
+        "aspirina 160-325 mg p.o.",
+        "streptokinaza 2,5 milioane de unități timp de 60 minute",
+        "enoxaparina 1 mg/kg s.c. la interval de 24 de ore",
+        "morfina 5-10 mg i.v. la interval de 5-15 minute, după caz, în durere"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Care din următoarele medicamente reprezintă inhibitori de glicoproteina IIb/IIIa:",
+      "options": [
+        "enoxaparina",
+        "alteplaza (tPA)",
+        "abciximab",
+        "streptokinaza",
+        "nitroglicerina"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Contraindicațiile absolute pentru terapia fibrinolitică în IMA, sunt:",
+      "options": [
+        "hemoragie internă activă (incluzând menstruația)",
+        "accident vascular cerebral hemoragic în antecedente",
+        "hipertensiune arterială cronică severă în antecedente",
+        "traumatism recent (în ultimele 2 săptămâni)",
+        "diateză hemoragică cunoscută"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Terapia fibrinolitică în IMA:",
+      "options": [
+        "este indicată dacă intervalul de timp până la administrarea tratamentului este sub 6–12 ore de la debutul simptomelor, iar EKG prezintă o supradenivelare a segmentului ST de cel puțin 1 mm în 2 sau mai multe derivații adiacente",
+        "este indicată dacă intervalul de timp până la administrarea tratamentului este sub 12–24 ore de la debutul simptomelor, iar EKG prezintă o supradenivelare a segmentului ST de cel puțin 1 mm în 2 sau mai multe derivații adiacente",
+        "beneficiile terapeutice sunt mai mari, în infarctul mic sau în teritoriul inferior",
+        "este indicată dacă intervalul de timp până la administrarea tratamentului este sub 6–12 ore de la debutul simptomelor, iar EKG prezintă o supradenivelare a segmentului ST de cel puțin 1 mm într-o singură derivație",
+        "beneficiile terapeutice sunt reduse, în infarctul întins și infarctul anterior"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Contraindicațiile relative pentru terapia fibrinolitică în IMA, sunt:",
+      "options": [
+        "accident vascular ischemic în ultimul an",
+        "neoplazie intracraniană cunoscută",
+        "suspiciune de disecție de aortă sau pericardită",
+        "sarcină",
+        "hemoragie internă activă (excluzând menstruația)"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Nitroglicerina în tratamentul de urgență al IMA:",
+      "options": [
+        "doza de nitroglicerină administrată i.v. se ajustează în funcție de remiterea simptomelor (durerea toracică)",
+        "este recomandată la pacienții cu infarct de ventricul drept",
+        "nitroglicerina exercită efecte vasoconstrictorii asupra patului vascular coronarian și scade fluxul sanguin miocardic și regional",
+        "nitroglicerina stimulează agregarea plachetară",
+        "doza de nitroglicerină administrată i.v. se ajustează în funcție de reducerea tensiunii arteriale"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Medicamente utilizate în limitarea întinderii infarctului, sunt următoarele cu o excepție:",
+      "options": [
+        "nitrații",
+        "beta-blocantele",
+        "inhibitorii enzimei de conversie a angiotensinei",
+        "magneziul",
+        "clopidogrelul"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Contraindicațiile relative ale antagoniștilor beta-adrenergici sunt:",
+      "options": [
+        "frecvență ventriculară > 60 bătăi/min",
+        "tensiunea arterială sistolică > 100 mmHg",
+        "interval PR mai mic de 0,24 s",
+        "tensiune arterială diastolică < 100 mmHg",
+        "BPOC severă"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Inhibitorii enzimei de conversie a angiotensinei (IECA) în tratamentul de urgență al IMA:",
+      "options": [
+        "se recomandă administrarea IECA pe cale i.v.",
+        "IECA sunt contraindicați în cazurile în care hipertensiunea persistă după tratamentul cu nitroglicerină și beta-blocante la pacienții cu ICC",
+        "IECA accelerează dezvoltarea insuficienței cardiace congestive în timpul IMA",
+        "administrarea IECA p.o. este corelată cu hipotensiune pronunțată",
+        "IECA sunt contraindicați în stenoză bilaterală a arterei renale"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Beta-blocantele în tratamentul de urgență al IMA:",
+      "options": [
+        "cresc cererea de oxigen la nivel miocardic prin scăderea pulsului",
+        "cresc presiunea arterială sistemică",
+        "la pacienții tratați cu fibrinolitice cresc riscul de reinfarct non-fatal și al ischemiei recurente",
+        "se administrează în primele 12 ore de la debutul infarctului doar pacienților care au primit terapie fibrinolitică anterior",
+        "se recomandă ca toți pacienții cu STEMI care nu prezintă contraindicații pentru beta-blocante să fie tratați cu acești agenți în primele 12 ore de la debutul infarctului, indiferent dacă au primit sau nu terapie fibrinolitică"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    }
+  ]
+}

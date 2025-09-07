@@ -1,0 +1,702 @@
+{
+  "chapter": "Management non-invaziv al căilor aeriene",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Cauzele posibile ale obstructiei căilor aeriene superioare pot fi:",
+      "options": [
+        "Fibroza chistică",
+        "Angioedem",
+        "Laringospasm",
+        "Astm",
+        "Toate de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Următoarele pot fi cauze traumatice de obstructie ale căilor aeriene superioare, cu exceptia:",
+      "options": [
+        "Corp străin",
+        "Relaxarea muschilor căilor aeriene",
+        "Inhalare de fum",
+        "Traumatisme termice",
+        "Traumă laringiană"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Laringospasmul si bronhospasmul au loc mai des la copii, unele cauze ale laringospasmului pot fi următoarele, mai putin:",
+      "options": [
+        "Tractiune în zona organelor pelvine /abdominale",
+        "Vărsătura",
+        "Iritatia chimică",
+        "Hipercapnia",
+        "Atingerea usoară a căilor aeriene superioare"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Obstructia căilor aeriene superioare la pacientul inconstient are loc în principal datorită:",
+      "options": [
+        "Bronhospasmului",
+        "Laringospasmului",
+        "Limbii, care se deplasează posterior si produce ocluzia faringelui inferior",
+        "Epiglotei care obstruează glota",
+        "Nici un răspuns nu este corect"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Următoarele afirmatii despre CPAP sunt adevărate, cu exceptia:",
+      "options": [
+        "Este una din metodele de ventilatie în care preiunea este mentinută pozitivă pe aproape toată durata ciclului respirator",
+        "Poate fi folosită în tratamentul pacientilor cu insuficientă respiratorie hipoxemică acută",
+        "Îmbunătăteste functia pulmonară prin reducerea travaliului respirator",
+        "Îmbunătăteste functia pulmonară prin mentinerea umplerii alveolelor atelectatice",
+        "Îmbunătăteste functia pulmonară prin îmbunătătirea compliantei pulmonare"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "CPAP – ul poate fi folosită în tratamentul pacientilor cu:",
+      "options": [
+        "Pneumonie",
+        "Insuficientă respiratorie traumatică",
+        "BPOC",
+        "Edemul pulmonar acut cardiogen",
+        "Toate de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "BiPAP-ul este o metodă de ventilatie în care presiunea pozitivă este folosită pentru a asista ventilatia spontană a pacientului.Următoarele afirmatii despre BiPAP sunt adevărate, cu exceptia:",
+      "options": [
+        "Poate reduce frecventa respiratorie si dispneea",
+        "Permite o îmbunătătire mai rapidă a oxigenării si ventilatiei decât     CPAP-ul",
+        "Este un tratament mai eficient în edemul pulmonar acut cardiogen, decât terapia cu oxigen conventională",
+        "Aparatele BiPAP răspund la ciclul respirator al pacientului prin alternare între o rată mai mică a fluxului în faza de inspir si o rată mai mare în faza de expir",
+        "Poate fi folosit în tratamentul BPOC"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "La pacientii copii, se pare că BiPAP-ul îmbunătăteste:",
+      "options": [
+        "Frecventa respiratorie",
+        "PaCO2",
+        "Saturatia în O2",
+        "Frecventa cardiacă",
+        "Toate de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "CPAP poate fi folosită pentru a îmbunătătii functia respiratorie si pentru a reduce hipoxemia la pacientii traumatizati. Această metodă are si contraindicatii în anumite tipuri de  traumatisme, ca de exemplu:",
+      "options": [
+        "Contuzia abdominală",
+        "Plăgile împuscate sau înjunghiate ale abdomenului",
+        "Fracturile de bazin",
+        "Fracturile costale simple",
+        "Toate de mai sus"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Complicatiile cunoscute ale ventilatiei non-invazive cu presiune pozitiva continuă sunt urmatoarele, cu exceptia:",
+      "options": [
+        "Distensia gastrică",
+        "Aspiratia",
+        "Ischemia miocardica",
+        "Intoleranta la presiunea pozitivă",
+        "Deteriorarea tenului"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "prompt": "Care dintre urmatoarele afirmatii despre masca laringiana este falsa",
+      "options": [
+        "este formata dintr-o canula oro-faringiana tubulara si o masca distala din silicon",
+        "datorita diametrului mare si a lungimii reduse, intubatia bronsiilor sau a esofagului este impiedicata",
+        "alternativa eficienta cand intubatia endo-traheala esueaza datorita nevizualizarii corzilor vocale, tumorilor de cai aeriene sau patologiei cervicale.",
+        "asigura protectie 100% impotriva aspiratiei traheale a continutului gastric",
+        "poate furniza o ventilatie cu presiuni pozitive"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "prompt": "Urmatoarele afirmatii reprezinta complicatii ale mastii laringiene",
+      "options": [
+        "obstructia partiala a cailor aeriene",
+        "obstructia totala a cailor aeriene",
+        "imposibilitatea de a proteja impotriva aspiratiei continutului gastric",
+        "nici una dintre cele mentionate mai sus",
+        "toate cele mentionate mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "prompt": "Urmatoarele afirmatii despre combitub sunt adevarate",
+      "options": [
+        "tub de plastic cu dublu lumen",
+        "prezinta doua balonase \\ș unul proximal care inchide zona faringiana si unul distal",
+        "daca tubul distal este introdus in esofag,  perforatiile din lumemul esofagian ajuta la ventilatie",
+        "daca tubul distal este introdus in trahee, pacientul este ventilat direct ca si cu sonda endo-traheala cu balonas",
+        "toate cele de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "prompt": "Contraindicatiile ventilatiei non-invazive cu presiuni pozitive",
+      "options": [
+        "leziuni grave esofagiene sau traheale",
+        "fracturile maxilo-faciale si ale bazei craniului c apneea",
+        "toate cele de mai sus",
+        "nici una dintre cele dee mai sus"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "prompt": "Care dintre urmatoarele afirmatii despre CPAP nu este adevarata",
+      "options": [
+        "poate reduce travaliul respirator",
+        "poate mentine deschise alveolele atelectatice",
+        "poate creste presarcina",
+        "poate reduce presarcina",
+        "presiunea pozitiva este mentinuta pe toata durata ciclului respirator"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "prompt": "Toate cele de mai jos reprezinta criterii de alegere a NIPPV, cu exceptie. Mentionati exceptia",
+      "options": [
+        "respiratia spontana",
+        "paO2 mai mare de 65mmHg",
+        "traumatisme grave maxilo-faciale",
+        "status mental pastrat"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "prompt": "Urmatoarele pot reprezenta complicatii ale NIPPV",
+      "options": [
+        "dificultatea etanseizarii mastii faciale",
+        "distensia gastrica, aspiratia traheala",
+        "intoleranta la presiuni pozitive (ex. Secretii respiratorii excesive)",
+        "toate cele de mai sus",
+        "nici una dintre cele mentionate"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "prompt": "Urmatoarele afirmatii despre pipa orofaringiana sunt adevarate, cu exceptia",
+      "options": [
+        "se insera pentru a preveni obstructia hipofaringelui de catre baza limbii",
+        "sunt disponibile mai multe dimensiuni",
+        "dimensiunea nepotrivita poate determina obstructia cailor aeriene de catre epiglota",
+        "se insera la pacientul constient",
+        "poate determina reflex de voma sau laringospasm"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "prompt": "Urmatoarele afirmatii despre FiO2 obtinut cu ventilatia pe masca si balon sunt adevarate, cu exceptia",
+      "options": [
+        "FiO2 este 21% in timpul ventilatiei cu balon si masca cu aer ambiental",
+        "FiO2 poate creste la 45% cu admisie de oxigen la balon",
+        "Atasarea unui rezervor de oxigen si utilizarea unor debite inalte (10 l/min) poate creste FiO2 la 85%",
+        "Se poate administra FiO2 100% ventiland un pacient cu balon si masca"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "prompt": "Cauze de obstructie a cailor aeriene superioare",
+      "options": [
+        "angioedem",
+        "macroglosie",
+        "trauma laringiana",
+        "toate cele de mai sus",
+        "nici una dintre cele mentionate"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 21,
+      "type": "single",
+      "prompt": "In cazul NIPPV sunt adevarate  urmatoarele:",
+      "options": [
+        "este o alternativa eficienta a sondei endotraheale traditionale",
+        "poate fi folosita cu CPAP sau BiPAP",
+        "nu are contraindicatii",
+        "a+ b+ c",
+        "a+ b"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 22,
+      "type": "single",
+      "prompt": "Printre indicatiile de aplicare a NIPPV nu se numara :",
+      "options": [
+        "pacient cu BPOC acutizat",
+        "pacient cu apnee de somn",
+        "pacient cu GCS=3",
+        "nici una din variantele de mai sus",
+        "toate variantele de mai sus"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 23,
+      "type": "single",
+      "prompt": "Printre contraindicatiile NIPPV se numara:",
+      "options": [
+        "hipertensiunea  arteriala",
+        "edemul pulmonar acut cardiogen",
+        "ischemia miocardica",
+        "contuzia pulmonara",
+        "BPOC acutizat"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 24,
+      "type": "single",
+      "prompt": "Durata terapiei cu NIPPV se poate extinde :",
+      "options": [
+        "maxim 1 ora",
+        "maxim 2 ore",
+        "maxim 24 de ore",
+        "maxim 2 zile",
+        "maxim 7 zile"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 25,
+      "type": "single",
+      "prompt": "Modurile de ventilatie cel mai frecvent folosite in administrarea NIPPV sunt :",
+      "options": [
+        "BiPAP si CPAP",
+        "PSV",
+        "PCV",
+        "A/C",
+        "nici una din cele de mai sus"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 26,
+      "type": "single",
+      "prompt": "In insuficienta respiratorie cu hipercapnie in continua crestere, aplicarea NIPPV se face:",
+      "options": [
+        "nu se aplica NIPPV",
+        "marirea PIP cu cresteri treptate de 3 cmH2O",
+        "scaderea PIP cu cate 2 cmH2O",
+        "marirea PEP cu 5 cmH2O",
+        "scaderea PEP cu 5 cm H2O"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 27,
+      "type": "single",
+      "prompt": "La presiuni de aplicare a  NIPPV mai mari de  15 cmH2O exista risc major de",
+      "options": [
+        "hipertensiune arteriala",
+        "ruperea mastii de ventilatie",
+        "infarct miocardic",
+        "toate cele de mai sus",
+        "nici un din variantele de mai sus"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 28,
+      "type": "single",
+      "prompt": "Printre contraindicatiile NIPPV se numara:",
+      "options": [
+        "traumatismele maxilo-faciale grave",
+        "secretiile pulmonare abundente",
+        "aritmii",
+        "hipotensiune",
+        "toate variantele de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 29,
+      "type": "single",
+      "prompt": "NIPPV :",
+      "options": [
+        "nu este o alternativa la intubatia endotraheala",
+        "permite folosirea de presiuni mai mari de 15 cmH2O",
+        "se aplica fara riscuri in caz de fractura potentiala de baza de craniu",
+        "nu ofera sustinere ventilatorie in caz de insuficienta respiratorie iminenta",
+        "reduce travaliul respirator"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 30,
+      "type": "single",
+      "prompt": "In cazul NIPPV :",
+      "options": [
+        "masca nazala nu permite pacientului sa manace si sa bea",
+        "ventilatia nazala cu presiune pozitiva nu permite scurgerile de aer prin gura",
+        "ventilatorul ideal de BiPAP tolereaza anumite scurgeri",
+        "poate fi aplicata cu succes in cazul pacientilor cu ischemie miocardica",
+        "nici una din variantele de mai sus"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 31,
+      "type": "single",
+      "prompt": "Referitor la manevrele non-invazive de management ale cailor aeriene superioare, sunt FALSE urmatoarele:",
+      "options": [
+        "canulele obturatorii esofagiene sunt folosite în practica prespitaliceasca atunci când intubatia oro-traheala nu este o obtiune viabila",
+        "concentratia de oxigen furnizata de o masca cu valva și balon cu rezervor de oxigen atasat, la un flux de oxigen atasat de 15 litri pe minut este de 100%",
+        "masca cu valva și balon poate fi folosita initial în timpul pregatirii pentru intubatia oro-traheala, dar și ulterior în cazul în care intubatia esueaza",
+        "o valva demand atasata la canalul rezervorului balonului de ventilatie nu imbunatateste concentratia de oxigen furnizata",
+        "masca cu valva și balon poate fi folosita pentru a gestiona cazurile de stop cardiorespirator, pentru a asista efortul inspirator sau pentru a impiedica oboseala respiratorie"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 32,
+      "type": "single",
+      "prompt": "Ventilatia non-invaziva cu presiune pozitiva (NIPPV) este indicata în urmatoarele situatii, cu EXCEPTIA:",
+      "options": [
+        "apnee în somn sau la pacientii cu disfunctie reactiva grava a cailor aeriene",
+        "BPOC, în faza finala de edem pulmonar sau pneumonie",
+        "oboseala musculaturii inspiratorii la pacientii cu insuficienta respiratorie",
+        "poate fi o alternativa eficienta a sondei endotraheale traditionale, evitand posibilele complicatii ale intubarii",
+        "în niciuna dintre situatiile prezentate"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 33,
+      "type": "single",
+      "prompt": "Referitor la ventilatia non-invaziva, sunt adevarate urmatoarele, cu EXCEPTIA:",
+      "options": [
+        "folosirea ventilatiei cu masca faciala cu presiune pozitiva în timpul acutizarii BPOC duce la evitarea intubarii în 100% din cazuri",
+        "prin presiunea inspiratorie pozitiva ce reduce travaliul respirator și prin presiunea expiratorie pozitiva, BiPAP are un avantaj teoretic asupra CPAP",
+        "folosita singura BiPAP poate reduce frecventa respiratorie, dispneea și permite o imbunatatire a ventilatiei comparativ cu CPAP",
+        "NIPPV reduce necesitatea intubatiei endotraheale, mai ales la imunocompromisi și imbunatateste sansele de supravietuire la externare",
+        "NIPPV diminueaza nevoia de sustinere mecanica și timpul de stationare medie în unitatile de terapie intensiva la pacientii stabili hemodinamic cu insuficienta respiratorie"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 34,
+      "type": "single",
+      "prompt": "Referitor la ventilatia non-invaziva cu presiune pozitiva (NIPPV) sunt adevarate urmatoarele, cu EXCEPTIA:",
+      "options": [
+        "la varstnici ventilatia pe masca nazala a corectat conform studiilor hipoxemia și, ceva mai lent, hipercarbia",
+        "la copii BiPAP imbunatateste frecventa ventilatorie, frecventa cardiaca, PaCO2 și SaO2, diminuand nevoia de intubatie în apneea de tip obstructiv",
+        "CPAP ajuta la reducerea travaliului ventilator și imbunatateste capacitatea reziduala functionala, prevenind astfel hipoxemia, hipercapnia și tahipneea",
+        "imbunatatirea incepe cu 5 cmH2O, iar o presiune medie de 8,6 cmH2O atinge scopurile terapeutice în cazul CPAP",
+        "la pacientii traumatizati cu respiratie spontana conservata, imbunatatirea hemodinamicii nu este semnificativa în cazul ventilatiei non-invazive comparativ cu ventilatia invaziva"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 35,
+      "type": "single",
+      "prompt": "Dintre criteriile de alegere a ventilatiei non-invazive cu presiune pozitiva (NIPPV) nu fac parte:",
+      "options": [
+        "prezenta respiratiei spontane, status mental pastrat",
+        "absenta acidozei respiratorii hipercapnice",
+        "PaO2 peste 65 mmHg",
+        "prezenta unei sonde nazogastrice functionale și absenta leziunilor gave maxilo-faciale",
+        "prezenta unei leziuni grave traheale nu contraindica acest tip de ventilatie"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 36,
+      "type": "single",
+      "prompt": "Afirmatiile false referitoare la masca laringiana sunt urmatoarele:",
+      "options": [
+        "este o sonda artificiala ce poate fi folosita orb și care poate furniza o ventilatie cu presiune pozitiva",
+        "este similara altor canule esofagiene prin faptul ca poate fi introdusa fara manipularea capului pacientului",
+        "poate accidental sa intubeze bronhiile sau esofagul dacă nu se respecta tehnica adecvata",
+        "poate necesita sedare usoara pentru evitarea reflexelor de varsatura la stimularea faringelui posterior, aspiratia continutului gastric fiind cea mai frecventa complicatie a folosirii mastii laringiene",
+        "este o alternativa eficienta atunci când sonda endotraheala esueaza din cauza nevizualizarii corzilor vocale, a tumorilor de cai aeriene sau patologiei cervicale"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 37,
+      "type": "single",
+      "prompt": "Nu reprezinta o complicatie a ventilatiei indelungate BiPAP, respectiv CPAP pe masca nazala sau faciala:",
+      "options": [
+        "dificultatea în etanseizarea mastii, necesitand multiple reajustari",
+        "distensia gastrica, cu risc de aspiratie",
+        "deteriorarea tenului",
+        "uscarea mucoaselor",
+        "intoleranta la presiunea pozitiva"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 38,
+      "type": "single",
+      "prompt": "Nu sunt contraindicatii ale ventilatiei non-invazive cu presiune pozitiva (NIPPV) urmatoarele:",
+      "options": [
+        "epistaxisul abundent ce ameninta viata pacientului",
+        "secretiile respiratorii excesive",
+        "traumatismele maxilo-faciale de orice fel",
+        "fractura de baza de craniu",
+        "emfizemul bulos preexistent"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 39,
+      "type": "single",
+      "prompt": "Referitor la sonda esofagotraheala Combitub sunt adevarate urmatoarele cu EXCEPTIA:",
+      "options": [
+        "este un tub de plastic cu dublu lumen",
+        "prezinta un balonas proximal de obturare a zonei faringiene",
+        "prezinta un balonas distal similar sondei endotraheale",
+        "nu necesita umflarea ambelor balonase",
+        "umflarea balonasului proximal inlatura nevoia de a folosi o masca faciala"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 40,
+      "type": "single",
+      "prompt": "Referitor la dispozitivele orofaringiene, respectiv nazofaringiene, sunt adevarate urmatoarele:",
+      "options": [
+        "canula nazofaringiana se monteaza doar la cei cu tonus faringian pastrat",
+        "necesita uneori lubrefierea cu gel cu lidocaina",
+        "canula orofaringiana se foloseste la pacientul constient",
+        "canula nazofaringiana se foloseste doar la cei cu reflex de voma absent",
+        "tubul nazofaringian necesita o spatula pentru a facilita insertia"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 41,
+      "type": "single",
+      "prompt": "Criteriile de alegere a NIPPV (ventilatia non-invaziva cu presiune pozitiva) NU includ una din urmatoarele:",
+      "options": [
+        "status mental pastrat",
+        "prezenta unei sonde nazogastrice functionale",
+        "prezenta acidozei respiratorii hipercarbice",
+        "absenta leziunilor grave maxilo-faciale",
+        "respiratia spontana"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 42,
+      "type": "single",
+      "prompt": "Dintre contraindicatiile NIPPV (ventilatia non-invaziva cu presiune pozitiva) prin masca faciala NU face parte:",
+      "options": [
+        "pacientii cu efort respirator absent sau involuntar",
+        "pacientii care sufera de leziuni grave esofagiene sau traheale",
+        "prezenta unei sonde nazogastrice functionale",
+        "fracturile maxilo-faciale",
+        "fracturile de baza de craniu"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 43,
+      "type": "single",
+      "prompt": "Complicatiile folosirii NIPPV (ventilatia non-invaziva cu presiune pozitiva) includ urmatoarele, cu exceptia:",
+      "options": [
+        "distensia gastrica",
+        "deteriorarea tenului (in folosirea de lunga durata)",
+        "intoleranta la presiunea pozitiva",
+        "reducerea travaliului respirator",
+        "dificultatea in etanseizarea mastii"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 44,
+      "type": "single",
+      "prompt": "Folosirea modului BiPAP (biphasic positive airway pressure) ca si metoda NIPPV (ventilatia non-invaziva cu presiune pozitiva):",
+      "options": [
+        "scade presiunea pozitiva in caile aeriene in timpul inspirului",
+        "nu este recomandata in timpul acutizarii BPOC",
+        "nu imbunatateste frecventa respiratorie, PaCO2 si saturatia de oxigen la copii cu patologie respiratorie",
+        "este recomandata la pacientii cu leziuni traheale grave",
+        "diminueaza nevoia de intubatie in apneea de tip obstructiv"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 45,
+      "type": "single",
+      "prompt": "Folosirea NIPPV (ventilatia non-invaziva cu presiune pozitiva) prezinta urmatoarele beneficii, cu exceptia:",
+      "options": [
+        "imbunatateste perfuzia miocardica la pacientii care sufera de ischemie miocardica sau hipotensiune",
+        "poate reduce perioadele lungi de internare",
+        "poate preveni intubatiile la limita in cazurile de insuficienta respiratorie",
+        "saturatia in oxigen si PaCO2 raman stabile sau se imbunatatesc in comparatie cu ventilatia neasistata",
+        "este utila in insuficienta respiratorie atunci cand complicatiile intubatiei sunt mari"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 46,
+      "type": "single",
+      "prompt": "NIPPV (ventilatia non-invaziva cu presiune pozitiva):",
+      "options": [
+        "pot agrava saturatia in oxigen si PaO2 in comparatie cu ventilatia neasistata",
+        "este indicata la pacientii cu status mental profund alterat",
+        "prezinta beneficii, folosita la presiuni mari, in special la pacienti cu patologie respiratorie si ischemie miocardica",
+        "prezinta beneficii, folosita la presiuni mari, in special la pacienti cu patologie respiratorie si hipotensiune marcata",
+        "nu este potrivita la pacienti cu efort respirator absent"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 47,
+      "type": "single",
+      "prompt": "CPAP (Continuous positive airway pressure)  imbunatateste functia pulmonara prin unul din urmatoarele mecanisme, cu exceptia:",
+      "options": [
+        "reducerea travaliului respirator",
+        "reducerea compliantei pulmonare",
+        "mentinerea umplerii alveolelor atelectatice",
+        "imbunatatirea capacitatii reziduale functionale (CRF)",
+        "cresterea compliantei pulmonare"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 48,
+      "type": "single",
+      "prompt": "Influenta CPAP (Continuous positive airway pressure) asupra hemodinamicii consta in urmatoarele, cu exceptia:",
+      "options": [
+        "imbunatateste hemodinamica prin reducerea presarcinii",
+        "imbunatateste volumul de ejectie la presiuni de maxim 10-12,5 cmH2O",
+        "imbunatateste debitul cardiac in insuficienta ventriculara stanga",
+        "imbunatateste hemodinamica prin reducerea postsarcinii",
+        "imbunatateste perfuzia miocardica la presiuni mari (>15cmH2O)"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 49,
+      "type": "single",
+      "prompt": "Criteriile de alegere a NIPPV (ventilatia non-invaziva cu presiune pozitiva) NU includ:",
+      "options": [
+        "respiratia spontana",
+        "prezenta unei sonde nazogastrice functionale",
+        "status mental alterat",
+        "PaO2 > 65 mmHg",
+        "absenta acidozei respiratorii hipercarbice"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 50,
+      "type": "single",
+      "prompt": "Care din urmatoarele afirmatii referitoare la modul BiPAP(biphasic positive airway pressure)  ca si metoda NIPPV (ventilatia non-invaziva cu presiune pozitiva) este falsa?",
+      "options": [
+        "folosit la presiuni mari (>15cmH20) prezinta baneficii importante in ameliorarea perfuziei miocardice",
+        "asista ventilatia spontana a pacientului intre doua niveluri presionale pozitive",
+        "setarile initiale ale aparatului ar trebui sa includa: modul spontan, PIP de 10 cmH2O si PEP de 3 cmH2O",
+        "permite o imbunatatire mai rapida a oxigenarii si ventilatiei comparativ cu CPAP",
+        "permite reducerea efortului inspirator si o imbunatatire a schimbului de gaze."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    }
+  ]
+}

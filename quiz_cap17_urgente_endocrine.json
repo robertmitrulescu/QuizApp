@@ -1,0 +1,135 @@
+{
+  "chapter": "cap_17_urgente_endocrine",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Sunt false urmatoarele afirmatii cu privire la hipoglicemie:",
+      "options": [
+        "este o complicatie foarte frecventa la pacientii ce folosesc doar metformin",
+        "trebuie luata in considerare la pacientii cu status mental alterat",
+        "se administreaza glucagon 1mg im/iv",
+        "octreotidul se utilizeaza in hipoglicemia indusa de sulfoniluree"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Diagnosticul diferential al cetoacidozei diabetice nu se face cu:",
+      "options": [
+        "uremia",
+        "acidoza lactica",
+        "ingestia de ciuperci",
+        "ingestia de methanol"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Primul si cel mai important pas in managementul cetoacidozei diabetice este administrarea de:",
+      "options": [
+        "insulina",
+        "fluide in cantitate mare",
+        "KCl daca K < 3,3",
+        "bicarbonat de Na"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Coma hiperosmolara se defineste prin:",
+      "options": [
+        "glicemie > 250 mg/dl",
+        "ph < 7",
+        "osmolaritate > 320 mOsm/l",
+        "bicarbonatul seric < 10 mEq/l"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Medicamentele ce predispun la dezvoltarea statusului hiperglicemic hiperosmolar sunt:",
+      "options": [
+        "glucocorticoizii",
+        "manitolul",
+        "diureticele",
+        "toate de mai sus"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Sunt adevarate urmatoarele afirmatii cu privire la coma hiperosmolara:",
+      "options": [
+        "terapia cu insulina trebuie sa preceada administrarea de fluide",
+        "se prefera administrarea subcutanata a insulinei fata de infuzia continua",
+        "deficitul mediu de fluide este in jur de 20-25% din apa totala din corp, adica 8-12l",
+        "se recomanda rehidratarea in timpul primelor 4 ore cu mai mult de 50 ml/kg"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Diagnosticul diferential al tireotoxicozei se face cu:",
+      "options": [
+        "feocromocitomul",
+        "hipertermia maligna",
+        "sindromul neuroleptic malign",
+        "toate cele de mai sus"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Nu sunt semne sau simptome in tireotoxicoza:",
+      "options": [
+        "febra",
+        "delirul",
+        "insuficienta cardiaca congestiva",
+        "bradicardia"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Prezentarea clinica a comei mixedematoase nu include:",
+      "options": [
+        "hiperglicemie",
+        "hipotermie",
+        "bradicardie",
+        "alterarea statusului mental"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Sunt false urmatoarele afirmatii despre criza suprarenaliana:",
+      "options": [
+        "prima manifestare este hipertensiunea",
+        "apare cand corpul este supus unui stres important",
+        "pacientii prezinta durere abdominala",
+        "se caracterizeaza printr-un nivel plasmatic al cortizolului > 525 nmol/l"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    }
+  ]
+}

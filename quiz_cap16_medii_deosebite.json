@@ -1,0 +1,135 @@
+{
+  "chapter": "cap_16_medicina_in_medii_deosebite",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Care este cea mai importanta boala tropicala?",
+      "options": [
+        "Malaria",
+        "Febra dengue",
+        "Febra tifoida",
+        "Leismanioza"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Febra dengue este transmisa prin:",
+      "options": [
+        "Expunere la apa netratata",
+        "Contact cu rozatoare",
+        "Intepatura de tantar infectat",
+        "Muscatura de capusa infectata"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Cea mai frecventa cauza de diaree acuta la calatori este data de:",
+      "options": [
+        "Giardia lamblia",
+        "virusul de tip Norwalk",
+        "Escherichia Coli",
+        "Balantidium Coli"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Dintre eruptiile cutanate acuzate de turisti majoritatea sunt probleme minore si necesita doar tratament simptomatic. Care din urmatoarele manifestari necesita tratament specific?",
+      "options": [
+        "Reactii fototoxice",
+        "Intepatura de insecta",
+        "Larva migrans cutanata",
+        "Miliaria rubra"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "O persoana cu conditie fizica buna planifica o excursie la munte ,la altitudinea de 2700 m. Inainte de plecare cere citeva sfaturi medicale pentru a preveni complicatiile. Urmatoarele afirmatii sunt adevarate, cu exceptia:",
+      "options": [
+        "Pentru a evita cheratita solara ,ochelarii de soare trebuie sa transmita mai putin de 10% din lumina UVB.",
+        "Un fular de matase peste nas si gura ,amelioreaza faringita si bronsita datorate aerului rece, uscat.",
+        "Evitarea alcoolului si a depresantelor respiratorii previn raul acut de altitudine",
+        "Este necesara o dieta cu continut sarac de carbohidrati"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "In edemul pulmonar de altitudine mare, tratamentul de electie este:",
+      "options": [
+        "Coborare imediata",
+        "Nifedipin 10 mg PO",
+        "Dexametazona IM 4 mg la 6 ore",
+        "Salmeterol inhalat de 2 ori pe zi"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Urmatoarele afirmatii despre selectarea si instruirea personalului medical din Antarctica sunt adevarate , cu exceptia:",
+      "options": [
+        "Nu exista o specializare medicala ideala pentru Antarctica",
+        "Sunt adesea necesare cunostinte despre nutritie si principia de sanatate publica",
+        "Este recomandata instruirea medicilor in anesteziologie in cazul statiilor si grupurilor izolate complet.",
+        "Apendicectomia profilactica dinaintea plecarii este obligatorie pentru toti indivizii dintr-un grup izolat."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Cele mai frecvente afectiuni ale populatiei in Antarctica sunt:",
+      "options": [
+        "Tulburarile de nutritie",
+        "Febra de origine necunoscuta",
+        "Traumatismele si accidentele",
+        "Pneumonia"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Pentru pacientii cu patologie cardio-vasculara care ajung in statiuni aflate la altitudine mare , sunt valabile urmatoarele afirmatii , cu exceptia:",
+      "options": [
+        "Trebuie continuata medicatia antihipertensiva",
+        "Hipertensiunea nu este o contraindicatie a expunerii la altitudini mari",
+        "Pacientii cu insuficienta cardiaca congestiva(ICC) trebuie sa scada regimul lor diuretic in timpul calatoriior la altitudini mari.",
+        "La pacientii cu ICC poate fi luata in calcul administrarea de oxigen cu flux scazut in timpul noptii."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Pacienta in varsta de 19 ani se prezinta in U.P.U. acuzand dureri abdominale , diaree apoasa care s-a inrautatit in ultimele 3 zile. Recent s-a intors din Mexic. Nu are antecedente patologice si s-a simtit bine in timpul calatoriei. Examenul scaunului depisteaza chisturi si serologia depisteaza antigenele de Giardia in scaun. Care este tratamentul corespunzator?",
+      "options": [
+        "Albendazol",
+        "Giardoza este autolimitata si nu necesita tratament specific.",
+        "Metronidazol",
+        "Clindamicyn"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    }
+  ]
+}

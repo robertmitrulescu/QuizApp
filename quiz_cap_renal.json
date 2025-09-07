@@ -1,0 +1,135 @@
+{
+  "chapter": "AFECȚIUNILE RENALE ȘI GENITO-URINARE",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Insuficiența renală acută este deteriorarea funcției renale în decurs de ore sau zile, cu rezultat acumularea produșilor de retenție azotată astfel:",
+      "options": [
+        "scăderea clearance-ului de creatinină cu 30% și creșterea creatininei serice cu 20%.",
+        "scăderea clearance-ului de creatinină cu 50% și creșterea creatininei serice cu 50%.",
+        "scăderea clearance-ului de creatinină cu >70% și creșterea creatininei serice cu 100%.",
+        "scăderea nesemnificativă a clearance-ului de creatinină și creșterea creatininei cu >70%."
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "În fața unui bolnav cu IRA, trebuie acționat rapid pentru combaterea hiperpotasemiei. Care este cel mai rapid test screening folosit frecvent pentru depistarea hiperpotasemiei semnificative?",
+      "options": [
+        "parametrii ASTRUP,",
+        "ECG.",
+        "determinarea potasiului seric",
+        "nivelul creatininei serice."
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "În diagnosticul IRA obstructive, studiile imagistice reprezintă un segment important. Dintre acestea, cea mai rapidă, frecvent și ușor de utilizat metodă, este:",
+      "options": [
+        "RMN renal cu substanță de contrast.",
+        "CT renală cu substanță de contrast.",
+        "ecografia renală.",
+        "ureteropielografia retrogradă."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Terapia de substituție renală în IRA este reprezentată de:",
+      "options": [
+        "administrarea de fluide cristaloide, dopamină în doze „renale” și diuretice de ansă.",
+        "hemodializa intermitentă, hemofiltrarea venovenoasă și dializa peritoneală.",
+        "transplantul renal.",
+        "devierea circulației sanguine printr-un dispozitiv de ciculație extracorporeală, urmată de administrarea de fluide și diuretice de ansă."
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Dializa peritoneală, la bolnavii cu boală renală în stadiul terminal, ca și celelalte metode de terapie de substituție renală, este grevată si de complicații:",
+      "options": [
+        "peritonita, mai frecvent cu Staphylococcus epidermidis (40%).",
+        "peritonita, în special cu Clostridium perfringens (35%).",
+        "infecția urinară cu Escherichia Coli.",
+        "retenția acută de urină."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Pielonefrita acută este caracterizată clinic, prin:",
+      "options": [
+        "febră, frison, tuse, durere la baza hemitoracelui.",
+        "durere lombară, disurie la un pacient afebril.",
+        "disurie, dismenoree, cefalee.",
+        "febră, frison ,dureri în flanc, sensibilitate în unghiul costovertebral, după câteva zile de polakidisurie."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Un pacient de 18 ani se prezintă la U.P.U. cu următoarele acuze: durere la nivelul testicolului stâng, apărută brusc după un concurs sportiv. Atitudinea medicului de urgență este:",
+      "options": [
+        "administrare de antalgice, rețetă cu antalgice și gheață local la domiciliu.",
+        "după examenul local, se stabilește diagnosticul prezumtiv de torsiune de testicol și se trimite în serviciul de urologie.",
+        "după examenul local, se stabilețte diagnosticul prezumtiv de orhiepididimită și se trimite în serviciul de urologie.",
+        "nici un răspuns din cele de mai sus nu este corect."
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Agentul etiologic al infecțiilor necomplicate de tract urinar este:",
+      "options": [
+        "Proteus, >50%.",
+        "Haemophylus influenzae, < 40%.",
+        "Escherichia Coli, >80%.",
+        "HIV, <20%."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Cea mai frecventă cauză de priapism la copii este:",
+      "options": [
+        "siclemia.",
+        "fimoza.",
+        "abuzul (viol, agresiune).",
+        "infecțiile tractului urinar."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Cel mai important diagnostic diferențial al colicii renale este cu:",
+      "options": [
+        "hemoragia digestivă superioară.",
+        "disecția/ruperea anevrismului aortei abdominale",
+        "ocluzia intestinală.",
+        "comportamentul aditiv."
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    }
+  ]
+}

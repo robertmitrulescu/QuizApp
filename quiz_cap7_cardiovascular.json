@@ -1,0 +1,266 @@
+{
+  "chapter": "Grile cardio-vascular",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Dintre cauzele importante ale durerii toracice viscerale, fac parte :",
+      "options": [
+        "pneumonia",
+        "refluxul esofagian sau spasmul esofagian",
+        "pneumotoraxul spontan",
+        "sindromul costosternal"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Dintre condițiile asociate cu creșterea nivelului CK-MB fac parte :",
+      "options": [
+        "pneumotoraxul spontan",
+        "tromboflebita acută",
+        "hipertermia malignă",
+        "hipertensiunea arterială esențială"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Markerul cel mai specific de necroză miocardică este :",
+      "options": [
+        "troponina I",
+        "troponina T",
+        "troponina C",
+        "CK-MB"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Clasa III în clasificarea canadiană a anginei, este :",
+      "options": [
+        "angina apare în urma unui efort fizic intens, susținut, de lungă durată.",
+        "Activitatea fizică obișnuită nu produce angină.",
+        "Ușoară limitare a activității obișnuite. Angina apare la urcarea rapidă a scărilor, urcarea unui deal, mersul postprandial, în frig, în vânt, sau datorită stresului emoțional.",
+        "Marcată limitare a activității fizice obișnuite, angina apare după mersul pe jos la distanța de 2 străzi, sau după urcarea unui etaj la pas domol.",
+        "Incapacitatea de a desfășura orice activitate fizică, fără disconfort. Angina poate să apară chiar și în repaus."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Sindromul coronarian acut, de etiologie aterosclerotică, este secundar:",
+      "options": [
+        "leziunilor aterosclerotice fixe",
+        "anemiei severe",
+        "șocului",
+        "ruperii plăcii de aterom"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Prima înregistrare ECG în 12 derivații, la un pacient cu durere toracică sau alte simptome sugestive pentru ischemie miocardică, trebuie făcută și interpretată în maxim :",
+      "options": [
+        "10 minute de la prezentarea în urgență",
+        "5 minute de la prezentarea în urgență",
+        "imediat",
+        "30 minute de la prezentarea în urgență"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Modificările ECG (12 derivații) în IMA posterior sunt:",
+      "options": [
+        "unda Q în DII, DIII, aVF și supradenivelare ST în V3",
+        "unda Q în DII, DIII, aVF",
+        "unda R > 0,04 s și R/S = 1 în V1, V2",
+        "unda Q în DI, aVL"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Pacientul cu IMA, dispnee și raluri subcrepitante bazal bilateral, este încadrat în clasa Killip :",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "În STEMI, modificările ECG specifice, sunt :",
+      "options": [
+        "supradenivelare ST > 0,1 mV în derivațiile precordiale adiacente",
+        "supradenivelare ST > 0,2 mV în derivațiile periferice adiacente",
+        "supradenivelare ST > 0,2 mV în derivațiile precordiale adiacente",
+        "subdenivelare ST în derivațiile precordiale"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Este contraindicație absolută de tromboliză :",
+      "options": [
+        "AIT în ultimele 6 luni",
+        "HTA refractară (TAS > 180 mmHg)",
+        "Ulcer peptic activ",
+        "AVC ischemic în ultimele 6 luni"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "prompt": "Este sincopă reflex mediată :",
+      "options": [
+        "sincopa din sindromul sinusului carotidian",
+        "sincopa din migrenă",
+        "sincopa post administrare de diuretice",
+        "sincopa din torsada vârfurilor"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "prompt": "În cazul unui pacient cu episod de pierdere a conștienței, la care martorii descriu mișcări ale membrelor, acestea sunt considerate specifice :",
+      "options": [
+        "convulsiilor",
+        "sincopei",
+        "ambele răspunsuri sunt corecte",
+        "nici un răspuns nu este corect"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "prompt": "În tratamentul edemului pulmonar acut, nu este contraindicată terapia vasodilatatoare :",
+      "options": [
+        "în IMA anterior",
+        "în stenoză aortică",
+        "cardiomiopatia hipertrofică",
+        "în IMA de ventricol drept"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "prompt": "În pericardita acută, modificările ECG specifice stadiului I sunt :",
+      "options": [
+        "ST începe să revină la linia izoelectrică, și scade amplitudinea undelor T",
+        "ST este la linia izoelectrică, unda T este inversată în derivațiile în care anterior apărea supradenivelare de ST",
+        "supradenivelare de ST în derivațiile precordiale, mai ales în V5, V6 și în derivația periferică DI.",
+        "nu există modificări ECG specifice în pericardita acută"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "prompt": "În embolia pulmonară, regimul de administrare al Streptokinazei, este :",
+      "options": [
+        "250.000 UI bolus i.v. urmată de 100.000 UI/h timp de 24 h",
+        "250.000 UI bolus i.v.",
+        "100.000 UI/h timp de 24 h",
+        "250.000 UI bolus i.v. urmată de 10.000 UI/h timp de 24 h"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "prompt": "În urgențele hipertensive, scopul principal este scăderea TAM cu :",
+      "options": [
+        "50% în primele 30 – 60 min",
+        "30 – 40% în primele 30 – 60 min",
+        "20 – 25% în primele 30 – 60 min",
+        "20 – 25% în primele 24 h"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "prompt": "Anevrismul de aortă abdominală se poate prezenta ca :",
+      "options": [
+        "sincopă",
+        "durere abdominală sau lombară",
+        "șoc",
+        "toate răspunsurile sunt corecte"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "prompt": "În clasificarea De Bakey a disecției de aortă, tipul I implică :",
+      "options": [
+        "aorta ascendentă",
+        "aorta descendentă",
+        "aorta ascendentă și arcul aortei",
+        "aorta ascendentă, arcul aortei și aorta descendentă"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "prompt": "Pacientul cu neoplasm bronhopulmonar, care dezvoltă tromboflebită profundă proximală, va urma tratament anticoagulant oral :",
+      "options": [
+        "3 luni",
+        "6 luni",
+        "1 an",
+        "toată viața"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "prompt": "Cele mai frecvent implicate artere în apariția ischemiei acute de membru sunt :",
+      "options": [
+        "femuro-popliteală și tibială",
+        "pedioasă",
+        "ulnară",
+        "artera mezenterică superioară"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    }
+  ]
+}

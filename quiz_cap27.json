@@ -1,0 +1,145 @@
+{
+  "chapter": "Sindroamele coronariene acute",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Dintre simptomele asociate durerii toracice din cadrul sindroamelor coronariene acute fac parte următoarele, cu excepția:",
+      "options": [
+        "tusea productivă",
+        "greața și vărsăturile",
+        "dispneea",
+        "sincopa",
+        "palpitațiile"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Criteriile EKG pentru diagnosticul infarctului miocardic inferior sunt:",
+      "options": [
+        "unda Q în D1 și aVL",
+        "unda Q în V4–V6, D1 și aVL",
+        "unda Q în D2, D3 și aVF",
+        "unde QS în V1–V4",
+        "unda Q în V7–V9"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Simptomul principal al bolii cardiace ischemice este:",
+      "options": [
+        "sincopa",
+        "vărsăturile",
+        "dispneea",
+        "durerea toracică",
+        "greața"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Următoarele afirmații despre CK‑MB în IMA sunt adevărate, cu excepția:",
+      "options": [
+        "crește până la peste 5 ori nivelul de bază",
+        "are o valoare maximă în primele 12–24 de ore",
+        "valoarea revine la nivelul de bază în 2–3 zile",
+        "este cel mai folosit marker seric în cazul sindroamelor coronariene acute",
+        "valoarea revine la nivelul de bază în 7–10 zile"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Contraindicațiile absolute ale terapiei fibrinolitice în IMA sunt următoarele, cu excepția:",
+      "options": [
+        "AVC hemoragic în antecedente",
+        "neoplazie intracraniană cunoscută",
+        "traumatism recent (ultimele 2 săptămâni)",
+        "hemoragie internă activă",
+        "suspiciune de disecție de aortă"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Terapia fibrinolitică este indicată la pacienții cu simptome compatibile de IMA dacă intervalul de timp de la debutul simptomelor până la administrarea tratamentului este:",
+      "options": [
+        "sub 6–12 ore",
+        "între 12–24 de ore",
+        "între 24–36 de ore",
+        "între 36–48 de ore",
+        "între 48–72 de ore"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "La pacienții cu sindrom coronarian acut se vor lua următoarele măsuri generale, cu excepția:",
+      "options": [
+        "administrare de oxigen pe canule nazale 2–4 litri/minut",
+        "administrare de nitroglicerină intravenos, titrat în funcție de valoarea TA",
+        "administrarea de aspirină",
+        "monitorizare EKG continuă",
+        "efectuarea unei radiografii pulmonare"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Dintre contraindicațiile relative ale terapiei fibrinolitice în IMA sunt următoarele, cu excepția:",
+      "options": [
+        "valori necontrolate ale TA (peste 180 mmHg)",
+        "hemoragia internă activă",
+        "traumatism recent (sub 2 săptămâni)",
+        "intervenție chirurgicală importantă în ultimele 2 săptămâni",
+        "sarcina"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Localizarea clasică a durerii în SCA este:",
+      "options": [
+        "în maxilar",
+        "la nivelul brațelor",
+        "interscapulovertebrală",
+        "retrosternală",
+        "abdominală"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Troponina I în cadrul SCA dispare în:",
+      "options": [
+        "primele 12 ore de la debut",
+        "24–48 de ore",
+        "48–72 de ore",
+        "3–7 zile",
+        "7–10 zile"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    }
+  ]
+}

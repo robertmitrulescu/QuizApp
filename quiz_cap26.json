@@ -1,0 +1,145 @@
+{
+  "chapter": "Insuficiența cardiacă congestivă și edemul pulmonar acut",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Disfuncția sistolică în cadrul insuficienței cardiace este definită ca și scăderea fracției de ejecție sub:",
+      "options": [
+        "60%",
+        "50%",
+        "40%",
+        "30%",
+        "20%"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Manifestările clinice ale insuficienței cardiace stângi izolate pot fi următoarele, cu excepția:",
+      "options": [
+        "dispneea",
+        "refluxul hepato-jugular",
+        "tusea",
+        "astenia",
+        "ortopneea"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Dintre manifestările clinice ale insuficienței cardiace drepte fac parte următoarele, cu excepția:",
+      "options": [
+        "dispneea",
+        "edemele periferice",
+        "turgescența venoasă jugulară",
+        "durerea în hipocondrul drept",
+        "refluxul hepato-jugular"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Dintre semnele și simptomele diagnosticului pozitiv al edemului pulmonar acut cardiogen fac parte următoarele, cu excepția:",
+      "options": [
+        "detrasă respiratorie severă",
+        "tegumente calde, transpirate",
+        "tegumente reci, transpirate",
+        "hipertensiunea arterială",
+        "turgescența jugularelor"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Standardul de aur al diagnosticului insuficienței cardiace este",
+      "options": [
+        "radiografia toracică",
+        "ecocardiografia",
+        "tomografia computerizată toracică",
+        "ecografia abdominală",
+        "rezonanța magnetică nucleară"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Diagnosticul de insuficiență cardiacă poate fi exclus de un nivel al BNP sub:",
+      "options": [
+        "100 pg/ml",
+        "200 pg/ml",
+        "300 pg/ml",
+        "400 pg/ml",
+        "500 pg/ml"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Dintre medicamentele care trebuie evitate la pacienții cu insuficiență cardiacă fac parte:",
+      "options": [
+        "diureticele",
+        "vasodilatatoarele",
+        "blocantele canalelor de calciu",
+        "inhibitorii enzimei de conversie a angiotensinei",
+        "beta-blocantele"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Dintre contraindicațiile folosirii vasodilatatoarelor în insuficiența cardiacă fac parte următoarele, cu excepția:",
+      "options": [
+        "infarctul de ventricul drept",
+        "hipertensiunea arterială",
+        "stenoza aortică",
+        "depleția de volum",
+        "cardiomiopatia hipertrofică"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Dintre substanțele folosite în tratamentul edemului pulmonar acut cardiogen fac parte următoarele, cu excepția:",
+      "options": [
+        "nitroglicerina sublingual",
+        "nitroglicerina intravenos",
+        "furosemidul",
+        "morfina",
+        "spironolactona"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Radiografia toracică la un pacient cu insuficiență cardiacă poate evidenția următoarele aspecte, cu excepția:",
+      "options": [
+        "opacitate triunghiulară bazală",
+        "cardiomegalie",
+        "revărsat pleural",
+        "liniile Kerley B",
+        "edem interstițial"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    }
+  ]
+}

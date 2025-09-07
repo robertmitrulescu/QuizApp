@@ -1,0 +1,265 @@
+{
+  "chapter": "SOCUL",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Tensiunea arteriala medie este egala cu:",
+      "options": [
+        "(TAS – TAD)/2",
+        "TAD + (TAS – TAD)/3",
+        "TAS – (TAS – TAD)/3",
+        "TAD + ( TAS – TAD)/2"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Care din raspunsurile de mai jos clasifica socul din punct de vedere fiziopatologic:",
+      "options": [
+        "Hemoragic, cardiogen, obstructiv, distributiv",
+        "Hipovolemic, cardiogen, septic, neurogen",
+        "Hipovolemic, distributiv, obstructiv, cardiogen",
+        "Cardiogen, anafilactic, neurogen, obstructiv, hemoragic"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Scaderea afinitatii hemoglobinei pentru O2 este consecinta:",
+      "options": [
+        "Cresterii ph-ului, concentratiei scazute a CO2 si cresterii nivelului 2,3-DPG",
+        "Scaderii ph-ului, concentratiei crescute a CO2 si scaderii nivelului 2,3-DPG",
+        "Cresterii ph-ului, scaderii temperaturii, concentratiei crescute a CO2 si scaderii nivelului 2,3-DPG",
+        "Scaderii ph-ului, cresterii temperaturii, concentratiei crescute a CO2 si cresterii nivelului 2,3-DPG"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Valoarea normala a saturatiei in O2 a sangelui venos amestecat este:",
+      "options": [
+        "65 – 75%",
+        "50 – 75%",
+        "90 – 100%",
+        "75%"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Care din afirmatiile de mai jos referitoare la indicele de soc sunt adevarate:",
+      "options": [
+        "Reprezinta frecventa cardiaca/TAM, are valoare normala 0,5 – 0,7 si se coreleaza cu functia sistolica in insuficienta circulatorie acuta",
+        "Reprezinta TAS/frecventa cardiaca, are valoare normala 0,5 – 1",
+        "Reprezinta frecventa cardiaca/TAS, are valoare normala 0,5 – 1 si se coreleaza cu functia ventriculara stanga in insuficienta circulatorie acuta",
+        "Reprezinta frecventa cardiaca/TAS, are valoare normala 0,5 – 0,7 si se coreleaza cu functia sistolica ventriculara stanga in insuficienta circulatorie acuta"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Monitorizarea hemodinamica in soc este obligatoriu sa cuprinda:",
+      "options": [
+        "Pulsoximetria, monitorizarea electrocardiografica, monitorizarea continua a TA",
+        "Monitorizarea electrocardiografica, monitorizarea TA sistolice, pulsoximetria, monitorizarea presiunii venoase centrale, monitorizarea EtCO2",
+        "Pulsoximetria, monitorizarea electrocardiografica, monitorizarea continua de preferinta intraarteriala a TA, monitorizarea EtCO2 si a presiunii venoase centrale",
+        "Monitorizarea electrocardiografica, monitorizarea intraarteriala a TA, monitorizarea EtCO2 si a presiunii venoase centrale"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Ventilatia mecanica in timpul socului are ca obiective:",
+      "options": [
+        "SaO2 peste 90%, reducerea efortului respirator",
+        "Normalizarea ph-ului peste 7,3 prin hiperventilatie",
+        "Corectarea hipoxiei si a hipercapniei",
+        "SaO2 peste 93%, PaCO2 intre 35 si 40 mmHg si reducerea efortului respirator"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Utilizarea agentilor vasopresori in soc se face in urmatoarele situatii cu exceptia:",
+      "options": [
+        "Nu s-a obtinut un raspuns adecvat la resuscitarea volemica",
+        "Cand exista contraindicatii pentru resuscitarea volemica",
+        "La inceputul resuscitarii volemice",
+        "Inaintea incheierii resuscitarii volemice, pentru prevenirea consecintelor potential letale ale hipotensiunii arteriale prelungite (pacienti varstnici cu boala coronariana si cerebrovasculara)"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Care din urmatoarele afirmatii de mai jos referitoare la dopamina este falsa:",
+      "options": [
+        "Are actiune pe receptorii α, β si actiune dopaminergica",
+        "In general creste debitul cardiac",
+        "Produce vasoconstrictie la 5µg/kg/min",
+        "Are actiune inotrop pozitiva la 2 – 10 µg/kg/min"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Care din urmatoarele afirmatii de mai jos referitoare la noradrenalina este falsa:",
+      "options": [
+        "Creste debitul cardiac",
+        "Actiunea principala este pe receptorii α1",
+        "Nu determina vasodilatatie",
+        "Doza este de 0,01 – 0,5 µg/kg/min"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "prompt": "Unul din obiectivele hemodinamice ale resuscitarii este mentinerea presiunii de perfuzie coronariana peste o anumita valoare. Care este aceasta?",
+      "options": [
+        "40 mm Hg",
+        "50 mm Hg",
+        "60 mm Hg",
+        "70 mm Hg"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "prompt": "Pierderea de 15 pana la 30% din volumul total de sange este insotita de:",
+      "options": [
+        "Tahicardie, scaderea presiunii pulsului, hipotensiune minima pana la moderata, modificari usoare ale statusului mental",
+        "Tahicardie, presiunea pulsului normala, hipotensiune, status mental normal",
+        "Tahicardie, TA normala, status mental nealterat",
+        "Tahicardie, hipotensiune, hipoperfuzie periferica, alterarea statusului mental"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "prompt": "Transfuzia de sange este indicata sau probabila, in urmatoarele situatii cu exceptia:",
+      "options": [
+        "Pacient aflat in soc hemoragic, care prezinta o imbunatatire hemodinamica minima dupa perfuzarea rapida de 2-3 litri de solutii cristaloide",
+        "Pierderea de pana la 15% din volumul circulant",
+        "Daca este clar faptul ca pacientul a suferit o pierdere marcata de sange si este in pragul colapsului vascular",
+        "Hemoglobina sub 8 g/dl"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "prompt": "Sepsisul este definit:",
+      "options": [
+        "Raspunsul sistemic caracterizat prin prezenta a cel putin doua din urmatoarele semne: T>38°C sau T<36°C; frecventa cardiaca > 90/min; frecventa respiratorie > 20/min sau PaCO2 < 32 mm Hg; leucocite > 12000/mm³ sau < 4000/mm³, sau > 10% imature",
+        "Disfunctie de organ, hipoperfuzie sau hipotensiune",
+        "Hipotensiune arteriala (in prezenta unei infectii) in ciuda administrarii adecvate de fluide, asociata cu prezenta tulburarilor de perfuzie, dar nu sunt limitate la acidoza lactic, oligurie sau alterarea statusului mental",
+        "Raspunsul sistemic la infectie, caracterizat prin prezenta a doua sau mai multe din urmatoarele manifestari, ca rezultat al unei infectii: T>38°C sau T<36°C; frecventa cardiaca > 90/min; frecventa respiratorie  > 20/min sau PaCO2 < 32 mm Hg; leucocite > 12000/mm³ sau < 4000/mm³, sau > 10% imature"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "prompt": "Criteriile de diagnostic ale SDRA sunt:",
+      "options": [
+        "Infiltrate pulmonare bilaterale, PCP peste 18 mm Hg, hipoxemie refractara",
+        "PCP > 18 mm Hg, infiltrate pulmonare alveolare bilateral, complianta statica a cailor aeriene mai mare de 40 ml/cm H2O",
+        "Infiltrate pulmonare bilaterale, PCP < 18 mmHg, raport al presiunilor partiale arteriala si alveolara ale oxigenului mai mica de 0,2 si complianta statica a cailor aeriene mai mica de 40 ml/cm H2O",
+        "Hipoxemie refractara, infiltrate pulmonare bilaterale, PCP < 18 mm Hg"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "prompt": "Cea mai importanta interventie salvatoare de viata in socul cardiogen este:",
+      "options": [
+        "Administrare de fluide in bolus si medicamente inotrope",
+        "Terapia trombolitica",
+        "Balonul intraaortic de contrapulsatie",
+        "Angioplastie percutana sau bypass al arterei coronare"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "prompt": "Care este primul pas in tratamentul infarctului de ventricul drept cu hipotensiune:",
+      "options": [
+        "Administrarea de fluide",
+        "Dobutamina",
+        "Dopamina",
+        "Administrarea de fluide si dopamina"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "prompt": "Care din afirmatiile legate de tratamentul socului neurogen este falsa:",
+      "options": [
+        "Terapia cu doze mari de metilprednisolon in primele 8 ore de la traumatism",
+        "Socul neurogen necesita reechilibrare volemica cu solutii cristaloide",
+        "Unul din obiectivele tratamentului este mentinerea TAM la 85-90 mm Hg",
+        "La anumiti pacienti care prezinta bloc sau asistola poate fi necesar un pacemaker"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "prompt": "Bronhospasmul alergic sever poate fi tratat cu medicatia de mai jos cu exceptia:",
+      "options": [
+        "Sulfat de magneziu",
+        "Aminofilina",
+        "Albuterol",
+        "Bromura de ipratropiu"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "prompt": "Tratamentul de prima linie al socului anafilactic cuprinde masurile de mai jos cu exceptia:",
+      "options": [
+        "Adrenalina",
+        "Antihistaminicele",
+        "Solutiile cristaloide",
+        "Asigurarea permeabilitatii cailor respiratorii si oxigenarea"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    }
+  ]
+}

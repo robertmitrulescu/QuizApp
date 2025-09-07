@@ -1,0 +1,265 @@
+{
+  "chapter": "SECŢIUNEA 12 - PEDIATRIE",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Criteriile Rochester pentru bacteriemia cu risc scăzut, la sugarul sub 3 luni sunt următoarele, cu excepţia:",
+      "options": [
+        "Fără infecţii ale ţesutului celular subcutanat",
+        "Leucocitoză peste 15000/µl",
+        "Examen sumar de urină normal",
+        "Aspect netoxic al sugarului"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Una dintre următoarele infecţii bacteriene ale copilului nu este asociată cu bacteriemie:",
+      "options": [
+        "Amigdalita pultacee",
+        "Pneumonia",
+        "Meningita",
+        "Pielonefrita"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Cele mai frecvente semne ale sindromului septic la copil sunt următoarele, cu excepţia:",
+      "options": [
+        "Alimentarea insuficientă",
+        "Lipsa activităţii motorii spontane",
+        "Hipotonia",
+        "Hiperpirexia >41°C"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Leziunile neuronale la copiii cu meningită sunt produse de următorii factori, cu excepţia:",
+      "options": [
+        "Edem cerebral şi creşterea presiunii intracraniene",
+        "Invazia bacteriană a ţesutului cerebral",
+        "Flux sanguin cerebral scăzut",
+        "Tromboza vasculară"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Principala complicaţie a bronşiolitei la sugarul mic este:",
+      "options": [
+        "Astmul bronşic",
+        "Pneumonia",
+        "Apneea",
+        "Displazia bronho-pulmonară"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Următoarele medicamente sunt indicate în statusul convulsiv la copil cu excepţia:",
+      "options": [
+        "Lorazepam",
+        "Clonazepam",
+        "Propofol",
+        "Etomidat"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Necesarul de apă zilnic al unui copil de 3 ani, cu greutatea de 20 kg este:",
+      "options": [
+        "1000 ml/zi",
+        "1500 ml/zi",
+        "1900 ml/zi",
+        "2000 ml/zi"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Necesarul zilnic de potasiu la copil este de:",
+      "options": [
+        "0,5 mEq/kgcorp",
+        "2 mEq/kgcorp",
+        "3 mEq/kgcorp",
+        "5 mEq/kgcorp"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Semnele radiologice caracteristice crupului viral la copil sunt următoarele, cu excepţia:",
+      "options": [
+        "Îngustarea subglotică",
+        "Semnul clopotniţei",
+        "Hipofaringe destins",
+        "Balonizare supraglotică"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Standardul de aur în managementul durerii acute moderată/severă la copil este:",
+      "options": [
+        "Morfina",
+        "Fentanilul",
+        "Hidromorfonul",
+        "Meperidina"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "prompt": "Una dintre contraindicaţiile absolute ale puncţiei lombare la copil sunt:",
+      "options": [
+        "Infecţiile sistemului nervos central",
+        "Hemoragia subarahnoidiană",
+        "Presiune intracraniană crescută",
+        "Deformaţii lombo-sacrate"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "prompt": "Medicamentul de elecţie în statusul epileptic la copil este:",
+      "options": [
+        "Lorazepam",
+        "Diazepam",
+        "Fosfenitoin",
+        "Fenobarbital"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "prompt": "Unul dintre următoarele clase de medicamente nu se foloseşte în tratamentul crizei de astm bronşic la copil:",
+      "options": [
+        "Agonişti beta-adrenergic",
+        "Agenţi anticolinergic",
+        "Glucocorticoizi",
+        "Inhibitori ai receptorilor leucotrienelor"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "prompt": "Una dintre următoarele investigaţii imagistice nu este indicată pentru investigarea TCC la copil:",
+      "options": [
+        "Ecografia cerebrală",
+        "Radiografia craniană",
+        "Tomografia computerizată",
+        "Rezonanţa magnetică nucleară"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "prompt": "Care dintre următoarele medicamente predispune la dezvoltarea sindromului Reye la copil:",
+      "options": [
+        "Acetaminofenul",
+        "Aciclovirul",
+        "Metamizolul",
+        "Aspirina"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "prompt": "Debutul brusc, în câteva ore, cu febră înaltă, durere cervicală anterioară, stridor, disfagie şi salivaţie este caracteristic uneia dintre următoarele patologii ale copilului:",
+      "options": [
+        "Traheita bacteriană",
+        "Epiglotita",
+        "Aspiraţia de corp străin",
+        "Laringotraheita virală"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "prompt": "Nu face parte dintre criteriile Jones revizuite pentru diagnosticul febrei acute reumatice la copil, cu excepţia:",
+      "options": [
+        "Febra",
+        "Artralgia",
+        "Coreea",
+        "Prelungirea intervalului PR pe EKG"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "prompt": "Adolescent cu antecedente de durere de gât, se prezintă la departamentul de urgenţă cu febră, frison, disfagie, trismus, salivaţie, voce nazonantă; simptomatologia este sugestivă pentru:",
+      "options": [
+        "Aspiraţie de corp străin",
+        "Epiglotită",
+        "Abces periamigdalian",
+        "Abces retrofarindian"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "prompt": "Fetiţă de 4 ani este adusă de mamă la departamentul de urgenţă deoarece nu-şi mai mişcă braţul stâng, pe care-l ţine în poziţie de abducţie, semiflexie şi pronaţie, fără disconfort, fără acuze dureroase, fără tumefacţie sau sensibilitate la palpare; anamnestic mama a tras-o de braţul stâng pentru a evita căderea fetei într-o groapă. Diagnosticul clinic este de:",
+      "options": [
+        "Fractură de cap humeral stâng",
+        "Luxaţie de cot stâng",
+        "Subluxaţia capului radial stâng",
+        "Fractură de olecran stâng"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "prompt": "Necroza avasculară de cap femural care survine la copii între 2 şi 13 ani se mai numeşte:",
+      "options": [
+        "Boala Kawasaki",
+        "Boala Osgood-Schlatter",
+        "Boala Legg-Calvé-Perthes",
+        "Boala Lyme"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    }
+  ]
+}

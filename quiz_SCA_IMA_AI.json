@@ -1,0 +1,145 @@
+{
+  "chapter": "SINDROAMENLE CORONARIENE ACUTE: INFARCTUL MIOCARDIC ACUT SI ANGINA INSTABILA",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Când o zonă a miocardului nu primeşte O2 în cantităţi adecvate, deteriorarea funcţională este progresivă, prima dată apărând:",
+      "options": [
+        "akinezia",
+        "hipokinezia",
+        "asincronismul",
+        "diskinezia",
+        "nu se poate preciza, întrucât fiecare bolnav este un caz special care poate evolua imprevizibil, în funcţie de patologia preexistentă asociată"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "În condiţiile unui infarct miocardic al peretelui anterior, cel mai grav prognostic apare în:",
+      "options": [
+        "ritmurile bradicardice",
+        "blocurile cardiace",
+        "afectarea ventriculului drept",
+        "extremele de presiune presiune sanguină",
+        "modificarea zgomotelor cardiace"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Modificările de segment ST “în oglindă” sunt factori de predicţie pentru, cu excepţia:",
+      "options": [
+        "mortalitate crescută",
+        "prognosticul la distanţă",
+        "insuficienţă de pompă mai severă",
+        "probabilitate mai mare de complicaţii cardiovasculare",
+        "întinderea mai mare a infarctului"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Inversarea undei T în absenţa ischemiei NU apare în:",
+      "options": [
+        "model juvenil persistent",
+        "pericardită",
+        "pneumotorax spontan",
+        "anevrism de ventricul stâng",
+        "patologie intracraniană"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "La momentul prezentării în departamentul de primiri urgenţe, cel mai specific marker cardiac pentru diagnosticul infarctului de miocard este:",
+      "options": [
+        "CK",
+        "CK-MB",
+        "Mioglobina",
+        "Troponina I",
+        "Troponina T"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "În legătură cu bradicardia sinusală pe durata fazelor timpurii ale IMA, NU este adevărat:",
+      "options": [
+        "predispune la hipotensiune",
+        "predispune la aritmii ventriculare repetate",
+        "nu pare să crească mortalitatea",
+        "reduce necesarul miocardic de oxigen",
+        "este o consecinţă a “insuficienţei de pompă”"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Cea mai frecvent întâlnită aritmie în timpul infarctului miocardic acut este:",
+      "options": [
+        "tahicardia ventriculară",
+        "fibrilaţia atrială",
+        "extrasistolele atriale",
+        "bradicardia sinusală",
+        "ritmul idioventricular accelerat"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Factorii protectori împotriva rupturii cardiace postinfarct sunt:",
+      "options": [
+        "medicamentele antiinflamatoare",
+        "steroizii",
+        "hipertrofia ventriculară stângă",
+        "vârsta înaintată",
+        "administrarea tardivă a agenţilor trombotici"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "În legătură cu pericardita post-IMA NU este adevărat:",
+      "options": [
+        "este mai des întâlnită la pacienţii cu IMA subendocardic",
+        "poate fi prezentă în absenţa efuziunii pericardice",
+        "apare la 2-4 zile după IMA",
+        "simptomele se accentuează la inspir şi pot fi ameliorate de poziţia în şezut, aplecat înainte",
+        "frecătura apare mai frecvent în infarctul peretelui inferior şi de ventricul drept"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Probabilitatea unei boli semnificative de artere coronariene la pacienţii cu simptome care sugerează angină instabilă NU este ridicată în cazul în care există:",
+      "options": [
+        "supradenivelare sau subdenivelare segment ST ≥ 1 mm",
+        "IMA, moarte subită în antecedente sau alte antecedente cunoscute de BAC",
+        "modificări tranzitorii hemodinamice sau de ECG pe perioada durerilor",
+        "inversiuni simetrice pronunţate de unde T în mai multe derivaţii precordiale",
+        "boli vasculare extracardiace"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    }
+  ]
+}

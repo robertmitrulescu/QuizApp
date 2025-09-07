@@ -1,0 +1,145 @@
+{
+  "chapter": "ABORDAREA TERAPEUTICĂ A PACIENTULUI ÎN STARE DE ŞOC",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Definiţia şocului este următoarea:",
+      "options": [
+        "hipoperfuzia tisulară globală ce se asociază cu diminuarea concentraţiei in oxigen a sângelui venos",
+        "hipotensiune arterială sistemică, adică o tensiune sistolică sub 90 mmHg",
+        "insuficienţa circulatorie ce creează un dezechilibru între cererea şi oferta de oxigen la nivel tisular",
+        "hiperperfuzia tisulară globală ce se asociază cu diminuarea concentraţiei în oxigen a sângelui venos",
+        "insuficienţa circulatorie ce creează un dezechilibru între cererea şi oferta de CO2 la nivel tisular"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "În funcţie de etiologie, şocul se clasifică în 4 categorii, cu excepţia:",
+      "options": [
+        "şocul obstructiv",
+        "şocul anafilactic",
+        "şocul cardiogen",
+        "şocul hipovolemic",
+        "şocul distributiv"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Indicele de şoc reprezintă raportul dintre:",
+      "options": [
+        "frecvenţa cardiacă / TAS",
+        "frecvenţa cardiacă / TAD",
+        "frecvenţa respiratorie / TAS",
+        "frecvenţa cardiacă / frecvenţa respiratorie",
+        "frecvenţa respiratorie / TAD"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Prezentarea clinică a şocului poate fi următoarea, cu excepţia:",
+      "options": [
+        "puls paradoxal",
+        "vene jugulare turgide sau colabate",
+        "agitaţie, dezorientare, confuzie",
+        "acidoza respiratorie este prima anomalie acido-bazică",
+        "paloare, piele cu aspect palid sau teros"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Una din explorările paraclinice obligatorii în condiţii de şoc este:",
+      "options": [
+        "CT craniu",
+        "Hemocultura",
+        "Ecocardiografia",
+        "Probe hepatice",
+        "Hemograma"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Următoarele afirmaţii cu privire la abordarea terapeutică a pacientului în stare de şoc sunt adevărate, cu excepţia:",
+      "options": [
+        "managementul căilor respiratorii se obţine în mod optim prin montarea unei pipe Guedel pentru protecţia căilor respiratorii, ventilaţie cu presiune pozitivă şi toaleta bronşică",
+        "ventilaţia mecanică şi sedarea reduc efortul respirator şi ameliorează rata supravieţuirii",
+        "stabilizarea circulatorie sau hemodinamică începe cu abordul intravascular prin linii venoase periferice cu diametru mare",
+        "resuscitarea lichidiană începe cu administrarea cristaloidelor izotonice",
+        "agenţii vasopresori se utilizează în cazurile în care nu s-a obţinut un răspuns adecvat la resuscitarea volemică"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Agenţii vasoactivi utilizaţi în mod frecvent în stările de şoc sunt următorii, cu excepţia:",
+      "options": [
+        "dopamina",
+        "metoprolol",
+        "noradrenalina",
+        "dobutamina",
+        "adrenalina"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Obiectivele finale ale resuscitarii în stările de şoc sunt următoarele, cu excepţia:",
+      "options": [
+        "normalizarea TA, AV, DU",
+        "refacerea tuturor compartimentelor lichidiene",
+        "normalizarea parametrilor hemodinamici",
+        "scăderea aportului de oxigen la ţesuturi",
+        "restabilirea metabolismului aerob, eliminarea acidozei tisulare"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Agenţii vasopresori în caz de şoc se utilizează:",
+      "options": [
+        "în cazurile în care s-a obţinut un răspuns adecvat la resuscitarea volemică",
+        "în cazurile în care nu există contraindicaţii pentru reechilibrarea volemică",
+        "ca primă măsură înainte de începerea resuscitării volemice",
+        "în cazurile fără un răspuns la resuscitarea volemică",
+        "nu se folosesc în caz de şoc"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Una din următoarele afirmaţii în legătură cu managementul stării de şoc este adevărată:",
+      "options": [
+        "sedativele, utilizate adesea pentru a facilita intubaţia, pot diminua hipotensiunea prin vasodilatatie arterială",
+        "resuscitarea volemică sau utilizarea agenţilor vasoactivi pot fi necesare după intubaţie şi ventilaţie cu presiune pozitivă",
+        "ventilaţia mecanică şi sedarea cresc efortul respirator şi ameliorează rata supravieţuirii",
+        "accesul venos central este preferabil pentru administrarea pe termen scurt a terapiei vasopresoare",
+        "scăderea consumului de oxigen se poate realiza prin analgezie, relaxare musculară, încălzirea pacientului, anxiolitice"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    }
+  ]
+}

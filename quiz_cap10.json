@@ -1,0 +1,145 @@
+{
+  "chapter": "Anafilaxia şi reacţiile alergice acute",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Dintre sistemele afectate în anafilaxie nu face parte:",
+      "options": [
+        "Sistemul respirator.",
+        "Sistemul vascular.",
+        "Sistemul digestive.",
+        "Pielea.",
+        "Sistemul excretor."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Riscul de anafilaxie este influenţat de:",
+      "options": [
+        "Vârstă.",
+        "Sex.",
+        "Rasă.",
+        "Episoade anafilactice precedente.",
+        "Nici unul de mai sus."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Nu este o cauză frecventă de anafilaxie:",
+      "options": [
+        "Penicilina.",
+        "Xilina.",
+        "Vancomicina.",
+        "Aspirina.",
+        "Antiinflamatoarele nesteroidiene."
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Dau mai frecvent reacţii alergice înţepăturile de :",
+      "options": [
+        "Trilobiţi.",
+        "Lepidoptere.",
+        "Himenoptere.",
+        "Acarieni.",
+        "Batracieni."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Nu participă la mecanismele reacţiilor alergice următorul element imun :",
+      "options": [
+        "Mastocitele.",
+        "Limfocitele T.",
+        "Trombocitele.",
+        "Bazofilele.",
+        "Imunoglobulinele."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Nu produce reacţii anafilactoide :",
+      "options": [
+        "Substanţe radiologice de contrast.",
+        "Curare depolarizante.",
+        "Beta-lactami.",
+        "Opioide.",
+        "Dextrani."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Diagnosticul în reacţiile alergice se stabileşte prin :",
+      "options": [
+        "Determinarea IgE serice.",
+        "Testul IDR.",
+        "Testul VDRL.",
+        "Anamneză şi examen clinic.",
+        "Determinarea eozinofiliei ."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Diagnosticul diferenţial al reacţiilor alergice nu se face cu :",
+      "options": [
+        "Reacţiile vaso-vagale.",
+        "Status astmaticus.",
+        "Boala serului.",
+        "Epiglotită.",
+        "Disfuncţie de corzi vocale."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Medicamentul cel mai important în tratarea anafilaxiilor este :",
+      "options": [
+        "Metilprednisolonul.",
+        "Antihistaminicele.",
+        "Noradrenalina.",
+        "Adrenalina.",
+        "Succinilcolina."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Nu face parte din medicaţia de linia a doua a reacţiilor anafilactice :",
+      "options": [
+        "Adrenalina.",
+        "Glucagonul.",
+        "Corticosteroizii.",
+        "Antihistaminicele.",
+        "Sulfatul de magneziu."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    }
+  ]
+}

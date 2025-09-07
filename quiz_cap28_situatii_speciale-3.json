@@ -1,0 +1,135 @@
+{
+  "chapter": "CAP.28 - Situatii speciale",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "prompt": "Care din urmatoarele afirmatii legate de incidenta endocarditei la pacientii consumatori de droguri injectabile sunt false :",
+      "options": [
+        "este de 40 de ori mai mare decat la populatia generala.",
+        "intereseaza de obicei inima stanga.",
+        "intereseaza cel mai frecvent valva tricuspida.",
+        "intereseaza de obicei inima dreapta."
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "prompt": "Cea mai sensibila investigatie pentru identificarea vegetatiilor din endocardita asociata consumatorilor de droguri injectabile este :",
+      "options": [
+        "RMN.",
+        "CT.",
+        "ecocardiografia transtoracica.",
+        "radiografia toracica."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "prompt": "Cea mai frecventa infectie pulmonara la consumatorii de droguri injectabile este :",
+      "options": [
+        "pneumonia cu Pneumocystis carinii.",
+        "tuberculoza.",
+        "pneumonia comunitara cu S. pneumoniae.",
+        "pneumonia cu S. aureus."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "prompt": "Care din urmatoarele afirmatii legate de tratamentul endocarditei la consumatorii de droguri injectabile sunt false :",
+      "options": [
+        "asocierea unui aminoglicozid scurteaza durata bacteriemiei la pacientii cu S. aureus.",
+        "asocierea unui aminoglicozid scurteaza durata tratamentului la pacientii cu S. aureus.",
+        "durata standard de terapie cu antibiotic este de 6-8 saptamani.",
+        "vancomicina sau nafcilina si gentamicina sunt adesea administrate ca terapie initiala ."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "prompt": "Care din urmatoarele afirmatii legate de patologia endocarditei la consumatorii de droguri injectabile nu sunt false :",
+      "options": [
+        "pseudoanevrismul infectat este o complicatie rara si localizat adesea la nivelul art. brahiale.",
+        "osteomielita intereseaza coloana vertebrala in aproximativ 90% din cazuri.",
+        "artrita septica intereseaza de obicei genunchiul sau soldul.",
+        "culturile din abcesele cutanate sunt adesea monomicrobiene."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "prompt": "Care din urmatoarele afirmatii legate de patologia traumatica a pacientului varstnic nu sunt false:",
+      "options": [
+        "traumatismele reprezinta o cauza minora de morbiditate si mortalitate.",
+        "aproximativ 75% din pacientii varstnici internati in spital in urma unui traumatism prin cadere decedeaza in decurs de un an.",
+        "in cazul pacientilor varstnici politraumatizati TA si FC sunt in limite normale pana ce starea pacientului se deterioreaza profund.",
+        "accidentele rutiere sunt cel mai frecvent mecanism de producere a leziunilor la pacientii varstnici (pietoni)."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "prompt": "Pentru un pacient cu leziune a maduvei spinarii si cateter suprapubian(cistofix) bacteriuria semnificativa este definite ca:",
+      "options": [
+        "peste 100.000 unitati formatoare de colonii ( germeni)/ml.",
+        "peste 10.000 unitati formatoare de colonii ( germeni)/ml.",
+        "peste 100 unitati formatoare de colonii ( germeni)/ml.",
+        "orice nivel detectabil de bacteriurie este semnificativ."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "prompt": "Factorii de risc pentru hipercalcemia postimobilizare la pacientii cu leziuni ale maduvei spinarii sunt :",
+      "options": [
+        "leziuni medulare incomplete.",
+        "varsta sub 21 de ani.",
+        "leziuni toracale inferioare.",
+        "hiperhidratare."
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "prompt": "Instabilitatea atlantoaxiala ca rezultat al laxitatii tesuturilor conjunctive si anomaliilor de atlas si axis poate apare in :",
+      "options": [
+        "sindrom Down",
+        "sindrom Marfan.",
+        "sindrom Pickwick.",
+        "sindron Ehler-Danlos."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "prompt": "Akatisia este o tulburare psihica care raspunde la tratamentul cu :",
+      "options": [
+        "propranolol.",
+        "antidepresive triciclice.",
+        "benzodiazepine.",
+        "IMAO."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    }
+  ]
+}

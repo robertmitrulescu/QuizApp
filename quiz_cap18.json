@@ -1,0 +1,145 @@
+{
+  "chapter": "Reechilibrarea volemică a pacientului în stare de șoc",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Reechilibrarea volemică în cazul unui pacient aflat în stare de șoc reprezintă:",
+      "options": [
+        "terapia inițială pentru tulburările ce cauzează depleția de volum intravascular care, ulterior, produce hipoperfuzie tisulară și disfuncție de organ;",
+        "terapia inițială pentru tulburările ce cauzează depleția de volum extravascular care, ulterior, produce hiperperfuzie tisulară și disfuncție de organ;",
+        "terapia care poate fi aplicată în orice moment la pacientul aflat în stare de șoc;",
+        "terapia care poate fi aplicată  oricărui pacient aflat în orice perioadă de evoluție a vreunei boli;",
+        "nu are nici un rol la pacientul aflat în stare de șoc."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Cauze de depleție a volumului intravascular sunt, cu excepția:",
+      "options": [
+        "hipovolemia hemoragică dată de traumatismul parenchimului pulmonar;",
+        "hipovolemia hemoragică dată de ruptura de aortă;",
+        "hipovolemia hemoragică dată de leziuni de ficat, splină, rinichi;",
+        "hipovolemia non-hemoragică dată de tulburări gastro-intestinale (vărsături, diaree, ascită);",
+        "nici una dintre cele de mai sus."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Următoarele afirmații sunt corecte, mai puțin una:",
+      "options": [
+        "leziunile structurilor vasculare majore, a organelor parenchimatoase și a oaselor lungi reprezintă principalele cauze ale hemoragiei severe din traumatisme;",
+        "cauzele non-traumatice obișnuite ale hemoragiei sunt: sângerarea gastro-intestinală, ruptura de anevrism vascular și sarcina ectopică ruptă;",
+        "pierderea acută de volum intravascular activează un număr mare de răspunsuri fiziologice reglatorii în scopul compensării pierderii de sânge și menținerii perfuziei la nivelul celor mai importante paturi vasculare;",
+        "hipoperfuzia moderată, tranzitorie, poate fi bine tolerată în schimb hipoperfuzia severă sau prelungită duce la șoc cu disfuncție celulară sau de organ progresivă;",
+        "nici o afirmație nu este corectă."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "În cazul unei hemoragii acute se întâmplă următoarele fenomene, mai puțin unul:",
+      "options": [
+        "pierderea volumului de sânge circulant duce la scăderea presiunii sanguine arteriale;",
+        "pierderea volumului de sânge circulant duce la scăderea întoarcerii venoase;",
+        "pierderea volumului de sânge circulant duce la scăderea volumului bătaie;",
+        "mecanoreceptorii cardiaci și baroreceptorii aortici sunt stimulați împreună cu activarea sistemului nervos simpatic, ducând la creșterea frecvenței cardiace, vasoconstricție arterială și venoasă, creșterea contractilității ventriculare și extravazare lichidiană din spațiul extravascular spre cel intravascular;",
+        "nici unul din mecanismele de mai sus."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "În cazul unei hemoragii acute, stimularea mecanoreceptorilor cardiaci și a baroreceptorilor aortici împreună cu stimularea sistemului nervos simpatic, duc la următoarele fenomene:",
+      "options": [
+        "creșterea frecvenței cardiace;",
+        "vasoconstricție arterială și venoasă;",
+        "creșterea contractilității ventriculare;",
+        "extravazare lichidiană din spațiul extravascular spre cel intravascular;",
+        "toate de mai sus."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Profilul hemodinamic al pacientului cu hipovolemie acută hemoragică, include, de obicei:",
+      "options": [
+        "tahicardie;",
+        "hipotensiune;",
+        "extremități reci, palide, umede;",
+        "extremități cu pulsuri periferice slabe și timp de reumplere capilară prelungit;",
+        "toate cele de mai sus."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Reechilibrarea volemică trebuie efectuată ținând cont de următoarele:",
+      "options": [
+        "restabilirea volumului intravascular la un nivel suficient pentru a anula hipoperfuzia sistemică și pentru a limita hipoperfuzia regională;",
+        "menținerea unei capacități adecvate de transport a oxigenului pentru a face față cererii tisulare de oxigen;",
+        "limitarea pierderii suplimentare de hematii circulante;",
+        "toate de mai sus;",
+        "nici una de mai sus."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Fluidele de reechilibrare volemică sunt următoarele:",
+      "options": [
+        "cristaloide izotone: normale saline (ser fiziologic), soluție Ringer lactat și soluție Ringer acetat:",
+        "coloide: albumină, PPC, HEAS, dextran 40, dextran 70, gelatină;",
+        "soluții hipertone: salină (NaCl 7% până la 7.5%), salină și dextran (NaCl 7.5% și 6% dextran 70)",
+        "fluide de resuscitare transportoare de oxigen și sânge (MER);",
+        "toate de mai sus."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Următoarele afirmații sunt corecte:",
+      "options": [
+        "soluțiile cristaloide izotone sunt lichidele preferate în resuscitarea volemică;",
+        "soluțiile cristaloide sunt hipo-oncotice și astfel este nevoie de administrarea unei cantități substanțiale de soluții cristaloide pentru trecerea în spațiul extravascular corespunzătoare mărimii relative a compartimentelor lichidiene intravascular și interstițial;",
+        "pentru fiecare cantitate de sânge pierdută este necesară o cantitate de 3 ori mai mare de soluție cristaloidă izotonă pentru restabilirea volumului intravascular deoarece, în cel mai bun caz, aproximativ 30% din lichidul perfuzat rămâne intravascular;",
+        "dacă administrarea unei cantități de cristaloide de 3 ori mai mare decât cantitatea de sânge pierdută nu a dus la stabilizarea statusului hemodinamic al pacientului, pierderea de sânge fie depășește 15-20% din volumul sanguin total, fie există hemoragie activă semnificativă, fie ambele;",
+        "toate afirmațiile sunt corecte."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Sunt adevărate următoarele afirmații privind soluțiile coloide:",
+      "options": [
+        "au particule cu greutate moleculară mare cu presiuni oncotice plasmatice similare proteinelor plasmatice normale;",
+        "rămân în spațiul intravascular, înlocuind proteinele plasmatice perdute ca urmare a hemoragiei și, astfel, restabilind volumul sangvin circulant mai eficient decât soluțiile cristaloide;",
+        "schimbul extravascular al soluțiilor cristaloide perfuzate are potențiale efecte adverse (edem pulmonar interstițial cu afectarea difuziunii oxigenului și edem intraabdominal cu diminuarea perfuziei intestinale), acest fenomen pledând pentru folosirea soluțiilor coloidale;",
+        "condiții patologice precum șocul hemoragic și sepsisul duc la o permeabilitate vasculară crescută care poate permite scurgeri extravasculare ale moleculelor mari coloidale;",
+        "toate afirmațiile sunt adevărate."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    }
+  ]
+}

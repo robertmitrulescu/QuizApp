@@ -1,0 +1,145 @@
+{
+  "chapter": "INTUBATIA TRAHEALA SI VENTILATIA MECANICA",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Doza de inductie pentru tiopental este:",
+      "options": [
+        "2-3 mg/kgc",
+        "3-5 mg/kgc",
+        "5-7 mg/kgc",
+        "7-9 mg/kgc",
+        "1-3 mg/kgc"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Agenti de premedicatie folositi in inductia rapida sunt CU EXCEPTIA:",
+      "options": [
+        "lidocaina",
+        "fentanil",
+        "etomidat",
+        "atropina",
+        "agenti anticonvulsivanti"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Doza de inductie pentru ketamina este:",
+      "options": [
+        "1-2 mg/kgc",
+        "2-3 mg/kgc",
+        "3-4 mg/kgc",
+        "4-5 mg/kgc",
+        "5-6 mg/kgc"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Ketamina este folosita de electie ca agent de inductie in caz de:",
+      "options": [
+        "hipertensiune arteriala",
+        "bronhospasm sever",
+        "hipertensiune intracraniana",
+        "hiperpotasemie",
+        "insuficienta renala"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Doza de inductie pentru etomidat este:",
+      "options": [
+        "0,2 mg/kgc",
+        "0,3 mg/kgc",
+        "0,6 mg/kgc",
+        "0,4 mg/kgc",
+        "0,9 mg/kgc"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Dintre medicamentele folosite in inductie are efect analgezic:",
+      "options": [
+        "ketamina",
+        "propofolul",
+        "lidocaina",
+        "fentanilul",
+        "midazolamul"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Dintre medicamentele folosite in inductie are efect antiemetic:",
+      "options": [
+        "etomidatul",
+        "propofolul",
+        "fentanilul",
+        "tiopentalul",
+        "ketamina"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Efecte adverse ale succinilcolinei pot fi CU EXCEPTIA:",
+      "options": [
+        "bradiaritmii",
+        "spasmul maseterilor",
+        "hiperpotasemie",
+        "presiune crescuta intragastrica, intraoculara si intracraniana",
+        "toate"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Factori care prezic dificultati la ventilatia pe masca cu balon:",
+      "options": [
+        "parul facial",
+        "obezitatea",
+        "edentatia",
+        "sforaitul",
+        "toate"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Factori de prognoza pentru o intubatie dificila sunt:",
+      "options": [
+        "criteriile Mallampati cls III si IV",
+        "deschiderea mandibulara la un adult sub 4 cm",
+        "distanta dintre menton si hioid sub trei latimi de deget",
+        "spatiul dintre mandibula si varful cartilajului tiroid mai ingust de 2 latimi de deget",
+        "toate"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    }
+  ]
+}

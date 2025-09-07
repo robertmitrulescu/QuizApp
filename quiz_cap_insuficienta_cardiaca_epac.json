@@ -1,0 +1,705 @@
+{
+  "chapter": "Insuficiența cardiacă și EPAC – quiz",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Disfuncția sistolică este definită ca:",
+      "options": [
+        "FE > 60%",
+        "FE < 50%",
+        "FE < 40%",
+        "FE < 25%",
+        "FE > 40%"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "În insuficiența cardiacă diastolică:",
+      "options": [
+        "FE este normală sau chiar crescută",
+        "este afectată relaxarea ventriculară",
+        "poate fi dată de hipertensiunea arterială cronică",
+        "frecvența acesteia crește cu vârsta",
+        "toate afirmațiile sunt adevărate"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Insuficiența cardiacă stângă izolată este asociată cu următoarele semne și simptome, cu excepția:",
+      "options": [
+        "reflux hepatojugular",
+        "dispnee paroxistică nocturnă",
+        "fatigabilitate",
+        "tuse",
+        "astenie"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Care dintre următoarele afirmații este falsă:",
+      "options": [
+        "În EPAC inițial se pot administra doze repetate de NTG s.l.",
+        "Doza inițială de NTG i.v. în EPAC este de 0,2–0,4 μg/kg/min.",
+        "Doza inițială de nitroprusiat în EPAC este de 0,3 μg/kg/min.",
+        "Doza maximă de nitroprusiat în EPAC este de 10 μg/kg/min.",
+        "În EPAC se administrează inițial doze maximale de NTG, peste 200 μg/kg/min."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Care dintre următoarele afirmații legate de administrarea morfinei în EPAC este adevărată:",
+      "options": [
+        "Este utilizată datorită efectului său vasoconstrictor",
+        "Doza de morfină este de 0,4–0,5 mg i.v. la 2–5 min.",
+        "Nu are ca efect secundar niciodată depresia respiratorie",
+        "Are efect venodilatator",
+        "Nu are ca efect secundar niciodată alterarea statusului mental"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Care dintre următoarele afirmații legate de administrarea diureticelor în EPAC este falsă:",
+      "options": [
+        "Doza inițială de furosemid este de 40 mg i.v. bolus",
+        "Diureticele preferate sunt cele ce economisesc potasiul de tipul spironolactonei",
+        "Diureticele preferate în EPAC sunt furosemidul și bumetanida",
+        "Diureza după administrarea furosemidului începe la 15–20 min.",
+        "Diureticele au și un efect venodilatator slab, dar care se instalează precoce."
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "În următoarele situații vasodilatatoarele sunt contraindicate:",
+      "options": [
+        "Infarctul de ventricul drept",
+        "Depleția volemică",
+        "Stenoza aortică",
+        "Cardiomiopatia hipertrofică obstructivă",
+        "Toate de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "În următoarele situații administrarea beta-blocantelor este contraindicată:",
+      "options": [
+        "Bloc atrioventricular de grad înalt",
+        "Boală bronhospastică severă",
+        "Bradicardie simptomatică",
+        "Șoc cardiogen",
+        "Toate de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Următoarele afirmații legate de complicațiile insuficienței cardiace sunt false:",
+      "options": [
+        "riscul de moarte subită crește cu scăderea FE și cu severitatea IC",
+        "aritmiile ventriculare sunt frecvente",
+        "sunt rare, evoluția fiind favorabilă în timp",
+        "administrarea profilactică de antiaritmice este eficientă",
+        "insuficiența progresivă de pompă este evenimentul fatal la aproximativ 50% dintre aceștia"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Următoarele afirmații legate de administrarea vasodilatatoarelor în IC sunt adevărate:",
+      "options": [
+        "Pot avea efecte hipotensoare semnificative",
+        "Medicamentele vasodilatatoare nu sunt indicate în tratamentul EPAC și IC",
+        "Aceste medicamente sunt recomandate în tratamentul șocului cardiogen",
+        "Sunt indicate în tratamentul IC din cardiomiopatia hipertrofică obstructivă",
+        "Se administrează în doze mari în tratamentul EPAC la pacienții cu stenoză aortică"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "prompt": "Disfuncția sistolică în cadrul insuficienței cardiace este definită ca scăderea fracției de ejecție sub:",
+      "options": [
+        "60%",
+        "50%",
+        "40%",
+        "30%",
+        "20%"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "prompt": "Manifestările clinice ale insuficienței cardiace stângi izolate pot fi următoarele, cu excepția:",
+      "options": [
+        "dispneea",
+        "refluxul hepato-jugular",
+        "tusea",
+        "astenia",
+        "ortopneea"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "prompt": "Dintre manifestările clinice ale insuficienței cardiace drepte fac parte următoarele, cu excepția:",
+      "options": [
+        "dispneea",
+        "edemele periferice",
+        "turgescența venoasă jugulară",
+        "durerea în hipocondrul drept",
+        "refluxul hepato-jugular"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "prompt": "Dintre semnele și simptomele diagnosticului pozitiv al edemului pulmonar acut cardiogen fac parte următoarele, cu excepția:",
+      "options": [
+        "detresă respiratorie severă",
+        "tegumente calde, transpirate",
+        "tegumente reci, transpirate",
+        "hipertensiunea arterială",
+        "turgescența jugularelor"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "prompt": "Standardul de aur al diagnosticului insuficienței cardiace este:",
+      "options": [
+        "radiografia toracică",
+        "ecocardiografia",
+        "tomografia computerizată toracică",
+        "ecografia abdominală",
+        "rezonanța magnetică nucleară"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "prompt": "Diagnosticul de insuficiență cardiacă poate fi exclus de un nivel al BNP sub:",
+      "options": [
+        "100 pg/ml",
+        "200 pg/ml",
+        "300 pg/ml",
+        "400 pg/ml",
+        "500 pg/ml"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "prompt": "Dintre medicamentele care trebuie evitate la pacienții cu insuficiență cardiacă fac parte:",
+      "options": [
+        "diureticele",
+        "vasodilatatoarele",
+        "blocantele canalelor de calciu",
+        "inhibitorii enzimei de conversie a angiotensinei",
+        "beta-blocantele"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "prompt": "Dintre contraindicațiile folosirii vasodilatatoarelor în insuficiența cardiacă fac parte următoarele, cu excepția:",
+      "options": [
+        "infarctul de ventricul drept",
+        "hipertensiunea arterială",
+        "stenoza aortică",
+        "depleția de volum",
+        "cardiomiopatia hipertrofică"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "prompt": "Dintre substanțele folosite în tratamentul edemului pulmonar acut cardiogen fac parte următoarele, cu excepția:",
+      "options": [
+        "nitroglicerina sublingual",
+        "nitroglicerina intravenos",
+        "furosemidul",
+        "morfina",
+        "spironolactona"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "prompt": "Radiografia toracică la un pacient cu insuficiență cardiacă poate evidenția următoarele aspecte, cu excepția:",
+      "options": [
+        "opacitate triunghiulară bazală",
+        "cardiomegalie",
+        "revărsat pleural",
+        "liniile Kerley B",
+        "edem interstițial"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 21,
+      "type": "single",
+      "prompt": "Insuficiența cardiacă cu debit crescut poate apărea în cazurile, cu excepția:",
+      "options": [
+        "tirotoxicoza",
+        "boala beri-beri",
+        "endocardita infecțioasă",
+        "boala Paget osoasă",
+        "șunturile arterio-ventriculare mari"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 22,
+      "type": "single",
+      "prompt": "„Standardul de aur” în diagnosticul insuficienței cardiace este considerat:",
+      "options": [
+        "radiografia toracică",
+        "ecocardiografia",
+        "dozarea BNP",
+        "pulsoximetria",
+        "electrocardiografia"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 23,
+      "type": "single",
+      "prompt": "Modificări specifice pe radiografia toracică în cazul insuficienței ventriculare stângi sunt, cu excepția:",
+      "options": [
+        "lărgirea arterei pulmonare",
+        "liniile Kerley",
+        "cardiomegalia",
+        "vena cava superioară proeminentă",
+        "accentuarea desenului bronșic"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 24,
+      "type": "single",
+      "prompt": "Contraindicațiile utilizării IECA în tratamentul insuficienței cardiace sunt, cu excepția:",
+      "options": [
+        "stenoză bilaterală a arterelor renale",
+        "azotemie progresivă (creatinină > 3 mg/dl)",
+        "hiperpotasemie",
+        "BPOC",
+        "sarcina"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 25,
+      "type": "single",
+      "prompt": "În tratamentul edemului pulmonar acut nitroglicerina injectabilă se administrează în doze de:",
+      "options": [
+        "2–4 μg/kg/min",
+        "0,2–0,4 μg/kg/min",
+        "5 mg/kg/min",
+        "4 mg/kg/min",
+        "20 mg/kg/min"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 26,
+      "type": "single",
+      "prompt": "Disfuncția sistolică din insuficiența cardiacă este definită ca:",
+      "options": [
+        "FE < 40%",
+        "FE < 45%",
+        "FE < 55%",
+        "FE < 60%",
+        "FE < 65%"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 27,
+      "type": "single",
+      "prompt": "Edemul pulmonar acut este caracterizat de, cu excepția:",
+      "options": [
+        "detresă respiratorie severă",
+        "hipertensiune relativă",
+        "tegumente reci",
+        "transpirații",
+        "edeme periferice"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 28,
+      "type": "single",
+      "prompt": "În tratamentul insuficienței cardiace putem administra, cu excepția:",
+      "options": [
+        "vasodilatatoare",
+        "diuretice",
+        "IECA",
+        "β-blocante",
+        "blocante ale canalelor de calciu"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 29,
+      "type": "single",
+      "prompt": "Factori precipitanți ai decompensării cardiace pot fi, cu excepția:",
+      "options": [
+        "embolia pulmonară",
+        "infarctul miocardic acut",
+        "excesul de sare",
+        "hipertensiune arterială necontrolată",
+        "fibrilația atrială cu ritm mediu"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 30,
+      "type": "single",
+      "prompt": "Valoarea medie a BNP în insuficiența cardiacă clasa II–III NYHA este:",
+      "options": [
+        "100–200 pg/ml",
+        "100–150 pg/ml",
+        "220–450 pg/ml",
+        "50–100 pg/ml",
+        "1000 pg/ml"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 31,
+      "type": "single",
+      "prompt": "Diagnosticul pozitiv al EPAC:",
+      "options": [
+        "pacient dispneic, cu raluri în ambele câmpuri pulmonare, cu TA întotdeauna crescută",
+        "pacient dispneic, cu raluri în ambele câmpuri pulmonare, cu TA fie crescută, fie sub valori normale",
+        "pacient dispneic cu febră peste 39°",
+        "pacient cu mialgii, febră, tuse",
+        "pacient cu respirație normală și dureri abdominale intense"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 32,
+      "type": "single",
+      "prompt": "FE normală a ventriculului stâng este de:",
+      "options": [
+        "20%",
+        "10%",
+        "60%",
+        "17%",
+        "0,5%"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 33,
+      "type": "single",
+      "prompt": "Cauză frecventă de EPAC este:",
+      "options": [
+        "boala cardiacă ischemică",
+        "pneumonia",
+        "pancreatita",
+        "tumora mediastinală",
+        "infecția de căi aeriene"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 34,
+      "type": "single",
+      "prompt": "Măsurile standard de evaluare și tratament în UPU la pacient cu EPAC sunt, cu excepția:",
+      "options": [
+        "monitorizare, ECG, TA",
+        "monitorizare, pulsoximetrie",
+        "ECG 12 derivații",
+        "CT torace",
+        "linie i.v."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 35,
+      "type": "single",
+      "prompt": "Pacientul cu EPAC este poziționat:",
+      "options": [
+        "în poziție laterală de siguranță",
+        "semisezut, pentru a scădea întoarcerea venoasă",
+        "în ortostatism",
+        "în clinostatism",
+        "ridicat la 10°"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 36,
+      "type": "single",
+      "prompt": "ICC clasa II NYHA se caracterizează prin:",
+      "options": [
+        "lipsa dispneei la efort",
+        "dispnee la efort mic",
+        "dispnee la efort mare",
+        "dispnee în repaus",
+        "durere precordială în repaus"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 37,
+      "type": "single",
+      "prompt": "Tratamentul standard în EPAC este, cu excepția:",
+      "options": [
+        "diuretic",
+        "nitrați",
+        "ketorol",
+        "morfina",
+        "oxigenoterapie"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 38,
+      "type": "single",
+      "prompt": "Următoarele afirmații sunt adevărate:",
+      "options": [
+        "la pacient cu EPAC se folosește de rutină tratament profilactic antiaritmic",
+        "la pacienții cu EPAC și hipotensiune arterială, vasodilatatoarele (nitrați) se folosesc de rutină",
+        "la pacienții instabili hemodinamic se folosesc beta-blocante",
+        "nitrații se folosesc la pacienții cu EPAC și HTA pentru efect artero-venodilatator",
+        "blocanții de calciu se folosesc de rutină în EPAC"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 39,
+      "type": "single",
+      "prompt": "Cauze comune de insuficiență cardiacă sunt, cu excepția:",
+      "options": [
+        "ischemia miocardică acută sau cronica",
+        "cardiomiopatiile",
+        "valvulopatiile",
+        "pneumonia",
+        "tamponada cardiacă"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 40,
+      "type": "single",
+      "prompt": "Diagnosticul diferențial al EPAC se face cu următoarele, cu excepția:",
+      "options": [
+        "astm bronșic în criză",
+        "BPOC acutizat",
+        "pneumotorax",
+        "TEP",
+        "meningită"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 41,
+      "type": "single",
+      "prompt": "Edemul pulmonar acut cardiogen este manifestarea clinică a situației în care:",
+      "options": [
+        "debitul cardiac (DC) crește iar rezistența vasculară sistemică (RVS) scade pe fondul unei disfuncții cardiace preexistente",
+        "DC scade și RVS scade pe fondul unei disfuncții cardiace preexistente",
+        "DC scade și RVS crește pe fondul unei disfuncții cardiace preexistente",
+        "DC crește și RVS crește pe fondul unei disfuncții cardiace preexistente",
+        "nici una din variantele de mai sus"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 42,
+      "type": "single",
+      "prompt": "Printre cauzele frecvente de edem pulmonar acut cardiogen nu se numără:",
+      "options": [
+        "boli valvulare cu obstrucția tractului de ejecție a ventriculului drept",
+        "miocardita",
+        "stenoza mitrală",
+        "disfuncția de proteză valvulară",
+        "tamponada cardiacă"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 43,
+      "type": "single",
+      "prompt": "Singurul peptid natriuretic care se poate doza este:",
+      "options": [
+        "peptidul natriuretic atrial A",
+        "peptidul natriuretic de tip B",
+        "peptidul natriuretic de tip C",
+        "nu se poate doza",
+        "CNP, localizat în endoteliu"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 44,
+      "type": "single",
+      "prompt": "Fracția de ejecție este în mod normal de:",
+      "options": [
+        "30%",
+        "20%",
+        "60%",
+        "<40%",
+        "nici una din variantele de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 45,
+      "type": "single",
+      "prompt": "Disfuncția sistolică este definită ca:",
+      "options": [
+        "FE < 40%",
+        "FE < 50%",
+        "FE < 60%",
+        "FE < 20%",
+        "nici una din variantele de mai sus"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 46,
+      "type": "single",
+      "prompt": "Diagnosticul diferențial al insuficienței cardiace se face cu:",
+      "options": [
+        "revărsat pleural",
+        "disfuncția tiroidiană",
+        "hipoproteinemia",
+        "toate variantele de mai sus",
+        "nici una din variantele de mai sus"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 47,
+      "type": "single",
+      "prompt": "În tratamentul edemului pulmonar acut cardiogen prima măsură terapeutică este:",
+      "options": [
+        "montare linie venoasă și administrare furosemid",
+        "managementul căilor respiratorii",
+        "efectuarea radiografiei cord–pulmon",
+        "determinarea gazelor sanguine",
+        "efectuarea ECG"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 48,
+      "type": "single",
+      "prompt": "În tratamentul edemului pulmonar acut cardiogen morfina este utilizată pentru:",
+      "options": [
+        "efectul său de sedare ușoară a pacientului",
+        "analgezia pacienților cu durere toracică",
+        "efectul său de dilatator venos",
+        "toate cele de mai sus",
+        "nici una de mai sus"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 49,
+      "type": "single",
+      "prompt": "Nitroglicerina în tratamentul insuficienței cardiace:",
+      "options": [
+        "se poate administra indiferent de valoarea tensiunii arteriale",
+        "are numai efect venodilatator",
+        "are numai efect arteriolodilatator",
+        "are efect atât arterio cât și venodilatator",
+        "Nici una din variantele de mai sus"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 50,
+      "type": "single",
+      "prompt": "Pacientul cu edem pulmonar acut cardiogen:",
+      "options": [
+        "suportă decubitul în orice condiții",
+        "poate fi așezat în decubit dacă se administrează furosemid înainte",
+        "poate fi pus în decubit dacă s-a administrat O₂",
+        "se tratează în poziție șezândă",
+        "nu contează poziționarea pacientului"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+    "chapter": "PRINCIPIILE STUDIILOR IMAGISTICE",
+    "questions": [
+        {
+            "id": 1,
+            "type": "single",
+            "prompt": "Tipuri de reacții la substanța de contrast iodată intravascular:",
+            "options": [
+                "prurit tegumentar, însoțit de tenesme rectale și vezicale.",
+                "reacții alergice mediate de IgE.",
+                "reacții anafilactoide, chemotoxice, vasovagale.",
+                "scanarea cu radiații ionizante și administrarea de agenți de contrast iodați, conduce, de fiecare dată, la șoc anafilactic."
+            ],
+            "correctIndex": 2,
+            "correctLetter": "c"
+        },
+        {
+            "id": 2,
+            "type": "single",
+            "prompt": "Agenții de contrast iodați intravascular rămân în circulație o perioadă de timp (trecere inițială t1/2 de 1-3 min.), fiind distribuiți în spațiul extracelular. T ½ de eliminare la o funție renală normală este:",
+            "options": [
+                "15 minute.",
+                "aproximativ 2 h.",
+                "1 h și 30 min.",
+                "24h."
+            ],
+            "correctIndex": 1,
+            "correctLetter": "b"
+        },
+        {
+            "id": 3,
+            "type": "single",
+            "prompt": "Principiul funcționării unui ecograf este:",
+            "options": [
+                "reflectarea unui fascicul de radiații X de către organul țintă, trimis și reflectat de sonda/transductorul aparatului.",
+                "reflectarea unui fascicul de ultrasunete de către organul țintă, trimis și reflectat de transductorul aparatului.",
+                "reflectarea pulsurilor generate de un electromagnet de către organul țintă.",
+                "reflectarea de către organul țintă a unui fascicul de lumină intens polarizată, trimis și recepționat de sonda aparatului."
+            ],
+            "correctIndex": 1,
+            "correctLetter": "b"
+        },
+        {
+            "id": 4,
+            "type": "single",
+            "prompt": "Indicațiile primare ale utilizările ecografiei în departamentele de urgență, sunt reprezentate de:",
+            "options": [
+                "ulcerul gastric, neoplasmul de colon, afecțiunile vezicii biliare, insuficiența renală cronică.",
+                "anevrismul aortei abdominale, apendicita acută, sindromul de intestin iritabil, rectocolita ulcerohemoragică, hepatita acută.",
+                "anevrismul de aortă abdominală, evaluarea traumatismelor, sarcina în primul trimestru, evaluarea cardiacă, uropatia obstructivă, afecțiunile vezicii biliare.",
+                "gastroenterocolita, boala Crohn, tromocitopenia idiopatică, hepatita cronică cu virus B, insuficiența cardiacă congestivă."
+            ],
+            "correctIndex": 2,
+            "correctLetter": "c"
+        },
+        {
+            "id": 5,
+            "type": "single",
+            "prompt": "Semnele ecografice ale bolii biliare sunt reprezentate de:",
+            "options": [
+                "vezica biliară redusă în dimensiuni, splenomegalia, prezența sedimentului biliar, hiperecogenitatea ficatului.",
+                "hepatizația colecistului, conținutul transsonic al VB, pereții subțiri ai VB.",
+                "prezența imaginilor hiperecogene la nivelul duodenului, prezența lichidului in spațiul Morison și calculi în VB.",
+                "calculi în VB, semnul Murphy ecografic, îngroșarea peretelui VB, sediment la nivelul VB, lichidul pericolecistic."
+            ],
+            "correctIndex": 3,
+            "correctLetter": "d"
+        },
+        {
+            "id": 6,
+            "type": "single",
+            "prompt": "Rezultatul primar al examinării FAST este depistarea unei colecții de lichid fără ecou (sânge) în cavitatea peritoneală a pacientului traumatizat. Incidențele standard ale examinării FAST sunt:",
+            "options": [
+                "incidența din cadranul superior drept (spațiul Morison), cea din cadranul superior stâng (spațiul splenorenal), incidența pelvică (spațiul Douglas), incidența subcostală.",
+                "incidența paralelă cu rebordul costal drept (semnul Murphy ecografic), cea din cadranul superior stâng, incidența longitudinală (pe linia mediană) și cea pelvică.",
+                "incidența transsternală, cea din cadranul superior stâng, cea perpendiculară pe rebordul costal drept și cea transvaginală.",
+                "incidența subcostală, cea paralelă cu linia albă abdoninală, cea pelvică și cea din cadranul superior drept."
+            ],
+            "correctIndex": 0,
+            "correctLetter": "a"
+        },
+        {
+            "id": 7,
+            "type": "single",
+            "prompt": "În fața unui pacient prezentat în departamentul de urgență cu suspiciune de accident cerebrovascular sau traumatism, principala evaluare imagistică este:",
+            "options": [
+                "rezonanța magnetică nucleară de urgență.",
+                "arteriografia carotidiană bilaterală.",
+                "radiografia extremității cefalice este suficientă în traumatismele craniocerebrale grave.",
+                "tomografia computerizată craniană."
+            ],
+            "correctIndex": 3,
+            "correctLetter": "d"
+        },
+        {
+            "id": 8,
+            "type": "single",
+            "prompt": "În departamentul de urgență, subsanțele de contrast sunt limitate la administrarea intravenoasă și/sau orală. Administrarea agenților de contrast în evaluarea computer tomografică se face la pacienții :",
+            "options": [
+                "cu suspiciune de anevrism al aortei abdominale, tumori stenozante de intestin, infarct renal etc.",
+                "traumatism cranian minor, entorsă de gleznă, ulcer duodenal.",
+                "suspiciune de neoplasm pulmonar, viroze respiratorii, tiroidita Hashimotto.",
+                "tromboflebita venoasă profundă, ischemia acută periferică, sunt arteriovenos."
+            ],
+            "correctIndex": 0,
+            "correctLetter": "a"
+        },
+        {
+            "id": 9,
+            "type": "single",
+            "prompt": "Contraindicațiile examinării RMN :",
+            "options": [
+                "cei operați laparoscopic, cei anesteziați general, cei examinați posprandial precoce.",
+                "purtătorii de implanturi de tipul defibrilatoarelor externe, stimulatoarelor cardiace, clipuri feromagnetice, implanturi cohleare.",
+                "cei cu proteze dentare mobile, cei cu antecedente de afectare a măduvei spinării sau accidente cerebrovasculare.",
+                "cei cu litiază biliară/renală, cu ingestie voluntară/accidentală de corpi străini metalici sau cei ce suferă de claustrofobie."
+            ],
+            "correctIndex": 1,
+            "correctLetter": "b"
+        },
+        {
+            "id": 10,
+            "type": "single",
+            "prompt": "Indicațiile RMN în departamentul de urgență, în context acut:",
+            "options": [
+                "evaluarea de urgență a afecțiunilor consumptive sau autoimune, a bolii Alzheimer.",
+                "depistarea afecțiunilor ca scleroza în plăci, necroza aseptică de cap femural, sarcoidoza.",
+                "evaluarea suspiciunii de compresiune medulară spinală de orice cauză, fracture intertrohanteriene și de col femural oculte radiografic, angiografia RMN.",
+                "afecțiuni articulare (gonartroza, coxartroza, spondilita anchilopoietică) sau sarcomul Kaposhi."
+            ],
+            "correctIndex": 2,
+            "correctLetter": "c"
+        }
+    ]
+}

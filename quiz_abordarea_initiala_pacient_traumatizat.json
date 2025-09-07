@@ -1,0 +1,145 @@
+{
+  "chapter": "Abordarea iniţială a pacientului traumatizat",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "prompt": "Primul vârf de mortalitate (în prespital) apare din cauza leziunilor:",
+      "options": [
+        "Vasculare",
+        "Cerebrale",
+        "Pulmonare",
+        "Craniene şi vasculare",
+        "Toracice"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "prompt": "Nu este leziune potenţial letală identificabilă la examinarea primară:",
+      "options": [
+        "Hemopericardul",
+        "Pneumotoraxul sufocant",
+        "Obstrucţia de căi aeriene",
+        "Hemoragia masivă",
+        "Pneumotoraxul deschis"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "prompt": "Nu este criteriu necesar clasificării pentru centru de traumă nivel I:",
+      "options": [
+        "Toate specialităţile chirurgicale",
+        "Hemodializă",
+        "Neuroradiologie",
+        "Cercetare în traumatologie",
+        "Posibilităţi de transfer rapid"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "prompt": "Nu face parte din criteriile Maryland de transfer obligatoriu la centru de traumă:",
+      "options": [
+        "Încarcerarea",
+        "Extremitate compromisă neurovascular",
+        "Etilismul acut",
+        "Expunere la suflu de explozie",
+        "Suspiciune fractură pelvină"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "prompt": "Nu face parte din criteriile de excludere a efectuării de radiografii de coloană cervicală:",
+      "options": [
+        "Absenţa leziunilor neurologice",
+        "Status mental alterat",
+        "Absenţa sensibilităţii pe linia mediană a coloanei cervicale",
+        "Absenţa altor leziuni dureroase care să distragă atenţia",
+        "Absenţa intoxicaţiei"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "prompt": "Dacă un pacient politraumatizat nu se ameliorează hemodinamic semnificativ după resuscitare volemică cu 2 l de cristaloizi este indicat:",
+      "options": [
+        "Montarea unei linii venoase centrale",
+        "Determinarea lactatului seric",
+        "Transfuzie sânge 0 Rh negativ",
+        "Puncţie-lavaj peritoneală",
+        "Sedare şi analgezie"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "prompt": "Nu face parte din semnele tamponadei cardiace:",
+      "options": [
+        "Distensia venelor jugulare",
+        "Hipotensiune",
+        "Bradicardia",
+        "Zgomote cardiace asurzite",
+        "Agitaţie"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "prompt": "Nu face parte din simptomatologia pneumotoraxului în tensiune:",
+      "options": [
+        "Timpanism toracic",
+        "Jugulare turgescente",
+        "Crepitaţii costale",
+        "Trahee deviată",
+        "Hipotensiune"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "prompt": "Nu este caracteristic unei hemoragii clasa II în stadiul iniţial:",
+      "options": [
+        "O pierdere de sânge de 1 litru",
+        "Frecvenţa cardiacă de 120/min",
+        "Conştienţă nealterată",
+        "Tensiune scăzută",
+        "Presiunea pulsului scăzută"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "prompt": "În examinarea echografică FAST se examinează următoarele zone pentru a pune în evidenţă lichid, cu excepţia:",
+      "options": [
+        "Pericard",
+        "Recesul hepato-renal (Morrison)",
+        "Hipogastrul",
+        "Perisplenic",
+        "În interiorul anselor intestinale"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    }
+  ]
+}

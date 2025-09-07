@@ -1,0 +1,145 @@
+{
+  "chapter": "managementul_general_al_pacientilor_intoxicati",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Nu se numără printre complicaţiile rare ale administrării siropului de ipeca:",
+      "options": [
+        "aspiraţia",
+        "sindromul Boerhaave",
+        "dezechilibrele hidroelectrolitice",
+        "sindromul Mallory-Weiss",
+        "vărsăturile refractare"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Sindromul serotoninic nu se caracterizeaza prin:",
+      "options": [
+        "status mental alterat",
+        "hipertermie",
+        "hiperreflexie",
+        "midriază",
+        "decesul poate fi cauzat de hipertermie"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "În sindromul anticolinergic poate apare:",
+      "options": [
+        "hipotermie",
+        "creşterea peristaltismuluiu",
+        "diaforeză",
+        "criza convulsivă",
+        "vărsături"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "NU se însoţeşte de status mental alterat:",
+      "options": [
+        "intoxicaţia cu amfetamine",
+        "intoxicaţia cu carbamat",
+        "intoxicaţia cu salicilaţi",
+        "hipoglicemia",
+        "intoxicaţia cu atropină"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "În intoxicaţia cu salicilaţi poate apare:",
+      "options": [
+        "decesul provocat de hipertermie",
+        "acidoză respiratorie",
+        "bradicardie",
+        "acufene",
+        "cetonurie"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Dozele multiple de cărbune nu sunt recomandate în ingestiile de substanţe toxice:",
+      "options": [
+        "fără potenţial letal",
+        "care formează bezoari",
+        "care încetinesc funcţia intestinală",
+        "care se eliberează lent în lumenul intestinal",
+        "cu circulaţie enterohepatică şi enteroenterică"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "NU fac parte din contraindicaţiile relative ale hemodializei:",
+      "options": [
+        "diateza sangvină acută",
+        "instabilitatea hemodinamică",
+        "acces vascular redus",
+        "copiii foarte scunzi",
+        "copiii foarte graşi"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Hemoperfuzia:",
+      "options": [
+        "se adresează unui spectru mai îngust de substanţe decât hemodializa",
+        "este recomandată pentru supradozele de teofilină",
+        "este mai restrictivă din punctul de vedere al legării de proteine",
+        "foloseşte un circuit diferit de cel pentru hemodializă",
+        "poate îndepărta toxine care au un volum mare de distribuţie"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Situaţii în care irigarea intestinală completă NU este utilă:",
+      "options": [
+        "fier",
+        "litiu",
+        "acetaminofen",
+        "predispoziţie pentru formarea de bezoari",
+        "substanţe stupefiante"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Eritemul facial NU însoţeşte ingestia de:",
+      "options": [
+        "disulfiram",
+        "etanol la pacienţii cu deficienţă de aldehid- dehidrogenază",
+        "atropină",
+        "material radioactiv",
+        "nitraţi"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    }
+  ]
+}

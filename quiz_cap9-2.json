@@ -1,0 +1,265 @@
+{
+  "chapter": "Cap9: Gastroenterologie (Secțiunea 9)",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Tratamentul primar al hemoragiei digestive superioare cuprinde:",
+      "options": [
+        "Repleția volemică cu soluții cristaloide.",
+        "Hemostază cu sondă cu balonaș Sengstaken Blakemore.",
+        "Endoscopia digestivă superioară.",
+        "Intervenția chirurgicală."
+      ],
+      "correctLetter": "A",
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Cea mai frecventă etiologie HDI este reprezentată de:",
+      "options": [
+        "Diverticuloza colică.",
+        "Polipi adenomatoși.",
+        "Ulcerul duodenal.",
+        "Hemoroizi."
+      ],
+      "correctLetter": "D",
+      "correctIndex": 3
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Cauzele iatrogene de perforație esofagiană sunt reprezentate de:",
+      "options": [
+        "Ingestia de substanțe caustice.",
+        "Traumatismele esofagiene în contextul endoscopiei.",
+        "Sindromul Boerhaave.",
+        "Neoplasmul esofagian."
+      ],
+      "correctLetter": "B",
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Procedura de elecție pentru extragerea unui corp străin esofagian este:",
+      "options": [
+        "Spălătura gastrică.",
+        "Intervenția chirurgicală.",
+        "Endoscopia.",
+        "Provocarea emezei."
+      ],
+      "correctLetter": "C",
+      "correctIndex": 2
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Complicațiile ulcerului peptic sunt reprezentate de următoarele, cu excepția:",
+      "options": [
+        "Hemoragia.",
+        "Perforațiile.",
+        "Stenoza pilorică.",
+        "Icterul."
+      ],
+      "correctLetter": "D",
+      "correctIndex": 3
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Semnele CT care sugerează apendicită acută includ:",
+      "options": [
+        "Inflamația pericecală.",
+        "Flegmonul periapendicular.",
+        "Colecțiile lichidiene.",
+        "Toate cele de mai sus."
+      ],
+      "correctLetter": "D",
+      "correctIndex": 3
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Examenul clinic în apendicita acută nu cuprinde:",
+      "options": [
+        "Semnul Rovsing pozitiv.",
+        "Semnul psoasului pozitiv.",
+        "Semnul Blumberg pozitiv.",
+        "Semnul Homans pozitiv."
+      ],
+      "correctLetter": "D",
+      "correctIndex": 3
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Ocluzia intestinului gros se caracterizează prin:",
+      "options": [
+        "Vărsături fecaloide.",
+        "Are ca și cauză frecventă carcinoamele.",
+        "Durerea este predominant hipogastrică.",
+        "Toate cele de mai sus."
+      ],
+      "correctLetter": "D",
+      "correctIndex": 3
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Diagnosticul diferențial al herniei inghinale cuprinde următoarele, mai puțin:",
+      "options": [
+        "Colica renală.",
+        "Torsiunea de testicul.",
+        "Anevrismul de arteră femurală.",
+        "Epididinită."
+      ],
+      "correctLetter": "A",
+      "correctIndex": 0
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Orice hernie ireductibilă, incarcerată recent necesită:",
+      "options": [
+        "Evaluare imediată și tratament chirurgical.",
+        "Clismă.",
+        "Tratament antalgic și antispastic.",
+        "Tentare de reducere prin compresiune a herniei."
+      ],
+      "correctLetter": "A",
+      "correctIndex": 0
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "prompt": "O pacientă de 24 ani primește perfuzie cu Quamatel, Metoclopramid, Algocalmin și NaCl 9‰ și dezvoltă semne extrapiramidale. Medicamentul responsabil este:",
+      "options": [
+        "Quamatelul.",
+        "Algocalminul.",
+        "Metoclopramidul.",
+        "Toate cele de mai sus."
+      ],
+      "correctLetter": "C",
+      "correctIndex": 2
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "prompt": "Pacient de 20 ani în UPU, subfebrilități și 5 scaune diareice apărute de 24 h după o excursie. Tratamentul indicat este:",
+      "options": [
+        "Loperamid, Ciprofloxacin, rehidratare orală.",
+        "Loperamid, Ciprofloxacin, perfuzii intravenoase.",
+        "Penicilină, perfuzii intravenoase, Loperamid.",
+        "Penicilină, Loperamid, rehidratare orală."
+      ],
+      "correctLetter": "A",
+      "correctIndex": 0
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "prompt": "Bărbat 70 ani cu constipație cronică, scădere ponderală și anemie ușoară. Următorul pas este:",
+      "options": [
+        "Intervenție chirurgicală de urgență.",
+        "Evaluare endocrinologică.",
+        "Evaluare gastroenterologică.",
+        "Nu necesită urmărire și evaluare."
+      ],
+      "correctLetter": "C",
+      "correctIndex": 2
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "prompt": "Bărbat 45 ani fără antecedente, dureri intense în hipocondrul drept, febră, icter, vărsături. Etiologia cea mai probabilă:",
+      "options": [
+        "Ciroză hepatică etanolică.",
+        "Colangită acută.",
+        "Neoplasm de pancreas.",
+        "Hepatită acută virală."
+      ],
+      "correctLetter": "B",
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "prompt": "Femeie 39 ani, dureri epigastrice iradiate în hipocondrul drept, greață, vărsături, 38,2°C, semn Murphy prezent. Diagnosticul cel mai probabil:",
+      "options": [
+        "Colecistită acută.",
+        "Angiocolită.",
+        "Colică renală.",
+        "Apendicită acută."
+      ],
+      "correctLetter": "A",
+      "correctIndex": 0
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "prompt": "Următoarele medicamente pot determina creșterea AST, cu excepția:",
+      "options": [
+        "Izoniazida.",
+        "Diclofenacul.",
+        "Eritromicina.",
+        "Piridoxina."
+      ],
+      "correctLetter": "D",
+      "correctIndex": 3
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "prompt": "Creșterea fosfatazei alcaline este patologică în:",
+      "options": [
+        "Icter obstructiv.",
+        "Sarcină.",
+        "Copii.",
+        "Toate cele de mai sus."
+      ],
+      "correctLetter": "A",
+      "correctIndex": 0
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "prompt": "Pacient cirotic dezorientat, cu asterixis. Stadiul encefalopatiei portale este:",
+      "options": [
+        "Stadiul I.",
+        "Stadiul II.",
+        "Stadiul III.",
+        "Stadiul IV."
+      ],
+      "correctLetter": "B",
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "prompt": "Complicații ale pancreatitei acute pot fi următoarele, cu excepția:",
+      "options": [
+        "Pleurezie.",
+        "Abces pancreatic.",
+        "Insuficiență renală.",
+        "Hipoglicemie."
+      ],
+      "correctLetter": "D",
+      "correctIndex": 3
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "prompt": "Criteriile de diagnostic cu valoare prognostică (Ranson) în pancreatita acută sunt:",
+      "options": [
+        "Vârsta > 50 ani, glicemie < 200 mg/dl, Leuc > 16.000/µl, GOT > 250 U/L, LDH > 700 U/L.",
+        "Vârsta > 55 ani, glicemie > 200 mg/dl, Leuc > 16.000/µl, GOT > 250 U/L, LDH > 700 U/L.",
+        "Vârsta > 55 ani, glicemie < 200 mg/dl, Leuc > 20.000/µl, GOT > 350 U/L, LDH > 700 U/L.",
+        "Vârsta > 55 ani, glicemie > 200 mg/dl, Leuc > 20.000/µl, GOT > 250 U/L, LDH < 700 U/L."
+      ],
+      "correctLetter": "B",
+      "correctIndex": 1
+    }
+  ]
+}

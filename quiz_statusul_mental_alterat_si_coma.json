@@ -1,0 +1,145 @@
+{
+  "chapter": "STATUSUL MENTAL ALTERAT SI COMA",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Delirul NU are ca şi cauze:",
+      "options": [
+        "toxinele endogene",
+        "afecţiune primară intracraniană",
+        "întotdeauna are cauze organice",
+        "sevrajul medicamentos",
+        "boli sistemice care afectează în mod secundar SNC"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Delirul NU prezintă:",
+      "options": [
+        "tremor",
+        "debut brusc",
+        "halucinaţii vizuale şi/sau auditive",
+        "asterixis",
+        "reducerea stării de conştienţă"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Demenţa prezintă:",
+      "options": [
+        "stare de conştienţă afectată",
+        "afectarea atenţiei",
+        "prezenţa constantă de mişcări patologice",
+        "debut în decursul mai multor zile",
+        "frecvent prezintă iluzii"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Demenţa:",
+      "options": [
+        "“păstrează” amintirile apropiate",
+        "debutul se caracterizează prin afectarea abilităţilor motorii",
+        "se pierd abilităţile verbale",
+        "afectarea memoriei este graduală şi progresivă",
+        "pacientul are comportament social adecvat"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Demenţa vasculară NU prezintă:",
+      "options": [
+        "relaţie temporală cu accidentul vascular",
+        "evoluţie fluctuantă, treptată",
+        "apare la scurt  timp după deteriorarea abruptă a memoriei",
+        "necesită prezenţa unor semne de afecţiune  cerebrovasculară",
+        "nu este însoţită de afectarea abilităţilor cognitive"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Hidrocefalia cu presiune normală NU se caracterizează prin:",
+      "options": [
+        "la TC ventriculii cerebrali au dimensiuni normale",
+        "poate impune o încercare de şuntare ventriculară",
+        "poate apare incontinenţa urinară",
+        "pot apare îmbunătăţiri în evoluţia clinică a pacienţilor",
+        "pot apare tulburări de mers"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "În sindromul de angajare cerebrală poate apare:",
+      "options": [
+        "postura de decerebrare",
+        "somnolenţa progresivă",
+        "respiraţie regulată",
+        "agitaţie extremă",
+        "pupila contralaterală areactivă"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "În coma toxico-metabolică pacientul prezintă:",
+      "options": [
+        "pupile miotice, areactive",
+        "hemiplegie",
+        "mişcări spontane",
+        "mişcări extraoculare asimetrice",
+        "convulsii tonico-clonice"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "În leziunile fosei posterioare:",
+      "options": [
+        "simptomele se instalează insidios",
+        "reflexele pupilare sunt păstrate",
+        "reflexele se păstrează pănă în stadiile preterminale",
+        "coma apare brusc",
+        "poate apare o poziţie de flexie anormală"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Coma determinată de leziuni ale emisferelor sau de formaţiuni supratentoriale:",
+      "options": [
+        "poate apare cu hemiplegie progresivă",
+        "reflexele sunt simetrice",
+        "posturile de flexie/extensie sunt asimetrice",
+        "tonus muscular simetric",
+        "răspuns simetric la stimuli"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+    "chapter": "DERMATOLOGIE (Secțiunea 21)",
+    "questions": [
+        {
+            "id": 1,
+            "type": "multiple_choice",
+            "prompt": "Leziunile aftoase, şancrul sifilitic, pemfigusul bulos au ca şi leziune secundară:",
+            "options": [
+                "Ulceraţia.",
+                "Eroziunea.",
+                "Scuamele.",
+                "Crusta."
+            ],
+            "correctIndex": 0,
+            "correctLetter": "a"
+        },
+        {
+            "id": 2,
+            "type": "multiple_choice",
+            "prompt": "Herpesul, impetigo, pemfigusul bulos, toxico – dermatita au ca şi leziune primară comună:",
+            "options": [
+                "Nodulul.",
+                "Vezicula.",
+                "Pustula.",
+                "Papula."
+            ],
+            "correctIndex": 1,
+            "correctLetter": "b"
+        },
+        {
+            "id": 3,
+            "type": "multiple_choice",
+            "prompt": "La un pacient cu dermatită cronică de contact, cu erupţie la nivel palmar şi plantar corticoidul recomandat va fi:",
+            "options": [
+                "Hidrocortizon.",
+                "Triamcinolon.",
+                "Clobetazol.",
+                "Flurandrenolid."
+            ],
+            "correctIndex": 2,
+            "correctLetter": "c"
+        },
+        {
+            "id": 4,
+            "type": "multiple_choice",
+            "prompt": "Leziunile prezente în eritemul polimorf sunt următoarele, cu excepţia:",
+            "options": [
+                "Papule.",
+                "Leziuni tip iris.",
+                "Noduli.",
+                "Veziculobule."
+            ],
+            "correctIndex": 2,
+            "correctLetter": "c"
+        },
+        {
+            "id": 5,
+            "type": "multiple_choice",
+            "prompt": "Şocul toxic streptococic este determinat de următoarele:",
+            "options": [
+                "celulită streptococică.",
+                "angina streptococică.",
+                "glomerulonefrită poststreptococică.",
+                "scarlatină."
+            ],
+            "correctIndex": 0,
+            "correctLetter": "a"
+        },
+        {
+            "id": 6,
+            "type": "multiple_choice",
+            "prompt": "Zona Zoster este caracterizată de următoarele, cu excepţia:",
+            "options": [
+                "Leziuni de tip papule şi vezicule cu lichid clar sau purulent.",
+                "Ulceraţii cu cruste.",
+                "Leziuni dispuse de obicei de-a lungul unui singur dermatom.",
+                "Este determinată de virusul Herpes simplex."
+            ],
+            "correctIndex": 3,
+            "correctLetter": "d"
+        },
+        {
+            "id": 7,
+            "type": "multiple_choice",
+            "prompt": "Eritemul nodos este caracterizat de următoarele, cu excepţia:",
+            "options": [
+                "Noduli eritematoşi calzi, imprecis delimitaţi.",
+                "Ulceraţii.",
+                "Poate fi secundar administrării de sulfonamide.",
+                "Este localizat predominant pretibial."
+            ],
+            "correctIndex": 1,
+            "correctLetter": "b"
+        },
+        {
+            "id": 8,
+            "type": "multiple_choice",
+            "prompt": "Tratamentul de elecţie în scabie este reprezentat de:",
+            "options": [
+                "Clotrimazol cremă.",
+                "Clobetazol cremă.",
+                "Permetrin 5%.",
+                "Ketoprofen cremă."
+            ],
+            "correctIndex": 2,
+            "correctLetter": "c"
+        },
+        {
+            "id": 9,
+            "type": "multiple_choice",
+            "prompt": "Tratamentul intertrigo-ului candidozic este reprezentat de următoarele, cu excepţia:",
+            "options": [
+                "Ketoconazol cremă.",
+                "Hidrocortizon acetat cremă.",
+                "Comprese locale Rivanol.",
+                "Pulberi sicative."
+            ],
+            "correctIndex": 2,
+            "correctLetter": "c"
+        },
+        {
+            "id": 10,
+            "type": "multiple_choice",
+            "prompt": "Următoarele medicamente pot determina erupţii fotosensibile, cu excepţia:",
+            "options": [
+                "Tetraciclină.",
+                "Glibenclamid.",
+                "Amiodaronă.",
+                "Algocalmin."
+            ],
+            "correctIndex": 3,
+            "correctLetter": "d"
+        }
+    ]
+}

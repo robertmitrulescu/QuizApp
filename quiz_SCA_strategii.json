@@ -1,0 +1,145 @@
+{
+  "chapter": "SINDROAMELE CORONARIENE ACUTE (IMA, ANGOR INSTABIL). STRATEGII TERAPEUTICE",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Următoarele afirmații sunt corecte privind sindromul coronarian acut:",
+      "options": [
+        "sindromul coronarian acut este un termen pentru a descrie pacienții care se prezintă cu dureri toracice acute și alte simptome de ischemie miocardică, deseori cu diagnostic sau modificări EKG sugerând ischemie miocardică;",
+        "în timpul evaluării inițiale este adeseori imposibil de stabilit dacă pacientul are sau va suferi leziuni permanente ale miocardului (necroza sau IMA) sau are ischemie reversibilă (angina instabilă);",
+        "diferențierea între IMA și angina instabilă poate fi făcută doar retrospectiv după înregistrări seriate ale EKG și/sau determinări ale markerilor serici ai leziunii miocardice.",
+        "sindromul coronarian acut este un concept folositor deoarece triajul, evaluarea și managementul inițial al anginei instabile și IMA sunt asemănătoare;",
+        "toate afirmațiile sunt corecte."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Caracteristicile anginei instabile sunt următoarele:",
+      "options": [
+        "durata simptomelor este, în general, sub 10 minute, uneori durând între 10 și 20 minute;",
+        "de obicei, se ameliorează în 2–5 minute după repaus sau nitroglicerină;",
+        "sunt episoade scurte, chiar și de 2 minute;",
+        "toate afirmațiile sunt corecte;",
+        "nici o afirmație nu este corectă."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Caracteristicile IMA sunt următoarele:",
+      "options": [
+        "IMA este însoțit de disconfort toracic mai sever și mai prelungit;",
+        "simptomele asociate (greață, diaforeză, dispnee) sunt mai proeminente;",
+        "reacție slabă sau inexistentă la nitroglicerina administrată sublingual;",
+        "toate afirmațiile sunt corecte;",
+        "nici o afirmație nu este corectă."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Sunt corecte următoarele afirmații privind sindroamele coronariene acute:",
+      "options": [
+        "prezentările atipice sau ischemia miocardică asimptomatică sunt frecvente;",
+        "până la 30% dintre pacienții cu IMA identificați în studii longitudinale de mari dimensiuni nu pot fi diagnosticați clinic;",
+        "unii dintre pacienții cu IMA nediagnosticați clinic au avut simptome atipice pentru care nu au solicitat asistență medicală;",
+        "femeile și persoanele în vârstă sunt predispuși să aibă prezentări atipice de sindrom coronarian acut;",
+        "toate afirmațiile sunt corecte."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Examenul fizic în sindroamele coronariene acute:",
+      "options": [
+        "examenul fizic nu ajută la diferențierea pacienților cu sindroame coronariene acute de cei cu etiologii necardiace atunci când nu este clar un diagnostic alternativ;",
+        "pacienții cu sindrom coronarian acut pot fi aparent sănătoși, fără nici un semn de suferință;",
+        "pacienții cu sindrom coronarian acut se pot simți rău, să fie palizi, cianotici și cu probleme respiratorii;",
+        "frecvența pulsului poate fi normală, scăzută, crescută sau neregulată;",
+        "toate afirmațiile sunt adevărate."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Alege afirmația corectă privind EKG-ul în SCA:",
+      "options": [
+        "EKG-ul este cel mai bun test aflat imediat la îndemână în urgență dar are o sensibilitate de detectare a IMA relativ scăzută;",
+        "segmentul ST este supradenivelat pe EKG-ul inițial la aproximativ 50% dintre pacienți;",
+        "majoritatea pacienților fără supradenivelare ST cu valoare diagnostică vor avea subdenivelări ale segmentului ST și/sau inversiuni ale undelor T;",
+        "1–5% dintre pacienții cu IMA au EKG inițial complet normal;",
+        "toate afirmațiile sunt corecte."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Alege afirmația corectă privind markerii serici ai leziunii miocardice:",
+      "options": [
+        "markerii serici au o utilitate mai mică pentru diagnosticarea anginei instabile;",
+        "izoenzima creatinkinază (CK‑MB) este cel mai des folosit marker seric în sindromul coronarian acut;",
+        "o creștere în ser a CK‑MB până la peste 5 ori nivelul de bază urmată de o revenire la acest nivel este considerată diagnostică pentru IMA;",
+        "o creștere în ser a troponinelor I sau T pune diagnosticul de IMA;",
+        "toate afirmațiile sunt corecte."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Strategii terapeutice în SCA – alege afirmația adevărată:",
+      "options": [
+        "tratamentul este individualizat în funcție de durata și persistența simptomelor, istoricul bolilor cardiace, datele examenului clinic și EKG‑ul inițial;",
+        "la pacienții cu simptome persistente de STEMI se va utiliza terapia fibrinolitică sau reperfuzia mecanică (angioplastia);",
+        "în funcție de tabloul clinic, la STEMI se va lua în considerare tratamentul cu agenți antiplachetari, anticoagulante, β‑blocante, nitrați și IECA;",
+        "pacienții cu angină instabilă/NSTEMI vor fi tratați cu antiplachetare și anticoagulante și eventual cu β‑blocante și nitrați;",
+        "toate afirmațiile sunt corecte."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Măsuri generale în terapia SCA:",
+      "options": [
+        "la toți pacienții se va stabili abord intravenos și monitorizare EKG continuă;",
+        "administrarea de oxigen suplimentar poate reduce supradenivelarea ST la pacienții cu IMA, deci se administrează de rutină 2–4 l/min pe canulă nazală chiar și cu saturație normală;",
+        "în angina instabilă/NSTEMI se administrează oxigen doar celor cu semne de hipoxie;",
+        "toate afirmațiile sunt corecte;",
+        "nici o afirmație nu este corectă."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Contraindicațiile absolute ale terapiei fibrinolitice în IMA sunt:",
+      "options": [
+        "accident vascular cerebral hemoragic în antecedente sau accident vascular cerebral ischemic în ultimul an;",
+        "neoplazie intracraniană cunoscută;",
+        "hemoragie internă activă, excluzând menstruația;",
+        "suspiciune de disecție de aortă sau pericardită;",
+        "toate afirmațiile sunt corecte."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    }
+  ]
+}

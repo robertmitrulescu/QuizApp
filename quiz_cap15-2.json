@@ -1,0 +1,265 @@
+{
+  "chapter": "cap15",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Care sunt anomaliile EKG întâlnite în intoxicația cu antidepresive triciclice (ADT):",
+      "options": [
+        "tahicardia sinusală",
+        "RAD pe 40 ms terminale (în derivatia aVR)",
+        "QRS mai mare de 100 ms",
+        "toate cele de mai sus"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "În tratamentul aritmiilor ventriculare la pacienții cu intoxicație cu ADT (antidepresive triciclice) nu se administrează:",
+      "options": [
+        "lidocaina",
+        "antiaritmice clasa I A, I C și III",
+        "cardioversia sincronizată",
+        "tosilat (tosilatul) de bretiliu"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Diureza alcalină se folosește ca metodă de tratament în intoxicația barbiturică cu:",
+      "options": [
+        "acțiune pe termen foarte scurt",
+        "acțiune de durată medie",
+        "acțiune de durată scurtă",
+        "acțiune de lungă durată"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Nu este contraindicație de administrare a flumazenilului:",
+      "options": [
+        "intoxicația cu benzodiazepine",
+        "boli convulsivante cunoscute",
+        "suspiciunea de presiune intracraniană crescută",
+        "coingestia de produse convulsivante"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "În intoxicația cu metanol, soluția intravenoasă de etanol utilizată ca doză de încărcare este:",
+      "options": [
+        "10% etanol în glucoză 5% în doză de 10 ml/kg",
+        "15% etanol în glucoză 10% în doză de 15 ml/kg",
+        "5% etanol în glucoză 5% în doză de 5 ml/kg",
+        "10% etanol în glucoză 10% în doză de 7 ml/kg"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "În intoxicația cu etilenglicol nu se efectuează:",
+      "options": [
+        "administrarea de cărbune activ",
+        "corectarea acidozei",
+        "administrarea de fomepizol și/sau etanol",
+        "dializa"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "În tratamentul intoxicației acute cu opiacee se administrează:",
+      "options": [
+        "flumazenil",
+        "metadonă",
+        "naloxonă",
+        "fomepizol"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "În cazul sindromului coronarian acut la un pacient consumator de cocaină nu se administrează:",
+      "options": [
+        "xilină (lidocaină)",
+        "nitrați",
+        "aspirină",
+        "antagoniști beta-adrenergici"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "În intoxicația acută cu acetaminofen se administrează N–acetilcisteina în doză de încărcare:",
+      "options": [
+        "180 mg/kg",
+        "160 mg/kg",
+        "140 mg/kg",
+        "130 mg/kg"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "În intoxicația salicilică gravă, hemodializa se adresează:",
+      "options": [
+        "tulburărilor severe ale echilibrului acido-bazic",
+        "insuficienței renale",
+        "pacienților cu detresă respiratorie și status mental alterat",
+        "tuturor celor de mai sus"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "prompt": "În cazul intoxicației cu izoniazidă antidotul este:",
+      "options": [
+        "vitamina B6",
+        "vitamina B12",
+        "piridoxină",
+        "a și c"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "prompt": "În tratamentul intoxicației cu organofosforice nu au valoare terapeutică:",
+      "options": [
+        "atropina",
+        "pralidoxima",
+        "hemodializa",
+        "benzodiazepinele"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "prompt": "Tratarea intoxicației cu paraquat (compus dipiridilic) nu include:",
+      "options": [
+        "administrarea de amestecuri de aer cu concentrații mari de oxigen",
+        "cărbune medicinal",
+        "hemoperfuzia cu cărbune",
+        "tratarea durerilor cu opiacee"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "prompt": "AINS scad eficiența medicamentelor antihipertensive cu excepția:",
+      "options": [
+        "diuretice",
+        "inhibitorii enzimei de conversie",
+        "blocanți alfa și beta-adrenergici",
+        "blocanți de calciu"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "prompt": "Administrarea AINS în sarcină nu predispune la:",
+      "options": [
+        "naștere prematură",
+        "hemoragii la nivelul SNC",
+        "constricție prematură a ductului arterial",
+        "oligohidramnios"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "prompt": "Ce medicamente nu cresc timpul de înjumătățire al teofilinei:",
+      "options": [
+        "cimetidină",
+        "chinolone",
+        "verapamil",
+        "fenobarbital"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "prompt": "În cazul hiperpotasemiei apărute în intoxicația acută digitalică nu se administrează:",
+      "options": [
+        "glucoză plus insulină",
+        "bicarbonat de sodiu",
+        "clorură sau gluconat de calciu",
+        "fragmente de anticorpi specifici Fab"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "prompt": "În intoxicația cu blocanți ai canalelor de calciu ordinea protocolului pe etape este:",
+      "options": [
+        "dopamină → gluconat/clorură de Ca → glucagon/insulină",
+        "glucagon/insulină → dopamină → gluconat/clorură de Ca",
+        "gluconat/clorură de Ca → dopamină → glucagon/insulină",
+        "atropină → gluconat/clorură de Ca → dopamină"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "prompt": "Toxidromul simpaticomimetic nu conține:",
+      "options": [
+        "agitație psihomotorie",
+        "hipertermie",
+        "mioză",
+        "tahicardie"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "prompt": "Hemoperfuzia se folosește pentru intoxicația cu:",
+      "options": [
+        "metanol",
+        "teofilină",
+        "salicilați",
+        "litiu"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    }
+  ]
+}

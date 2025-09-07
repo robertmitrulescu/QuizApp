@@ -1,0 +1,265 @@
+{
+  "chapter": "capitolul_19_neurologie",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Hemoragia subarahnoidiana – sunt corecte urmatoarele afirmatii:",
+      "options": [
+        "standardul de aur  pentru diagnostic il reprezinta computer tomografia",
+        "cefaleea este cel mai frecvent subtila",
+        "de prima intentie se efectueaza punctia lombara",
+        "la examenul LCR se evidentiaza xantocromia"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Gradul III din clasificarea Hunt si Hesse a hemoragiei subarahnoidiene se caracterizeaza pri:",
+      "options": [
+        "coma, rigiditate de decerebrare",
+        "ameteala, confuzie, deficite focale usoare",
+        "cefalee moderata pana la severa",
+        "stupor"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Cefaleea tip cluster:",
+      "options": [
+        "este mai frecventa la barbati",
+        "se datoreaza disfunctiei nervului facial",
+        "dureaza cateva secunde",
+        "este precedata de aura"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Accidentul ischemic tranzitor:",
+      "options": [
+        "dureaza intre 3 si 5 zile",
+        "CT-ul poate evidentia aspect de infarct cerebral",
+        "toti pacientii cu AIT dezvolta ulterior un AVC",
+        "de obicei e de natura hemoragica"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Hemoragia cerebeloasa se caracterizeaza prin:",
+      "options": [
+        "vertij",
+        "varsaturi",
+        "ataxie",
+        "toate de mai sus"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Urmatoarele sunt criterii de includere pentru tromboliza in accidentul vascular ischemic",
+      "options": [
+        "convulsiile la debut",
+        "TA sistolica > 185 mmHg",
+        "durata de la debutul simptomelor < 3 ore",
+        "un alt AVC in ultimile 90 de zile"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Diagnosticul diferential al accidentului vascular cerebral nu se face cu:",
+      "options": [
+        "hipernatremia",
+        "scleroza multipla",
+        "encefalopatia Wernicke",
+        "coma hiperosmolara"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Cauze ce determina coma prin afectarea difuza a creierului sunt:",
+      "options": [
+        "infectiile SNC",
+        "convulsiile",
+        "neoplasmele",
+        "uremia"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Etiologii frecvente ale ataxiei si tulburarilor de mers sunt:",
+      "options": [
+        "boala Parkinson",
+        "intoxicatia cu acid valproic",
+        "infarctul cerebelos",
+        "toate de mai sus"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Vertijul periferic se caracterizeaza prin:",
+      "options": [
+        "model paroxistic intermitent",
+        "greata rar prezenta",
+        "nistagmus vertical",
+        "debut insidios"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "prompt": "Vertijul central se caracterizeaza prin:",
+      "options": [
+        "nistagmus rotator, orizontal",
+        "severitate mai putin intensa",
+        "diminuarea simptomelor",
+        "absenta semnelor SNC"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "prompt": "Afectiuni care produc vertij periferic sunt:",
+      "options": [
+        "scleroza multipla",
+        "disectia arterei vertebrale",
+        "Boala Meniere",
+        "Sindromul Wallenberg"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "prompt": "Care din urmatoarele afirmatii sunt adevarate?",
+      "options": [
+        "convulsiile generalizate tonico-clonice sunt cele mai rare",
+        "in convulsiile partiale simple, convusiile raman localizate si starea de constienta este alterata",
+        "in convulsiile partiale complexe starea de constienta este pastrata",
+        "absentele(crizele petit mal) au durata foarte scurta, de obicei de cateva secunde"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "prompt": "Urmatoarele pot fi cauze de convulsii secundare",
+      "options": [
+        "uremia",
+        "eclampsia",
+        "encefalopatia hipertensiva",
+        "toate cele de mai sus"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "prompt": "Narcolepsia",
+      "options": [
+        "este o pieredere brusca de scurta durata a tonusului postural",
+        "se caracterizeaza prin convulsii focale precedate de aura",
+        "se caracterizeaza prin atacuri scurte de somnolenta incontrolabila in timpul zilei",
+        "toate cele de mai sus sunt corecte"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "prompt": "Statusul epileptic este definit in prezent ca activitate convulsivanta continua timp de:",
+      "options": [
+        "30 min",
+        "5 min",
+        "10 min",
+        "15 min"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "prompt": "Agentul de electie in statusul epileptic este:",
+      "options": [
+        "diazepamul",
+        "lorazepamul",
+        "fenobarbitalul",
+        "fenitoina"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "prompt": "Un accident ischemic tranzitor se remite in:",
+      "options": [
+        "2 ore",
+        "24 de ore, dar majoritatea in 30 min",
+        "10 ore",
+        "7 zile"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "prompt": "Reflexul Cushing se caracterizeaza prin:",
+      "options": [
+        "coma, hipertensiune, bradicardie",
+        "coma, hipotensiune, tahicardie",
+        "coma, aritmie, bradicardie",
+        "mioza, hipotensiune, bradicardie"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "prompt": "Sindromul Guillain – Barre",
+      "options": [
+        "este forma cea mai frecventa de neuropatie acuta generalizata",
+        "apar initial parestezii la nivelul membrelor inferioare",
+        "urmeaza scaderea fortei musculare la nivelul soldurilor, membrelor inferioare si apoi superioare",
+        "toate de mai sus sunt adevarate."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    }
+  ]
+}

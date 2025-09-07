@@ -1,0 +1,564 @@
+{
+  "chapter": "TEP – Tromboembolism pulmonar",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Factorii de risc ai trombembolisnului pulmonar sunt următorii, cu excepția:",
+      "options": [
+        "a. Hipercoagulabilitatea din neoplasmele pulmonare",
+        "b. Tratamentul cu anticoncepționale orale",
+        "c. Repausul la pat peste 48 ore",
+        "d. Tratamentul cu anticoagulante orale",
+        "e. Traumatism recent la nivelul pelvisului ce a necesitat spitalizare"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Următoarea afirmație legată de simptomatologia emboliei pulmonare (EP) este adevărată:",
+      "options": [
+        "a. Dispneea apare extrem de rar și este însoțită de ortopnee",
+        "b. Durerea toracică nu apare niciodată în EP",
+        "c. Hemoptiziile nu apar în infarctul pulmonar",
+        "d. Absența tahicardiei nu exclude EP",
+        "e. Stopul cardiac apare la 90% dintre pacienții cu EP"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "În emboliile pulmonare apar următoarele disfuncții ventilatorii:",
+      "options": [
+        "a. Tulburări de ventilație–perfuzie",
+        "b. Hipoventilație alveolară difuză",
+        "c. Șunt intrapulmonar dreapta–stânga",
+        "d. Alterarea capacității de difuziune a plămânilor",
+        "e. Toate de mai sus"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Următoarea afirmație legată de tratamentul cu heparină în embolia pulmonară este falsă:",
+      "options": [
+        "a. Doza inițială de heparină nefracționată este de 80 UI/kgc i.v.",
+        "b. Heparina are capacitate fibrinolitică intrinsecă",
+        "c. Heparina previne extinderea trombului",
+        "d. Heparina previne reapariția trombului",
+        "e. Toate afirmațiile sunt false"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Agenții fibrinolitici aprobați pentru tratamentul emboliei pulmonare sunt următorii:",
+      "options": [
+        "a. Streptokinaza",
+        "b. Urokinaza",
+        "c. Alteplază",
+        "d. Fibrinoliza este contraindicată în embolia pulmonară",
+        "e. Toți cei enumerați pot fi folosiți"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Dispneea din embolia pulmonară are următoarele caracteristici, cu excepția:",
+      "options": [
+        "a. Este cel mai frecvent simptom al emboliei pulmonare",
+        "b. Este însoțită de tahipnee",
+        "c. Apare întotdeauna în repaus",
+        "d. Poate fi intermitentă",
+        "e. Mecanismul fiziopatologic este dezechilibrul ventilație–perfuzie"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Printre factorii asociați cu embolia pulmonară se includ următorii, cu excepția:",
+      "options": [
+        "a. Dispneea inexplicabilă",
+        "b. Edem unilateral al unui membru inferior",
+        "c. Edeme bilaterale ale membrelor inferioare",
+        "d. Frecvență cardiacă peste 100/min",
+        "e. Hipoxemia"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Următoarea afirmație despre tratamentul fibrinolitic în embolia pulmonară este adevărată:",
+      "options": [
+        "a. Streptokinaza se administrează 250.000 UI i.v. în 30 min, urmată de 100.000 UI/oră timp de 24 h",
+        "b. Urokinaza se administrează în doză de 4400 UI/kg i.v. pe 24 h",
+        "c. Streptokinaza se administrează 2500 UI/kg/oră timp de 24 h",
+        "d. Urokinaza se administrează 15 mg bolus i.v. urmată de perfuzie continuă cu 85 mg în 2 h",
+        "e. Alteplaza este contraindicată în tratamentul fibrinolitic al EP"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Următoarea afirmație despre angiografia pulmonară în embolia pulmonară este falsă:",
+      "options": [
+        "a. Angiografia selectivă cu cineangiofluoroscopie evidențiază defecte de umplere/întreruperi arteriale în arborele pulmonar",
+        "b. Angiografia pulmonară oferă date despre presiunea arterială pulmonară",
+        "c. Poate servi ca preambul la embolectomia cu cateter",
+        "d. În ultimele decenii a fost considerată „standardul de aur” pentru diagnostic sau excludere",
+        "e. Poate diagnostica corect emboliile foarte mici (arteriole)"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Următoarea afirmație despre investigațiile paraclinice în embolia pulmonară este adevărată:",
+      "options": [
+        "a. O electrocardiogramă normală exclude EP",
+        "b. Majoritatea pacienților cu EP au PaO₂ < 80 mmHg respirând aer ambiental",
+        "c. Determinarea D-dimerilor este contraindicată din cauza sensibilității și specificității reduse",
+        "d. Radiografia toracică este întotdeauna normală",
+        "e. CT toracic este contraindicat deoarece presupune substanță de contrast"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "prompt": "Cel mai frecvent simptom al emboliei pulmonare este:",
+      "options": [
+        "a. Durerea toracică",
+        "b. Tahicardia",
+        "c. Dispneea",
+        "d. Sincopa",
+        "e. Convulsiile"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "prompt": "Următorii factori pot fi asociați cu embolia pulmonară, cu excepția:",
+      "options": [
+        "a. Imobilizarea recentă a unui membru",
+        "b. Dispneea inexplicabilă",
+        "c. Edemul unilateral al unui membru inferior",
+        "d. Hemoptizia",
+        "e. Edemul bilateral al membrelor inferioare"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "prompt": "Factorii de risc pentru embolia pulmonară pot fi următorii, cu excepția:",
+      "options": [
+        "a. Tratamentul cu anticoncepționale orale",
+        "b. Sindromul febril prelungit",
+        "c. Repausul la pat peste 48 de ore",
+        "d. Călătoria cu automobilul pe distanță lungă",
+        "e. Sarcina"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "prompt": "Manifestările clinice ale emboliei pulmonare pot fi următoarele, cu excepția:",
+      "options": [
+        "a. Durerea toracică",
+        "b. Tahicardia",
+        "c. Febra",
+        "d. Dispneea",
+        "e. Hemoptizia"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "prompt": "Standardul de aur în diagnosticul paraclinic al emboliei pulmonare este:",
+      "options": [
+        "a. Electrocardiograma",
+        "b. Angiografia pulmonară",
+        "c. Determinarea D-dimerilor",
+        "d. Radiografia pulmonară",
+        "e. Hemoleucograma"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "prompt": "Tratamentul emboliei pulmonare include următoarele, cu excepția:",
+      "options": [
+        "a. Anticoagularea cu heparină",
+        "b. Anticoagularea cu warfarină",
+        "c. Terapia fibrinolitică",
+        "d. Trombembolectomia pe cateter",
+        "e. Tratamentul antiinflamator"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "prompt": "Cel mai frecvent aspect ECG asociat cu embolia pulmonară este:",
+      "options": [
+        "a. Fibrilația ventriculară",
+        "b. Fibrilația atrială",
+        "c. Tahicardia paroxistică supraventriculară",
+        "d. Bradicardia sinusală",
+        "e. Tahicardia sinusală"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "prompt": "Cauzele de trombofilie nonmalignă asociată emboliei pulmonare pot fi următoarele, cu excepția:",
+      "options": [
+        "a. Adenocarcinoamele primare",
+        "b. Sarcina",
+        "c. Folosirea contraceptivelor orale",
+        "d. Sindroamele de anticorpi antifosfolipidici",
+        "e. Trombofiliile familiale"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "prompt": "Diagnosticul de embolie pulmonară poate fi sugerat de:",
+      "options": [
+        "a. Febră, tahicardie, tahipnee",
+        "b. Durere toracică, febră, tahicardie",
+        "c. Durere toracică, tahicardie, tahipnee",
+        "d. Dispnee, wheezing, febră",
+        "e. Tuse productivă, dispnee, wheezing"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "prompt": "Explorările paraclinice folosite în diagnosticul emboliei pulmonare pot fi următoarele, cu excepția:",
+      "options": [
+        "a. Radiografia pulmonară",
+        "b. Scintigrafia pulmonară de ventilație–perfuzie",
+        "c. Tomografia computerizată toracică",
+        "d. Angiografia pulmonară selectivă",
+        "e. Ecografia abdominală"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 21,
+      "type": "single",
+      "prompt": "Factorii de risc pentru tromboembolism pulmonar sunt următorii, cu excepția:",
+      "options": [
+        "a) Status postpartum în primele 4 săptămâni",
+        "b) Afecțiuni maligne",
+        "c) Sarcina",
+        "d) Deficit de factor C și S",
+        "e) Efortul fizic intens"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 22,
+      "type": "single",
+      "prompt": "Cel mai comun simptom al TEP este:",
+      "options": [
+        "a) Febra",
+        "b) Dispneea",
+        "c) Tusea cu spută rozată",
+        "d) Precordialgia iradiată pe membrul superior stâng",
+        "e) Fatigabilitatea"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 23,
+      "type": "single",
+      "prompt": "Manifestări ce caracterizează TEP sunt:",
+      "options": [
+        "a) Factorii de risc asociați cu tuse purulentă și febră",
+        "b) Factorii de risc asociați cu dispnee (tahipnee), durere toracică, hipoxemie",
+        "c) Vertij, febră peste 39°C",
+        "d) Dispnee și raluri subcrepitante până la vârful ambelor câmpuri pulmonare",
+        "e) Convulsii, febră, status mental alterat"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 24,
+      "type": "single",
+      "prompt": "Ne pot îndruma către diagnosticul de TEP următoarele:",
+      "options": [
+        "a) Lipaza",
+        "b) Anemia",
+        "c) D-dimerii",
+        "d) CK",
+        "e) ALT"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 25,
+      "type": "single",
+      "prompt": "Diagnosticul de certitudine al TEP este pus de:",
+      "options": [
+        "a) Doppler venos membre inferioare",
+        "b) CT torace",
+        "c) Radiografie torace",
+        "d) ECG",
+        "e) EAB arterial"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 26,
+      "type": "single",
+      "prompt": "Metode de orientare diagnostică pentru TEP sunt:",
+      "options": [
+        "a) Leucocite, EAB venos, ecocardiografie",
+        "b) EAB arterial, D-dimerii, ecocardiografie",
+        "c) Radiografia torace, hemoglobina și EAB venos",
+        "d) Doppler venos membre inferioare și hemoglobina",
+        "e) Ecocardiografie, trombocite și EAB venos"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 27,
+      "type": "single",
+      "prompt": "Doza de heparină nefracționată în tratamentul TEP este:",
+      "options": [
+        "a) 250 UI în 30 minute",
+        "b) 80 U/kg bolus i.v., apoi 18 U/kg/oră",
+        "c) 60 U/kg bolus i.v.",
+        "d) 15 mg/kg bolus i.v., apoi 2 mg/kg",
+        "e) 1 mg/kg subcutan"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 28,
+      "type": "single",
+      "prompt": "EAB arterial în TEP indică de obicei:",
+      "options": [
+        "a) Hiperpotasemie",
+        "b) Hipoxemie",
+        "c) Acidoză metabolică",
+        "d) Acidoză respiratorie",
+        "e) Gap anionic crescut"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 29,
+      "type": "single",
+      "prompt": "Sunt adevărate următoarele afirmații:",
+      "options": [
+        "a) Un ECG normal exclude întotdeauna diagnosticul de TEP",
+        "b) Majoritatea pacienților cu TEP au hipoxemie pe EAB arterial",
+        "c) D-dimerii crescuți apar exclusiv la pacienții cu TEP",
+        "d) Radiografia cord–pulmon nu e necesară la pacienții la care suspicionăm TEP",
+        "e) CK seric este test diagnostic pentru TEP"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 30,
+      "type": "single",
+      "prompt": "Următoarele afirmații sunt false:",
+      "options": [
+        "a) Pacienții cu TEP pot fi asimptomatici",
+        "b) Hipercoagulabilitatea este un factor de risc pentru TEP",
+        "c) D-dimerii crescuți pot apărea în sepsis sau AVC",
+        "d) CT toracic are indicație la pacienții la care suspicionăm TEP",
+        "e) Diagnosticul de TEP se pune doar pe modificările ECG"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 31,
+      "type": "single",
+      "prompt": "Factorii de risc pentru trombembolismul pulmonar sunt:",
+      "options": [
+        "a. Vârsta peste 50 de ani",
+        "b. Hipercoagulabilitatea",
+        "c. Staza și leziunea venoasă",
+        "d. a+b+c",
+        "e. b+c"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 32,
+      "type": "single",
+      "prompt": "Tabloul clinic al pacientului cu trombembolism pulmonar NU cuprinde:",
+      "options": [
+        "a. Dispnee intermitentă",
+        "b. Hemoptizie",
+        "c. Bradicardie",
+        "d. Anxietate",
+        "e. Tromboză venoasă profundă la nivelul unei gambe"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 33,
+      "type": "single",
+      "prompt": "Următoarele afirmații privind dozarea D-dimerilor sunt adevărate:",
+      "options": [
+        "a. Au sensibilitate și specificitate scăzute",
+        "b. O valoare normală poate sugera o EP recentă",
+        "c. Concentrația plasmatică NU crește și în alte afecțiuni",
+        "d. Orice pacient cu D-dimeri pozitivi trebuie testat suplimentar pentru TEP",
+        "e. Niciuna dintre afirmații nu este adevărată"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 34,
+      "type": "single",
+      "prompt": "Tratamentul TEP include:",
+      "options": [
+        "a. Fibrinolitice",
+        "b. Terapie anticoagulantă",
+        "c. Trombembolectomia",
+        "d. a+c",
+        "e. a+b+c"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 35,
+      "type": "single",
+      "prompt": "Dintre factorii ce determină prognosticul favorabil la pacienții cu TEP face parte:",
+      "options": [
+        "a. Vârsta sub 70 ani",
+        "b. Ocluzia vascularizației pulmonare sub 50%",
+        "c. Bloc fascicular incomplet",
+        "d. Episod sincopal unic",
+        "e. SpO₂ peste 90%"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 36,
+      "type": "single",
+      "prompt": "Administrarea heparinei la pacientul cu TEP se întrerupe:",
+      "options": [
+        "a. La ameliorarea simptomatologiei",
+        "b. Pe perioada administrării fibrinoliticului",
+        "c. La pacienții cu hemoragie digestivă activă",
+        "d. b+c",
+        "e. a+b+c"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 37,
+      "type": "single",
+      "prompt": "Testele paraclinice care pot contribui la diagnosticul TEP sunt:",
+      "options": [
+        "a. Electrocardiograma",
+        "b. Radiografia pulmonară",
+        "c. Determinarea gazelor arteriale",
+        "d. Tomografia computerizată",
+        "e. Toate cele de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 38,
+      "type": "single",
+      "prompt": "Mecanismele prin care acționează heparina sunt următoarele, cu excepția:",
+      "options": [
+        "a. Inhibarea activității trombinei",
+        "b. Permite intrarea în acțiune a plasminei",
+        "c. Activitate fibrinolitică intrinsecă",
+        "d. Efect antiplachetar",
+        "e. Inhibarea procesului inflamator ce determină remodelare vasculară"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 39,
+      "type": "single",
+      "prompt": "Recomandarea privind terapia cu heparină în TEP este:",
+      "options": [
+        "a. Dacă nu există contraindicații și probabilitatea este >50%, se administrează empiric",
+        "b. Se amână până la confirmarea diagnosticului",
+        "c. Nu se administrează la vârstnici",
+        "d. Se preferă administrarea la peste 6 ore de la debutul simptomatologiei"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 40,
+      "type": "single",
+      "prompt": "Tratamentul pacientului cu TEP confirmat care face stop cardiorespirator constă în:",
+      "options": [
+        "a. Protocol ALS standard",
+        "b. Administrare bolus 100 mg alteplază dacă activitatea cardiacă nu se reia după câteva minute de RCP",
+        "c. La reluarea circulației spontane se solicită consult chirurgie toracică",
+        "d. Toate cele de mai sus",
+        "e. a+b"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    }
+  ]
+}

@@ -1,0 +1,703 @@
+{
+  "chapter": "INTUBAȚIA TRAHEALĂ ȘI VENTILAȚIA MECANICĂ (IOT & VM)",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Indicațiile de intubație traheală în serviciul de urgență includ:",
+      "options": [
+        "Corectarea hipoxiei",
+        "Corectarea hipercarbiei",
+        "Prevenirea hipoventilației",
+        "Asigurarea menținerii unei căi aeriene patente",
+        "Toate de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Cel mai frecvent, la un bărbat adult se pot folosi sonde endotraheale cu diametrul intern de:",
+      "options": [
+        "7,5–8 mm",
+        "7–8 mm",
+        "8–9 mm",
+        "8–8,5 mm",
+        "7–7,5 mm"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Intubația endobronșică sau esofagiană determină apariția hipoxiei sau hipercarbiei. Există mai multe modalități de confirmare a poziționării corecte a sondei intratraheal. Acestea sunt:",
+      "options": [
+        "Auscultația toracică",
+        "Auscultația epigastrică",
+        "Expansiunea simetrică a peretelui toracic",
+        "Vizualizarea directă la trecerea sondei printre corzile vocale",
+        "Toate de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Intubația naso-traheală este o alternativă la intubația orotraheală; există însă mai multe contraindicații relative ale acestei manevre, mai puțin:",
+      "options": [
+        "Traumatismul facial",
+        "Fracturile complexe nazale",
+        "Fracturile medio-faciale",
+        "Tulburările de coagulare",
+        "Toate de mai sus"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Intubația manuală este o tehnică non-invazivă de introducere a sondei endotraheale. Următoarele afirmații despre această tehnică sunt adevărate, cu excepția:",
+      "options": [
+        "Necesită palparea și recunoașterea tactilă a epiglotei",
+        "Pacienții cu articulație temporo-mandibulară imobilă sunt candidați buni pentru această manevră",
+        "Pentru această manevră pacientul trebuie să fie în comă profundă",
+        "Poate fi folosită în stopul cardio-respirator",
+        "Această procedură poate evita cricotirotomia"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Tiopentalul este un sedativ cu durată scurtă de acțiune. În cadrul secvenței de inducție rapidă este folosit într-o doză de:",
+      "options": [
+        "2–3 mg/kgc",
+        "1–3 mg/kgc",
+        "3–5 mg/kgc",
+        "2–4 mg/kgc",
+        "3 mg/kgc"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Doza de ketamină pentru inducție este:",
+      "options": [
+        "1–2 mg/kgc i.v.",
+        "2–4 mg/kgc i.v.",
+        "3–4 mg/kgc i.v.",
+        "1–3 mg/kgc i.v.",
+        "3–5 mg/kgc i.v."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Următoarele afirmații despre propofol sunt adevărate, cu excepția:",
+      "options": [
+        "Este un sedativ liposolubil",
+        "Intră mai lent în acțiune decât etomidatul",
+        "Are proprietăți antiemetice",
+        "Are proprietăți anticonvulsivante",
+        "Reduce presiunea intracraniană"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Când există indicație de curarizare și intubație, cel mai des agent folosit este:",
+      "options": [
+        "Rocuroniul",
+        "Vecuroniul",
+        "Succinilcolina",
+        "Atracuriumul",
+        "Doxacuriumul"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Următoarea descriere corespunde unei clase Mallampati II:",
+      "options": [
+        "Numai baza luetei este vizibilă",
+        "Palatul moale și lueta sunt vizibile",
+        "Masivul articular și lueta sunt vizibile",
+        "Nu sunt vizibile lueta, palatul moale și masivul articular facial",
+        "Masivul articular facial și palatul moale sunt vizibile, dar lueta este mascată de baza limbii"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "prompt": "Următoarele afirmații despre poziția de adulmecare (“sniffing position”) în intubatie sunt adevărate, cu o excepție. Menționați excepția:",
+      "options": [
+        "Permite vizualizarea directă a laringelui",
+        "Presupune flexia extremității inferioare a gâtului",
+        "Presupune extensia articulației atlanto-occipitale",
+        "Presupune flexia articulației atlanto-occipitale",
+        "Aliniază în ax orofaringele și laringele"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "prompt": "În laringoscopia cu lama curba Macintosh:",
+      "options": [
+        "Se încarcă obligatoriu epiglota pentru vizualizarea corzilor vocale",
+        "Marginea îngroșată a lamei împinge limba spre partea stângă a orofaringelui",
+        "Marginea îngroșată a lamei împinge limba spre partea dreaptă a orofaringelui",
+        "Lama glisează pe linia mediană a limbii",
+        "Laringele este expus prin deplasarea înapoi a mânerului laringoscopului făcând pârghie pe incisivii centrali"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "prompt": "La utilizarea unui mandren ca adjuvant al inserției sondei endotraheale:",
+      "options": [
+        "Sonda cu mandren se poate introduce orb, fără vizualizarea laringoscopică a corzilor vocale",
+        "Mandrenul trebuie să depășească cu 2 cm vârful sondei endotraheale",
+        "După introducerea sondei mandrenul rămâne pe loc până la umflarea balonașului",
+        "Niciodată vârful mandrenului nu va depăși vârful sondei endotraheale (ochiul lui Murphy)"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "prompt": "Poziționarea corectă a sondei endotraheale este:",
+      "options": [
+        "La 2 cm sub carină",
+        "La 2 cm deasupra carinei",
+        "În bronhia dreaptă",
+        "În bronhia stângă"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "prompt": "Criterii de poziționare corectă a sondei endotraheale:",
+      "options": [
+        "Vizualizarea trecerii vârfului sondei endotraheale printre corzile vocale",
+        "Auscultația toracică și epigastrică",
+        "Expansiunea simetrică a pereților toracici",
+        "Monitorizarea CO2 la sfârșitul expirului",
+        "Toate cele de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "prompt": "Următoarele afirmații despre ketamină sunt adevărate cu o excepție. Menționați excepția:",
+      "options": [
+        "Derivat al fenciclidinei",
+        "Efect bronhodilatator",
+        "Indicat la pacienții cu traumatism cranio-cerebral deoarece nu crește presiunea intracraniană",
+        "Doza indicată pentru inducție este 1–2 mg/kgc, i.v.",
+        "Pacientul poate experimenta halucinații vizuale la trezire"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "prompt": "Următoarele afirmații despre agenții de inducție sunt adevărate cu excepția uneia. Menționați excepția:",
+      "options": [
+        "Thiopentalul crește tensiunea arterială prin inhibarea captării noradrenalinei în fanta sinaptică",
+        "Doza de etomidat utilizată în inducție este de 0,3 mg/kgc, i.v.",
+        "Propofolul este un produs liposolubil care asigură o hipnoză eficientă și are proprietăți antiemetice și anticonvulsivante",
+        "Ketamina trebuie evitată la pacienții cu traumatism cranio-cerebral",
+        "Fentanylul injectat rapid și în doze crescute poate determina rigidizarea peretelui toracic"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "prompt": "Criterii clinice de anticipare a unei intubații dificile:",
+      "options": [
+        "Deschiderea mandibulară mai mare de 4 cm (două/trei lățimi de deget)",
+        "Micrognație",
+        "Laringe anterior înalt (spațiul dintre mandibulă și vârful cartilajului tiroid mai îngust de 2 lățimi de deget)",
+        "Imobilizarea gâtului",
+        "Toate cele de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "prompt": "Contraindicațiile succinilcolinei:",
+      "options": [
+        "Arsuri",
+        "Sindroame de strivire",
+        "Rhabdomioliză",
+        "Nici una dintre cele menționate mai sus",
+        "a, b, c"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "prompt": "Vecuronium bromide:",
+      "options": [
+        "Este un agent depolarizant",
+        "Doza indicată este 0,8–1,5 mg/kgc",
+        "Este eliberator de histamine",
+        "Paralizia se instalează în 20 minute",
+        "Doza indicată este de 0,08–0,15 mg/kgc"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 21,
+      "type": "single",
+      "prompt": "Doza de inducție pentru tiopental este:",
+      "options": [
+        "2–3 mg/kgc",
+        "3–5 mg/kgc",
+        "5–7 mg/kgc",
+        "7–9 mg/kgc",
+        "1–3 mg/kgc"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 22,
+      "type": "single",
+      "prompt": "Agenți de premedicație folosiți în inducția rapidă sunt, cu excepția:",
+      "options": [
+        "Lidocaina",
+        "Fentanil",
+        "Etomidat",
+        "Atropina",
+        "Agenți anticonvulsivanți"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 23,
+      "type": "single",
+      "prompt": "Doza de inducție pentru ketamină este:",
+      "options": [
+        "1–2 mg/kgc",
+        "2–3 mg/kgc",
+        "3–4 mg/kgc",
+        "4–5 mg/kgc",
+        "5–6 mg/kgc"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 24,
+      "type": "single",
+      "prompt": "Ketamina este folosită de elecție ca agent de inducție în caz de:",
+      "options": [
+        "Hipertensiune arterială",
+        "Bronhospasm sever",
+        "Hipertensiune intracraniană",
+        "Hiperpotasemie",
+        "Insuficiență renală"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 25,
+      "type": "single",
+      "prompt": "Doza de inducție pentru etomidat este:",
+      "options": [
+        "0,2 mg/kgc",
+        "0,3 mg/kgc",
+        "0,6 mg/kgc",
+        "0,4 mg/kgc",
+        "0,9 mg/kgc"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 26,
+      "type": "single",
+      "prompt": "Dintre medicamentele folosite în inducție are efect analgezic:",
+      "options": [
+        "Ketamina",
+        "Propofolul",
+        "Lidocaina",
+        "Fentanilul",
+        "Midazolamul"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 27,
+      "type": "single",
+      "prompt": "Dintre medicamentele folosite în inducție are efect antiemetic:",
+      "options": [
+        "Etomidatul",
+        "Propofolul",
+        "Fentanilul",
+        "Tiopentalul",
+        "Ketamina"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 28,
+      "type": "single",
+      "prompt": "Efecte adverse ale succinilcolinei pot fi, cu excepția:",
+      "options": [
+        "Bradiaritmii",
+        "Spasmul maseterilor",
+        "Hiperpotasemie",
+        "Presiune crescută intragastrică, intraoculară și intracraniană",
+        "Toate"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 29,
+      "type": "single",
+      "prompt": "Factori care prezic dificultăți la ventilația pe mască cu balon:",
+      "options": [
+        "Părul facial",
+        "Obezitatea",
+        "Edentația",
+        "Sforăitul",
+        "Toate"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 30,
+      "type": "single",
+      "prompt": "Factori de prognoză pentru o intubație dificilă sunt:",
+      "options": [
+        "Criteriile Mallampati clasa III și IV",
+        "Deschiderea mandibulară la un adult sub 4 cm",
+        "Distanța dintre menton și hioid sub trei lățimi de deget",
+        "Spațiul dintre mandibulă și vârful cartilajului tiroid mai îngust de 2 lățimi de deget",
+        "Toate"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 31,
+      "type": "single",
+      "prompt": "În cazul laringoscopiei directe:",
+      "options": [
+        "Lama dreaptă este mai puțin traumatică decât cea curba",
+        "Lama curbă oferă mai mult spațiu pentru inserția sondei IOT decât lama dreaptă",
+        "În cazul pacienților obezi, lama dreaptă este mai utilă decât lama curba",
+        "Lama curbă este mai ușor de inserat decât lama dreaptă la pacienții cu incisivi mici",
+        "Nici una din cele de mai sus"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 32,
+      "type": "single",
+      "prompt": "În cazul laringoscopiei directe:",
+      "options": [
+        "Manevra Sellick împiedică vărsătura alimentară",
+        "Primele cartilaje vizualizate sunt cartilajele coniculate",
+        "O greșeală foarte frecventă este inserarea prea profundă a lamei laringoscopului",
+        "Toate cele de mai sus",
+        "Nici una dintre cele de mai sus"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 33,
+      "type": "single",
+      "prompt": "Verificarea poziției corecte a sondei IOT se poate face prin:",
+      "options": [
+        "Vizualizarea directă a trecerii sondei IOT printre corzile vocale",
+        "Capnometrie",
+        "Auscultare toracică",
+        "Aburirea sondei IOT",
+        "Toate cele de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 34,
+      "type": "single",
+      "prompt": "Erori în cazul folosirii capnometriei (pentru determinarea plasării corecte a sondei IOT) pot apărea în următoarele situații, cu EXCEPȚIA:",
+      "options": [
+        "Obezității",
+        "Stopului cardio-respirator",
+        "Emboliei pulmonare masive",
+        "Consumul de băuturi carbogazoase înaintea intubației orotraheale",
+        "Intubarea selectivă a bronșiei drepte"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 35,
+      "type": "single",
+      "prompt": "În cazul intubației orotraheale pot apărea următoarele complicații, cu EXCEPȚIA:",
+      "options": [
+        "Avulsia dentară",
+        "Tulburări de fonație",
+        "Stenoza subglotică",
+        "Perforație faringo-esofagiană",
+        "Ulceratia mucoasei bucale"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 36,
+      "type": "single",
+      "prompt": "Cea mai frecventă complicație a utilizării măștii laringiene este:",
+      "options": [
+        "Poziționare incorectă",
+        "Ventilație predominantă a plămânului drept",
+        "Aspirația conținutului gastric",
+        "Toate cele de mai sus",
+        "Nici una dintre cele de mai sus"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 37,
+      "type": "single",
+      "prompt": "Secvența de inducție rapidă:",
+      "options": [
+        "Se folosește pentru scăderea efectelor negative declanșate de laringoscopie",
+        "Trebuie să asigure sedare, analgezie, relaxare musculară și amnezie retrogradă",
+        "Se poate folosi o asociere de droguri pentru scăderea efectelor adverse ale fiecărui drog în parte",
+        "Toate cele de mai sus",
+        "Nici una dintre cele de mai sus"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 38,
+      "type": "single",
+      "prompt": "În secvența de inducție rapidă:",
+      "options": [
+        "Thiopentalul nu dă complicații cardiovasculare",
+        "Ketamina este contraindicată în criza de bronhospasm",
+        "Etomidatul are efect analgezic puternic",
+        "Propofolul are efect protector cerebral",
+        "Fentanylul este contraindicat în inducția rapidă în vederea IOT"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 39,
+      "type": "single",
+      "prompt": "Care dintre următoarele situații reprezintă factori predictivi ai unei intubații dificile?",
+      "options": [
+        "Prezența părului facial, obezitatea, gâtul scurt",
+        "Rigiditatea coloanei cervicale",
+        "Deschiderea gurii mai mică de 4 cm",
+        "Ventilația ineficientă pe mască și balon Ruben",
+        "Toate cele de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 40,
+      "type": "single",
+      "prompt": "Scopul intubației orotraheale este acela de:",
+      "options": [
+        "Asigurarea unei căi aeriene sigure",
+        "Obținerea unei bune ventilații și oxigenări",
+        "Prevenirea aspirației pulmonare",
+        "Nici una dintre cele de mai sus",
+        "Toate cele de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 41,
+      "type": "single",
+      "prompt": "Plasarea măștii laringiene – afirmația falsă:",
+      "options": [
+        "Este o manevră oarbă",
+        "Cea mai frecventă complicație este aspirația conținutului gastric",
+        "Se poate plasa o sondă IOT prin masca laringiană",
+        "Este contraindicată în leziunile de coloană vertebrală cervicală",
+        "Prin această metodă se pot ventila chiar și pacienții cu modificări ale anatomiei căilor aeriene."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 42,
+      "type": "single",
+      "prompt": "Afirmația falsă cu privire la laringoscopie:",
+      "options": [
+        "Lama dreaptă (Miller) se plasează astfel încât să ridice epiglota.",
+        "Lama curba (McIntosh) se plasează în valeculă, deasupra epiglotei, și o ridică indirect pe aceasta.",
+        "Avantajul lamei McIntosh este o stimulare mai mică a reflexului de apărare a căilor aeriene deoarece nu atinge direct laringele.",
+        "Lama laringoscopului se introduce la nivelul comisurii bucale stângi.",
+        "Vizualizarea laringelui se face prin împingerea la 90° față de direcția lamei."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 43,
+      "type": "single",
+      "prompt": "Afirmația falsă este:",
+      "options": [
+        "Sonda de intubație este avansată până când balonașul dispare sub corzile vocale",
+        "Adâncimea plasării sondei la femei este de 21 cm",
+        "Adâncimea plasării sondei la bărbați este de 23 cm",
+        "Presiunea de umflare a balonașului nu trebuie să depășească 50 cmH2O.",
+        "Presiunea minimă care previne aspirația este 25 cmH2O"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 44,
+      "type": "single",
+      "prompt": "Factori care sugerează că ventilația pe balon și mască va fi dificilă – care este factorul care nu își are locul aici:",
+      "options": [
+        "Părul facial",
+        "Obezitatea",
+        "Fractura de mandibulă",
+        "Pacientul edentat",
+        "Pacientul cunoscut că sforăie"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 45,
+      "type": "single",
+      "prompt": "Din factorii de mai jos, unul nu este asociat anticipării unei intubații dificile:",
+      "options": [
+        "Distanța dintre menton și osul hioid mai mică de trei-patru lățimi de deget.",
+        "Criteriul Mallampati III sau IV",
+        "Zona cervicală puțin mobilă",
+        "Deformări ale căilor aeriene (traumă, tumoră, inflamație)",
+        "Pacientul edentat"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 46,
+      "type": "single",
+      "prompt": "Aspirația pe sonda IOT – afirmația falsă:",
+      "options": [
+        "Sonda de aspirație nu trebuie să fie mai mare de jumătate din diametrul sondei IOT pentru a permite ventilația în timpul aspirației",
+        "Este imperativă oxigenarea pacientului înainte de aspirație",
+        "Nu este necesară oxigenarea pacientului după aspirație",
+        "Sonda de aspirație se introduce fără a aspira",
+        "Aspirația se efectuează doar în timpul retragerii sondei de aspirație"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 47,
+      "type": "single",
+      "prompt": "Nu este adevărat cu privire la Tiopental:",
+      "options": [
+        "Doza i.v. este de 3–5 mg/kg",
+        "Produce hipotensiune",
+        "Este o benzodiazepină",
+        "Este contraindicat la pacienții cu astm",
+        "Poate produce trismus"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 48,
+      "type": "single",
+      "prompt": "Nu este adevărat cu privire la Ketamină:",
+      "options": [
+        "Are efect bronhodilatator",
+        "Crește presiunea sanguină",
+        "Nu este contraindicată la pacienții cu TCC",
+        "Are efect cronotrop pozitiv",
+        "La trezire, pacientul poate avea halucinații"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 49,
+      "type": "single",
+      "prompt": "Cu privire la Etomidat – afirmația falsă:",
+      "options": [
+        "Protecție față de ischemia miocardică și cerebrală",
+        "Eliberare minimă de histamină",
+        "Durată lungă de acțiune",
+        "Este de elecție pentru pacienții hipovolemici și cei cu TCC",
+        "Doza în inducția rapidă este 0,3 mg/kg i.v."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 50,
+      "type": "single",
+      "prompt": "Propofolul – afirmație falsă:",
+      "options": [
+        "Efectul se instalează mai rapid decât pentru Etomidat și durează mai puțin.",
+        "Are proprietăți anticonvulsivante",
+        "Are proprietăți antiemetice",
+        "Scade presiunea intracraniană",
+        "Doza în inducția rapidă este de 3–4 mg/kg"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    }
+  ]
+}

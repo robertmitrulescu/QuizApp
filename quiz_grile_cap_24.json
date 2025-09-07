@@ -1,0 +1,135 @@
+{
+  "chapter": "Grile cap 24",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "prompt": "Cauzele durerii cervicale sunt :",
+      "options": [
+        "trauma si leziunile biomecanice",
+        "inflamatii si infectii",
+        "neoplazii",
+        "toate raspunsurile sunt corecte"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "prompt": "Durerea lombara este considerata acuta daca dureaza de :",
+      "options": [
+        "mai putin 6 saptamani",
+        "intre 6-12 saptamani",
+        "mai putin 2 saptamani",
+        "mai putin de 1 zi"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "prompt": "Durerea lombara care apare noaptea si nu cedeaza la antalgice si odihna sugereaza :",
+      "options": [
+        "infectie",
+        "sciatica",
+        "neoplazie",
+        "trauma usoara"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "prompt": "Semnul Lasegue este considerat pozitiv daca la ridicarea membrului inferior, din pozitie intinsa, la maxim 70° apare durere la nivelul :",
+      "options": [
+        "coapsei",
+        "gambei",
+        "lombei",
+        "coapsa si lomba"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "prompt": "Radiografia de coloana lombara efectuata in urgenta, la un pacient cu sciatica are ca scop :",
+      "options": [
+        "identificarea herniei de disc",
+        "identificarea unei tumori, infectii, fracturi sau spondilolistezis",
+        "stabilirea conduitei terapeutice, in cazul herniei de disc",
+        "urmarirea in dinamica a evolutiei herniei de disc"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "prompt": "In sindromul cauda equina, cel mai des intalnit semn este :",
+      "options": [
+        "retentie urinara cu incontinenta prin ,,prea plin”",
+        "durerea lombara",
+        "durearea radiculara",
+        "parestezia"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "prompt": "In cazul unui pacient cu semne clinice de compresiune epidurala (posibil tumorala) se administreaza de urgenta :",
+      "options": [
+        "100 mg HHC",
+        "0,1 mg de Fentanyl",
+        "100 mg Tramadol",
+        "10 mg Dexametazona"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "prompt": "Investigarea prin RMN a unui sindrom de compresiune epidurala, de etiologie tumorala presupune :",
+      "options": [
+        "evaluarea portiunii din coloana vertebrala unde apare durerea",
+        "evaluarea 2/3 din coloana vertebrala",
+        "evaluarea intregii coloane vertebrale",
+        "nici un raspuns nu este corect"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "prompt": "Pacientul imunocompromis, cu febra si durere lombara prelungita poate sa prezinte :",
+      "options": [
+        "osteomielita vertebrala",
+        "abces epidural",
+        "ambele raspunsuri sunt corecte",
+        "nici un raspuns nu este corect"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "prompt": "Nu este cauza de sindrom de compresiune epidurala :",
+      "options": [
+        "hemoragia canalului spinal",
+        "mielita transversa",
+        "tumori medulare sau ale spatiului epidural",
+        "infectii ale canalului spinal"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    }
+  ]
+}

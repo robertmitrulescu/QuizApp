@@ -1,0 +1,135 @@
+{
+  "chapter": "capitolul_18",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Testul Coombs indirect se utilizeaza de rutina in:",
+      "options": [
+        "anemiile hemolitice autoimune",
+        "determinarea anticorpilor antieritrocitari",
+        "testarea compatibilitatii inaintea transfuziilor",
+        "anemiile hemolitice produse de medicamente"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "In cazul hemostazei secundare timpul de protrombina (INR) da informatii despre:",
+      "options": [
+        "sistemul intrinsec al coagularii si calea comuna",
+        "sistemul extrinsec al coagularii si calea comuna",
+        "interactiunea dintre trombocite si endoteliu",
+        "conversia fibrinogenului in fibrina"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Timpul partial de tromboplastina activata (aPTT) creste in:",
+      "options": [
+        "utilizarea walfarinei",
+        "administrarea de antibiotice",
+        "boala hepatica",
+        "tratament cu heparina"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "In cazul hemofiliei B anomalia intereseaza factorul:",
+      "options": [
+        "IX",
+        "VIII",
+        "VII",
+        "X"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "In hemofilie forma moderata a bolii are un nivel al factorului fata de normal intre:",
+      "options": [
+        "intre 5-25%",
+        "1-5%",
+        "sub 1%",
+        "peste 25%"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Contraindicatiile relative ale terapiei fibrinolitice sunt:",
+      "options": [
+        "hemoragie interna activa sau recenta (< 14 zile)",
+        "AVC hemoragic",
+        "sarcina",
+        "resuscitarea cardiopulmonara > 10 minute"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "In cazul neoplaziilor modificarile hematologice care reprezinta o urgenta sunt:",
+      "options": [
+        "infectiile si granulocitopenia",
+        "sindromul de hipercuagulabilitate",
+        "trombembolismul",
+        "toate cele de mai sus"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Aspirina in doze mici are un efect:",
+      "options": [
+        "stimuleaza sinteza de prostaciclina",
+        "interfereaza cu receptorul glicoproteic II b - III a",
+        "activeaza antitrombina III",
+        "inhiba sinteza de prostaciclina"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "In cazul hemoragiilor masive datorate tratamentului cu heparina se poate administra protamina in doza de:",
+      "options": [
+        "1 mg la 100 unitati de heparina",
+        "1 mg la 500 unitati de heparina",
+        "2 mg la 100 unitati de heparina",
+        "3 mg la 100 unitati de heparina"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Criteriile de tromboliza in urgenta pentru IMA sunt cu exceptia:",
+      "options": [
+        "absenta contraindicatiilor",
+        "EKG cu supradenivelare a segmentului ST in doua sau mai multe derivatii concordante",
+        "prezentarea la mai putin de 12 h de la debutul simptomatologiei",
+        "debut in urma cu 16 h"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    }
+  ]
+}

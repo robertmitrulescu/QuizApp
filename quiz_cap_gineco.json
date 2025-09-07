@@ -1,0 +1,135 @@
+{
+  "chapter": "GINECOLOGIE SI OBSTETRICA",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Diagnosticul diferential al sarcinii extrauterine se face cu :",
+      "options": [
+        "sarcina intrauterina",
+        "iminenta de avort",
+        "sarcina molara",
+        "toate de mai sus"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "In preeclampsie apare:",
+      "options": [
+        "hipertensiune tranzitorie",
+        "crize eclamptice",
+        "proteinurie",
+        "leucopenie"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Placenta praevia reprezinta implantarea placentei:",
+      "options": [
+        "pe fundul uterin",
+        "pe peretele anterior uterin",
+        "pe peretele posterior uterin",
+        "in dreptul orificiului cervical"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Tocoliza se practica la femeile cu travaliu prematur in saptamanile:",
+      "options": [
+        "24 - 34 sau 36",
+        "16 - 24",
+        "28 - 38",
+        "16 - 38"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "In placenta praevia tuseul vaginal se face:",
+      "options": [
+        "de rutina",
+        "obligatoriu",
+        "de evitat",
+        "doar inainte de 24 saptamani de sarcina"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Travaliul prematur este definit ca travaliul inainte de saptamana:",
+      "options": [
+        "37",
+        "34",
+        "36",
+        "32"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Scorul APGAR maxim poate fi:",
+      "options": [
+        "12",
+        "10",
+        "15",
+        "20"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "ph-ul vaginal normal variaza intre:",
+      "options": [
+        "3,5 – 4",
+        "4 – 4,5",
+        "4,5 – 5,5",
+        "6 – 6,5"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Cauza de sangerare in primul trimestru de sarcina, nu este:",
+      "options": [
+        "avortul",
+        "sarcina ectopica",
+        "hiperemeza gravidica de prim trimestru",
+        "boala trofoblastica gestationala"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Sindromul HELLP nu se caracterizeaza prin:",
+      "options": [
+        "este mai frecvent intalnit la primipare",
+        "trombocitopenie",
+        "hemoliza",
+        "TA este variabila si poate sa nu fie crescuta initial"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    }
+  ]
+}

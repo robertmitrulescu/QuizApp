@@ -1,0 +1,145 @@
+{
+  "chapter": "subiecte_managementul_general_al_pacientilor_intoxicati",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Contraindicatiile provocarii emezei in intoxicatiile acute sunt:",
+      "options": [
+        "ingestie de substanta caustica",
+        "intoxicatii acute cu alterarea statusului mental",
+        "ingestie de substanta cu toxicitate pulmonara superioara toxicitatii gastrointestinale (hidrocarburi)",
+        "ingestie de substante ce pot provoca crize convulsive",
+        "toate cele enumerate"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Complicatiile montarii sondei nazo/orogastrice sunt urmatoarele mai putin una:",
+      "options": [
+        "provocarea de varsatura",
+        "malpozitia tubului in trahee",
+        "perforatia esofagiana sau gastrica",
+        "scaderea saturatiei in oxigen in timpul procedurii",
+        "imposibilitatea extragerii sondei odata introduse (formarea nodurilor)"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Toxidromul opiaceu se caracterizeaza prin urmatoarele mai putin una:",
+      "options": [
+        "depresie SNC",
+        "midriaza",
+        "hipotermie",
+        "bradicardie",
+        "depresie respiratorie chiar si stop respirator"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Toxidromul colinergic se caracterizeaza prin:",
+      "options": [
+        "salivatie, lacrimare, diaforeza, bronhoree",
+        "urinare spontana, defecatie",
+        "fasciculatii musculare",
+        "greata, varsaturi",
+        "toate enumarate mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Prima doza de carbune activat este de:",
+      "options": [
+        "1mg/kgc",
+        "1 gr/kgc",
+        "10mg/kgc",
+        "100mg/kgc",
+        "10gr/kgc"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Metodele de crestere a eliminarii toxicului sunt urmatoarele mai putin una:",
+      "options": [
+        "alcalinizarea urinii",
+        "acidifierea urinii",
+        "diureza fortata",
+        "irigarea intestinala completa",
+        "hemodializa, hemoperfuzia"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Doza initiala de bicarbonat de sodiu folosit la alcalinizarea urinara este de :",
+      "options": [
+        "0,5-1 mEq/kgc",
+        "2-3 mEq/kgc",
+        "1-2 mEq/kgc",
+        "0,1-1 mEq/kgc",
+        "10 mEq/kgc"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Contraindicatiile alcalinizarii urinii sunt, mai putin una:",
+      "options": [
+        "administratrea la pacienti care nu tolereaza incarcarea volemica sau de sodiu",
+        "pacientii hipokaliemici",
+        "pacientii cu insuficienta renala",
+        "coma profunda",
+        "pacientii cu intoxicatii ce nu reactioneaza la alcalinizare"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Toxidromul anticolinergic se caracterizeaza prin:",
+      "options": [
+        "status mental alterat",
+        "midriaza",
+        "tegumente si mucoase uscate",
+        "retentie urinara",
+        "toate semnele mentionate mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "In cazul pacientului intoxicat prioritatea numarul 1 este:",
+      "options": [
+        "administrarea antidotului",
+        "spalatura gastrica",
+        "administrarea de carbune activat",
+        "evaluarea si stabilizarea functiilor vitale (ABC)",
+        "intubatia pacientului"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    }
+  ]
+}

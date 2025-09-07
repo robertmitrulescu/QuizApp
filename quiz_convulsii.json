@@ -1,0 +1,705 @@
+{
+  "chapter": "convulsii",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Absentele(crizele petit mal) nu sunt",
+      "options": [
+        "convulsii generalizate",
+        "insotite de pierderea constientei",
+        "precedate de simptomatologie postictala",
+        "de scurta durata",
+        "nici una din cele de mai sus"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Cauzele de convulsii secundare sunt urmatoarele",
+      "options": [
+        "TCC recent",
+        "infectii cerebrale",
+        "tulburari metabolice",
+        "intoxicatii",
+        "toate cele de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Diagnosticul diferential al convulsiilor se face cu urmatoarele,exceptand",
+      "options": [
+        "sincopa",
+        "distonia neurovegetativa",
+        "migrena",
+        "sindromul de hiperventilatie",
+        "nici una din cele de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Investigatiile necesare la un pacient aflat la primul episod de convulsii sunt",
+      "options": [
+        "dozarea glicemiei si electrolitilor",
+        "teste toxicologice",
+        "test de sarcina",
+        "EAB",
+        "toate cele de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Indicatiile de examen CT in urgenta la pacientul cu convulsii sunt urmatoarele,mai putin",
+      "options": [
+        "status mental alterat imediat postictal",
+        "TCC recent",
+        "primul episode de convulsii",
+        "pacient cu etilism cronic",
+        "pacient cu trat. Anticoagulant"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "In timpul convulsiilor nu se recomanda",
+      "options": [
+        "eliberarea cailor aeriene si monitorizarea functiilor vitale",
+        "montarea unei pipe si VM pe masca si balon",
+        "montarea unei linii venoase",
+        "administrarea M anticonvulsivante",
+        "nici una din cele enumerate"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Care dintre urmatoarele variante nu sunt adecvate ca tratament anticonvulsivant",
+      "options": [
+        "fenitoin 300-600 mg/zi in 3 prize",
+        "ac. valproic 15-60 mg/kgc/zi divizat in 2-3 prize",
+        "fenobarbital 60-200mg/zi",
+        "carbamazepina40-120 mg/zi in 3-4 prize",
+        "toate cele mentionate"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Statusul epileptic este definit prin urmatoarele, cu exceptia",
+      "options": [
+        "convulsii generalizate timp de minim 30 min",
+        "doua sau mai multe episoade convulsive intre care starea de constienta nu se recupereaza complet",
+        "convulsii partiale cu durata de minim 45min",
+        "toate cele de mai sus",
+        "nici una din cele de mai sus"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Managementul statusului epileptic nu include",
+      "options": [
+        "eliberarea cailor aeriene, montare PEV, monitorizare functii vitale",
+        "determinarea glicemiei",
+        "IOT fara relaxare pentru a putea monitorizaevolutia convulsiilor",
+        "administrare oxygen",
+        "administrare barbiturice,fenitoin sau benzodiazepine"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Fenitoina ca terapie anticonvulsivanta",
+      "options": [
+        "se administreza in PEVcu glucoza deoarece convulsiile se pot datora hipoglicemiei",
+        "nu este compatibila cu glucoza",
+        "se administreaza in ritm rapid si are avantajul ca nu necesita monitorizare cardiaca",
+        "se poate administra I.M",
+        "toate cele de mai sus"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "prompt": "Urmatoarele tipuri de convulsii sunt convulsii generalizate, cu exceptia",
+      "options": [
+        "Convulsiile tonico-clonice",
+        "Convulsiile psihomotorii",
+        "Absentele",
+        "Convulsiile tonice",
+        "Convulsiile atone"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "prompt": "Urmatoarea afirmatie despre convulsiile generalizate este falsa",
+      "options": [
+        "Sunt produse de activarea aproape simultana a intregului cortex cerebral",
+        "Atacurile incep cu o pierdere brusca a starii de constienta",
+        "Pierderea de constienta poate fi singura manifestare clinica",
+        "Convulsiile tonico-clonice (grand mal) sunt cele mai frecvente",
+        "Descarcarile electrice incep intr-o regiune localizata a cortexului cerebral de unde disemineaza si cuprind tot cortexul"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "prompt": "Urmatoarea afirmatie despre Absente (petit mal) este adevarata",
+      "options": [
+        "Au durata foarte lunga",
+        "In timpul atacului pacientii isi pierd tonusul postural",
+        "Pacientii isi pierd brusc cunostinta",
+        "Starea de constienta mentala nu este afectata",
+        "Postictal apare confuzia si fatigabilitatea care dureaza cateva ore"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "prompt": "Urmatoarea afirmatie despre convulsiile partiale este falsa",
+      "options": [
+        "Se datoreaza unor descarcari electrice care incep intr-o regiune localizata a cortexului cerebral",
+        "In convulsiile partiale simple pacientul devine brusc rigid, trunchiul si extremitaile sunt extinse si pacientul cade",
+        "In convulsiile partiale simple focalizate starea de constienta mentala nu este afectata",
+        "In convulsiile partiale complexe constienta si/sau starea mentala sunt afectate",
+        "Convulsiile partiale complexe au frecvent simptome bizare fiind adesea diagnosticate ca afectiuni psihiatrice"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "prompt": "Factorii care pot precipita activitatea epileptica la un epileptic cunoscut sunt urmatorii cu exceptia",
+      "options": [
+        "Infectia",
+        "Sevrajul alcoolic",
+        "Tratamentul corect administrat",
+        "Privarea de somn",
+        "Tulburarile electrolitice"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "prompt": "Urmatoarea afirmatie despre paralizia Todd este adevarata",
+      "options": [
+        "Apare prin dislocarea posterioara a umarului consecutiva unei crize epileptice",
+        "Este un deficit motor aparut post criza convulsiva generalizata care se remite in prima ora",
+        "Apare in urma unei crize partiale complexe si are prognostic nefavorabil",
+        "Este un deficit focal tranzitoriu (de obicei unilateral) care urmeaza unei convulsii simple sau complexe",
+        "Toate de mai sus"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "prompt": "Efectuarea de urgenta a investigatiilor neuroimagistice dupa o convulsie este recomandata (ACEP) in urmatoarele situatii cu execeptia",
+      "options": [
+        "Convulsii in contex febril",
+        "Traumatism cranian recent",
+        "Modificari ale pattern-ului convulsiilor",
+        "Alcoolism",
+        "Primul episod convulsiv"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "prompt": "Urmatoarea afirmatie despre tratamentul managementul pacientilor cu convulsii active este falsa",
+      "options": [
+        "Asigurarea permeabilitatii cailor aeriene odata ce atacul scade in intensitate",
+        "Interventiile initiale ar trebui sa includa montarea unei linii intravenoase, pulsoximetrie, determinarea rapida a glicemiei si monitorizarea cardiaca, daca este justificata",
+        "Imobilizare blanda dar ferma pentru a preveni caderea",
+        "Se asigura protectia pacientului impotriva leziunilor",
+        "Administrarea de medicatie anticonvulsivanta imediat"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "prompt": "Urmatoarea afirmatie despre statusul epilepticus este falsa",
+      "options": [
+        "Este definit ca activitate convulsiva continua timp de 5 min. sau mai mult (Lowestein) sau doua sau mai multe convulsii care apar fara o recuperare completa a starii de constienta",
+        "Apare numai in convulsiile generalizate",
+        "Tratamentul trebuie initiat la toti pacientii cu acitivitate convulsiva continua care are o durata mai mare de 10 min.",
+        "Cu cat mai mult dureaza convulsiile cu atat este mai probabil sa apara leziunile permanente ale SNC",
+        "Scopul tratamentului este controlul convulsiilor in maxim 30 minute de la prezentare"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "prompt": "Urmatoarea afirmatie despre medicamentele anticonvulsivante este falsa",
+      "options": [
+        "Medicamentele cel mai des folosite sunt benzodiazepinele, fenitoina sau fosfenitoina si fenobarbialul",
+        "Lorazepamul (4-8mg) i.v. si diazepamul (10-20 mg) i.v. au eficacitate egala in controlul statusului epileptic",
+        "Diazepamul intravenos este considerat agentul de electie avand o durata de actiune mai mare ca lorazepamul intravenos",
+        "Fenitoina este contraindicata la pacientii cu bloc atrioventricular de gradul II sau II",
+        "Doza de incarcare cu fenitoina este de 18-20 mg/kg i.v."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 21,
+      "type": "single",
+      "prompt": "La pacientii care se prezintă cu un atac comparabil cu convulsiile anterioare documentate, anamneza trebuie direcţionată spre factorii precipitanţi, printre care se regăsesc, cu excepţia",
+      "options": [
+        "Doze gresite de antiepileptice.",
+        "Modificare recentă  a medicaţiei.",
+        "Schimbarea unui medicament comercial cu o formulă generică.",
+        "Privarea de somn.",
+        "Sevrajul de opioide."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 22,
+      "type": "single",
+      "prompt": "In cazul unui pacient aflat în UPU, se va indica o examinare CT de urgenţă  în cazurile",
+      "options": [
+        "Prima convulsie.",
+        "Traumatism cranian recent.",
+        "Status mental alterat persistent.",
+        "Pattern modificat al convulsiei.",
+        "Toate de mai sus."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 23,
+      "type": "single",
+      "prompt": "Pentru un pacient aflat într-o convulsie trebuie efectuate următoarele, cu excepţia",
+      "options": [
+        "Administrarea de urgenţă a unui medicament anticonvulsivant în cursul evoluţiei unei convulsii necomplicate.",
+        "Imobilizare blandă dar fermă pentru a preveni căderea.",
+        "Asezarea în poziţie laterală de siguranţă pentru a reduce riscul de aspiraţie.",
+        "Odată ce atacul scade în intensitate trebuie asigurată permeabilitatea căilor aeriene.",
+        "Aspirarea de urgenţă a căilor aeriene."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 24,
+      "type": "single",
+      "prompt": "Asistaţi la a doua convulsie a unui pacient fără o recuperare completă a stării de constienţă între cele două, motiv pentru care atitudinea dumneavoastra trebuie să fie CU EXCEPTIA",
+      "options": [
+        "Stabilirea libertăţii căilor aeriene.",
+        "Acces venos, oxigen, monitorizare.",
+        "Glucoza şi tiamina dacă este necesar.",
+        "Lorazepam 20 mg/min  iv.",
+        "Diazepam 5mg iv la fiecare 5 min. până la maxim 20mg"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 25,
+      "type": "single",
+      "prompt": "Doza de fenitoina ce se administrează în statusul epileptic este",
+      "options": [
+        "20 mg/kg iv cu o rata de 50 mg/min.",
+        "30 mg/kg iv cu o rata de 50 mg/min.",
+        "2 mg/kg iv cu o rata de 5 mg/min.",
+        "3 mg/kg iv cu o rata de 5 mg/min.",
+        "0,3 mg/kg iv cu o rata de 0,5mg/min."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 26,
+      "type": "single",
+      "prompt": "Agentul de elecţie în statusul epileptic este",
+      "options": [
+        "Diazepamul.",
+        "Fenitoinul.",
+        "Fosfenitoinul.",
+        "Lorazepamul.",
+        "Fenobarbitalul."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 27,
+      "type": "single",
+      "prompt": "La care din urmatoarele boli sau patologii asociate statusului epileptic nu se administrează fenitoinul",
+      "options": [
+        "Vârstnici.",
+        "Alcoolism",
+        "Afecţiuni renale.",
+        "Afecţiuni hepatice.",
+        "Bloc atrioventricular grad înalt."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 28,
+      "type": "single",
+      "prompt": "Internarea în spital a unui pacient cu convulsii nou apărute trebuie să se facă neaparat în situaţiile",
+      "options": [
+        "Hipoxie.",
+        "Hipoglicemie.",
+        "Hiponatriemie.",
+        "Hipocalcemie.",
+        "Aritmie."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 29,
+      "type": "single",
+      "prompt": "Cand o femeie cu sarcina mai mare de 20 de saptamani  dezvolta convulsii in contextul hipertensiunii, edemelor si a proteinuriei afectiunea se numeste  eclampsie. Semnele si simptomele neasociate acestei cuprind",
+      "options": [
+        "Cefalee",
+        "Vedere incetosata",
+        "Durere epigastrica",
+        "Confuzie",
+        "Hiporeflexie"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 30,
+      "type": "single",
+      "prompt": "Investigatiile radiologice care sunt necesare in departamentul de urgenta pentru o convulsie fara modificarea pattern ului pot fi",
+      "options": [
+        "CT",
+        "Radiografie pulmonara",
+        "Radiografie de coloana cervicala in caz de traumatism cranian sau cervical",
+        "RMN",
+        "Nu este necesara o investigatie radiologica in acest caz"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 31,
+      "type": "single",
+      "prompt": "Convulsii generalizate sunt urmatoarele, cu exceptia",
+      "options": [
+        "tonice",
+        "clonice",
+        "tonico-clonice",
+        "partiale complexe cu generalizare secundara",
+        "mioclonice"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 32,
+      "type": "single",
+      "prompt": "Convulsii generalizate numite secundare apar in numeroase patologii, cu exceptia",
+      "options": [
+        "menigita",
+        "hipo, hiper natrenie",
+        "TCC",
+        "hemoagie intracraniana",
+        "hiperpotasemie"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 33,
+      "type": "single",
+      "prompt": "In diagnosticul diferential al convulsiilor nu intra",
+      "options": [
+        "sincopa",
+        "pseudoconvulsiile",
+        "migrene",
+        "tremorul",
+        "etilismul acut"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 34,
+      "type": "single",
+      "prompt": "Regimul antiepileptic initial ideal care controleaza convulsiile cu minim de toxicitate nu consta in administrarea de",
+      "options": [
+        "fenitoin",
+        "carbamazepina",
+        "diazepam",
+        "fenoberbital",
+        "acid valproic"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 35,
+      "type": "single",
+      "prompt": "Ghidurile ACEP pentru obtinerea unui consult neurologic nu indica",
+      "options": [
+        "convulsii nou aparute",
+        "sevraj etanolic",
+        "semne de focar la examenul neurologic",
+        "status mental alterat persistent",
+        "modificari marcate ale pattern-ului convulsiilor"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 36,
+      "type": "single",
+      "prompt": "Eclampsia este definita de asocierea",
+      "options": [
+        "sarcina > 20 saptamani, convulsii, HTA, proteinurie, edeme",
+        "sarcina, HAS, HTA, edeme",
+        "sarcina, HTA, edeme, proteinurie",
+        "sarcina I trimestru, convulsii, proteinurie",
+        "sarcina < 20 saptamani, HTA, proteinurie"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 37,
+      "type": "single",
+      "prompt": "Pacientii alcoolici care au un prim episod de convulsii nu trebuie evaluate ca",
+      "options": [
+        "orice alt pacient cu o prima convulsie",
+        "pacient cu patologie toxic-metabolica",
+        "pacient cu hemoragie intracraniana",
+        "pacient cu sevraj etanolic",
+        "pacient psihiatric"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 38,
+      "type": "single",
+      "prompt": "Tratamentul in status epilepticus consta in",
+      "options": [
+        "linie iv, glicemie, diazepam iv",
+        "evaluare nivel constienta, cale aeriana, O2, linie iv, monitorizare, teste sanguine, anticonvulsivant",
+        "anticonvulsivant, O2, glicemie",
+        "O2, linie iv, diazepam",
+        "concult neurologic, O2, diazepam"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 39,
+      "type": "single",
+      "prompt": "Ordinea in care se administreaza medicamente anticonvulsivante in status epilepticus este",
+      "options": [
+        "Diazepam sau Lorazepam, Fenitoina, Fenobarbital",
+        "Fenobarbital, Fenitoina",
+        "Diazepam, Fenobarbital",
+        "Lorazepam, Fenitoina, Fosfenitoina",
+        "Thiopental, Fenitoina, Fenobarbital"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 40,
+      "type": "single",
+      "prompt": "Status epilepticus poate consta in",
+      "options": [
+        "miscari tonico-clonice continue",
+        "convulsii partiale repetate la cateva ore sau zile",
+        "status mental alterat",
+        "hemipareza, hemiplegie",
+        "confuzia, amnezia repetate cu perioade libere intre ele"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 41,
+      "type": "single",
+      "prompt": "Convulsiile generate de consumul de etanol apar",
+      "options": [
+        "a. la 6-48 de ore de la oprirea consumlui de etanol",
+        "b. la 6-48 de ore de la ingestia de etanol",
+        "c. la 6 ore de la inceperea consumlui de etanol",
+        "d. la 2 ore de la oprirea cumsumuli de etanol",
+        "e. nu s-au raportat convulsii aparute in legatura cu consumul de etanol."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 42,
+      "type": "single",
+      "prompt": "Ce doza de diazepam se administreaza in status epileptic",
+      "options": [
+        "a. 2mg iv la fiecare 3 minute",
+        "b. 5mg iv la fiecare 5 minute, pana la doza maxima de 20mg",
+        "c. 5mg iv la fiecare 3 minute",
+        "d. 2 mg iv la fiecare 5 minute pana la doza maxima de 20mg",
+        "e. 3 mg iv la fiecare 5 minute pana la doza maxima de 20mg."
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 43,
+      "type": "single",
+      "prompt": "Ce doza de fenitoina se administreaza in status epileptic",
+      "options": [
+        "a. 2mg/kg iv bolus rapid",
+        "b. 2 mg/kg iv cu o rata de 5 mg/min",
+        "c. 5 mg/kg iv bolus rapid",
+        "d. 20 mg/kg iv cu o rata de 50 mg/min",
+        "e. nici una din variantele de mai sus"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 44,
+      "type": "single",
+      "prompt": "Care este primul pas in abordarea pacientului in status epileptic?",
+      "options": [
+        "a. administrarea unei prime doze de diazepam",
+        "b. monitorizarea pacientului",
+        "c. se stabileste/mentine libertatea cailor aeriene",
+        "d. se administreaza fenitoina 20mk/kg iv",
+        "e. se monteaza o linie venoasa"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 45,
+      "type": "single",
+      "prompt": "Care este varianta gresita referitoare la medicamentele antiepileptice administrate in timpul sarcinii?",
+      "options": [
+        "a. au fost asociate cu defecte de tub neural",
+        "b. au fost asociate cu dismorfisme faciale ale fatului",
+        "c. nu au efecte asupra fatului",
+        "d. au fost asociate cu malformatii cardiace",
+        "e. au fost asociate cu defecte ale degetelor."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 46,
+      "type": "single",
+      "prompt": "Alegeti varianta gresita",
+      "options": [
+        "a. regimul antiepileptic initial consta in monoterapia care controleaza convulsiile cu minim de toxicitate",
+        "b. regimul antiepileptic initial consta in asocierea de fenitoina si carbamazepina in doze minime",
+        "c. pentru convulsiile generalizate sau partiale, se pot alege fenitoina sau carbamazepina",
+        "d. fenitoina si carbamazepina sunt la fel de eficiente si au efecte adverse similare",
+        "e. se pot utiliza si acidul valproic, fenobarbitalul sau primidona"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 47,
+      "type": "single",
+      "prompt": "Alegeti varianta gresita",
+      "options": [
+        "a. convulsiile sunt o manifestare frecventa a afectarii SNC la pacientii cu HIV",
+        "b. etiologia convulsiilor la pacientii cu HIV difera oarecum de cea a pacientilor imunocompetenti",
+        "c. cel mai frecvent intalnite sunt leziunile cu efect de masa, meningita si encefalopatia HIV",
+        "d. cea mai frecventa cauza a convulsiilor la pacientii cu HIV este neurocisticercoza",
+        "e. tratamentul recomandat in cazul primei convulsii la un pacientu cu HIV este cu fenitoina sau fenobarbitalul."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 48,
+      "type": "single",
+      "prompt": "Alegeti varianta gresita",
+      "options": [
+        "a. exista notiunea de status epilepticus neconvulsivant",
+        "b. orice tip de convulsii poate aparea continuu sau in succesiune, indeplinind criteriile pentru status epileptic",
+        "c. status epilepticus este definit in prezent ca activitate convulsiva continua timp de 30 de minute",
+        "d. recent s-a recomandat reconsiderarea duratei de status epilepticus la 5 minute sau mai mult de activitate convulsiva",
+        "e. nu se cunoaste cu exactitate cat de mult poate dura o convulsie pana sa apara sechele neurologice"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 49,
+      "type": "single",
+      "prompt": "Alegeti varianta gresita",
+      "options": [
+        "a. epilepsia partiala continua are la baza convulsii partiale repetate, fara pierderea starii de constienta",
+        "b. in epilepsia partiala continua, de multe ori este pastrata abilitatea pacientului de a efectua comenzi simple",
+        "c. scopul tratamentului in status epilepticus este controlul convulsiilor in maxim 30 de minute",
+        "d. pe linia venoasa pe care se administreaza fenitoina trebuie administrata si glucoza pentru a grabi vehicularea fenitoinei",
+        "e. intubatia endotraheala este recomandata cand este stabilit diagnosticul de status epilepticus"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 50,
+      "type": "single",
+      "prompt": "Alegeti varianta gresita",
+      "options": [
+        "a. lorazepamul este considerat agentul de electie",
+        "b. cele mai utilizate medicamente in tratamentul statusului epileptic sunt benzodiazepinele, fenitoina sau fosfenitoina si fenobarbitalul",
+        "c. benzodiazepinele sunt folosite la pacientii cu convulsii continue sau foarte frecvente",
+        "d. lorazepamul 4-8mg iv si diazepamul 10-20 mg iv au eficacitate egala in controlul statusului epileptic",
+        "e. diazepamul actioneaza mai rapid ca lorazepamul."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    }
+  ]
+}

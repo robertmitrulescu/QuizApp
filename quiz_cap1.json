@@ -1,0 +1,265 @@
+{
+  "chapter": "CAP.1 – Asistenta medicala in prespital",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Care din urmatoarele medicamente s-au dovedit sigure si eficiente in criza de astm bronsic pentru utilizarea in prespital,in ambulante:",
+      "options": [
+        "miofilinul si glucocorticoizii.",
+        "β-2 antagonistii si aminofilina.",
+        "adrenalina.",
+        "β-2 agonistii si ipratropriul"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Folosirea dispozitivelor ce pot realiza o presiune pozitiva constanta in caile aeriene (CPAP) din dotarea ambulantelor este utila in :",
+      "options": [
+        "pneumotorax posttraumatic.",
+        "pacienti comatosi cu detresa respiratorie.",
+        "acutizari ale BPOC.",
+        "acidoza metabolica severa."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Cele mai frecvente urgente pediatrice in prespital sunt:",
+      "options": [
+        "traumatismele.",
+        "sindroamele diareice.",
+        "stopurile cardiorespiratorii.",
+        "sindroamele de deshidratare."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Principala cale de acces la sistemul medical de urgenta este:",
+      "options": [
+        "prezentarea la cel mai apropiat departament de urgenta",
+        "apelul de urgenta( la 112).",
+        "apelul la medicul de familie.",
+        "apelul la cea mai apropiata unitate sanitara."
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Cel mai important factor al supravietuirii in cazul stopului cardiac este:",
+      "options": [
+        "masajul cardiac extern.",
+        "ventilatia cu balon si masca.",
+        "defibrilarea precoce.",
+        "intubatia orotraheala"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Care din urmatoarele afirmatii referitoare la defibrilatoarele automate externe nu sunt adevarate:",
+      "options": [
+        "analizeaza ritmul cardiac al pacientului si apreciaza daca se indeplinesc criteriile de defibrilare.",
+        "pot descarca socuri electrice in caz de tahiaritmii prost tolerate hemodinamic(flutter atrial,TPSV).",
+        "incarca dispozitivul electric si descarca un soc electric atunci cand operatorul apasa butonul corespunzator.",
+        "descarca socuri electrice doar in caz de fibrilatie ventriculara,tahicardie ventriculara cu AV>180 batai/minut."
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "In cazul unui pacient traumatizat care poarta casca de protectie(jucator de fotbal american,motociclist), pentru a scoate casca este nevoie de cel putin:",
+      "options": [
+        "2 persoane.",
+        "3 persoane.",
+        "4 persoane",
+        "6 persoane."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "In care din urmatoarele cazuri transportul aerian(avion,elicopter) este contraindicat:",
+      "options": [
+        "soc traumatic.",
+        "sindrom de decompresiune.",
+        "pneumotorax.",
+        "embolie amniotica."
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Este adus de parinti in departamentul de urgenta un nou-nascut in varsta de 3 saptamani cu G=2750 grame in stare critica: cianotic.bradipneic,bradicardic(AV=48b/min),febril(tº=39,8ºC).Decideti ca trebuie intubat imediat.Ce anume folositi?",
+      "options": [
+        "laringoscop cu lama dreapta nr.1 ,sonda IOT nr.4.",
+        "laringoscop cu lama dreapta nr.o ,sonda IOT nr.3.",
+        "laringoscop cu lama dreapta nr.o ,sonda IOT nr.4,5.",
+        "laringoscop cu lama curba nr.o ,sonda IOT nr.5."
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Care este cel mai frecvent dezechilibru metabolic intalnit la nou-nascut?",
+      "options": [
+        "hipocalcemia.",
+        "hiponatremia.",
+        "hipoglicemia.",
+        "hipomagnezemia."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "prompt": "Prin care din urmatoarele mecanisme organismul isi conserva temperatura:",
+      "options": [
+        "reducerea circulatiei la nivelul pielii si directionarea spre organe interne.",
+        "cresterea tonusului musculaturii netede cu aparitia frisonului.",
+        "scaderea ratei metabolismului bazal.",
+        "reducerea fluxului circulator la nivel splahnic."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "prompt": "Care din urmatoarele afirmatii referitoare la prematurii cu sindrom de detresa respiratorie este falsa?",
+      "options": [
+        "prezinta tiraj costal ce se agraveaza progresiv.",
+        "aspectul radiologic caracteristic este de opacitati ”suflate” in parenchimul pulmonar si bronhograma aerica sugestiva.",
+        "aspectul radiologic caracteristic este de opacitati  reticulare si reticulonodulare de tip m, n, p cu tendinta la confluare.",
+        "prezinta tahipnee si necesita administrare de oxigen pe masca."
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "prompt": "adunare publica este definite ca o intrunire voluntara si temporara intr-un loc si intr-un scop comun a mai mult de :",
+      "options": [
+        "100 de persoane.",
+        "500 de persoane.",
+        "1.000 de persoane.",
+        "10.000 de persoane."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "prompt": "Incidenta stopurilor cardiace in adunarile publice este :",
+      "options": [
+        "mai mare decat la populatia generala.",
+        "mai mica decat la populatia generala",
+        "aproximativ egala cu populatia generala",
+        "nu exista studii comparative."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "prompt": "In cazul asistentei medicale in adunarile publice ,rata de succes in stopurile cardiace este:",
+      "options": [
+        "mai mica decat in populatia generala.",
+        "net superioara celor mai avansate sisteme de asistenta de pe ambulante.",
+        "inferioara celor mai avansate sisteme de asistenta de pe ambulante.",
+        "sub 20% rata de supravietuire la externarea din spital."
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "prompt": "In mod optim asistenta BLS si ALS in adunarile publice trebuie sa fie disponibile la distanta de cel mult :",
+      "options": [
+        "1 minut.",
+        "3 minute.",
+        "5 minute.",
+        "7-8 minute."
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "prompt": "In care din urmatoarele cazuri nou-nascutul prematur, in general, nu se resuscita :",
+      "options": [
+        "G<600 grame,varsta gestationala sub 25 saptamani,tegumente translucide,ochi lipiti.",
+        "G<500 grame,varsta gestationala sub 24saptamani,tegumente cianotice,ochi lipiti.",
+        "G<400 grame,varsta gestationala sub 23 saptamani,tegumente translucide,ochi lipiti.",
+        "G<450 grame,varsta gestationala sub 26 saptamani,tegumente cianotice,ochi lipiti."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "prompt": "Cea mai rapida cale de acces vascular la nou-nascut este :",
+      "options": [
+        "abordul intraosos.",
+        "abordul venos periferic.",
+        "abordul venos central.",
+        "introducerea temporara a unui cateter in  vena ombilicala."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "prompt": "Care din urmatoarele dispozitive de imobilizare este de electie in cazul in care extractia unui pacient politraumatizat si incarcerat intr-un vehicul se face prin portiunea superioara:",
+      "options": [
+        "targa lopata.",
+        "dispozitivul de extractie Kendrick.",
+        "targa spinala scurta.",
+        "salteaua vacuum."
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "prompt": "In cazul nou-nascutilor prematuri cu risc de hipoglicemie determinarea glicemiei trebuie repetata la intervale de cel putin:",
+      "options": [
+        "2 ore.",
+        "4 ore.",
+        "6 ore.",
+        "12 ore"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    }
+  ]
+}

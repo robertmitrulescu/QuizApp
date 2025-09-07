@@ -1,0 +1,145 @@
+{
+  "chapter": "Coma si statusul mental alterat",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Cauzele generale ale delirului sunt urmatoarele, cu o exceptie",
+      "options": [
+        "afectiune primara intracraniana",
+        "boli sistemice ce afecteaza secundar sistemul nervos central",
+        "toxine exogene",
+        "sevrajul medicamentos",
+        "criza tireotoxica"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "In statusul de confuzie acuta este mai putin probabil:",
+      "options": [
+        "sa apara o distorsionare de diferite grade a atentiei, perceptiei, gandirii, memoriei",
+        "pacientul sa prezinte dificultatea mantinerii atentiei si concentrarii",
+        "sa apara somnolenta crescuta in timpul noptii cu perioade de agitatie in timpul zilei",
+        "sa apare tahicardie, tremor, transpiratii, izbucniri emotionale",
+        "halucinatiile sunt mai ales vizuale"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Pentru confirmarea diagnosticului de delir:",
+      "options": [
+        "este de mica importanta istoricul pacientului",
+        "nu este de mentionat istoricul medicamentos al pacientului",
+        "nu sunt necesare teste auxiliare si de laborator",
+        "examenul CT cerebral nu ofera informatii utile",
+        "debutul deficitelor de atentie este acut, ca si al anomaliilor cognitive, cu severitate fluctuanta pe parcursul zilei si cu agravare in timpul noptii"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "In delir:",
+      "options": [
+        "debutul este brutal",
+        "simptomele sunt stabile pe parcursul zilei",
+        "starea de constienta este redusa",
+        "nu apar halucinatii",
+        "nu apar asterixul sau tremorul"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Mini-testul statusului mental nu evalueaza",
+      "options": [
+        "starea generala a pacientului, boli asociate",
+        "orientarea",
+        "atentia si calculul",
+        "limbajul",
+        "reamintirea"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "In cazul pacientilor cu dementa, acestia",
+      "options": [
+        "nu gresesc identitatea membrilor familiei",
+        "au un debut brusc al afectiunii",
+        "au simptome comportamentale care pot tulbura atmosfera casnica",
+        "nu prezinta tulburari de comportament",
+        "au pastrat abilitatile cognitive"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Cauze ale dementei pot fi urmatoarele, cu 1 exceptie:",
+      "options": [
+        "degenerative",
+        "vasculare",
+        "metabolice",
+        "reactii postanestezice",
+        "toxice"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Un debut brutal al comei poate aparea in urmatoarele cazuri, cu  o exceptie",
+      "options": [
+        "supradozajul de popiacee",
+        "hiperglicemia",
+        "accidentul vascular cerebral hemoragic",
+        "crizele convulsive",
+        "hipoglicemia"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Dintre cauzele posibile ale comei, nu se poate enumera",
+      "options": [
+        "hipertensiunea arteriala necomplicata",
+        "toxinele",
+        "diselectrolitemiile",
+        "infectiile SNC",
+        "hipo/hipertermia"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "In evaluarea unui pacient comatos in urgenta sunt importante urmatoarele investigatii, mai putin una:",
+      "options": [
+        "nivelul glicemiei",
+        "EEG",
+        "ionograma serica",
+        "examenul CT cerebral",
+        "evaluarea nervilor cranieni"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    }
+  ]
+}

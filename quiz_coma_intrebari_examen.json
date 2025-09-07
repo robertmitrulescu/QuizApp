@@ -1,0 +1,145 @@
+{
+  "chapter": "coma_intrebari_examen",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Pacientii care par ca dorm sunt cei :",
+      "options": [
+        "Cu stare confuzionala",
+        "Cu sindromul “locked-in”",
+        "In stare catatonica",
+        "Cu mutim akinetic",
+        "Comatosi"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Cauze ale alterarii statusului mental sunt urmatoarele, cu o exceptie:",
+      "options": [
+        "toxinele (alcoolul si drogurile ilicite)",
+        "intreruperea aportului de oxigen la creier pentru cel putin 10 secunde",
+        "scaderea marcata a glicemiei",
+        "leziuni focale la nivelul unui hemicortex",
+        "leziuni cu efect de masa supratentoriale"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "In cazul unei come de etiologie necunoscuta, se considera standard administrarea intravenoasa de:",
+      "options": [
+        "Glucoza, tiamina, naloxona",
+        "Manitol 20%",
+        "Furosemid",
+        "Repletie volemica 2000ml",
+        "Flumazenil"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Scala Glasgow este utila in come pentru:",
+      "options": [
+        "a stabili cu precizie nivelul leziunii",
+        "a evalua severitatea leziunii si a necesitatii unei interventii rapide",
+        "a evalua prognosticul postoperator",
+        "a diferentia afectiunile vasculare de cele metabolice",
+        "a stabili o relatie intre leziunea cerebrala si pattern-ul respirator"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Examinarea pupilelor in statusul mental alterat va arata",
+      "options": [
+        "midriaza unilaterala fixa areactiva ca semn sigur de leziune cu efect de masa intracraniana",
+        "modificari ale pupilelor in afectiunile metabolice",
+        "examinarea pupilelor va fi interpretata in contextul examenului general neurologic",
+        "modificari ale dimensiunilor si reactivitatii indiferent de tipul de leziune cerebrala",
+        "Nu este necesara examinarea pupilelor"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Dintre examenele paraclinice si de laborator in come:",
+      "options": [
+        "Electroencefalograma este utila in cazul pacientilor instabili",
+        "Este important de determinat glicemia",
+        "Hipo sau hipernatremia nu au efect asupra statusului mental",
+        "Screening-ul toxicologic este mai util de efectuat in leziunile focale",
+        "Determinarea gazelor sanguine se va face doar la pacientii cunoscuti cu bronsita cronica obstructiva"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "In examinarea generala a pacientului comatos sunt adevarate urmatoarele, cu  o exceptie",
+      "options": [
+        "monitorizarea cardiaca este utila pentru depistarea unor tulburari de ritm (bradicardii sau aritmii ventriculare)",
+        "trebuie cautate cu atentie eventualele urme de trauma",
+        "prezenta halenei etanolice poate fi utila in determinarea etiologiei comei",
+        "tahipneea este intotdeauna un semn de leziune de sistem nervos central",
+        "urmele de punctie intravenoasa recente pot sugera etiologie toxica a comei"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Dintre examenele paraclinice si de laborator in come:",
+      "options": [
+        "Punctia lombara este indicata in caz de leziune infectioasa non-focala a SNC",
+        "Punctia lombara nu are contraindicatii",
+        "Examenul CT cerebral detecteaza leziuni intracraniene dar nu si fracturi ale craniului",
+        "Nu sunt necesare radiografii de coloana cervicala",
+        "Examenul cel mai util  este RMN-ul"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Leziuni supratentoriale focale care pot fi cauza coma sunt urmatoarele cu  o exceptie",
+      "options": [
+        "hematoame subdurale",
+        "hematoame epidurale acute",
+        "hemoragia intraventriculara",
+        "accidentele vasculare cerebrale hemoragice",
+        "ocluzia de artera bazilara"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Un nivel scazut al glucozei la un pacient comatos poate semnifica una din urmatoarele afectiuni, cu o exceptie:",
+      "options": [
+        "diabet zaharat",
+        "tumora pancreatica",
+        "alcoolism cronic si boala hepatica",
+        "intoxicatie cu antidiabetice orale",
+        "hipertiroidie"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    }
+  ]
+}
