@@ -1,3 +1,11 @@
+//
+//  QuizSession.swift
+//  Quiz
+//
+//  Created by Robert Paul Mitrulescu on 17.08.2025.
+//
+
+
 import Foundation
 
 /// Gestionează starea unui test pentru UN singur capitol (Quiz).

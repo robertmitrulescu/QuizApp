@@ -1,3 +1,11 @@
+//
+//  QuizRepository.swift
+//  Quiz
+//
+//  Created by Robert Paul Mitrulescu on 17.08.2025.
+//
+
+
 import Foundation
 
 /// Încărcătorul tuturor fișierelor quiz_*.json din bundle.

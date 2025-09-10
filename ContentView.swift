@@ -1,3 +1,11 @@
+//
+//  ContentView.swift
+//  Quiz
+//
+//  Created by Robert Paul Mitrulescu on 17.08.2025.
+//
+
+
 import SwiftUI
 
 struct ContentView: View {

@@ -1,0 +1,565 @@
+{
+  "chapter": "Capitolul 3 Resuscitarea – Antiaritmice si vasoactive",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Următoarele afirmatii despre xilină sunt adevărate , cu exceptia :",
+      "options": [
+        "Poate produce efecte sedative , analgezice si anticonvulsivante",
+        "Deprimă activitatea sistemului nervos central",
+        "Este un medicament antiaritmic din clasa Ib",
+        "Pare să actioneze preferential asupra tesutului miocardic ischemic",
+        "Controlează aritmiile ventriculare prin legarea de canalele rapide de sodiu în faza activă"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Următoarele afirmatii despre xilină sunt adevărate , cu exceptia :",
+      "options": [
+        "Durata instalării efectului după administrarea i.v. este de 45 până la 90 de secunde",
+        "Este folosită în tratamentul aritmiilor si ectopiei ventriculare",
+        "Este un agent de linia a doua pentru tahicardia ventriculară stabilă hemodinamic",
+        "Doza nu trebuie redusă cu 50 % la pacientii cu insuficientă cardiacă congestivă sau boală hepatică si la cei cu vârste mai mari de 70 ani",
+        "O modificare bruscă a statusului mental reprezintă un indicator la toxicitătii xilinei"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Următoarele afirmatii despre amiodaronă (Cordarone ) sunt adevărate cu exceptia :",
+      "options": [
+        "Este contraindicată pacientilor cu alergie la iod",
+        "Este un medicament antiaritmic de clasă II",
+        "După administrarea i.v. efectele adverse sunt limitate tipic la hipotensiune si bradicardie",
+        "Cele mai frecvente reactii adverse care necesită întreruperea adminitrării medicamentului sunt infiltrate pulmonare sau fibroză, tahicardie ventriculară paroxistică , insuficientă cardiacă congestivă si cresterea concentratiilor serice ale enzimelor hepatice",
+        "Pentru fibrilatia ventriculară si tahicardia ventriculară fără puls doza de încărcare constă intr-un bolus i.v. de 300 mg"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Următoarele afirmatii despre amiodaronă (Cordarone )  nu sunt adevărate, cu exceptia :",
+      "options": [
+        "Este un medicament antiaritmic de clasă Ia",
+        "Efectul primar constă în întârzierea repolarizării prin prelungirea duratei potentialului de actiune si a perioadei refractare efective",
+        "Nu este coontraindicată la pacientii cu alergie la iod",
+        "După administrarea i.v. efectele adverse sunt limitate tipic la hipertensiune si tahicardie",
+        "Pentru fibrilatia ventriculară si tahicardia ventriculară fără puls doza de încărcare constă intr-un bolus i.v. de 150 mg"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Verapamilul, un antagonist non-dihidropiridinic al canalelor de calciu, este un agent antiaritmic de clasă IV, care :",
+      "options": [
+        "Încetineste conducerea nodală atrio-ventriculară mai putin decât o doză echivalentă de diltiazem",
+        "Poate fi folosit la pacientii cu traiect accesoriu de by-pass (de exemplu sindrom WPW)",
+        "Este la fel de eficient ca adenozina si diltiazemul în TPSV cu complexe înguste terminale si pentru controlarea răspunsului ventricular în cazul fibrilatiei/flutterului atrial",
+        "Nu poate fi folosit pentru managentul anginei vasospastice",
+        "Nu produce cefalee"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Adenozina este un nucleozid endogen produs prin degradarea adenozin-trifosfatului (ATP). Urmatoarea afirmatie despre adenozina este adevarata:",
+      "options": [
+        "Nu are efect asupra tahicardiilor supraventriculare reintrante ce nu implică nodulul atrio-ventricular",
+        "Are efect asupra conducerii anterograde prin căile accesorii la pacientii cu sindrom WPW",
+        "Nu produce dispnee, tuse, sincopă, vertij si parestezii",
+        "Se poate folosi fara precautii la astmatici",
+        "Se administrează in perfuzie continua timp de 10 minute"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Următoarele afirmatii despre digoxin sunt adevărate, cu exceptia:",
+      "options": [
+        "Are efect inotrop pozitiv",
+        "Are efect cronotrop negativ",
+        "Are efect dromotrop negativ",
+        "Reduce spitalizarea si nu mortalitatea",
+        "Este indicată pentru îmbunătătirea debitului cardiac si pentru controlul răspunsului ventricular în fibrilatia atrială, flutter atrial si TPSV"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Simptomele toxicitătii digoxinului include urmatoarele ,  cu exceptia:",
+      "options": [
+        "Confuzie",
+        "cefalee",
+        "delir",
+        "febră",
+        "slăbiciune"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Următoarele afirmatii despre dobutamină sunt adevărate , cu exceptia:",
+      "options": [
+        "Este indicată ca suport inotrop pozitiv pe termen scurt pentru tratamentul decompensării cardiovasculare",
+        "Se administrează doar ca perfuzie i.v. continuă",
+        "Efectele adverse mai putin comune includ cefalee, parestezii tremor, greată, angină si dispnee",
+        "Intervalul de dozare este de 2 până la 20 μg/kgc/min",
+        "Creste debitul cardiac, renal si fluxul sangvin mezenteric prin stimularea directă a frecventei cardiace"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Următoarele afirmatii despre dopamină sunt adevărate , cu exceptia:",
+      "options": [
+        "Intervalul de dozare este de 0,5 până la 20 μg/kgc/min",
+        "În doze mici dopamina cauzează vasodilatatie renală, mezenterică, coronariană si intracerebrală",
+        "În doze intermediare îmbunătăteste contractilitatea miocardică",
+        "Produce hipertensiune la doze mici",
+        "Nu trebuie perfuzată pe aceeasi linie i.v. cu substantele alcaline"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "prompt": "Lidocaina (Xylocaina), un medicament antiaritmic din clasa Ib, are urmatoarele proprietăţi, cu excepţia:",
+      "options": [
+        "Controlează aritmiile ventriculare prin legarea de canalele rapide de sodiu în fază inactivă, inhibând astfel recuperarea după repolarizare într-o manieră dependentă de timp şi voltaj.",
+        "Lidocaina suprimă automatismul sistemului His-Purkinje şi depolarizarea spontană a ventriculilor în timpul diastolei.",
+        "Lidocaina pare să acţioneze preferenţial asupra ţesutului miocardic ischemic, având efect redus sau nul asupra vitezei de conducere nodale atrioventriculare sau His-Purkinje în ţesutul cardiac normal.",
+        "Lidocaina are efecte anestezice locale care stabilizează membranele, ridică pragul declanşării fibrilaţiei ventriculare, şi suprimă ectopia ventriculară în ţesuturi în timpul ischemiei miocardice.",
+        "Nu deprimă activitatea sistemului nervos central (SNC) şi poate produce efecte sedative, analgezice şi anticonvulsivante."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "prompt": "Despre antiaritmicele din clasa I se pot spune urmatoarele, cu excepţia:",
+      "options": [
+        "Sunt blocante ale canalelor rapide de sodiu.",
+        "Se impart in trei subclase.",
+        "Chinidina şi Procainamida pot creste durata intervalului QT.",
+        "Procainamida nu se administreaza pacientilor cu miastenie gravis.",
+        "Procainamida nu poate fi folosită la convertirea tahicardiilor supraventriculare (TSV), inclusiv flutter şi fibrilaţie atrială, mai ales dacă se asociază cu sindrom Wolff-Parkinson-White (WPW) şi tahicardie supraventriculară paroxistică (TPSV)."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "prompt": "Propranololul este indicat pentru o mare varietate de aritmii supraventriculare, cu excepţia:",
+      "options": [
+        "Tahicardia atrială multifocală (TAMF), în particular acele aritmii induse de digoxin sau catecolamine.",
+        "Controlul frecvenţei flutterului sau fibrilaţiei atriale cu funcţia VS conservată.",
+        "Flutter sau fibrilatie asociate cu WPW.",
+        "Extrasistolele atriale persistente care nu răspund la terapia convenţională.",
+        "Tahiaritmia asociată cu tireotoxicoză."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "prompt": "Tratamentul cu propranololul este indicat în CU EXCEPTIA",
+      "options": [
+        "Aritmiile supraventriculare, dar poate fi folosit pentru tahicardii sau ectopii ventriculare datorate toxicităţii digoxinei sau catecolaminelor şi pentru tahicardie ventriculară polimorfă.",
+        "Managementul anginei, deoarece scade cererea de oxigen la nivel miocardic.",
+        "Managementul tuturor tipurilor cronice de hipertensiune, singur sau în combinaţie cu alţi agenţi antihipertensivi.",
+        "Urgenţele hipertensive.",
+        "Tratamentul cardiomiopatiei hipertrofice."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "prompt": "Despre amiodarona, antiaritmic din clasa III, sunt FALSE:",
+      "options": [
+        "Amiodarona orală pare să fie eficientă în managementul unei mari varietăţi de aritmii ventriculare.",
+        "Amiodarona a fost utilizată efficient pentru supresia şi prevenţia fibrilaţiei ventriculare recurente, tahicardiei supraventriculare, fibrilaţiei atriale, flutterului atrial, tahicardiilor joncţionale şi cu complexe largi.",
+        "A fost adăugată la modul ACLS (advanced cardiac life support) de tratare a pacienţilor cu TV/FV fără puls şi aritmii atriale cu scăderea semnificativă a fracţiei de ejecţie (de exemplu mai mica de 40%).",
+        "Pentru FV/TV fără puls doza de încărcare  constă într-un bolus IV de 300 mg care poate fi repetat cu un bolus de 300 mg.",
+        "Terapia IV pe termen scurt este asociată cu bradicardie şi hipotensiune."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "prompt": "Verapamilul (Isoptin), un antagonist non-dihidropiridinic al canalelor de calciu, este un agent antiaritmic din clasa IV şi are următoarele acţiuni CU EXCEPTIA:",
+      "options": [
+        "Inhibă influxul transmembranar al ionilor extracelulari de calciu prin membrana celulelor miocardice şi muşchiului neted vascular.",
+        "Are efect inhibitor substanţial asupra sistemului de conducere cardiac.",
+        "Încetineşte conducerea şi prelungeşte perioada refractară a noduluiAV",
+        "La pacienţii cu TPSV, efectele verapamilului asupra nodului AV duc la întreruperea căii reintrante şi restabilirea ritmului sinusal.",
+        "Verapamilul creste răspunsul ventricular la pacienţii cu fibrilaţie/flutter atrial."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "prompt": "Adenozina (Adenocard) este un nucleozid endogen produs prin degradarea adenozin-trifosfatului (ATP) şi are urmatoarele proprietăţi CU EXCEPTIA:",
+      "options": [
+        "Exercită efecte inotrope, cronotrope şi dromotrope negative tranzitorii asupra ţesuturilor nodale SA şi AV.",
+        "Adenozina produce un bloc nodal AV tranzitoriu, care întrerupe circuitul reintrant al tahiaritmiei atriale ce implică nodul AV.",
+        "Nu are nici un efect asupra conducerii anterograde prin căile accesorii la pacienţii cu sindrom WPW.",
+        "Adenozina este rapid metabolizata de către adenozin-dezaminaza circulantă astfel încât medicamentul are un timp de înjumătăţire foarte scurt (<10 sec).",
+        "Debutul acţiunii adenozinei este la 20 până la 30 de secunde şi din cauza aceasta nu trebuie administrat pe cateter central."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "prompt": "Aritmii secundare administrarii digoxinului  sunt:",
+      "options": [
+        "ESV multifocale.",
+        "TV.",
+        "Tahicardie joncţională.",
+        "Bloc AV de grad înalt.",
+        "Toate de mai sus."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "prompt": "Dobutamina este indicată ca suport inotrop pozitiv pe termen scurt pentru URMATOARELE CU EXCEPTIA:",
+      "options": [
+        "Tratamentul decompensării cardiovasculare secundar disfuncţiei ventriculare.",
+        "Insuficienţei cardiace cu debit scăzut.",
+        "Este de obicei agentul preferat în managementul şocului cardiogen.",
+        "Dobutamina creşte debitul cardiac, renal, fluxul sanguin mezenteric fără stimularea directă a frecvenţei cardiace.",
+        "Creste rezistenţa vasculară sistemică şi implicit debitul cardiac."
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "prompt": "Epinefrina este o catecolamină endogenă şi un agonist alfa şi beta adrenergic cu următoarele acţiuni CU EXCEPTIA",
+      "options": [
+        "Sinergică cu  histamina  este folosită în şocul anafilactic.",
+        "Bronhodilatator în astmul acut.",
+        "Stimulant miocardic în stopul cardiac.",
+        "Creşte frecvenţa cardiacă, contractilitatea ventriculară şi rezistenţa vasculară periferică.",
+        "Vasoconstricţia arteriolelor de la nivelul tegumentelor, mucoasei şi mezenterului prin redistribuirea sângelui către cord şi creier. Duce la îmbunătăţirea perfuziei cardiace şi cerebrale în timpul resuscitării."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 21,
+      "type": "single",
+      "prompt": "Lidocaina este eficienta in tratamentul:",
+      "options": [
+        "TV cu puls",
+        "aritmiei ESSV",
+        "FiA recent instalata",
+        "TSV cu complexe largi",
+        "TA blocate"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 22,
+      "type": "single",
+      "prompt": "Procainamida nu se administreaza in tratamentul :",
+      "options": [
+        "FiA, FlA",
+        "TV stabile",
+        "tahicardia cu complexe largi",
+        "TPSV",
+        "intoxicatia cu digoxin"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 23,
+      "type": "single",
+      "prompt": "Amiodarona nu are efect antiaritmic prin:",
+      "options": [
+        "prelungirea duratei potentialului de actiune",
+        "prelungirea perioadei refractare efective",
+        "inhibarea canalelor de calciu",
+        "inhibarea canalelor de sodiu",
+        "activitate β – adrenergica"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 24,
+      "type": "single",
+      "prompt": "Amiodarona nu este indicata in:",
+      "options": [
+        "TV fara puls / FV",
+        "FlA, FiA",
+        "tahicardie cu complexe largi",
+        "BAV grad II tip II",
+        "tahicardie jonctionala"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 25,
+      "type": "single",
+      "prompt": "Bradicardia sinusala, BAV, stopul cardiac pot apare prin asocierea Amiodaronei cu:",
+      "options": [
+        "beta-blocante",
+        "warfarina",
+        "teofilina",
+        "adrenalina",
+        "fenitoin"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 26,
+      "type": "single",
+      "prompt": "Verapamil sau Isoptin nu este indicat in tratamentul:",
+      "options": [
+        "TPSV cu complexe inguste",
+        "FiA, FlA",
+        "FiA, FlA cu sindrom WPW, LGL",
+        "anginei vasospastice",
+        "HTA esentiale"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 27,
+      "type": "single",
+      "prompt": "Adenozina este eficienta in conversia:",
+      "options": [
+        "FiA, FlA la RS",
+        "TSV ce nu implica nodul AV",
+        "TSV cu conducere prin fascicole accesorii",
+        "TSV cu circuit de reintrare",
+        "TSV cu complexe largi"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 28,
+      "type": "single",
+      "prompt": "Dobutamina in doze de pana la 20 μg / kg / min produce:",
+      "options": [
+        "cresterea FC",
+        "cresterea DC, scaderea RVP",
+        "cresterea RVP",
+        "scaderea FC, scaderea DC",
+        "aritmii"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 29,
+      "type": "single",
+      "prompt": "Dopamina la doze de 2,5-5 μg / kg / min are ca efecte:",
+      "options": [
+        "VC periferica",
+        "VD renala, coronariana, intracerebrala",
+        "cresterea DC",
+        "VC periferica, VD coronariana",
+        "VC mezenterica, renala"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "B"
+    },
+    {
+      "id": 30,
+      "type": "single",
+      "prompt": "Noradrenalina poate fi folosita in tratamentul socului:",
+      "options": [
+        "dupa inlocuirea volemica corespunzatoare",
+        "inaintea inlocuirii volemice",
+        "pentru a creste TA",
+        "cardiogen",
+        "spinal"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 31,
+      "type": "single",
+      "prompt": "Lidocaina – căutaţi afirmaţia falsă.",
+      "options": [
+        "Este un antiaritmic de clasa I b",
+        "Din cauza modului de legare de canalele de sodiu voltaj dependente, este eficace mai ales în ţesutul miocardic ischemic",
+        "Este absolut necesară o doză de încărcare pentru a se atinge rapid nivelul terapeutic",
+        "Doza de încărcare este 1-1,5mg/kg şi doza de întreţinere este de 1-4mg/min",
+        "Insuficienţa hepatică, insuficienţa renală şi vârsta înaintată nu au nici o influenţa asupra dozării acestui medicament"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 32,
+      "type": "single",
+      "prompt": "Esmololul – căutaţi afirmaţia adevărată",
+      "options": [
+        "Este un  beta blocant neselectiv la doze mici",
+        "Are acţiune de lungă durată",
+        "Este contraindicat în tahicardiile supraventriculare",
+        "Este contraindicat în insuficienţa renală sau hepatică",
+        "Inhibă secreţia de renină"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 33,
+      "type": "single",
+      "prompt": "Adenozina – afirmaţia incorectă",
+      "options": [
+        "Întrerupe toate tipurile de tahicardii supraventriculare",
+        "Debutul acţiunii este în 20-30 de secunde",
+        "Durata acţiunii este de 60-90 secunde",
+        "Este contraindicată în BAV gr II şi BAV gr III",
+        "Este ineficientă în convertira Fia sau Flutter-ului atrial la ritm sinusal."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "A"
+    },
+    {
+      "id": 34,
+      "type": "single",
+      "prompt": "Digoxina – afirmaţia falsă",
+      "options": [
+        "Are efect inotrop pozitiv",
+        "Are efect cronotrop negativ",
+        "Are efect dromotrop negativ",
+        "Produce stimulare vagală",
+        "Este indicată în sindromul Wolf-Parkinson-White şi mai ales în FiA asociată cu acest sindrom"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "E"
+    },
+    {
+      "id": 35,
+      "type": "single",
+      "prompt": "Atropina – afirmaţia falsă",
+      "options": [
+        "Se poate administra i.v., i.m., endotraheal, subcutan, intraosos",
+        "Doza endotraheală este de 2-2,5 ori mai mare decât doza i.v. şi se administrează diluată în 10ml de soluţie compatibilă.",
+        "Pentru bradicardie, doza este de 0,5mg i.v. bolus care se repetă la 5 minute",
+        "Face parte din protocolul pentru torsada vârfurilor.",
+        "Dozele mai mici de 0,4mg produc baricardie paradoxală prin stimularea centrală reflexă a nervului vag."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 36,
+      "type": "single",
+      "prompt": "Dopamina – afirmaţia adevărată",
+      "options": [
+        "Poate fi administrată concomitent cu o soluţie alcalină pe aceeaşi linie venoasă.",
+        "Nu este contraindicată la pacienţii cu feocromocitom",
+        "În doze mici produce vasodilataţie splanchnică prin stimularea receptorilor alfa 1",
+        "În doze mari produce vasoconstricţie periferică",
+        "La doze intermediare stimulează receptorii beta 2 adrenergici"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 37,
+      "type": "single",
+      "prompt": "Dobutamina – afirmaţia falsă",
+      "options": [
+        "Este substanţa cea mai utilizată în tratamentul şocului cardiogen",
+        "Dozele de peste 20μg/kg sunt asociate cu o creştere a riscului de tahiaritmii",
+        "Dozele uzuale sunt sub 20μg/kg",
+        "Se administrează în infuzie continuă sau bolusuri repetate",
+        "Creşte debitul cardiac şi fluxul sanguin renal şi mezenteric"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 38,
+      "type": "single",
+      "prompt": "Verapamilul – afirmaţia adevărată",
+      "options": [
+        "Acţionează doar la nivelul vaselor periferice",
+        "Blochează canalele de calciu şi pe cele de clor",
+        "Este de primă intenţie în tahicardiile prin reintrare care conţin în circuit un fascicul accesor.",
+        "Este o non-dihidropiridină",
+        "Este utilă în toate situaţiile de fibrilaţie atrială /flutter atrial, pentru scăderea răspunsului ventricular"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "D"
+    },
+    {
+      "id": 39,
+      "type": "single",
+      "prompt": "Nifedipina – afirmaţia falsă",
+      "options": [
+        "Este utilă în angina vasospastică",
+        "Produce o creştere reflexă a frecvenţei cardiace",
+        "Este de mare utilitate în tratamentul crizei hipertensive",
+        "Poate precipita infarctul miocardic",
+        "Produce scăderea postsarcinii cardiace"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    },
+    {
+      "id": 40,
+      "type": "single",
+      "prompt": "Nitroglicerina – afirmaţia",
+      "options": [
+        "Este preferată în locul nitroprusiatului (pe cale i.v.) în insuficienţa cardiacă decompensată acut.",
+        "Este utilă în tratamentul crizei hipertensive.",
+        "Nu modifică presiunea telediastolică a ventriculului stâng",
+        "Acţiunea sa se exercită prin intermediul formării de oxid nitric",
+        "Căile de administrare sunt: sublingual, lingual, intrabucal, per os, topic, i.v."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "C"
+    }
+  ]
+}

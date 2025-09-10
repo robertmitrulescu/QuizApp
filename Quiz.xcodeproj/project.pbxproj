@@ -6,6 +6,87 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		69440BD22E533C4A00BD5BE8 /* quiz_cap11 2.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440BD12E533C4A00BD5BE8 /* quiz_cap11 2.json */; };
+		69440BD42E533ECE00BD5BE8 /* quiz_cap7.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440BD32E533ECE00BD5BE8 /* quiz_cap7.json */; };
+		69440BD62E53408500BD5BE8 /* quiz_cap8.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440BD52E53408500BD5BE8 /* quiz_cap8.json */; };
+		69440BD82E53453500BD5BE8 /* quiz_cap23.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440BD72E53453500BD5BE8 /* quiz_cap23.json */; };
+		69440BDA2E55220500BD5BE8 /* quiz_cap7_cardiovascular.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440BD92E55220500BD5BE8 /* quiz_cap7_cardiovascular.json */; };
+		69440BDC2E55226300BD5BE8 /* quiz_cap_sca_strategii.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440BDB2E55226300BD5BE8 /* quiz_cap_sca_strategii.json */; };
+		69440BDE2E5523C200BD5BE8 /* quiz_cap_insuficienta_cardiaca_epac.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440BDD2E5523C200BD5BE8 /* quiz_cap_insuficienta_cardiaca_epac.json */; };
+		69440BEE2E552EB600BD5BE8 /* quiz_cap26.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440BED2E552EB600BD5BE8 /* quiz_cap26.json */; };
+		69440BF02E552ECC00BD5BE8 /* quiz_cap27.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440BEF2E552ECC00BD5BE8 /* quiz_cap27.json */; };
+		69440BF22E55337D00BD5BE8 /* quiz_cap19.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440BF12E55337D00BD5BE8 /* quiz_cap19.json */; };
+		69440BF42E5534CB00BD5BE8 /* quiz_cap20.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440BF32E5534CB00BD5BE8 /* quiz_cap20.json */; };
+		69440BF82E5536AF00BD5BE8 /* quiz_SCA_strategii.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440BF72E5536AF00BD5BE8 /* quiz_SCA_strategii.json */; };
+		69440BFA2E5537A900BD5BE8 /* quiz_SCA_IMA_AI.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440BF92E5537A900BD5BE8 /* quiz_SCA_IMA_AI.json */; };
+		69440BFC2E55393600BD5BE8 /* quiz_cap_TEP.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440BFB2E55393600BD5BE8 /* quiz_cap_TEP.json */; };
+		69440BFE2E553AB100BD5BE8 /* quiz_cap_ASTMA.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440BFD2E553AB100BD5BE8 /* quiz_cap_ASTMA.json */; };
+		69440C002E553B5300BD5BE8 /* quiz_cap_ASTMA_ADULT.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440BFF2E553B5300BD5BE8 /* quiz_cap_ASTMA_ADULT.json */; };
+		69440C042E553D1C00BD5BE8 /* quiz_cap_urgente_pulmonare.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440C032E553D1C00BD5BE8 /* quiz_cap_urgente_pulmonare.json */; };
+		69440C082E553EC700BD5BE8 /* quiz_cap9-2.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440C072E553EC700BD5BE8 /* quiz_cap9-2.json */; };
+		69440C0A2E553FCD00BD5BE8 /* quiz_HD.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440C092E553FCD00BD5BE8 /* quiz_HD.json */; };
+		69440C102E5541C400BD5BE8 /* quiz_hemoragie_digestiva.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440C0F2E5541C400BD5BE8 /* quiz_hemoragie_digestiva.json */; };
+		69440C122E5542A700BD5BE8 /* quiz_cap_renal.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440C112E5542A700BD5BE8 /* quiz_cap_renal.json */; };
+		69440C142E55433600BD5BE8 /* quiz_cap_gineco.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440C132E55433600BD5BE8 /* quiz_cap_gineco.json */; };
+		69440C162E5543E300BD5BE8 /* quiz_cap_pediatrie.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440C152E5543E300BD5BE8 /* quiz_cap_pediatrie.json */; };
+		69440C1A2E5545A000BD5BE8 /* quiz_cap_boli_infectioase.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440C192E5545A000BD5BE8 /* quiz_cap_boli_infectioase.json */; };
+		69440C1C2E5546D200BD5BE8 /* quiz_cap15-2.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440C1B2E5546D200BD5BE8 /* quiz_cap15-2.json */; };
+		69440C1E2E55E11C00BD5BE8 /* quiz_management_intoxicati.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440C1D2E55E11C00BD5BE8 /* quiz_management_intoxicati.json */; };
+		69440C202E55E1B500BD5BE8 /* quiz_management_pacient_intoxicat.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440C1F2E55E1B500BD5BE8 /* quiz_management_pacient_intoxicat.json */; };
+		69440C222E55E24E00BD5BE8 /* quiz_subiecte_management_intoxicati.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440C212E55E24E00BD5BE8 /* quiz_subiecte_management_intoxicati.json */; };
+		69440C242E55E34800BD5BE8 /* quiz_management_intoxicati_grila_all.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440C232E55E34800BD5BE8 /* quiz_management_intoxicati_grila_all.json */; };
+		69440C262E55E42300BD5BE8 /* quiz_capitolul_16.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440C252E55E42300BD5BE8 /* quiz_capitolul_16.json */; };
+		69440C282E55E4DB00BD5BE8 /* quiz_cap16_medii_deosebite.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440C272E55E4DB00BD5BE8 /* quiz_cap16_medii_deosebite.json */; };
+		69440C2A2E55E5AA00BD5BE8 /* quiz_cap17_urgente_endocrine.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440C292E55E5AA00BD5BE8 /* quiz_cap17_urgente_endocrine.json */; };
+		69440C2C2E55E65000BD5BE8 /* quiz_capitolul_18.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440C2B2E55E65000BD5BE8 /* quiz_capitolul_18.json */; };
+		69440C2E2E55E71600BD5BE8 /* quiz_capitolul_19_neurologie.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440C2D2E55E71600BD5BE8 /* quiz_capitolul_19_neurologie.json */; };
+		69440C302E55E7FC00BD5BE8 /* quiz_coma_intrebari_examen.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440C2F2E55E7FC00BD5BE8 /* quiz_coma_intrebari_examen.json */; };
+		69440C322E55E9B900BD5BE8 /* quiz_delir_coma_61.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440C312E55E9B800BD5BE8 /* quiz_delir_coma_61.json */; };
+		69440C3A2E55EEAA00BD5BE8 /* quiz_convulsii.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440C392E55EEAA00BD5BE8 /* quiz_convulsii.json */; };
+		69440C3C2E55EF9E00BD5BE8 /* quiz_convulsii_status.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440C3B2E55EF9E00BD5BE8 /* quiz_convulsii_status.json */; };
+		69440C3E2E55F08200BD5BE8 /* quiz_coma_status_alterat.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440C3D2E55F08200BD5BE8 /* quiz_coma_status_alterat.json */; };
+		69440C442E55F21E00BD5BE8 /* quiz_statusul_mental_alterat_si_coma.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440C432E55F21E00BD5BE8 /* quiz_statusul_mental_alterat_si_coma.json */; };
+		69440C462E55F2FA00BD5BE8 /* quiz_urgente_oftalmologice.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440C452E55F2FA00BD5BE8 /* quiz_urgente_oftalmologice.json */; };
+		69440C482E55F39A00BD5BE8 /* quiz_dermatologie.json in Resources */ = {isa = PBXBuildFile; fileRef = 69440C472E55F39A00BD5BE8 /* quiz_dermatologie.json */; };
+		694DD31A2E5271C500CBBFDD /* quiz_cap9.json in Resources */ = {isa = PBXBuildFile; fileRef = 694DD3192E5271C500CBBFDD /* quiz_cap9.json */; };
+		694DD31C2E5271DA00CBBFDD /* quiz_cap10.json in Resources */ = {isa = PBXBuildFile; fileRef = 694DD31B2E5271DA00CBBFDD /* quiz_cap10.json */; };
+		694DD3202E52771800CBBFDD /* quiz_cap12.json in Resources */ = {isa = PBXBuildFile; fileRef = 694DD31F2E52771800CBBFDD /* quiz_cap12.json */; };
+		694DD3222E52772600CBBFDD /* quiz_cap13.json in Resources */ = {isa = PBXBuildFile; fileRef = 694DD3212E52772600CBBFDD /* quiz_cap13.json */; };
+		694DD3242E52773500CBBFDD /* quiz_cap14.json in Resources */ = {isa = PBXBuildFile; fileRef = 694DD3232E52773500CBBFDD /* quiz_cap14.json */; };
+		694DD3262E52774500CBBFDD /* quiz_cap15.json in Resources */ = {isa = PBXBuildFile; fileRef = 694DD3252E52774500CBBFDD /* quiz_cap15.json */; };
+		694DD3282E52775300CBBFDD /* quiz_cap16.json in Resources */ = {isa = PBXBuildFile; fileRef = 694DD3272E52775300CBBFDD /* quiz_cap16.json */; };
+		694DD32A2E52776500CBBFDD /* quiz_cap17.json in Resources */ = {isa = PBXBuildFile; fileRef = 694DD3292E52776500CBBFDD /* quiz_cap17.json */; };
+		694DD32C2E52777400CBBFDD /* quiz_cap18.json in Resources */ = {isa = PBXBuildFile; fileRef = 694DD32B2E52777400CBBFDD /* quiz_cap18.json */; };
+		694DD3302E5277E500CBBFDD /* quiz_cap22.json in Resources */ = {isa = PBXBuildFile; fileRef = 694DD32F2E5277E500CBBFDD /* quiz_cap22.json */; };
+		69B401D62E71D242007F4D8B /* quiz_extras_intrebari_2022_no1.json in Resources */ = {isa = PBXBuildFile; fileRef = 69B401D52E71D242007F4D8B /* quiz_extras_intrebari_2022_no1.json */; };
+		69BEF4D32E5F555400CC6302 /* quiz_abordarea_initiala_traumatizat.json in Resources */ = {isa = PBXBuildFile; fileRef = 69BEF4D22E5F555400CC6302 /* quiz_abordarea_initiala_traumatizat.json */; };
+		69BEF4D52E5F564700CC6302 /* quiz_evaluare_primara_trauma.json in Resources */ = {isa = PBXBuildFile; fileRef = 69BEF4D42E5F564700CC6302 /* quiz_evaluare_primara_trauma.json */; };
+		69BEF4D72E5F574700CC6302 /* quiz_abordarea_initiala_pacient_traumatizat.json in Resources */ = {isa = PBXBuildFile; fileRef = 69BEF4D62E5F574700CC6302 /* quiz_abordarea_initiala_pacient_traumatizat.json */; };
+		69BEF4D92E5F591400CC6302 /* quiz_pacient_traumatizat_complet.json in Resources */ = {isa = PBXBuildFile; fileRef = 69BEF4D82E5F591400CC6302 /* quiz_pacient_traumatizat_complet.json */; };
+		69BEF4DB2E5F5A3A00CC6302 /* quiz_subiecte_abordarea_initiala_pacientului_traumatizat.json in Resources */ = {isa = PBXBuildFile; fileRef = 69BEF4DA2E5F5A3A00CC6302 /* quiz_subiecte_abordarea_initiala_pacientului_traumatizat.json */; };
+		69BEF4DD2E5F5AEF00CC6302 /* quiz_grile_cap_23.json in Resources */ = {isa = PBXBuildFile; fileRef = 69BEF4DC2E5F5AEF00CC6302 /* quiz_grile_cap_23.json */; };
+		69BEF4DF2E5F5BF600CC6302 /* quiz_grile_cap_24.json in Resources */ = {isa = PBXBuildFile; fileRef = 69BEF4DE2E5F5BF600CC6302 /* quiz_grile_cap_24.json */; };
+		69BEF4E12E609AE200CC6302 /* quiz_tulburari_psihisociale.json in Resources */ = {isa = PBXBuildFile; fileRef = 69BEF4E02E609AE200CC6302 /* quiz_tulburari_psihisociale.json */; };
+		69BEF4E72E609CB600CC6302 /* quiz_abuzul_si_agresiunea.json in Resources */ = {isa = PBXBuildFile; fileRef = 69BEF4E62E609CB600CC6302 /* quiz_abuzul_si_agresiunea.json */; };
+		69BEF4E92E609D6500CC6302 /* quiz_principiile_studiilor_imagistice.json in Resources */ = {isa = PBXBuildFile; fileRef = 69BEF4E82E609D6500CC6302 /* quiz_principiile_studiilor_imagistice.json */; };
+		69BEF4EF2E609F9E00CC6302 /* quiz_cap28_situatii_speciale-3.json in Resources */ = {isa = PBXBuildFile; fileRef = 69BEF4EE2E609F9E00CC6302 /* quiz_cap28_situatii_speciale-3.json */; };
+		69BEF4F52E60A97E00CC6302 /* quiz_mix_capitole_FUNCTIONAL.json in Resources */ = {isa = PBXBuildFile; fileRef = 69BEF4F42E60A97E00CC6302 /* quiz_mix_capitole_FUNCTIONAL.json */; };
+		69F609222E523DBC00BA95FF /* quiz_cap1.json in Resources */ = {isa = PBXBuildFile; fileRef = 69F609212E523DBC00BA95FF /* quiz_cap1.json */; };
+		69F609232E5240E700BA95FF /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69F6091A2E523D4900BA95FF /* Models.swift */; };
+		69F609242E5240EA00BA95FF /* QuizRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69F6091B2E523D6500BA95FF /* QuizRepository.swift */; };
+		69F609252E5240EC00BA95FF /* QuizSession.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69F6091C2E523D7300BA95FF /* QuizSession.swift */; };
+		69F609262E5240EE00BA95FF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69F6091D2E523D7C00BA95FF /* ContentView.swift */; };
+		69F609272E5240F100BA95FF /* QuizView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69F6091E2E523D8C00BA95FF /* QuizView.swift */; };
+		69F609282E5240F300BA95FF /* ResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69F6091F2E523D9A00BA95FF /* ResultView.swift */; };
+		69F609292E5240F600BA95FF /* QuizApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69F609202E523DA200BA95FF /* QuizApp.swift */; };
+		69F609312E52415000BA95FF /* quiz_cap4-2.json in Resources */ = {isa = PBXBuildFile; fileRef = 69F6092C2E52415000BA95FF /* quiz_cap4-2.json */; };
+		69F609322E52415000BA95FF /* quiz_cap2.json in Resources */ = {isa = PBXBuildFile; fileRef = 69F6092A2E52415000BA95FF /* quiz_cap2.json */; };
+		69F609342E52415000BA95FF /* quiz_cap6.json in Resources */ = {isa = PBXBuildFile; fileRef = 69F6092E2E52415000BA95FF /* quiz_cap6.json */; };
+		69F609362E52415000BA95FF /* quiz_cap3.json in Resources */ = {isa = PBXBuildFile; fileRef = 69F6092B2E52415000BA95FF /* quiz_cap3.json */; };
+		69F609372E52415000BA95FF /* quiz_cap5.json in Resources */ = {isa = PBXBuildFile; fileRef = 69F6092D2E52415000BA95FF /* quiz_cap5.json */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		69F608FE2E523D0C00BA95FF /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -24,28 +105,88 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		69440BD12E533C4A00BD5BE8 /* quiz_cap11 2.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "quiz_cap11 2.json"; sourceTree = "<group>"; };
+		69440BD32E533ECE00BD5BE8 /* quiz_cap7.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap7.json; sourceTree = "<group>"; };
+		69440BD52E53408500BD5BE8 /* quiz_cap8.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap8.json; sourceTree = "<group>"; };
+		69440BD72E53453500BD5BE8 /* quiz_cap23.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap23.json; sourceTree = "<group>"; };
+		69440BD92E55220500BD5BE8 /* quiz_cap7_cardiovascular.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap7_cardiovascular.json; sourceTree = "<group>"; };
+		69440BDB2E55226300BD5BE8 /* quiz_cap_sca_strategii.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap_sca_strategii.json; sourceTree = "<group>"; };
+		69440BDD2E5523C200BD5BE8 /* quiz_cap_insuficienta_cardiaca_epac.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap_insuficienta_cardiaca_epac.json; sourceTree = "<group>"; };
+		69440BED2E552EB600BD5BE8 /* quiz_cap26.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap26.json; sourceTree = "<group>"; };
+		69440BEF2E552ECC00BD5BE8 /* quiz_cap27.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap27.json; sourceTree = "<group>"; };
+		69440BF12E55337D00BD5BE8 /* quiz_cap19.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap19.json; sourceTree = "<group>"; };
+		69440BF32E5534CB00BD5BE8 /* quiz_cap20.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap20.json; sourceTree = "<group>"; };
+		69440BF72E5536AF00BD5BE8 /* quiz_SCA_strategii.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_SCA_strategii.json; sourceTree = "<group>"; };
+		69440BF92E5537A900BD5BE8 /* quiz_SCA_IMA_AI.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_SCA_IMA_AI.json; sourceTree = "<group>"; };
+		69440BFB2E55393600BD5BE8 /* quiz_cap_TEP.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap_TEP.json; sourceTree = "<group>"; };
+		69440BFD2E553AB100BD5BE8 /* quiz_cap_ASTMA.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap_ASTMA.json; sourceTree = "<group>"; };
+		69440BFF2E553B5300BD5BE8 /* quiz_cap_ASTMA_ADULT.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap_ASTMA_ADULT.json; sourceTree = "<group>"; };
+		69440C032E553D1C00BD5BE8 /* quiz_cap_urgente_pulmonare.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap_urgente_pulmonare.json; sourceTree = "<group>"; };
+		69440C072E553EC700BD5BE8 /* quiz_cap9-2.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "quiz_cap9-2.json"; sourceTree = "<group>"; };
+		69440C092E553FCD00BD5BE8 /* quiz_HD.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_HD.json; sourceTree = "<group>"; };
+		69440C0F2E5541C400BD5BE8 /* quiz_hemoragie_digestiva.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_hemoragie_digestiva.json; sourceTree = "<group>"; };
+		69440C112E5542A700BD5BE8 /* quiz_cap_renal.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap_renal.json; sourceTree = "<group>"; };
+		69440C132E55433600BD5BE8 /* quiz_cap_gineco.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap_gineco.json; sourceTree = "<group>"; };
+		69440C152E5543E300BD5BE8 /* quiz_cap_pediatrie.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap_pediatrie.json; sourceTree = "<group>"; };
+		69440C192E5545A000BD5BE8 /* quiz_cap_boli_infectioase.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap_boli_infectioase.json; sourceTree = "<group>"; };
+		69440C1B2E5546D200BD5BE8 /* quiz_cap15-2.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "quiz_cap15-2.json"; sourceTree = "<group>"; };
+		69440C1D2E55E11C00BD5BE8 /* quiz_management_intoxicati.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_management_intoxicati.json; sourceTree = "<group>"; };
+		69440C1F2E55E1B500BD5BE8 /* quiz_management_pacient_intoxicat.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_management_pacient_intoxicat.json; sourceTree = "<group>"; };
+		69440C212E55E24E00BD5BE8 /* quiz_subiecte_management_intoxicati.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_subiecte_management_intoxicati.json; sourceTree = "<group>"; };
+		69440C232E55E34800BD5BE8 /* quiz_management_intoxicati_grila_all.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_management_intoxicati_grila_all.json; sourceTree = "<group>"; };
+		69440C252E55E42300BD5BE8 /* quiz_capitolul_16.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_capitolul_16.json; sourceTree = "<group>"; };
+		69440C272E55E4DB00BD5BE8 /* quiz_cap16_medii_deosebite.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap16_medii_deosebite.json; sourceTree = "<group>"; };
+		69440C292E55E5AA00BD5BE8 /* quiz_cap17_urgente_endocrine.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap17_urgente_endocrine.json; sourceTree = "<group>"; };
+		69440C2B2E55E65000BD5BE8 /* quiz_capitolul_18.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_capitolul_18.json; sourceTree = "<group>"; };
+		69440C2D2E55E71600BD5BE8 /* quiz_capitolul_19_neurologie.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_capitolul_19_neurologie.json; sourceTree = "<group>"; };
+		69440C2F2E55E7FC00BD5BE8 /* quiz_coma_intrebari_examen.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_coma_intrebari_examen.json; sourceTree = "<group>"; };
+		69440C312E55E9B800BD5BE8 /* quiz_delir_coma_61.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_delir_coma_61.json; sourceTree = "<group>"; };
+		69440C392E55EEAA00BD5BE8 /* quiz_convulsii.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_convulsii.json; sourceTree = "<group>"; };
+		69440C3B2E55EF9E00BD5BE8 /* quiz_convulsii_status.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_convulsii_status.json; sourceTree = "<group>"; };
+		69440C3D2E55F08200BD5BE8 /* quiz_coma_status_alterat.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_coma_status_alterat.json; sourceTree = "<group>"; };
+		69440C432E55F21E00BD5BE8 /* quiz_statusul_mental_alterat_si_coma.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_statusul_mental_alterat_si_coma.json; sourceTree = "<group>"; };
+		69440C452E55F2FA00BD5BE8 /* quiz_urgente_oftalmologice.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_urgente_oftalmologice.json; sourceTree = "<group>"; };
+		69440C472E55F39A00BD5BE8 /* quiz_dermatologie.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_dermatologie.json; sourceTree = "<group>"; };
+		694DD3192E5271C500CBBFDD /* quiz_cap9.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap9.json; sourceTree = "<group>"; };
+		694DD31B2E5271DA00CBBFDD /* quiz_cap10.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap10.json; sourceTree = "<group>"; };
+		694DD31F2E52771800CBBFDD /* quiz_cap12.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap12.json; sourceTree = "<group>"; };
+		694DD3212E52772600CBBFDD /* quiz_cap13.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap13.json; sourceTree = "<group>"; };
+		694DD3232E52773500CBBFDD /* quiz_cap14.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap14.json; sourceTree = "<group>"; };
+		694DD3252E52774500CBBFDD /* quiz_cap15.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap15.json; sourceTree = "<group>"; };
+		694DD3272E52775300CBBFDD /* quiz_cap16.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap16.json; sourceTree = "<group>"; };
+		694DD3292E52776500CBBFDD /* quiz_cap17.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap17.json; sourceTree = "<group>"; };
+		694DD32B2E52777400CBBFDD /* quiz_cap18.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap18.json; sourceTree = "<group>"; };
+		694DD32F2E5277E500CBBFDD /* quiz_cap22.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap22.json; sourceTree = "<group>"; };
+		69B401D52E71D242007F4D8B /* quiz_extras_intrebari_2022_no1.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_extras_intrebari_2022_no1.json; sourceTree = "<group>"; };
+		69BEF4D22E5F555400CC6302 /* quiz_abordarea_initiala_traumatizat.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_abordarea_initiala_traumatizat.json; sourceTree = "<group>"; };
+		69BEF4D42E5F564700CC6302 /* quiz_evaluare_primara_trauma.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_evaluare_primara_trauma.json; sourceTree = "<group>"; };
+		69BEF4D62E5F574700CC6302 /* quiz_abordarea_initiala_pacient_traumatizat.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_abordarea_initiala_pacient_traumatizat.json; sourceTree = "<group>"; };
+		69BEF4D82E5F591400CC6302 /* quiz_pacient_traumatizat_complet.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_pacient_traumatizat_complet.json; sourceTree = "<group>"; };
+		69BEF4DA2E5F5A3A00CC6302 /* quiz_subiecte_abordarea_initiala_pacientului_traumatizat.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_subiecte_abordarea_initiala_pacientului_traumatizat.json; sourceTree = "<group>"; };
+		69BEF4DC2E5F5AEF00CC6302 /* quiz_grile_cap_23.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_grile_cap_23.json; sourceTree = "<group>"; };
+		69BEF4DE2E5F5BF600CC6302 /* quiz_grile_cap_24.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_grile_cap_24.json; sourceTree = "<group>"; };
+		69BEF4E02E609AE200CC6302 /* quiz_tulburari_psihisociale.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_tulburari_psihisociale.json; sourceTree = "<group>"; };
+		69BEF4E62E609CB600CC6302 /* quiz_abuzul_si_agresiunea.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_abuzul_si_agresiunea.json; sourceTree = "<group>"; };
+		69BEF4E82E609D6500CC6302 /* quiz_principiile_studiilor_imagistice.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_principiile_studiilor_imagistice.json; sourceTree = "<group>"; };
+		69BEF4EE2E609F9E00CC6302 /* quiz_cap28_situatii_speciale-3.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "quiz_cap28_situatii_speciale-3.json"; sourceTree = "<group>"; };
+		69BEF4F42E60A97E00CC6302 /* quiz_mix_capitole_FUNCTIONAL.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_mix_capitole_FUNCTIONAL.json; sourceTree = "<group>"; };
 		69F608EF2E523D0B00BA95FF /* Quiz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Quiz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		69F608FD2E523D0C00BA95FF /* QuizTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QuizTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		69F609072E523D0C00BA95FF /* QuizUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QuizUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		69F6091A2E523D4900BA95FF /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
+		69F6091B2E523D6500BA95FF /* QuizRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizRepository.swift; sourceTree = "<group>"; };
+		69F6091C2E523D7300BA95FF /* QuizSession.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizSession.swift; sourceTree = "<group>"; };
+		69F6091D2E523D7C00BA95FF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		69F6091E2E523D8C00BA95FF /* QuizView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizView.swift; sourceTree = "<group>"; };
+		69F6091F2E523D9A00BA95FF /* ResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultView.swift; sourceTree = "<group>"; };
+		69F609202E523DA200BA95FF /* QuizApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizApp.swift; sourceTree = "<group>"; };
+		69F609212E523DBC00BA95FF /* quiz_cap1.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap1.json; sourceTree = "<group>"; };
+		69F6092A2E52415000BA95FF /* quiz_cap2.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap2.json; sourceTree = "<group>"; };
+		69F6092B2E52415000BA95FF /* quiz_cap3.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap3.json; sourceTree = "<group>"; };
+		69F6092C2E52415000BA95FF /* quiz_cap4-2.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "quiz_cap4-2.json"; sourceTree = "<group>"; };
+		69F6092D2E52415000BA95FF /* quiz_cap5.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap5.json; sourceTree = "<group>"; };
+		69F6092E2E52415000BA95FF /* quiz_cap6.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = quiz_cap6.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
-
-/* Begin PBXFileSystemSynchronizedRootGroup section */
-		69F608F12E523D0B00BA95FF /* Quiz */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Quiz;
-			sourceTree = "<group>";
-		};
-		69F609002E523D0C00BA95FF /* QuizTests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = QuizTests;
-			sourceTree = "<group>";
-		};
-		69F6090A2E523D0C00BA95FF /* QuizUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = QuizUITests;
-			sourceTree = "<group>";
-		};
-/* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		69F608EC2E523D0B00BA95FF /* Frameworks */ = {
@@ -75,9 +216,84 @@
 		69F608E62E523D0B00BA95FF = {
 			isa = PBXGroup;
 			children = (
-				69F608F12E523D0B00BA95FF /* Quiz */,
-				69F609002E523D0C00BA95FF /* QuizTests */,
-				69F6090A2E523D0C00BA95FF /* QuizUITests */,
+				694DD3192E5271C500CBBFDD /* quiz_cap9.json */,
+				69440BD12E533C4A00BD5BE8 /* quiz_cap11 2.json */,
+				69BEF4D42E5F564700CC6302 /* quiz_evaluare_primara_trauma.json */,
+				69BEF4D62E5F574700CC6302 /* quiz_abordarea_initiala_pacient_traumatizat.json */,
+				69BEF4DA2E5F5A3A00CC6302 /* quiz_subiecte_abordarea_initiala_pacientului_traumatizat.json */,
+				69BEF4DC2E5F5AEF00CC6302 /* quiz_grile_cap_23.json */,
+				69BEF4DE2E5F5BF600CC6302 /* quiz_grile_cap_24.json */,
+				69BEF4E02E609AE200CC6302 /* quiz_tulburari_psihisociale.json */,
+				69BEF4D82E5F591400CC6302 /* quiz_pacient_traumatizat_complet.json */,
+				69BEF4E62E609CB600CC6302 /* quiz_abuzul_si_agresiunea.json */,
+				69BEF4E82E609D6500CC6302 /* quiz_principiile_studiilor_imagistice.json */,
+				69BEF4EE2E609F9E00CC6302 /* quiz_cap28_situatii_speciale-3.json */,
+				69BEF4D22E5F555400CC6302 /* quiz_abordarea_initiala_traumatizat.json */,
+				69440BD32E533ECE00BD5BE8 /* quiz_cap7.json */,
+				694DD31F2E52771800CBBFDD /* quiz_cap12.json */,
+				694DD3212E52772600CBBFDD /* quiz_cap13.json */,
+				694DD3232E52773500CBBFDD /* quiz_cap14.json */,
+				694DD3252E52774500CBBFDD /* quiz_cap15.json */,
+				694DD3272E52775300CBBFDD /* quiz_cap16.json */,
+				694DD3292E52776500CBBFDD /* quiz_cap17.json */,
+				694DD32B2E52777400CBBFDD /* quiz_cap18.json */,
+				69440BED2E552EB600BD5BE8 /* quiz_cap26.json */,
+				69440BEF2E552ECC00BD5BE8 /* quiz_cap27.json */,
+				69440BF12E55337D00BD5BE8 /* quiz_cap19.json */,
+				69440BF72E5536AF00BD5BE8 /* quiz_SCA_strategii.json */,
+				69440BF92E5537A900BD5BE8 /* quiz_SCA_IMA_AI.json */,
+				69440BFB2E55393600BD5BE8 /* quiz_cap_TEP.json */,
+				69440BFD2E553AB100BD5BE8 /* quiz_cap_ASTMA.json */,
+				69440BFF2E553B5300BD5BE8 /* quiz_cap_ASTMA_ADULT.json */,
+				69440C032E553D1C00BD5BE8 /* quiz_cap_urgente_pulmonare.json */,
+				69440C072E553EC700BD5BE8 /* quiz_cap9-2.json */,
+				69440C092E553FCD00BD5BE8 /* quiz_HD.json */,
+				69440C0F2E5541C400BD5BE8 /* quiz_hemoragie_digestiva.json */,
+				69440C112E5542A700BD5BE8 /* quiz_cap_renal.json */,
+				69440C132E55433600BD5BE8 /* quiz_cap_gineco.json */,
+				69440C152E5543E300BD5BE8 /* quiz_cap_pediatrie.json */,
+				69440C192E5545A000BD5BE8 /* quiz_cap_boli_infectioase.json */,
+				69440C1B2E5546D200BD5BE8 /* quiz_cap15-2.json */,
+				69440C1D2E55E11C00BD5BE8 /* quiz_management_intoxicati.json */,
+				69440C212E55E24E00BD5BE8 /* quiz_subiecte_management_intoxicati.json */,
+				69440C232E55E34800BD5BE8 /* quiz_management_intoxicati_grila_all.json */,
+				69440C252E55E42300BD5BE8 /* quiz_capitolul_16.json */,
+				69440C272E55E4DB00BD5BE8 /* quiz_cap16_medii_deosebite.json */,
+				69440C292E55E5AA00BD5BE8 /* quiz_cap17_urgente_endocrine.json */,
+				69440C2B2E55E65000BD5BE8 /* quiz_capitolul_18.json */,
+				69440C2D2E55E71600BD5BE8 /* quiz_capitolul_19_neurologie.json */,
+				69440C2F2E55E7FC00BD5BE8 /* quiz_coma_intrebari_examen.json */,
+				69440C312E55E9B800BD5BE8 /* quiz_delir_coma_61.json */,
+				69440C1F2E55E1B500BD5BE8 /* quiz_management_pacient_intoxicat.json */,
+				69440C392E55EEAA00BD5BE8 /* quiz_convulsii.json */,
+				69440C3B2E55EF9E00BD5BE8 /* quiz_convulsii_status.json */,
+				69440C3D2E55F08200BD5BE8 /* quiz_coma_status_alterat.json */,
+				69440C432E55F21E00BD5BE8 /* quiz_statusul_mental_alterat_si_coma.json */,
+				69440C452E55F2FA00BD5BE8 /* quiz_urgente_oftalmologice.json */,
+				69440C472E55F39A00BD5BE8 /* quiz_dermatologie.json */,
+				69440BF32E5534CB00BD5BE8 /* quiz_cap20.json */,
+				694DD32F2E5277E500CBBFDD /* quiz_cap22.json */,
+				694DD31B2E5271DA00CBBFDD /* quiz_cap10.json */,
+				69F6091A2E523D4900BA95FF /* Models.swift */,
+				69B401D52E71D242007F4D8B /* quiz_extras_intrebari_2022_no1.json */,
+				69F6092A2E52415000BA95FF /* quiz_cap2.json */,
+				69440BD72E53453500BD5BE8 /* quiz_cap23.json */,
+				69440BD92E55220500BD5BE8 /* quiz_cap7_cardiovascular.json */,
+				69440BDB2E55226300BD5BE8 /* quiz_cap_sca_strategii.json */,
+				69440BDD2E5523C200BD5BE8 /* quiz_cap_insuficienta_cardiaca_epac.json */,
+				69440BD52E53408500BD5BE8 /* quiz_cap8.json */,
+				69F6092B2E52415000BA95FF /* quiz_cap3.json */,
+				69F6092C2E52415000BA95FF /* quiz_cap4-2.json */,
+				69F6092D2E52415000BA95FF /* quiz_cap5.json */,
+				69F6092E2E52415000BA95FF /* quiz_cap6.json */,
+				69F6091B2E523D6500BA95FF /* QuizRepository.swift */,
+				69F6091C2E523D7300BA95FF /* QuizSession.swift */,
+				69F6091D2E523D7C00BA95FF /* ContentView.swift */,
+				69F6091E2E523D8C00BA95FF /* QuizView.swift */,
+				69F6091F2E523D9A00BA95FF /* ResultView.swift */,
+				69F609202E523DA200BA95FF /* QuizApp.swift */,
+				69F609212E523DBC00BA95FF /* quiz_cap1.json */,
+				69BEF4F42E60A97E00CC6302 /* quiz_mix_capitole_FUNCTIONAL.json */,
 				69F608F02E523D0B00BA95FF /* Products */,
 			);
 			sourceTree = "<group>";
@@ -107,9 +323,6 @@
 			);
 			dependencies = (
 			);
-			fileSystemSynchronizedGroups = (
-				69F608F12E523D0B00BA95FF /* Quiz */,
-			);
 			name = Quiz;
 			packageProductDependencies = (
 			);
@@ -130,9 +343,6 @@
 			dependencies = (
 				69F608FF2E523D0C00BA95FF /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				69F609002E523D0C00BA95FF /* QuizTests */,
-			);
 			name = QuizTests;
 			packageProductDependencies = (
 			);
@@ -152,9 +362,6 @@
 			);
 			dependencies = (
 				69F609092E523D0C00BA95FF /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				69F6090A2E523D0C00BA95FF /* QuizUITests */,
 			);
 			name = QuizUITests;
 			packageProductDependencies = (
@@ -212,6 +419,77 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				69440C1C2E5546D200BD5BE8 /* quiz_cap15-2.json in Resources */,
+				69440C0A2E553FCD00BD5BE8 /* quiz_HD.json in Resources */,
+				694DD31C2E5271DA00CBBFDD /* quiz_cap10.json in Resources */,
+				69440C1E2E55E11C00BD5BE8 /* quiz_management_intoxicati.json in Resources */,
+				69440C322E55E9B900BD5BE8 /* quiz_delir_coma_61.json in Resources */,
+				69440BD42E533ECE00BD5BE8 /* quiz_cap7.json in Resources */,
+				69440C122E5542A700BD5BE8 /* quiz_cap_renal.json in Resources */,
+				69F609312E52415000BA95FF /* quiz_cap4-2.json in Resources */,
+				69440C2E2E55E71600BD5BE8 /* quiz_capitolul_19_neurologie.json in Resources */,
+				69F609322E52415000BA95FF /* quiz_cap2.json in Resources */,
+				694DD32A2E52776500CBBFDD /* quiz_cap17.json in Resources */,
+				694DD32C2E52777400CBBFDD /* quiz_cap18.json in Resources */,
+				69440C042E553D1C00BD5BE8 /* quiz_cap_urgente_pulmonare.json in Resources */,
+				69BEF4F52E60A97E00CC6302 /* quiz_mix_capitole_FUNCTIONAL.json in Resources */,
+				69BEF4DF2E5F5BF600CC6302 /* quiz_grile_cap_24.json in Resources */,
+				69440C3C2E55EF9E00BD5BE8 /* quiz_convulsii_status.json in Resources */,
+				69440BF02E552ECC00BD5BE8 /* quiz_cap27.json in Resources */,
+				69BEF4D32E5F555400CC6302 /* quiz_abordarea_initiala_traumatizat.json in Resources */,
+				69BEF4DD2E5F5AEF00CC6302 /* quiz_grile_cap_23.json in Resources */,
+				69440BD62E53408500BD5BE8 /* quiz_cap8.json in Resources */,
+				694DD3222E52772600CBBFDD /* quiz_cap13.json in Resources */,
+				69440BFA2E5537A900BD5BE8 /* quiz_SCA_IMA_AI.json in Resources */,
+				694DD3242E52773500CBBFDD /* quiz_cap14.json in Resources */,
+				69440C162E5543E300BD5BE8 /* quiz_cap_pediatrie.json in Resources */,
+				69440C002E553B5300BD5BE8 /* quiz_cap_ASTMA_ADULT.json in Resources */,
+				69440C1A2E5545A000BD5BE8 /* quiz_cap_boli_infectioase.json in Resources */,
+				69F609342E52415000BA95FF /* quiz_cap6.json in Resources */,
+				69BEF4E92E609D6500CC6302 /* quiz_principiile_studiilor_imagistice.json in Resources */,
+				69440C2A2E55E5AA00BD5BE8 /* quiz_cap17_urgente_endocrine.json in Resources */,
+				69440C3A2E55EEAA00BD5BE8 /* quiz_convulsii.json in Resources */,
+				69440BF22E55337D00BD5BE8 /* quiz_cap19.json in Resources */,
+				69440BDA2E55220500BD5BE8 /* quiz_cap7_cardiovascular.json in Resources */,
+				694DD3302E5277E500CBBFDD /* quiz_cap22.json in Resources */,
+				69440C442E55F21E00BD5BE8 /* quiz_statusul_mental_alterat_si_coma.json in Resources */,
+				69BEF4DB2E5F5A3A00CC6302 /* quiz_subiecte_abordarea_initiala_pacientului_traumatizat.json in Resources */,
+				69440BDE2E5523C200BD5BE8 /* quiz_cap_insuficienta_cardiaca_epac.json in Resources */,
+				69440BEE2E552EB600BD5BE8 /* quiz_cap26.json in Resources */,
+				69440BDC2E55226300BD5BE8 /* quiz_cap_sca_strategii.json in Resources */,
+				69440C462E55F2FA00BD5BE8 /* quiz_urgente_oftalmologice.json in Resources */,
+				69440C282E55E4DB00BD5BE8 /* quiz_cap16_medii_deosebite.json in Resources */,
+				69BEF4E12E609AE200CC6302 /* quiz_tulburari_psihisociale.json in Resources */,
+				69440BF82E5536AF00BD5BE8 /* quiz_SCA_strategii.json in Resources */,
+				69440C222E55E24E00BD5BE8 /* quiz_subiecte_management_intoxicati.json in Resources */,
+				69440C3E2E55F08200BD5BE8 /* quiz_coma_status_alterat.json in Resources */,
+				694DD31A2E5271C500CBBFDD /* quiz_cap9.json in Resources */,
+				69BEF4D92E5F591400CC6302 /* quiz_pacient_traumatizat_complet.json in Resources */,
+				69440C082E553EC700BD5BE8 /* quiz_cap9-2.json in Resources */,
+				69440BD82E53453500BD5BE8 /* quiz_cap23.json in Resources */,
+				694DD3282E52775300CBBFDD /* quiz_cap16.json in Resources */,
+				69BEF4E72E609CB600CC6302 /* quiz_abuzul_si_agresiunea.json in Resources */,
+				694DD3262E52774500CBBFDD /* quiz_cap15.json in Resources */,
+				69440C142E55433600BD5BE8 /* quiz_cap_gineco.json in Resources */,
+				69440BFC2E55393600BD5BE8 /* quiz_cap_TEP.json in Resources */,
+				69440C482E55F39A00BD5BE8 /* quiz_dermatologie.json in Resources */,
+				69440BD22E533C4A00BD5BE8 /* quiz_cap11 2.json in Resources */,
+				69440C202E55E1B500BD5BE8 /* quiz_management_pacient_intoxicat.json in Resources */,
+				69440C262E55E42300BD5BE8 /* quiz_capitolul_16.json in Resources */,
+				69440C102E5541C400BD5BE8 /* quiz_hemoragie_digestiva.json in Resources */,
+				69440C2C2E55E65000BD5BE8 /* quiz_capitolul_18.json in Resources */,
+				69440C302E55E7FC00BD5BE8 /* quiz_coma_intrebari_examen.json in Resources */,
+				69F609362E52415000BA95FF /* quiz_cap3.json in Resources */,
+				69F609372E52415000BA95FF /* quiz_cap5.json in Resources */,
+				69BEF4D52E5F564700CC6302 /* quiz_evaluare_primara_trauma.json in Resources */,
+				69440BFE2E553AB100BD5BE8 /* quiz_cap_ASTMA.json in Resources */,
+				69440BF42E5534CB00BD5BE8 /* quiz_cap20.json in Resources */,
+				69B401D62E71D242007F4D8B /* quiz_extras_intrebari_2022_no1.json in Resources */,
+				694DD3202E52771800CBBFDD /* quiz_cap12.json in Resources */,
+				69440C242E55E34800BD5BE8 /* quiz_management_intoxicati_grila_all.json in Resources */,
+				69F609222E523DBC00BA95FF /* quiz_cap1.json in Resources */,
+				69BEF4D72E5F574700CC6302 /* quiz_abordarea_initiala_pacient_traumatizat.json in Resources */,
+				69BEF4EF2E609F9E00CC6302 /* quiz_cap28_situatii_speciale-3.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -236,6 +514,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				69F609292E5240F600BA95FF /* QuizApp.swift in Sources */,
+				69F609282E5240F300BA95FF /* ResultView.swift in Sources */,
+				69F609272E5240F100BA95FF /* QuizView.swift in Sources */,
+				69F609262E5240EE00BA95FF /* ContentView.swift in Sources */,
+				69F609252E5240EC00BA95FF /* QuizSession.swift in Sources */,
+				69F609242E5240EA00BA95FF /* QuizRepository.swift in Sources */,
+				69F609232E5240E700BA95FF /* Models.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

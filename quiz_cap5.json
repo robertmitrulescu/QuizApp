@@ -1,0 +1,143 @@
+{
+  "chapter": "Capitolul 3 - Resuscitarea - INTUBATIA TRAHEALA SI VENTILATIA MECANICA",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Urmatoarele afirmatii despre pozitia de adulmecare (“sniffing position”) in intubatie sunt adevarate, cu o exceptie. Mentionati exceptia:",
+      "options": [
+        "Permite vizualizarea directa a laringelui",
+        "Presupune flexia extremitatii inferioare a gatului",
+        "Presupune extensia articulatiei atlanto-occipitale",
+        "Presupune flexia articulatiei atlanto-occipitale",
+        "Aliniaza in ax orofaringele si laringele"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "In laringoscopia cu lama curba Macintosh :",
+      "options": [
+        "Se incarca obligatoriu epiglota pentru vizualizarea corzilor vocale",
+        "Marginea ingrosata a lamei impinge limba spre partea stanga a orofaringelui",
+        "Marginea ingrosata a lamei impinge limba spre partea dreapta a orofaringelui",
+        "Lama gliseaza pe linia mediana a limbii",
+        "Laringele este expus prin deplasarea inapoi a manerului laringoscopului facand parghie pe incisivii centrali"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "La utilizarea unui mandren ca adjuvant al insertiei sondei endotraheale:",
+      "options": [
+        "Sonda cu mandren se poate introduce orb, fara vizualizarea laringoscopica a corzilor vocale",
+        "Mandrenul trebuie sa depaseasca cu 2 cm varful sondei endotraheale",
+        "Dupa  introducerea sondei mandrenul ramane pe loc pana la umflarea balonasului",
+        "Niciodata varful sondei nu va depasi varful sondei endotraheale (ochiul lui Murphy)"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Pozitionarea corecta a sondei endotraheale este:",
+      "options": [
+        "La 2 cm sub carina",
+        "La 2 cm deasupra carinei",
+        "In bronchia dreapta",
+        "In bronchia stanga"
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Criterii de pozitionare corecta a sondei endotraheale:",
+      "options": [
+        "Vizualizarea trecerii varfului sondei endotraheale printer corzile vocale",
+        "Auscultatia toracica si epigastrica",
+        "Expansionarea simetrica a peretilor toracici",
+        "Monitorizarea CO2 la sfarsitul expirului",
+        "Toate cele de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Urmatoarele afirmatii despre ketamina sunt adevarate cu o exceptie. Mentionati exceptia:",
+      "options": [
+        "derivate al fenciclidinei",
+        "Effect bronhodilatator",
+        "Indicat la pacientiii cu traumatism cranio-cerebral deoarece nu creste presiunea intracraniana",
+        "Doza indicata pentru inductie este 1-2 mg/kgc i.v.",
+        "Pacientul poate experimenta halucinatii vizuale la trezire"
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Urmatoarele afirmatii despre agentii de inductie sunt adevarate cu exceptia uneia. Mentionati exceptia:",
+      "options": [
+        "Thiopentalul creste tensiunea arteriala prin inhibarea captarii noradrenalinei in fanta sinaptica",
+        "Doza de etomidate utilizata in inductie este de 0,3 mg/kgc i.v.",
+        "Propofolul este un produs liposolubil care asigura o hipnoza eficienta si are proprietati antiemetice si anticonvulsivante",
+        "Ketamina trebuie evitata la pacientii cu traumatism cranio-cerebral",
+        "Fentanylul injectat rapid si in doze crescute poate determina rigidizarea peretelui toracic"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "Criteria clinice de anticipare a unei intubatii dificile:",
+      "options": [
+        "deschiderea mandibulara mai mare de 4 cm (doua/trei latimi de deget)",
+        "micrognatie",
+        "laringe anterior inalt (spatiul dintre mandibula si varful cartilajului tiroid mai ingust de 2 latimi de deget)",
+        "imobilizarea gatului",
+        "toate cele de mai sus"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Contraindicatiile succinilcolinei:",
+      "options": [
+        "arsuri",
+        "sindroame de strivire",
+        "rhabdomioliza",
+        "nici una dintre cele mentionate mai sus",
+        "a, b, c"
+      ],
+      "correctIndex": 4,
+      "correctLetter": "e"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Vecuronium bromide:",
+      "options": [
+        "este un agent depolarizant",
+        "Doza indicata este 0,8-1,5 mg/kgc",
+        "Este eliberator de histamine",
+        "Paralizia se instaleaza in 20 minute",
+        "Doza indicata este de 0,08-0,15 mg/kgc"
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "chapter": "Capitolul 2 – Pregatirea pentru dezastre",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single",
+      "prompt": "Care din urmatoarele afirmatii legate de serviciile medicale in caz de dezastre nu sunt false:",
+      "options": [
+        "un centru medical de control al dezastrului trebuie organizat in fiecare department de urgenta.",
+        "pentru o eficienta maxima intrarea pacientilor in departamentul de urgenta se face prin cel putin doua locatii.",
+        "in marea majoritate a situatiilor de dezastre cei mai multi pacienti nu sunt grav raniti.",
+        "frecvent in dezastre exista un numar redus de decese."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "prompt": "Ce cod de triaj acordati in caz de dezastru unui pacient cu arsuri de gradele 2 si 3 pe 95% din s.c.,TCC deschis GCS=5(M2V2O1),puls central prezent,TA nemasurabila,respiratii agonice,folosind codul de culori din SUA:",
+      "options": [
+        "rosu.",
+        "galben.",
+        "verde.",
+        "negru."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "prompt": "Care din urmatorii agenti patogeni cu risc de utilizare intr-un atac bioterorist sunt agenti de clasa A:",
+      "options": [
+        "Yersinia pestis.",
+        "Burkholderia mallei.",
+        "Vibrio cholera.",
+        "Escherichia coli."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 4,
+      "type": "single",
+      "prompt": "Care din urmatoarii agenti patogeni cu risc crescut de utilizare intr-un atac bioterorist induce febra Q:",
+      "options": [
+        "Francisella tularensis.",
+        "Chlamidia psittaci.",
+        "Burkholderia mallei.",
+        "Coxiella burneti."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 5,
+      "type": "single",
+      "prompt": "Pentru care din urmatoarele boli nu se face vaccinarea pe scara larga a populatiei(vaccinarea pe scara larga a fost oprita de aproximativ 3 decenii,boala fiind declarata eradicata de OMS in 1977):",
+      "options": [
+        "varicela.",
+        "variola.",
+        "rubeola.",
+        "rujeola."
+      ],
+      "correctIndex": 1,
+      "correctLetter": "b"
+    },
+    {
+      "id": 6,
+      "type": "single",
+      "prompt": "Care din urmatoarele manevre nu trebuie facuta in cazul arsurii chimice cu metale alcaline( Na, K, Li):",
+      "options": [
+        "spalarea din abundenta cu apa a plagilor.",
+        "acoperirea zonelor afectate cu ulei mineral.",
+        "acoperirea zonelor afectate cu ulei alimentar.",
+        "extragerea cu o pensa uscata a tuturor fragmentelor metalice."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 7,
+      "type": "single",
+      "prompt": "Care din urmatoarele afirmatii legate de arsurile chimice provocate de fosforul alb sunt false:",
+      "options": [
+        "arsurile trebuie sa fie in permanenta umezite.",
+        "fosforul alb se aprinde spontan in contact cu aerul.",
+        "este contraindicata spalarea arsurilor cu ser fiziologic(risc de reactie violenta exoterma).",
+        "acoperirea arsurii cu o solutie de sulfat de cupru produce o reactie de  culoare (fragmentele de fosfor se innegresc si pot fi mai usor vizibile)."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 8,
+      "type": "single",
+      "prompt": "In ischemia acuta traumatica lipsa de substrat si oxigen la nivel celular produce:",
+      "options": [
+        "alcaloza celulara.",
+        "cresterea activitatii pompei ATP-azei Na-K membranare.",
+        "scurgeri bidirectionale ale sarcolemei.",
+        "scurgeri monodirectionale ale sarcolemei."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 9,
+      "type": "single",
+      "prompt": "Care din urmatoarele celule sunt cele mai vulnerabile la efectele negative ale radiatiilor:",
+      "options": [
+        "celulele nediferentiate si celulele cu ciclu scurt de viata si turnover rapid.",
+        "celulele diferentiate cu ciclu de viata lung de viata si turnover rapid.",
+        "celulele binucleate.",
+        "celulele cu nucleu polilobat sau policiclic."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "prompt": "Doza de radiatie letala DL50/60 este definita ca :",
+      "options": [
+        "doza de radiatie care va cauza moartea a 50% din populatia expusa intr-un interval de 60 de zile.",
+        "doza de radiatie care va cauza moartea a 50% din populatia expusa intr-un interval de 60 de ani.",
+        "doza de radiatie care va cauza moartea a 50% din celule intr-un interval de 60 de ore.",
+        "doza de radiatie care va cauza moartea a 50% din populatia expusa intr-un interval de 60 de minute."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "prompt": "Faza de boala manifesta din sindromul de iradiere acuta cuprinde 3 subsindroame dependente de doza de radiatie:",
+      "options": [
+        "sindrom hematopoietic/sindrom gastrointestinal/sindrom cardiovascular si al SNC.",
+        "sindrom hematopoietic/sindrom diareic/sindrom nervos.",
+        "sindrom holeriform/sindrom cardiovascular/sindrom hematopoietic.",
+        "sindrom nervos/sindrom cardiovascular/sindrom copirinic."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 12,
+      "type": "single",
+      "prompt": "Inhalarea sau inghitirea de iod radioactive I 131 afecteaza:",
+      "options": [
+        "ficatul.",
+        "plamanul.",
+        "oasele.",
+        "tiroida."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 13,
+      "type": "single",
+      "prompt": "Fenomenul de “totul sau nimic”referitor la efectul radiatiilor ionizante asupra celulelor fetale in cazul expunerii femeilor gravide se produce:",
+      "options": [
+        "in trimestrul 3 de sarcina.",
+        "in trimestrul 2 de sarcina.",
+        "intre 0 si doua saptamani.",
+        "dupa saptamana a doua de sarcina."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 14,
+      "type": "single",
+      "prompt": "Care din urmatorii agenti patogeni cu risc crescut de utilizare intr-un atac terorist sunt agenti de clasa  B:",
+      "options": [
+        "Bacillus antracis.",
+        "Clostridium botulinum.",
+        "Escherichia coli.",
+        "Variola major."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 15,
+      "type": "single",
+      "prompt": "Agentul patogen al psitacozei este:",
+      "options": [
+        "Rickettsia psittaci.",
+        "Chlamydia prowazekii.",
+        "Rickettsia  prowazekii.",
+        "Chlamydia psittaci."
+      ],
+      "correctIndex": 3,
+      "correctLetter": "d"
+    },
+    {
+      "id": 16,
+      "type": "single",
+      "prompt": "In cazul leziunilor pulmonare produse prin unde de explozie si insotite de hemoptizie masiva este utila:",
+      "options": [
+        "intubatia selectiva.",
+        "toracotomia de urgenta",
+        "montarea unui dren toracic.",
+        "bronhoscopia de urgenta."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 17,
+      "type": "single",
+      "prompt": "In cazul contaminarii cu iod radioactiv  I 131 este utila administrarea de:",
+      "options": [
+        "KI  p.o.",
+        "agenti chelatori i.v.",
+        "saruri de calciu ale acidului pentaaceticdietiltriamina i.v.",
+        "saruri de zinc ale acidului pentaaceticdietiltriamina i.v."
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    },
+    {
+      "id": 18,
+      "type": "single",
+      "prompt": "In cazul sindromului de iradiere acuta cea mai grava supresie a maduvei osoase apare la :",
+      "options": [
+        "6-7 zile dupa expunere.",
+        "1-2 saptamani dupa expunere.",
+        "2-3 saptamani dupa expunere.",
+        "2-3 luni dupa expunere."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 19,
+      "type": "single",
+      "prompt": "Care este tratamentul de electie pentru greata insotita de varsaturi din sindromul de iradiere acuta:",
+      "options": [
+        "Metoclopramidul.",
+        "Plegomazinul.",
+        "Odansetronul (antagonisti de receptor 5-HT3).",
+        "agonisti  de receptor 5-HT3."
+      ],
+      "correctIndex": 2,
+      "correctLetter": "c"
+    },
+    {
+      "id": 20,
+      "type": "single",
+      "prompt": "Sarinul este un agent chimic:",
+      "options": [
+        "neurotoxic",
+        "hepatotoxic",
+        "toxic renal",
+        "cardiotoxic"
+      ],
+      "correctIndex": 0,
+      "correctLetter": "a"
+    }
+  ]
+}

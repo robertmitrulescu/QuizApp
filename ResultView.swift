@@ -1,3 +1,11 @@
+//
+//  ResultView.swift
+//  Quiz
+//
+//  Created by Robert Paul Mitrulescu on 17.08.2025.
+//
+
+
 import SwiftUI
 
 struct ResultView: View {
@@ -33,8 +41,7 @@ struct ResultView: View {
         switch pct {
         case 0.9...: return "Excelent! 👏"
         case 0.75..<0.9: return "Foarte bine! 💪"
-        case 0.5..<0.75: return "Bine – mai e puțin! 🙂
-"
+        case 0.5..<0.75: return "Bine – mai e puțin! 🙂"
         default: return "Continuă antrenamentul! 🚀"
         }
     }
